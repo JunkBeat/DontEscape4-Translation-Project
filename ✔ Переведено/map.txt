@@ -1,0 +1,51 @@
+@map_base_short=Дом на холме
+@map_base_long=Заброшенный дом на холме. Похоже, хорошее место для отдыха.
+@map_base_prefix=
+
+@map_gasstation_short=АЗС
+@map_gasstation_long=Разрушенная АЗС. В одном из баков осталось топливо.
+@map_gasstation_prefix=
+
+@map_bridge_short=Разрушенный мост
+@map_bridge_long=Обрушившийся через сухой овраг мост.
+@map_bridge_prefix=
+
+@map_cars_short=Блокпост
+@map_cars_long=Дорогу перекрывают сломанные автомобили.
+@map_cars_prefix=
+
+@map_houseb_short=Разрушенный дом
+@map_houseb_long=Этот дом сильно пострадал.
+@map_houseb_prefix=
+
+@map_restaurant_short=Ресторан
+@map_restaurant_long=Старая бургерная у дороги.
+@map_restaurant_prefix=
+
+@map_rv_short=Фургон
+@map_rv_long=Машина для кемпинга, припаркованная в пустыне.
+@map_rv_prefix=
+
+@map_sidereal_short=Город - офис Sidereal Plexus
+@map_sidereal_long=Офисное здание корпорации Sidereal Plexus, размещённое среди руин некогда прекрасного города.
+@map_sidereal_prefix=
+
+@map_construction_short=Стройка
+@map_construction_long=Предполагалось, что это будет престижное поселение на окраине близлежащего города.
+@map_construction_prefix=
+
+@map_hunters_short=Хижина охотника
+@map_hunters_long=Небольшая хижина посреди леса.
+@map_hunters_prefix=
+
+@map_outpost_short=Космический форпост
+@map_outpost_long=Форпост Sidereal Plexus со стартовой площадкой для космического корабля...
+@map_outpost_prefix=
+
+@map_bus_short=Разбитый автобус
+@map_bus_long=Автобус Sidereal Plexus.
+@map_bus_prefix=
+
+@map_airplane_short=Самолёт
+@map_airplane_long=Разбившийся в какой-то глуши самолёт.
+@map_airplane_prefix=
