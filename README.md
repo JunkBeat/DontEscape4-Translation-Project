@@ -4,12 +4,12 @@
 * map
 * warnings
 * world labels
+* journal (Редактируется)
 
 Переводятся:
 * actions
 * dialogues
 * items
-* journal
 * objects
 * results
 
