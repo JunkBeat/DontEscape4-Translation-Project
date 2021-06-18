@@ -821,12 +821,12 @@
 @r_d4_no_fuel_bad=An explosion lit up the sky, only to quickly disappear. Soon there were much bigger explosions all around the globe.
 @r_d4_no_air_bad=There just wasn't enough air on board...
 
-@r_d4_no_fuel1="Damn. It's not looking good," said Cate.
-@r_d4_no_fuel2="We're almost out of fuel, and we still have to maneuver to land."
-@r_d4_no_fuel3="What's this reserve?" you asked, pointing at one of the gauges.
-@r_d4_no_fuel4="It's for slowing down before the descent," she explained.
-@r_d4_no_fuel5="But I don't think we have another option. We'll be going in too fast."
-@r_d4_no_fuel6="So hang on to something."
+@r_d4_no_fuel1="Чёрт. Дела плохи," сказала Кейт.
+@r_d4_no_fuel2="Топливо на исходе, а нам ещё нужно совершить посадку."
+@r_d4_no_fuel3="А этого не хватит?" вы спросили, указывая на один из индикаторов.
+@r_d4_no_fuel4="Это для снижения скорости во время посадки," объяснила она.
+@r_d4_no_fuel5="Но я не думаю, что у нас есть выбор. Придётся садиться на высоких скоростях."
+@r_d4_no_fuel6="Держитесь."
 
 @day4_normal=Вы долетели до орбиты, а оттуда до Луны оставалось всего ничего. ^Кейт направила корабль к лунной базе...
 @day4_penalty=Вы долетели до орбиты, а оттуда до Луны оставалось всего ничего. ^Однако Кейт пришлось управлять кораблём на слишком высоких скоростях. ^Посадка будет не из приятных...
