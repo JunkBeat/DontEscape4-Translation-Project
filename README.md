@@ -4,7 +4,7 @@
 * map
 * warnings
 * world labels
-* journal (Редактируется)
+* journal
 
 Переводятся:
 * actions
