@@ -15,11 +15,11 @@
 @pipe_prefix=
 
 @sonic_short=Ультразвуковое поражающее устройство
-@sonic_long=Надпись гласит "Ультразвуковое поражающее устройство". Скорее всего, оно предназначено для борьбы с жуками и насекомыми.
+@sonic_long=Надпись гласит "Ультразвуковое поражающее устройство". Скорее всего оно предназначено для борьбы с жуками и насекомыми.
 @sonic_prefix=
 
 @sonic2_short=Ультразвуковое поражающее устройство
-@sonic2_long=Похоже, устройство не работает, лампочка перестала мерцать. Что ж... в любом случае оно мне больше не понадобится.
+@sonic2_long=Похоже, устройство не работает - лампочка перестала мерцать. Что ж... в любом случае оно мне больше не понадобится.
 @sonic2_prefix=
 
 @sonic_remote_short=Пульт дистанционного управления
@@ -27,135 +27,135 @@
 @sonic_remote_prefix=
 
 @pest_note_short=Стикер из грузовика по борьбе с вредителями
-@pest_note_long=Здесь есть несколько надписей и картинок с жуками. Может, стоит отлепить и внимательнее рассмотреть?
+@pest_note_long=На стикере есть несколько надписей и картинок с жуками. Может стоит рассмотреть поближе?...
 @pest_note_prefix=
 
-@gas_note_short=chemical emergency response truck sticky note
-@gas_note_long=There is something written on it. Maybe I should pick it up and take a closer look...
+@gas_note_short=Стикер из грузовика по chemical emergency response truck sticky note
+@gas_note_long=На стикере что-то написано. Может стоит рассмотреть поближе?...
 @gas_note_prefix=
 
-@spider_note_short=pest control truck sticky note
-@spider_note_long=There is something written on it, with some pictures below. Maybe I should pick it up and take a closer look...
+@spider_note_short=Стикер из грузовика по борьбе с вредителями
+@spider_note_long=На стикере есть несколько надписей с картинками. Может стоит рассмотреть поближе?...
 @spider_note_prefix=
 
-@generic_note_short=sticky note
-@generic_note_long=A sticky note
+@generic_note_short=Стикер
+@generic_note_long=Стикер
 @generic_note_prefix=
 
-@paperclip_short=paperclip
-@paperclip_long=It looks really useful. I'm sure it would be helpful if I was writing a letter.
+@paperclip_short=Скрепка
+@paperclip_long=Действительно полезная вещь. Уверен, она бы точно мне пригодилась, если бы я написал письмо.
 @paperclip_prefix=
 
-@invoices_short=stack of documents
-@invoices_long=Some financial documents, invoices and bills, mostly for farming equipment.
+@invoices_short=Стопка документов
+@invoices_long=Всякие финансовые документы и счета, в основном на сельскохозяйственную технику.
 @invoices_prefix=
 
-@crowbar_short=crowbar
-@crowbar_long=A sturdy, handy tool that can be used to break things.
+@crowbar_short=Лом
+@crowbar_long=Крепкий и удобный инструмент для взламывания чего угодно.
 @crowbar_prefix=
 
-@pest1_short=can of pesticide
-@pest1_long=The label says it's a strong pesticide that is harmful to all bugs and insects. And life in general, I guess. It should be used after mixing with water.
+@pest1_short=Банка пестицида
+@pest1_long=На этикетке написано, что это сильный пестицид, который пагубно влияет на всевозможных жуков и насекомых. Его следует использовать после смешивания с водой.
 @pest1_prefix=
 
-@pest2_short=can of pesticide
-@pest2_long=The label says it's a strong pesticide that is harmful to all bugs and insects. And life in general, I guess. It should be used after mixing with water.
+@pest2_short=Банка пестицида
+@pest2_long=На этикетке написано, что это сильный пестицид, который пагубно влияет на всевозможных жуков и насекомых. Его следует использовать после смешивания с водой.
 @pest2_prefix=
 
-@straw_short=straw
-@straw_long=A short straw that used to lie around in dusty plastic cup. Drinking through it can't be too hygienic.
+@straw_short=Соломинка
+@straw_long=Короткая трубочка, лежавшая в пыльной пластиковой чашке. Наверное, пить через неё - это не слишком гигиенично.
 @straw_prefix=
 
-@screwdriver_short=screwdriver
-@screwdriver_long=A handy tool.
+@screwdriver_short=Отвёртка
+@screwdriver_long=Удобный инструмент.
 @screwdriver_prefix=
 
-@hook_short=hook
-@hook_long=A big, metal hook.
+@hook_short=Крюк
+@hook_long=Большой металлический крюк.
 @hook_prefix=
 
-@rope_short=rope
-@rope_long=A few meters of strong rope.
+@rope_short=Верёвка
+@rope_long=Несколько метров прочной верёвки.
 @rope_prefix=
 
-@ropehook_short=rope with a hook
-@ropehook_long=A few meters of strong rope with a hook attached to one end.
+@ropehook_short=Верёвка с привязанным на конце крюком.
+@ropehook_long=Несколько метров прочной верёвки с привязанным на конце крюком.
 @ropehook_prefix=
 
-@deadbird_short=dead bird
-@deadbird_long=Mummified carcass of a bird. I don't see a reason to carry this around...
+@deadbird_short=Мёртвая птица
+@deadbird_long=Мумифицированная туша птицы. Не вижу смысла брать её с собой...
 @deadbird_prefix=
 
-@hammer_short=hammer
-@hammer_long=Small, robust and almost completely useless without nails.
+@hammer_short=Молоток
+@hammer_long=Маленький и крепкий инструмент, но практически бесполезный, если у вас нет гвоздей.
 @hammer_prefix=
 
-@drone_short=weather drone
+@drone_short=Погодный дрон
 @drone_prefix=
-@drone_long=An automated drone used to measure weather conditions. Looks like it's too damaged to ever fly again.
+@drone_long=Автоматизированный дрон, используется для измерения погодных условий. Похоже он серьёзно повредился во время последнего приземления.
 
-@mask_filter_short=air filter
+@mask_filter_short=Воздушный фильтр
 @mask_filter_prefix=
-@mask_filter_long=A spare air filter for a gas mask.
+@mask_filter_long=Запасной воздушный фильтр для противогаза.
 
-@towel_1_short=kitchen towel
-@towel_1_long=An old kitchen towel. It's always good to have a towel.
+@towel_1_short=Кухонное полотенце
+@towel_1_long=Старое кухонное полотенце. Такая вещь никогда не будет лишней.
 @towel_1_prefix=
 
-@towel_2_short=bathroom towel
-@towel_2_long=It's an old bathroom towel. It's always good to have a towel.
+@towel_2_short=Ванное полотенце
+@towel_2_long=Старое ванное полотенце. Такая вещь никогда не будет лишней.
 @towel_2_prefix=
 
-@chemsuit_dmg_dmg_short=hazard suit
-@chemsuit_dmg_dmg_long=Upon closer inspection the suit turns out to have a big hole. Also, the gas mask filter seems to be faulty.
+@chemsuit_dmg_dmg_short=Защитный костюм
+@chemsuit_dmg_dmg_long=После ближайшего осмотра выяснилось, что в костюме есть большая дыра. А фильтр противогаза, похоже, неисправен.
 @chemsuit_dmg_dmg_prefix=
 
-@chemsuit_rep_dmg_short=hazard suit
-@chemsuit_rep_dmg_long=Upon closer inspection the gas mask filter seems to be faulty. At least the hole is fixed with some duct tape.
+@chemsuit_rep_dmg_short=Защитный костюм
+@chemsuit_rep_dmg_long=После ближайшего осмотра мне показалось, что фильтр противогаза неисправен. Ну, по крайней мере, я заклеил скотчем дыру в костюме.
 @chemsuit_rep_dmg_prefix=
 
-@chemsuit_dmg_rep_short=hazard suit
-@chemsuit_dmg_rep_long=Upon closer inspection the suit turns out to have a big hole. At least the air filter has been replaced.
+@chemsuit_dmg_rep_short=Защитный костюм
+@chemsuit_dmg_rep_long=После ближайшего осмотра выяснилось, что в костюме есть большая дыра. Ну, по крайней мере, я заменил неисправный фильтр противогаза.
 @chemsuit_dmg_rep_prefix=
 
-@chemsuit_rep_rep_short=hazard suit
-@chemsuit_rep_rep_long=With the air filter replaced and the hole fixed with some duct tape, this suit might be able to help me.
+@chemsuit_rep_rep_short=Защитный костюм
+@chemsuit_rep_rep_long=После замены воздушного фильтра и заделывания скотчем дыры в костюме, он действительно может меня обезопасить.
 @chemsuit_rep_rep_prefix=
 
-@ducttape_short=duct tape
-@ducttape_long=Water resistant, strong and durable. They say there isn't a thing that can't be repaired by using a lot of duct tape. If it can't be repaired you're probably not using enough duct tape.
+@ducttape_short=Скотч
+@ducttape_long=Водостойкий, плотный и долговечный. Говорят, что нет ничего, что нельзя было бы починить большим количеством скотча. Если починка всё же не удалась, значит вы использовали мало скотча.
 @ducttape_prefix=
 
-@canister_full_short=full gas canister
-@canister_full_long=A canister full of fuel.
+@canister_full_short=Полная канистра
+@canister_full_long=Канистра, наполненная бензином.
 @canister_full_prefix=
 
-@canister_empty_short=empty gas canister
-@canister_empty_long=An empty canister.
+@canister_empty_short=Пустая канистра
+@canister_empty_long=Пустая канистра.
 @canister_empty_prefix=
 
-@canister2_full_short=full gas canister
-@canister2_full_long=A canister full of fuel.
+@canister2_full_short=Полная канистра
+@canister2_full_long=Канистра, наполненная бензином.
 @canister2_full_prefix=
 
-@canister2_empty_short=empty gas canister
-@canister2_empty_long=An empty canister.
+@canister2_empty_short=Пустая канистра
+@canister2_empty_long=Пустая канистра.
 @canister2_empty_prefix=
 
-@charcoal_short=bag of charcoal
-@charcoal_long=A bag full of barbecue charcoal.
+@charcoal_short=Мешок угля
+@charcoal_long=Мешок, полный угля.
 @charcoal_prefix=
 
-@charcoal_empty_short=empty bag of charcoal
-@charcoal_empty_long=This was a bag of charcoal, now only filled with some small coal bits and dust.
+@charcoal_empty_short=Пустой мешок угля
+@charcoal_empty_long=До недавнего времени это был мешок с углём, но теперь кроме пыли и трухи в нём ничего не осталось.
 @charcoal_empty_prefix=
 
-@bug_short=huge dead insect
-@bug_long=A dead insect. It's huge and nasty. I could pick it up to have a closer look...
+@bug_short=Большое мёртвое насекомое
+@bug_long=Мёртвое насекомое, большое и неприятное на вид. Я могу подобрать его и рассмотреть поближе...
 @bug_prefix=
 
-@nails1_short=handful of nails
-@nails1_long=Some are bent, some are rusty, but probably could be used to, well, nail stuff.
+@nails1_short=Горсть гвоздей
+@nails1_long=Некоторые из них погнуты, некоторые ржавые, но могут пригодиться, если вдруг нужно будет что-то прибить.
 @nails1_prefix=
 
 @nails2_short=handful of nails
