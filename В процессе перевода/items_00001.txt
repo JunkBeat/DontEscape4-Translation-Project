@@ -30,7 +30,7 @@
 @pest_note_long=На стикере есть несколько надписей и картинок с жуками. Может стоит рассмотреть поближе?...
 @pest_note_prefix=
 
-@gas_note_short=Стикер из грузовика по chemical emergency response truck sticky note
+@gas_note_short=Стикер из грузовика службы реагирования в чрезвычайных ситуациях
 @gas_note_long=На стикере что-то написано. Может стоит рассмотреть поближе?...
 @gas_note_prefix=
 
@@ -370,7 +370,7 @@
 
 @rifle_0_prefix=
 @rifle_0_short=Винтовка
-@rifle_0_long=Охотничья винтовка. В ней больше не осталось патронов.
+@rifle_0_long=Охотничья винтовка. Она не заряжена.
 
 @sheet_prefix=
 @sheet_short=Простыня
@@ -440,462 +440,462 @@
 @thermalb_long=Лёгкое одеяло из тонкого металлического материала, отражающего тепло.
 @thermalb_prefix=
 
-@generator_short=unfueled portable generator
-@generator_long=Well ... it's portable but still really heavy. And it doesn't seem to have any fuel in its tank.
+@generator_short=Пустой портативный генератор
+@generator_long=Ну, он портативный, но всё равно очень тяжёлый. И в баке нет топлива.
 @generator_prefix=
 
-@generator2_short=portable generator
-@generator2_long=With fuel in the tank this generator is heavier and even less portable.
+@generator2_short=Портативный генератор
+@generator2_long=С топливом в баке генератор ещё тяжелее и ещё менее портативен.
 @generator2_prefix=
 
-@gasheater_short=gas heater
-@gasheater_long=Loaded with a gas bottle, it can produce a lot of heat.
+@gasheater_short=Газовый обогреватель
+@gasheater_long=При вставленном баллоне с пропаном он может выделять много тепла.
 @gasheater_prefix=
 
-@gasheater_empty_short=empty gas heater
-@gasheater_empty_long=A gas-powered heater, heavy but still portable. Without a gas bottle it's not very useful, though.
+@gasheater_empty_short=Пустой газовый обогреватель
+@gasheater_empty_long=Работает на пропане. Он тяжёлый, но всё же портативный. Однако без газового баллона он не очень полезен.
 @gasheater_empty_prefix=
 
-@wheel_short=car wheel
-@wheel_long=A car wheel taken from a wrecked pickup truck.
+@wheel_short=Автомобильное колесо
+@wheel_long=Автомобильное колесо, которое я открутил от разбившегося пикапа.
 @wheel_prefix=
 
-@ext_cord_short=extension cord
-@ext_cord_long=A few meters of cord with an electrical socket at one end.
+@ext_cord_short=Удлинитель
+@ext_cord_long=Несколько метров кабеля с розетками на конце.
 @ext_cord_prefix=
 
-@ac_short=portable air conditioner
-@ac_long=Big and heavy air-conditioning device with a exhaust pipe. It's portable but needs to be installed near an opening like a window, so the pipe can lead the hot air out.
+@ac_short=Портативный кондиционер
+@ac_long=Большой и тяжёлый кондиционер с выхлопной трубой. Он портативный, но его необходимо устанавливать рядом с окном, чтобы по трубе мог выходить тёплый воздух.
 @ac_prefix=
 
-@fan_short=fan
-@fan_long=An electrical fan.
+@fan_short=Вентилятор
+@fan_long=Электрический вентиллятор.
 @fan_prefix=
 
-@heater_short=electrical heater
-@heater_long=A device that blows hot air after plugging into electricity.
+@heater_short=Электрический обогреватель
+@heater_long=Устройство, которое выдувает горячий воздух при подключении к сети.
 @heater_prefix=
 
-@fan_broken_short=broken fan
-@fan_broken_long=An electrical fan. Something rustles inside. The device is probably damaged somehow.
+@fan_broken_short=Сломанный вентилятор
+@fan_broken_long=Электрический вентилятор. Что-то гремит внутри. Возможно устройство сломано.
 @fan_broken_prefix=
 
-@heater_broken_short=broken electrical heater
-@heater_broken_long=A device that blows hot air after plugging into electricity. Something rustles inside. The device is probably damaged somehow.
+@heater_broken_short=Сломанный электрический обогреватель
+@heater_broken_long=Устройство, которое выдувает горячий воздух при подключении к сети. Что-то гремит внутри. Возможно устройство сломано.
 @heater_broken_prefix=
 
-@ext_cord_place_short=socket end of an extension cord
-@ext_cord_place_long=This is the end of an extension cord with sockets that I can plug things into.
-@ext_cord_place_prefix=the
+@ext_cord_place_short=Гнездо удлинителя
+@ext_cord_place_long=Это розетка на конце удлинителя. Я могу подключить к ней какое-то электрическое устройство.
+@ext_cord_place_prefix=
 
-@ac_cord_short=air-conditioner power cord
-@ac_cord_long=An air-conditioner power cord.
+@ac_cord_short=Шнур питания кондиционера
+@ac_cord_long=Шнур питания кондиционера.
 @ac_cord_prefix=
 
-@heat_absorber1_short=Heat Absorber Tile (TM)
-@heat_absorber1_long=Not really sure what that's supposed to be. I should take a closer look...
+@heat_absorber1_short=Теплопоглощающая плитка(TM)
+@heat_absorber1_long=Не знаю, что это такое. Может мне стоит взглянуть поближе?...
 @heat_absorber1_prefix=
 
-@heat_absorber2_short=Heat Absorber Tile (TM)
-@heat_absorber2_long=Not really sure what that's supposed to be. I should take a closer look...
+@heat_absorber2_short=Теплопоглощающая плитка(TM)
+@heat_absorber2_long=Не знаю, что это такое. Может мне стоит взглянуть поближе?...
 @heat_absorber2_prefix=
 
-@heat_absorber3_short=Heat Absorber Tile (TM)
-@heat_absorber3_long=Not really sure what that's supposed to be. I should take a closer look...
+@heat_absorber3_short=Теплопоглощающая плитка(TM)
+@heat_absorber3_long=Не знаю, что это такое. Может мне стоит взглянуть поближе?...
 @heat_absorber3_prefix=
 
-@heat_absorber1A_short=active Heat Absorber Tile (TM)
-@heat_absorber1A_long=Its surface is so cold! Seems like it's really absorbing the heat. I never knew this technology even existed.
+@heat_absorber1A_short=Активная Теплопоглощающая плитка(ТМ)
+@heat_absorber1A_long=Она холодная! Похоже, плитка действительно поглощает тепло. Никогда раньше не слышал о существовании такой технологии.
 @heat_absorber1A_prefix=
 
-@heat_absorber2A_short=active Heat Absorber Tile (TM)
-@heat_absorber2A_long=Its surface is so cold! Seems like it's really absorbing the heat. I never knew this technology even existed.
+@heat_absorber2A_short=Активная Теплопоглощающая плитка(ТМ)
+@heat_absorber2A_long=Она холодная! Похоже, плитка действительно поглощает тепло. Никогда раньше не слышал о существовании такой технологии.
 @heat_absorber2A_prefix=
 
-@heat_absorber3A_short=active Heat Absorber Tile (TM)
-@heat_absorber3A_long=Its surface is so cold! Seems like it's really absorbing the heat. I never knew this technology even existed.
+@heat_absorber3A_short=Активная Теплопоглощающая плитка(ТМ)
+@heat_absorber3A_long=Она холодная! Похоже, плитка действительно поглощает тепло. Никогда раньше не слышал о существовании такой технологии.
 @heat_absorber3A_prefix=
 
-@water1_short=bottle of water
-@water1_long=A small bottle of drinking water.
+@water1_short=Бутылка воды
+@water1_long=Небольшая бутылка питьевой воды.
 @water1_prefix=
 
-@water2_short=bottle of water
-@water2_long=A small bottle of drinking water.
+@water2_short=Бутылка воды
+@water2_long=Небольшая бутылка питьевой воды.
 @water2_prefix=
 
-@water3_short=bottle of water
-@water3_long=A small bottle of drinking water.
+@water3_short=Бутылка воды
+@water3_long=Небольшая бутылка питьевой воды.
 @water3_prefix=
 
-@water4_short=bottle of water
-@water4_long=A small bottle of drinking water.
+@water4_short=Бутылка воды
+@water4_long=Небольшая бутылка питьевой воды.
 @water4_prefix=
 
-@sledgehammer_short=sledgehammer
-@sledgehammer_long=A big, heavy hammer.
+@sledgehammer_short=Кувалда
+@sledgehammer_long=Огромный и тяжёлый молоток.
 @sledgehammer_prefix=
 
-@puzzle_cable_short=connection wire
-@puzzle_cable_long=A connection wire.
+@puzzle_cable_short=Кабель
+@puzzle_cable_long=Соединительный кабель.
 @puzzle_cable_prefix=
 
-@fire_hose_short=fire hose
-@fire_hose_long=fire hose
+@fire_hose_short=Пожарный шланг
+@fire_hose_long=Пожарный шланг
 @fire_hose_prefix=
 
-@sidereal_docs_short=fax document
-@sidereal_docs_long=A stack of papers I took from a fax machine in the Sidereal office.
+@sidereal_docs_short=Документ из факса
+@sidereal_docs_long=Бумаги, найденные в факсе в офисе Sidereal Plexus.
 @sidereal_docs_prefix=
 
-@sidereal_xero_short=photocopier document
-@sidereal_xero_long=A stack of papers I took from a photocopier in the Sidereal office.
+@sidereal_xero_short=Документ из копировального аппарата
+@sidereal_xero_long=Бумаги, найденные в копировальном аппарате в офисе Sidereal Plexus.
 @sidereal_xero_prefix=
 
-@sidereal_secrets_short=confidential document
-@sidereal_secrets_long=A stack of papers I took from a room behind a blocked door in the Sidereal office.
+@sidereal_secrets_short=Конфиденциальный документ
+@sidereal_secrets_long=Бумаги, найденные в комнате за перекрытой дверью в офисе Sidereal office.
 @sidereal_secrets_prefix=
 
-@sidereal_id_short=ID badge
-@sidereal_id_long=An ID badge of a Sidereal Plexus worker
+@sidereal_id_short=ID-карта
+@sidereal_id_long=ID-карта сотрудника Sidereal Plexus.
 @sidereal_id_prefix=
 
-@sidereal_id_key_short=ID badge
-@sidereal_id_key_long=An ID badge of a Sidereal Plexus worker. I should take a closer look...
+@sidereal_id_key_short=ID-карта
+@sidereal_id_key_long=ID-карта сотрудника Sidereal Plexus. Возможно, мне стоит взглянуть поближе?...
 @sidereal_id_key_prefix=
 
-@revolver_0_short=revolver
-@revolver_0_long=A small handgun with a 6-cartridge cylinder. It's not loaded.
+@revolver_0_short=Револьвер
+@revolver_0_long=Шестипатронный маленький пистолет. Он не заряжен.
 @revolver_0_prefix=
 
-@revolver_1_short=revolver
-@revolver_1_long=A small handgun with a 6-cartridge cylinder. It has 1 bullet.
+@revolver_1_short=Револьвер
+@revolver_1_long=Шестипатронный маленький пистолет. В нём остался 1 патрон.
 @revolver_1_prefix=
 
-@revolver_2_short=revolver
-@revolver_2_long=A small handgun with a 6-cartridge cylinder. It has 2 bullets.
+@revolver_2_short=Револьвер
+@revolver_2_long=Шестипатронный маленький пистолет. В нём осталось 2 патрона.
 @revolver_2_prefix=
 
-@revolver_3_short=revolver
-@revolver_3_long=A small handgun with a 6-cartridge cylinder. It has 3 bullets.
+@revolver_3_short=Револьвер
+@revolver_3_long=Шестипатронный маленький пистолет. В нём осталось 3 патрона.
 @revolver_3_prefix=
 
-@revolver_4_short=revolver
-@revolver_4_long=A small handgun with a 6-cartridge cylinder. It has 4 bullets.
+@revolver_4_short=Револьвер
+@revolver_4_long=Шестипатронный маленький пистолет. В нём осталось 4 патрона.
 @revolver_4_prefix=
 
-@revolver_5_short=revolver
-@revolver_5_long=A small handgun with a 6-cartridge cylinder. It has 5 bullets.
+@revolver_5_short=Револьвер
+@revolver_5_long=Шестипатронный маленький пистолет. В нём осталось 5 патронов.
 @revolver_5_prefix=
 
-@revolver_6_short=revolver
-@revolver_6_long=A small handgun with a 6-cartridge cylinder. It's fully loaded with 6 bullets.
+@revolver_6_short=Револьвер
+@revolver_6_long=Шестипатронный маленький пистолет. Он полностью заряжен.
 @revolver_6_prefix=
 
-@silencer_short=rifle silencer
-@silencer_long=It's a big silencer for rifles.
+@silencer_short=Глушитель для винтовки
+@silencer_long=Большой глушитель для винтовки.
 @silencer_prefix=
 
-@gun_ammo_short=box of revolver rounds
-@gun_ammo_long=A box full of revolver ammunition.
+@gun_ammo_short=Ящик револьверных патронов
+@gun_ammo_long=Ящик, полный револьверных патронов.
 @gun_ammo_prefix=
 
-@rifle_ammo_short=box of rifle rounds
-@rifle_ammo_long=A box full of rifle ammunition.
+@rifle_ammo_short=Ящик винтовочных патронов
+@rifle_ammo_long=Ящик, полный патронов для винтовки.
 @rifle_ammo_prefix=
 
-@scope_short=rifle scope
-@scope_long=It could be installed on a rifle, making it more accurate.
+@scope_short=Прицел для винтовки
+@scope_long=Прицел можно применить к винтовке, повысив точность стрельбы.
 @scope_prefix=
 
 @rifle_so_6_prefix=
-@rifle_so_6_short=silenced sniper rifle
-@rifle_so_6_long=A silenced sniper rifle. It has 6 bullets.
+@rifle_so_6_short=Снайперская винтовка с глушителем
+@rifle_so_6_long=Снайперская винтовка с глушителем. В ней осталось 6 патронов.
 
 @rifle_so_5_prefix=
-@rifle_so_5_short=silenced sniper rifle
-@rifle_so_5_long=A silenced sniper rifle. It has 5 bullets.
+@rifle_so_5_short=Снайперская винтовка с глушителем
+@rifle_so_5_long=Снайперская винтовка с глушителем. В ней осталось 5 патронов.
 
 @rifle_so_4_prefix=
-@rifle_so_4_short=silenced sniper rifle
-@rifle_so_4_long=A silenced sniper rifle. It has 4 bullets.
+@rifle_so_4_short=Снайперская винтовка с глушителем
+@rifle_so_4_long=Снайперская винтовка с глушителем. В ней осталось 4 патрона.
 
 @rifle_so_3_prefix=
-@rifle_so_3_short=silenced sniper rifle
-@rifle_so_3_long=A silenced sniper rifle. It has 3 bullets.
+@rifle_so_3_short=Снайперская винтовка с глушителем
+@rifle_so_3_long=Снайперская винтовка с глушителем. В ней осталось 3 патрона.
 
 @rifle_so_2_prefix=
-@rifle_so_2_short=silenced sniper rifle
-@rifle_so_2_long=A silenced sniper rifle with two bullets remaining.
+@rifle_so_2_short=Снайперская винтовка с глушителем
+@rifle_so_2_long=Снайперская винтовка с глушителем. В ней осталось 2 патрона.
 
 @rifle_so_1_prefix=
-@rifle_so_1_short=silenced sniper rifle
-@rifle_so_1_long=A silenced sniper rifle. It has a single bullet left.
+@rifle_so_1_short=Снайперская винтовка с глушителем
+@rifle_so_1_long=Снайперская винтовка с глушителем. В ней остался 1 патрон.
 
 @rifle_so_0_prefix=
-@rifle_so_0_short=silenced sniper rifle
-@rifle_so_0_long=A silenced sniper rifle. It has no ammunition.
+@rifle_so_0_short=Снайперская винтовка с глушителем
+@rifle_so_0_long=Снайперская винтовка с глушителем. Она не заряжена.
 
 @rifle_s_6_prefix=
-@rifle_s_6_short=silenced rifle
-@rifle_s_6_long=A silenced rifle. It has 6 bullets.
+@rifle_s_6_short=Винтовка с глушителем
+@rifle_s_6_long=Винтовка с глушителем. В ней осталось 6 патронов.
 
 @rifle_s_5_prefix=
-@rifle_s_5_short=silenced rifle
-@rifle_s_5_long=A silenced rifle. It has 5 bullets.
+@rifle_s_5_short=Винтовка с глушителем
+@rifle_s_5_long=Винтовка с глушителем. В ней осталось 5 патронов.
 
 @rifle_s_4_prefix=
-@rifle_s_4_short=silenced rifle
-@rifle_s_4_long=A silenced rifle. It has 4 bullets.
+@rifle_s_4_short=Винтовка с глушителем
+@rifle_s_4_long=Винтовка с глушителем. В ней осталось 4 патрона.
 
 @rifle_s_3_prefix=
-@rifle_s_3_short=silenced rifle
-@rifle_s_3_long=A silenced rifle. It has 3 bullets.
+@rifle_s_3_short=Винтовка с глушителем
+@rifle_s_3_long=Винтовка с глушителем. В ней осталось 3 патрона.
 
 @rifle_s_2_prefix=
-@rifle_s_2_short=silenced rifle
-@rifle_s_2_long=A silenced rifle with two bullets remaining.
+@rifle_s_2_short=Винтовка с глушителем
+@rifle_s_2_long=Винтовка с глушителем. В ней осталось 2 патрона.
 
 @rifle_s_1_prefix=
-@rifle_s_1_short=silenced rifle
-@rifle_s_1_long=A silenced rifle. It has a single bullet left.
+@rifle_s_1_short=Винтовка с глушителем
+@rifle_s_1_long=Винтовка с глушителем. В ней остался 1 патрон.
 
 @rifle_s_0_prefix=
-@rifle_s_0_short=silenced rifle
-@rifle_s_0_long=A silenced rifle. It has no ammunition.
+@rifle_s_0_short=Винтовка с глушителем
+@rifle_s_0_long=Винтовка с глушителем. Она не заряжена.
 
 @rifle_o_6_prefix=
-@rifle_o_6_short=sniper rifle
-@rifle_o_6_long=A sniper rifle. It has 6 bullets.
+@rifle_o_6_short=Снайперская винтовка
+@rifle_o_6_long=Снайперская винтовка. В ней осталось 6 патронов.
 
 @rifle_o_5_prefix=
-@rifle_o_5_short=sniper rifle
-@rifle_o_5_long=A sniper rifle. It has 5 bullets.
+@rifle_o_5_short=Снайперская винтовка
+@rifle_o_5_long=Снайперская винтовка. В ней осталось 5 патронов.
 
 @rifle_o_4_prefix=
-@rifle_o_4_short=sniper rifle
-@rifle_o_4_long=A sniper rifle. It has 4 bullets.
+@rifle_o_4_short=Снайперская винтовка
+@rifle_o_4_long=Снайперская винтовка. В ней осталось 4 патрона.
 
 @rifle_o_3_prefix=
-@rifle_o_3_short=sniper rifle
-@rifle_o_3_long=A sniper rifle. It has 3 bullets.
+@rifle_o_3_short=Снайперская винтовка
+@rifle_o_3_long=Снайперская винтовка. В ней осталось 3 патрона.
 
 @rifle_o_2_prefix=
-@rifle_o_2_short=sniper rifle
-@rifle_o_2_long=A sniper rifle with two bullets remaining.
+@rifle_o_2_short=Снайперская винтовка
+@rifle_o_2_long=Снайперская винтовка. В ней осталось 2 патрона.
 
 @rifle_o_1_prefix=
-@rifle_o_1_short=sniper rifle
-@rifle_o_1_long=A sniper rifle. It has a single bullet left.
+@rifle_o_1_short=Снайперская винтовка
+@rifle_o_1_long=Снайперская винтовка. В ней остался 1 патрон.
 
 @rifle_o_0_prefix=
-@rifle_o_0_short=sniper rifle
-@rifle_o_0_long=A sniper rifle. It has no ammunition.
+@rifle_o_0_short=Снайперская винтовка
+@rifle_o_0_long=Снайперская винтовка. Она не заряжена.
 
 @poison_prefix=
-@poison_short=bottle of rat poison
-@poison_long=The label warning on the poison says that digesting it might cause nausea, internal bleeding, liver failure or even death. Jesus, were they trying to poison rats or elephants with this?
+@poison_short=Крысиный яд
+@poison_long=Предупреждающая этикетка гласит, что яд при попадании в желудок может вызвать тошноту, внутреннее кровотечение, печеночную недостаточность или даже смерть. Господи, они точно уверены, что этот яд предназначен для крыс, а не для слонов?
 
 @food_bag_prefix=
-@food_bag_short=bag of food
-@food_bag_long=I took it from the thugs' camp at the construction site. It's just some wheat, but damn, it's better than nothing.
+@food_bag_short=Мешок еды
+@food_bag_long=Я позаимствовал еду у бандитов на стройке. Тут всего лишь немного пшеницы, но блин, это лучше, чем ничего.
 
 @oil_prefix=
-@oil_short=bottle of kitchen oil
-@oil_long=I doubt if I'll be making french fries with it but who knows. I'd better watch out where I spill it, because it won't just dry like water.
+@oil_short=Бутылка растительного масла
+@oil_long=Сомневаюсь, что буду жарить картошку фри, но кто знает. Лучше быть осторожнее с маслом - это не вода, которая может высохнуть за пару минут, не оставив следа.
 
 @maggot_prefix=
-@maggot_short=maggot
-@maggot_long=A disgusting maggot.
+@maggot_short=Личинка
+@maggot_long=Мерзкая личинка.
 
 @rock2_prefix=
-@rock2_short=small rock
-@rock2_long=A small, round rock.
+@rock2_short=Маленький камень
+@rock2_long=Маленький круглый камень.
 
 @gloves_prefix=
-@gloves_short=protective gloves
-@gloves_long=A pair of leather biker gloves.
+@gloves_short=Защитные перчатки
+@gloves_long=Пара мотоциклетных кожаных перчаток.
 
 @welder_prefix=
-@welder_short=welding kit
-@welder_long=Welding equipment, together with a welder mask.
+@welder_short=Сварочный комплект
+@welder_long=Сварочное оборудование и сварочная маска.
 
 @mixer_glass_prefix=
-@mixer_glass_short=chemistry flask
-@mixer_glass_long=A chemistry flask.
+@mixer_glass_short=Химическая колба
+@mixer_glass_long=Обыкновенная химическая колба.
 
 @pill_half_prefix=
-@pill_half_short=pill casing
-@pill_half_long=A pill casing.
+@pill_half_short=Пустая таблетка
+@pill_half_long=Желатиновая капсула, в которую помещается содержимое таблетки.
 
 @remote_prefix=
-@remote_short=remote controller
-@remote_long=A slide projector remote.
+@remote_short=Пульт дистанционного управления проектором
+@remote_long=Пульт дистанционного управления проектором.
 
 @outpost_card_prefix=
-@outpost_card_short=access card
-@outpost_card_long=An access card. Looks super important.
+@outpost_card_short=Карта доступа
+@outpost_card_long=Карта доступа. Выглядит как что-то очень важное.
 
 @batteries_prefix=
-@batteries_short=batteries
-@batteries_long=A handful of batteries.
+@batteries_short=Батарейки
+@batteries_long=Куча батареек.
 
 @gluegun_prefix=
-@gluegun_short=glue gun with no batteries
-@gluegun_long=It's a battery-powered glue gun. While there is a tube of glue inside, there is no power to heat it and melt the glue.
+@gluegun_short=Клеевой пистолет без батареек
+@gluegun_long=Клеевой пистолет работает от батареек. Внутри него уже есть клеевой стержень, но чтобы нагреть его и расплавить необходима энергия.
 
 @gluegun_powered_prefix=
-@gluegun_powered_short=glue gun
-@gluegun_powered_long=It works by melting the glue into sticky goo that quickly dries.
+@gluegun_powered_short=Клеевой пистолет
+@gluegun_powered_long=Принцип его работы: благодаря нагреванию превращать клеевой стержень в липкую массу, которая быстро высыхает.
 
 @fingerprint_prefix=
-@fingerprint_short=fingerprint impression
-@fingerprint_long=A fingerprint of a Sidereal Plexus researcher, molded on a piece of dried glue.
+@fingerprint_short=Отпечаток пальца
+@fingerprint_long=Отпечаток пальца одного из сотрудников Sidereal Plexus, сформированный на куске высохшего клея.
 
 @key3_prefix=
-@key3_short=key with a label
-@key3_long=The label says "Lab 13"
+@key3_short=Ключ с ярлыком
+@key3_long=На ярлыке написано "Лаборатория 13".
 
 @vials1_prefix=
-@vials1_short=set of vials
-@vials1_long=Each vial has a label with symbols.
+@vials1_short=Набор пробирок
+@vials1_long=На каждой пробирке есть ярлык с обозначениями.
 
 @vials2_prefix=
-@vials2_short=set of vials
-@vials2_long=Each vial has a label with symbols.
+@vials2_short=Набор пробирок
+@vials2_long=На каждой пробирке есть ярлык с обозначениями.
 
 @metal_slab_prefix=
-@metal_slab_short=metal plate
-@metal_slab_long=A flat piece of lightweight metal alloy.
+@metal_slab_short=Металлическая пластина
+@metal_slab_long=Плоский кусок легковесного металлического сплава.
 
 @duplexer_prefix=
-@duplexer_short=duplexer
-@duplexer_long=An electronic device commonly found in radio and radar communications systems.
+@duplexer_short=Дуплексер
+@duplexer_long=Электронное устройство, часто встречающееся в радиоприемниках, радарах и системах связи.
 
 @transmission_belt_prefix=
-@transmission_belt_short=transmission belt
-@transmission_belt_long=A rubber belt that was used to connect two rotating parts of an engine.
+@transmission_belt_short=Приводной ремень
+@transmission_belt_long=Резиновый ремень, используемый для соединения двух вращающихся частей двигателя.
 
 @air_tanks_prefix=
-@air_tanks_short=air tanks
-@air_tanks_long=They sure weigh a lot for just being air.
+@air_tanks_short=Баллоны с воздухом
+@air_tanks_long=Они такие тяжёлые только из-за наполненности воздухом.
 
 @nav_chip_prefix=
-@nav_chip_short=electronic chip
-@nav_chip_long=It says "Nav Chip" on the label.
+@nav_chip_short=Электронный чип
+@nav_chip_long=На нём написано "Навигационный чип".
 
 @lioh_filter_prefix=
-@lioh_filter_short=LiOH filter
-@lioh_filter_long=A lithium hydroxide filter.
+@lioh_filter_short=LiOH фильтр
+@lioh_filter_long=Фильтр из гидроксида лития.
 
 @engine_calibrator_prefix=
-@engine_calibrator_short=calibrator
-@engine_calibrator_long=A device used to calibrate engines so they give a steady, even thrust when fired.
+@engine_calibrator_short=Калибратор
+@engine_calibrator_long=Устройство, используемое для калибровки двигателей и обеспечивающее стабильную тягу при запуске.
 
 @manifest_prefix=
-@manifest_short=cargo manifest
-@manifest_long=A manifest of items stored in crates carried by an unlucky cargo flight.
+@manifest_short=Грузовой манифест
+@manifest_long=Манифест предметов, перевезённых в ящиках на не очень удачном грузовом рейсе.
 
 @nuts_and_bolts_prefix=
-@nuts_and_bolts_short=nuts and bolts
-@nuts_and_bolts_long=A handful of nuts and bolts.
+@nuts_and_bolts_short=Гайки и болты
+@nuts_and_bolts_long=Куча гаек и болтов.
 
 @wires_prefix=
-@wires_short=wires
-@wires_long=A handful of copper wires.
+@wires_short=Провода
+@wires_long=Куча медных проводов.
 
 @voltmeter_prefix=
-@voltmeter_short=voltmeter
-@voltmeter_long=This devices measures the voltage of electrical installations.
+@voltmeter_short=Вольтметр
+@voltmeter_long=Устройство для измерения напряжения электрических приборов.
 
 @noodles_prefix=
-@noodles_short=instant noodles
-@noodles_long=A pack of instant noodles.
+@noodles_short=Лапша быстрого приготовления
+@noodles_long=Пакет лапши быстрого приготовления.
 
 @gasket_prefix=
-@gasket_short=gasket
-@gasket_long=A flat rubber gasket to stop pipes from leaking.
+@gasket_short=Прокладка
+@gasket_long=Плоская резиновая прокладка для предотвращения утечки в трубах.
 
 @mixer_pills_note_prefix=
-@mixer_pills_note_short=chemical formula
-@mixer_pills_note_long=A note with a chemical formula on it.
+@mixer_pills_note_short=Химическая формула
+@mixer_pills_note_long=Заметка с химической формулой.
 
 @mixer_catalyst_note_prefix=
-@mixer_catalyst_note_short=chemical formula
-@mixer_catalyst_note_long=A note with a chemical formula on it.
+@mixer_catalyst_note_short=Химическая формула
+@mixer_catalyst_note_long=Заметка с химической формулой.
 
 @pills_prefix=
-@pills_short=handful of pills for lung efficiency
-@pills_long=A handful of pills that supposedly increase lung efficiency. I hope it's safe.
+@pills_short=Куча таблеток для снижения потребления кислорода
+@pills_long=Куча таблеток для снижения потребления кислорода. С их помощью воздуха в лёгких хватит на более длительное время. Надеюсь, это безопасно.
 
 @catalyst_prefix=
-@catalyst_short=bottle of catalyst
-@catalyst_long=Chemical mixture that is supposed to increase fuel burning efficiency.
+@catalyst_short=Катализатор для топлива
+@catalyst_long=Химическая смесь, увеличивающая эффективность сгорания топлива.
 
 @moon_card_prefix=
-@moon_card_short=access card
-@moon_card_long=Looks super important.
+@moon_card_short=Карта доступа
+@moon_card_long=Выглядит как что-то очень важное.
 
 @broom_prefix=
-@broom_short=broomstick
-@broom_long=An old wooden broomstick.
+@broom_short=Швабра
+@broom_long=Старая деревянная швабра.
 
 @wire_prefix=
-@wire_short=reel of wire
-@wire_long=A long reel of conductive wire.
+@wire_short=Медные провода
+@wire_long=Множество медных проводов.
 
 @bandage_prefix=
-@bandage_short=bandage
-@bandage_long=A roll of clean bandage. I'd better keep this in case someone gets hurt.
+@bandage_short=Бинт
+@bandage_long=Чистый бинт. Я бы лучше держал это при себе, вдруг кто-то получит травму.
 
-@sledge_handle_short=solid wooden pole
-@sledge_handle_long=Quite sturdy looking round pole.
+@sledge_handle_short=Прочная деревянная палка
+@sledge_handle_long=Довольно прочная деревянная палка.
 @sledge_handle_prefix=
 
-@sledge_head_short=sledgehammer head
-@sledge_head_long=A heavy hammer head. Useless without a handle.
+@sledge_head_short=Головка молотка
+@sledge_head_long=Тяжёлая головка молотка. Бесполезна, если нет рукоятки.
 @sledge_head_prefix=
 
-@finger_short=human finger
-@finger_long=A mummified index finger. Why do I carry it around anyway...?
+@finger_short=Человеческий палец
+@finger_long=Мумифицированный указательный палец. Зачем я вообще ношу его с собой?
 @finger_prefix=
 
 @disc1_prefix=
-@disc1_short=floppy disk labeled "MEM BOOST"
-@disc1_long=Why does this feel so familiar and important at the same time? Why? I'd better carry it with me. Who knows when I might need it?
+@disc1_short=Дискета с надписью "УСИЛИТЕЛЬ ПАМЯТИ"
+@disc1_long=Почему эта дискета кажется мне одновременно такой знакомой и значимой? Почему? Лучше носить её с собой. Кто знает, когда она может мне пригодиться.
 
 @disc2_prefix=
-@disc2_short=floppy disk labeled "PHASE CTRL LITE"
-@disc2_long=No idea why, but I feel like I've seen this thing before. It feels so important. I should keep it no matter what.
+@disc2_short=Дискета с надписью "МАЛЫЙ ФАЗОВЫЙ КОНТРОЛЛЕР"
+@disc2_long=Не знаю почему, но меня не покидает чувство, что я уже видел эту дискету раньше. И похоже, она является чем-то очень важным. Я обязан носить её с собой не смотря ни на что.
 
 @cate_note_prefix=
-@cate_note_short=letter from Cate
-@cate_note_long=A blood-soaked letter from Cate. She slipped it in my pocket just before she died.
+@cate_note_short=Записка от Кейт
+@cate_note_long=Пропитанная кровью записка. Кейт засунула её в мой карман за мгновение до своей смерти.
 
 @board1_prefix=
-@board1_short=wooden board
-@board1_long=Wide wooden board, treated with some sort of sealer, judging by the smell.
+@board1_short=Деревянная доска
+@board1_long=Широкая деревянная доска, пропитанная специальной герметизирующей жидкостью, судя по запаху.
 
 @board2_prefix=
-@board2_short=wooden board
-@board2_long=Wide wooden board, treated with some sort of sealer, judging by the smell.
+@board2_short=Деревянная доска
+@board2_long=Широкая деревянная доска, пропитанная специальной герметизирующей жидкостью, судя по запаху.
 
 @board3_prefix=
-@board3_short=wooden board
-@board3_long=Wide wooden board, treated with some sort of sealer, judging by the smell.
+@board3_short=Деревянная доска
+@board3_long=Широкая деревянная доска, пропитанная специальной герметизирующей жидкостью, судя по запаху.
 
 @stormcatcher1_prefix=
-@stormcatcher1_short=Storm Catcher
-@stormcatcher1_long=This device supposedly repels thunderstorms, especially if three of them are installed in a triangle a few miles around the protected area.
+@stormcatcher1_short=Ловец бури
+@stormcatcher1_long=Это устройство якобы сдерживает штормы, но самый эффективный вариант - если три из них установлены на расстоянии нескольких километров друг от друга, образуя треугольник вокруг защищаемой территории.
 
 @stormcatcher2_prefix=
-@stormcatcher2_short=Storm Catcher
-@stormcatcher2_long=This device supposedly repels thunderstorms, especially if three of them are installed in a triangle a few miles around the protected area.
+@stormcatcher2_short=Ловец бури
+@stormcatcher2_long=Это устройство якобы сдерживает штормы, но самый эффективный вариант - если три из них установлены на расстоянии нескольких километров друг от друга, образуя треугольник вокруг защищаемой территории.
 
 @stormcatcher3_prefix=
-@stormcatcher3_short=Storm Catcher
-@stormcatcher3_long=This device supposedly repels thunderstorms, especially if three of them are installed in a triangle a few miles around the protected area.
+@stormcatcher3_short=Ловец бури
+@stormcatcher3_long=Это устройство якобы сдерживает штормы, но самый эффективный вариант - если три из них установлены на расстоянии нескольких километров друг от друга, образуя треугольник вокруг защищаемой территории.
 
 @tarpaulin_prefix=
-@tarpaulin_short=folded sheet of tarp
-@tarpaulin_long=A big, folded sheet of thick tarp. It's heavier than it looks.
+@tarpaulin_short=Сложенный брезент
+@tarpaulin_long=Большой сложенный брезент. Он намного тяжелее, чем вы думаете.
