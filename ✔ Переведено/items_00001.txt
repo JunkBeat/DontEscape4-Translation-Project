@@ -274,7 +274,7 @@
 
 @flamethrower_empty_prefix=
 @flamethrower_empty_short=Пустой огнемёт
-@flamethrower_empty_long=Распылитель превратился в огнемёт.  Не хватает лишь топлива.
+@flamethrower_empty_long=Распылитель превратился в огнемёт. Не хватает лишь топлива.
 
 @flamethrower_prefix=
 @flamethrower_short=Огнемёт
@@ -492,27 +492,27 @@
 @ac_cord_long=Шнур питания кондиционера.
 @ac_cord_prefix=
 
-@heat_absorber1_short=Теплопоглощающая плитка(TM)
+@heat_absorber1_short=Теплопоглощающая плитка (TM)
 @heat_absorber1_long=Не знаю, что это такое. Может, мне стоит взглянуть поближе?...
 @heat_absorber1_prefix=
 
-@heat_absorber2_short=Теплопоглощающая плитка(TM)
+@heat_absorber2_short=Теплопоглощающая плитка (TM)
 @heat_absorber2_long=Не знаю, что это такое. Может, мне стоит взглянуть поближе?...
 @heat_absorber2_prefix=
 
-@heat_absorber3_short=Теплопоглощающая плитка(TM)
+@heat_absorber3_short=Теплопоглощающая плитка (TM)
 @heat_absorber3_long=Не знаю, что это такое. Может, мне стоит взглянуть поближе?...
 @heat_absorber3_prefix=
 
-@heat_absorber1A_short=Активная Теплопоглощающая плитка(ТМ)
+@heat_absorber1A_short=Активная Теплопоглощающая плитка (ТМ)
 @heat_absorber1A_long=Она холодная! Похоже, плитка действительно поглощает тепло. Никогда раньше не слышал о существовании такой технологии.
 @heat_absorber1A_prefix=
 
-@heat_absorber2A_short=Активная Теплопоглощающая плитка(ТМ)
+@heat_absorber2A_short=Активная Теплопоглощающая плитка (ТМ)
 @heat_absorber2A_long=Она холодная! Похоже, плитка действительно поглощает тепло. Никогда раньше не слышал о существовании такой технологии.
 @heat_absorber2A_prefix=
 
-@heat_absorber3A_short=Активная Теплопоглощающая плитка(ТМ)
+@heat_absorber3A_short=Активная Теплопоглощающая плитка (ТМ)
 @heat_absorber3A_long=Она холодная! Похоже, плитка действительно поглощает тепло. Никогда раньше не слышал о существовании такой технологии.
 @heat_absorber3A_prefix=
 
@@ -605,7 +605,7 @@
 @rifle_ammo_prefix=
 
 @scope_short=Прицел для винтовки
-@scope_long=Прицел можно установить на винтовку, повысив точность стрельбы.
+@scope_long=Можно повысить точность стрельбы, если установить прицел на винтовку.
 @scope_prefix=
 
 @rifle_so_6_prefix=
