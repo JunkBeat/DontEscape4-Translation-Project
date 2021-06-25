@@ -5,7 +5,7 @@
 * warnings
 * world labels
 * journal
-* items (Редактируется)
+* items
 
 Переводятся:
 * actions
