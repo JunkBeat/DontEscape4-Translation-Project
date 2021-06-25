@@ -5,11 +5,11 @@
 * warnings
 * world labels
 * journal
+* items (Редактируется)
 
 Переводятся:
 * actions
 * dialogues
-* items
 * objects
 * results
 
