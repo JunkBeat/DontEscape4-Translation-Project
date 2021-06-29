@@ -298,7 +298,7 @@
 
 @ignitioncoil_prefix=
 @ignitioncoil_short=Катушка зажигания
-@ignitioncoil_long=Катушка зажигания, необходимая деталь для запуска двигателя автомобиля.
+@ignitioncoil_long=Катушка зажигания - необходимая деталь для запуска двигателя автомобиля.
 
 @spiderpest1_prefix=
 @spiderpest1_short=Банка с пометкой "A-13"
