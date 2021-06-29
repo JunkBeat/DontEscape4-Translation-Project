@@ -116,7 +116,7 @@
 
 @barn_exit_short=exit
 @barn_exit_long=A barn exit.
-@barn_exit_prefix=n
+@barn_exit_prefix=
 
 @barn_fields_short=water irrigation system
 @barn_fields_long=The pipes go out far, covering the fields around the house.
@@ -168,7 +168,7 @@
 
 @kitchen_exit_short=exit
 @kitchen_exit_long=This exit leads to the backyard.
-@kitchen_exit_prefix=n
+@kitchen_exit_prefix=
 
 @kitchen_entry_short=backdoor to the kitchen
 @kitchen_entry_long=This door leads to the kitchen.
@@ -200,7 +200,7 @@
 
 @base_exit_short=exit
 @base_exit_long=This exit leads to the front yard.
-@base_exit_prefix=n
+@base_exit_prefix=
 
 @base_painting_short=painting
 @base_painting_long=A painting of a wooden hut.
@@ -380,7 +380,7 @@
 
 @base_bathroom_exit_short=exit
 @base_bathroom_exit_long=A bathroom exit.
-@base_bathroom_exit_prefix=n
+@base_bathroom_exit_prefix=
 
 @base_chimney__short=fireplace
 @base_chimney__long=A fireplace. It's empty and cold.
@@ -571,7 +571,7 @@
 
 @chem_glass_short=empty chemistry flask
 @chem_glass_long=A glass intended for short-term storage of chemical substances.
-@chem_glass_prefix=n
+@chem_glass_prefix=
 
 @sonic_short=weird device
 @sonic_long=The label says "Sonic Repellent Device". This device is supposedly used to fend off bugs and insects.
@@ -657,11 +657,11 @@
 @crashsite_bug_short=dead insect
 @crashsite_bug_long=Unlike other insects around here, it seems to be not squashed that much.
 
-@crashsite_wrench_bugs_prefix=n
+@crashsite_wrench_bugs_prefix=
 @crashsite_wrench_bugs_short=adjustable wrench
 @crashsite_wrench_bugs_long=This wrench was used to splatter a whole bunch of insects.
 
-@crashsite_wrench_spiders_prefix=n
+@crashsite_wrench_spiders_prefix=
 @crashsite_wrench_spiders_short=adjustable wrench
 @crashsite_wrench_spiders_long=This wrench was used to fight the spiders ... without much success.
 
@@ -689,7 +689,7 @@
 @crashsite_body2_gas_short=corpse
 @crashsite_body2_gas_long=There is a small leaflet in one of the pouches in the suit.
 
-@crashsite_wrench_gas_prefix=n
+@crashsite_wrench_gas_prefix=
 @crashsite_wrench_gas_short=adjustable wrench
 @crashsite_wrench_gas_long=This wrench has many uses, but it was useless when the cloud of deadly gas caught up with them.
 
@@ -807,7 +807,7 @@
 
 @gasstation_exit_short=exit
 @gasstation_exit_long=A gas station exit.
-@gasstation_exit_prefix=n
+@gasstation_exit_prefix=
 
 @gasstation_room1_entry_short=passage
 @gasstation_room1_entry_long=This leads to one of the gas station rooms...
@@ -847,7 +847,7 @@
 
 @ext_cord_short=extension cord
 @ext_cord_long=A few meters of cord with an electrical socket at one end.
-@ext_cord_prefix=n
+@ext_cord_prefix=
 
 @attic_hatch2_short=hatch
 @attic_hatch2_long=A hatch that leads outside to the roof.
@@ -1003,7 +1003,7 @@
 
 @restaurant_waypoint0_short=exit
 @restaurant_waypoint0_long=An exit from the parking lot back to the main road.
-@restaurant_waypoint0_prefix=n
+@restaurant_waypoint0_prefix=
 
 @restaurant_waypoint12_short=back of the restaurant
 @restaurant_waypoint12_long=A way to the back of the restaurant.
@@ -1015,11 +1015,11 @@
 
 @restaurant_waypoint13_short=entrance
 @restaurant_waypoint13_long=An entrance to the burger joint ... or what's left of it.
-@restaurant_waypoint13_prefix=n
+@restaurant_waypoint13_prefix=
 
 @restaurant_waypoint31_short=exit
 @restaurant_waypoint31_long=An exit from the burger joint.
-@restaurant_waypoint31_prefix=n
+@restaurant_waypoint31_prefix=
 
 @restaurant_waypoint34_short=door
 @restaurant_waypoint34_long=A door to the kitchen.
@@ -1099,7 +1099,7 @@
 
 @rv_exit_short=exit
 @rv_exit_long=A door that leads out of the RV.
-@rv_exit_prefix=n
+@rv_exit_prefix=
 
 @rv_door_short=door
 @rv_door_long=RV's door.
@@ -1136,7 +1136,7 @@
 
 @house_b_heater_short=electric heater
 @house_b_heater_long=A device that blows hot air after plugging it into electricity.
-@house_b_heater_prefix=n
+@house_b_heater_prefix=
 
 @house_b_fan_short=fan
 @house_b_fan_long=An electric fan.
@@ -1210,7 +1210,7 @@
 
 @rv_car_short=RV
 @rv_car_long=It seems that this RV is stuck here for good.
-@rv_car_prefix=n
+@rv_car_prefix=
 
 @rv_aid_short=first-aid kit
 @rv_aid_long=A first-aid kit sits on the table.
@@ -1234,11 +1234,11 @@
 
 @barn_generator_enabled_short=emergency power generator
 @barn_generator_enabled_long=Well, it's kind of an emergency 24/7 now, so I'm really glad it's here. It's fueled and running.
-@barn_generator_enabled_prefix=n
+@barn_generator_enabled_prefix=
 
 @barn_generator_disabled_short=emergency power generator
 @barn_generator_disabled_long=Well, it's kind of an emergency 24/7 now, so I'm really glad it's here. It's not running at the moment.
-@barn_generator_disabled_prefix=n
+@barn_generator_disabled_prefix=
 
 @barn_generator_starting_cord_short=starting cord
 @barn_generator_starting_cord_long=Pulling it should start the generator's engine.
@@ -1250,7 +1250,7 @@
 
 @kitchen_socket_short=electrical socket
 @kitchen_socket_long=An electrical socket for plugging in things.
-@kitchen_socket_prefix=n
+@kitchen_socket_prefix=
 
 @plugged_fan_off_short=electric fan plugged in
 @plugged_fan_off_long=It's not working. There must be no power.
@@ -1274,7 +1274,7 @@
 
 @ac_plug_short=air condition's plug
 @ac_plug_long=The power cord for the portable air-conditioner.
-@ac_plug_prefix=n
+@ac_plug_prefix=
 
 @ac_window_short=portable air conditioner
 @ac_window_long=A portable air conditioner installed by the window.
@@ -1286,10 +1286,10 @@
 
 @base_heater_off_short=electric heater
 @base_heater_off_long=An electric heater placed on the floor. It's not working.
-@base_heater_off_prefix=n
+@base_heater_off_prefix=
 @base_heater_on_short=electric heater
 @base_heater_on_long=An electric heater placed on the floor, blowing nice hot air.
-@base_heater_on_prefix=n
+@base_heater_on_prefix=
 
 @base_fan_off_short=fan
 @base_fan_off_long=An electric fan placed on the floor. It's not working.
@@ -1300,10 +1300,10 @@
 
 @cave_heater_off_short=electric heater
 @cave_heater_off_long=An electric heater placed on the ground. It's not working.
-@cave_heater_off_prefix=n
+@cave_heater_off_prefix=
 @cave_heater_on_short=electric heater
 @cave_heater_on_long=An electric heater placed on the ground, blowing nice hot air.
-@cave_heater_on_prefix=n
+@cave_heater_on_prefix=
 
 @cave_fan_off_short=fan
 @cave_fan_off_long=An electric fan placed on the ground. It's not working.
@@ -1314,11 +1314,11 @@
 
 @kitchen_oven_short=oven
 @kitchen_oven_long=An electric kitchen oven.
-@kitchen_oven_prefix=n
+@kitchen_oven_prefix=
 
 @kitchen_oven_hot_short=oven
 @kitchen_oven_hot_long=An electric kitchen oven, so warmed up I could bake a cake in it.
-@kitchen_oven_hot_prefix=n
+@kitchen_oven_hot_prefix=
 
 @attic_hatch_thing_flag_short=flag
 @attic_hatch_thing_flag_long=This should isolate the temperature change from the attic a bit.
@@ -1346,23 +1346,23 @@
 
 @rv_socket_short=electrical socket
 @rv_socket_long=An outer electrical socket on the RV's wall.
-@rv_socket_prefix=n
+@rv_socket_prefix=
 
 @electric_pin_short=electrical pin
 @electric_pin_long=I should connect some of those pins together so the output at A and B has a correct value...
-@electric_pin_prefix=n
+@electric_pin_prefix=
 
 @sidereal_exit1_short=exit
 @sidereal_exit1_long=Back to the roof...
-@sidereal_exit1_prefix=n
+@sidereal_exit1_prefix=
 
 @sidereal_exit2_short=exit
 @sidereal_exit2_long=Back to the ruined room.
-@sidereal_exit2_prefix=n
+@sidereal_exit2_prefix=
 
 @sidereal_exit3_short=exit
 @sidereal_exit3_long=A passage to the corridor.
-@sidereal_exit3_prefix=n
+@sidereal_exit3_prefix=
 
 @sidereal_exit4_short=doorway
 @sidereal_exit4_long=A passage into a room.
@@ -1418,15 +1418,15 @@
 
 @sidereal_elevator_3_short=elevator
 @sidereal_elevator_3_long=The elevator is stuck mid-floor.
-@sidereal_elevator_3_prefix=n
+@sidereal_elevator_3_prefix=
 
 @sidereal_elevator_2_short=elevator shaft
 @sidereal_elevator_2_long=A long way down...
-@sidereal_elevator_2_prefix=n
+@sidereal_elevator_2_prefix=
 
 @sidereal_elevator_1_short=elevator shaft with a hose
 @sidereal_elevator_1_long=I could climb it...
-@sidereal_elevator_1_prefix=n
+@sidereal_elevator_1_prefix=
 
 @sidereal_pipe_short=pipe
 @sidereal_pipe_long=It looks heavy.
@@ -1446,7 +1446,7 @@
 
 @sidereal_elevator_closed_short=elevator door
 @sidereal_elevator_closed_long=I could probably open this door by force.
-@sidereal_elevator_closed_prefix=n
+@sidereal_elevator_closed_prefix=
 
 @sidereal_internet_app_short=Internet browser
 @sidereal_internet_app_long=It's been used to browse the Internet. There is no Internet anymore, though.
@@ -1462,7 +1462,7 @@
 
 @sidereal_mail_short=e-mail
 @sidereal_mail_long=An e-mail in the local inbox of this PC.
-@sidereal_mail_prefix=n
+@sidereal_mail_prefix=
 
 @sidereal_pc_off_short=PC
 @sidereal_pc_off_long=A PC. It's offline.
@@ -1519,7 +1519,7 @@
 
 @sidereal_outside_back2_short=east wing
 @sidereal_outside_back2_long=A way to the eastern wing of the building.
-@sidereal_outside_back2_prefix=n
+@sidereal_outside_back2_prefix=
 
 @sidereal_outside_dune_short=behind the dune
 @sidereal_outside_dune_long=A way behind the sand dune.
@@ -1547,7 +1547,7 @@
 
 @sidereal_entry_collapsed_short=entrance
 @sidereal_entry_collapsed_long=I can't actually see an entrance here;
-@sidereal_entry_collapsed_prefix=n
+@sidereal_entry_collapsed_prefix=
 
 @sidereal_side_building_short=side of the building
 @sidereal_side_building_long=I could check the other side of the building.
@@ -1555,11 +1555,11 @@
 
 @sidereal_hole_short=opening in the wall
 @sidereal_hole_long=I could get inside through that hole.
-@sidereal_hole_prefix=n
+@sidereal_hole_prefix=
 
 @sidereal_hole_outside_short=opening in the wall
 @sidereal_hole_outside_long=This leads back to the roof.
-@sidereal_hole_outside_prefix=n
+@sidereal_hole_outside_prefix=
 
 @sidereal_xero_short=stack of papers
 @sidereal_xero_long=A document in a photocopier, ready to be copied. Never were and never will be.
@@ -1624,11 +1624,11 @@
 
 @lodge_to_outside_short=exit
 @lodge_to_outside_long=Exit the lodge.
-@lodge_to_outside_prefix=n
+@lodge_to_outside_prefix=
 
 @lodge_to_inside_short=entrance
 @lodge_to_inside_long=An entrance to the lodge.
-@lodge_to_inside_prefix=n
+@lodge_to_inside_prefix=
 
 @lodge_to_inside1_short=main room
 @lodge_to_inside1_long=Lodge's main room.
@@ -1656,7 +1656,7 @@
 
 @lodge_back_corpse_short=animal carcass
 @lodge_back_corpse_long=A boar caught in a trap. What hasn't been eaten is completely rotted. I think I'm gonna be sick.
-@lodge_back_corpse_prefix=n
+@lodge_back_corpse_prefix=
 
 @lodge_back_latrine_short=latrine
 @lodge_back_latrine_long=Smells terrible, like everything here.
@@ -1839,7 +1839,7 @@
 @fuse_door_short=doormat pin
 @fuse_door_long=If this pin is powered, so is the electrocuting doormat. I don't want this powered.
 
-@fuse_elevator_prefix=n
+@fuse_elevator_prefix=
 @fuse_elevator_short=elevator pin
 @fuse_elevator_long=If this pin is powered, so is the elevator. I want this powered.
 
@@ -1883,11 +1883,11 @@
 @pill_half_short=stack of pill casings
 @pill_half_long=Dozens pill casings stacked in this tray.
 
-@outpost_elevator_prefix=n
+@outpost_elevator_prefix=
 @outpost_elevator_short=elevator
 @outpost_elevator_long=A closed elevator door with a call button on the wall.
 
-@outpost_elevator_open_prefix=n
+@outpost_elevator_open_prefix=
 @outpost_elevator_open_short=elevator
 @outpost_elevator_open_long=An open elevator door that I can use to get underground and back.
 
@@ -1911,7 +1911,7 @@
 @outpost_remote_short=remote controller
 @outpost_remote_long=A slide projector remote.
 
-@outpost_card_prefix=n
+@outpost_card_prefix=
 @outpost_card_short=access card
 @outpost_card_long=An access card. Looks super important.
 
@@ -1987,7 +1987,7 @@
 @outpost_silo_far_short=silo
 @outpost_silo_far_long=Looks like an underground silo.
 
-@outpost_base_far_prefix=n
+@outpost_base_far_prefix=
 @outpost_base_far_short=outpost
 @outpost_base_far_long=Doesn't look that big from up here.
 
@@ -1995,7 +1995,7 @@
 @outpost_base_entrance1_short=door with a scanner.
 @outpost_base_entrance1_long=An entrance to the outpost. It has a camera lens on it.
 
-@outpost_base_entrance2_prefix=n
+@outpost_base_entrance2_prefix=
 @outpost_base_entrance2_short=entrance
 @outpost_base_entrance2_long=An entrance to the outpost.
 
@@ -2011,7 +2011,7 @@
 @outpost_computer_bars1_short=fuel mixture control
 @outpost_computer_bars1_long=A computer that controls the fuel mixture that will be used during the launch.
 
-@outpost_computer_bars2_prefix=n
+@outpost_computer_bars2_prefix=
 @outpost_computer_bars2_short=air composition control
 @outpost_computer_bars2_long=A computer that controls the air composition in the ship's cockpit.
 
@@ -2019,7 +2019,7 @@
 @outpost_ship_lioh0_short=filter slot
 @outpost_ship_lioh0_long=A slot labeled "LiOH filter".
 
-@outpost_ship_lioh1_prefix=n
+@outpost_ship_lioh1_prefix=
 @outpost_ship_lioh1_short=installed filter
 @outpost_ship_lioh1_long=A filter installed in a slot labeled "LiOH filter".
 
@@ -2075,11 +2075,11 @@
 @outpost_ship_elevator_broken_short=broken elevator engine
 @outpost_ship_elevator_broken_long=A transmission belt is missing.
 
-@outpost_ship_elevator_fixed_prefix=n
+@outpost_ship_elevator_fixed_prefix=
 @outpost_ship_elevator_fixed_short=elevator engine
 @outpost_ship_elevator_fixed_long=It has a transmission belt installed.
 
-@outpost_elev_up_prefix=n
+@outpost_elev_up_prefix=
 @outpost_elev_up_short="up" button
 @outpost_elev_up_long=A button with an arrow pointing up.
 
@@ -2091,7 +2091,7 @@
 @outpost_big_computer_short=mainframe computer
 @outpost_big_computer_long=A big, clunky box with glowing lights.
 
-@outpost_big_computer_part_prefix=n
+@outpost_big_computer_part_prefix=
 @outpost_big_computer_part_short=opening with electronics
 @outpost_big_computer_part_long=Open panel with some electronics inside.
 
@@ -2175,15 +2175,15 @@
 @outpost_radar_plate_short=radar
 @outpost_radar_plate_long=A big radar dish.
 
-@outpost_radar_panel_prefix=n
+@outpost_radar_panel_prefix=
 @outpost_radar_panel_short=access panel
 @outpost_radar_panel_long=Radar's access panel.
 
-@outpost_engine_belted_prefix=n
+@outpost_engine_belted_prefix=
 @outpost_engine_belted_short=engine with a transmission belt
 @outpost_engine_belted_long=A big engine with a rubber belt connecting two spinning wheels.
 
-@outpost_engine_unbelted_prefix=n
+@outpost_engine_unbelted_prefix=
 @outpost_engine_unbelted_short=engine
 @outpost_engine_unbelted_long=A big engine with a missing transmission belt.
 
@@ -2191,7 +2191,7 @@
 @outpost_dead_man_short=corpse
 @outpost_dead_man_long=A corpse that is burnt to a crisp and surrounded by sand melted into glass.
 
-@outpost_hatch_open_prefix=n
+@outpost_hatch_open_prefix=
 @outpost_hatch_open_short=open hatch
 @outpost_hatch_open_long=An open hatch that leads down to the silo.
 
@@ -2231,7 +2231,7 @@
 @outpost_outside_back_short=way back
 @outpost_outside_back_long=A way back to the gate ... or what's left of it.
 
-@outpost_exit_prefix=n
+@outpost_exit_prefix=
 @outpost_exit_short=exit
 @outpost_exit_long=A doorway outside over the deadly doormat.
 
@@ -2331,7 +2331,7 @@
 @moonbase1_short=Moon base
 @moonbase1_long=A lunar base. Property of Sidereal Plexus, Inc.
 
-@moon_airlock_control_prefix=n
+@moon_airlock_control_prefix=
 @moon_airlock_control_short=airlock manual override mechanism
 @moon_airlock_control_long=I can use it to manually open the airlock from the outside.
 
@@ -2339,7 +2339,7 @@
 @moon_base_short=Moon base
 @moon_base_long=What am I even doing out here...?
 
-@moon_base_entrance_prefix=n
+@moon_base_entrance_prefix=
 @moon_base_entrance_short=airlock
 @moon_base_entrance_long=An entrance to the Moon base...
 
@@ -2355,7 +2355,7 @@
 @moonbase_pods_short=Sleeper Pods
 @moonbase_pods_long=There are a lot of people sleeping in those pods...
 
-@moonbase_pod_empty_prefix=n
+@moonbase_pod_empty_prefix=
 @moonbase_pod_empty_short=empty Sleeper Pod
 @moonbase_pod_empty_long=A hibernation pod that supposedly can upload consciousness into the realm of dreams.
 
@@ -2387,11 +2387,11 @@
 @moon_computer_short=base control computer
 @moon_computer_long=This computer seems to be responsible for some of the systems in this base.
 
-@lodge_socket_prefix=n
+@lodge_socket_prefix=
 @lodge_socket_short=electrical outlet
 @lodge_socket_long=An electrical outlet in the wall.
 
-@lodge_socket_connected_prefix=n
+@lodge_socket_connected_prefix=
 @lodge_socket_connected_short=extension cord
 @lodge_socket_connected_long=An extension cord plugged into the electrical outlet.
 
@@ -2403,7 +2403,7 @@
 @broom_short=broomstick
 @broom_long=An old, wooden broomstick.
 
-@lodge_cord_prefix=n
+@lodge_cord_prefix=
 @lodge_cord_short=extension cord
 @lodge_cord_long=An extension cord connected to the outlet in the lodge.
 

@@ -1,13 +1,13 @@
-@default1=I can't do that.
-@default2=Bad idea.
-@default3=That wouldn't work!
-@default4=Not really...
+@default1=Не могу это сделать.
+@default2=Плохая идея.
+@default3=Это не сработает!
+@default4=Нет...
 @default5=I don't think so.
-@default6=I can't see how that would work.
+@default6=И что из этого получится?
 
 @crossroad_intro1=Well, this place looks promising.
-@story_intro_day_1_1=What a nightmare...
-@story_intro_day_1_2=It all felt so real...
+@story_intro_day_1_1=Какой кошмар...
+@story_intro_day_1_2=Всё было настолько реалистичным...
 
 @story_start=Well, this place looks promising.
 @story_no_go=I should find a safe place for the night before exploring any further.
