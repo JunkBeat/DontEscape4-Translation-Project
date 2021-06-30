@@ -3,4 +3,9 @@
 @Cody=Коди
 
 Ты
+<<<<<<< Updated upstream
 @David=Дэвид
+=======
+@David=Дэвид
+@Barry=Барри_2
+>>>>>>> Stashed changes
