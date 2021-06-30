@@ -3,5 +3,5 @@
 @Cody=Коди
 
 Ты
-@David=David
-@Barry=Barry
+@David=Дэвид
+@Barry=Барри
