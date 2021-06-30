@@ -1,0 +1,7 @@
+Я
+@Cate=Cate
+@Cody=Cody
+
+Ты
+@David=David
+@Barry=Barry
