@@ -1,6 +1,6 @@
 Я
-@Cate=Cate
-@Cody=Cody
+@Cate=Кейт
+@Cody=Коди
 
 Ты
 @David=David
