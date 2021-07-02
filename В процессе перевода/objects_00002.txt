@@ -2,51 +2,51 @@
 @blank_long=
 @blank_prefix=
 
-@npc_ginger_short=ginger woman
-@npc_ginger_long=A young woman with fiery red hair.
+@npc_ginger_short=Рыжая женщина
+@npc_ginger_long=Молодая женщина с огненно-рыжими волосами.
 @npc_ginger_prefix=
 
-@npc_cathy_short=Catherine
-@npc_cathy_long=Catherine. Cate for short.
+@npc_cathy_short=Кэтрин
+@npc_cathy_long=Кэтрин. Но если коротко - Кейт.
 @npc_cathy_prefix=
 
-@npc_mourning_short=mourning man
-@npc_mourning_long=A middle-aged bald man with dark skin.
+@npc_mourning_short=Поникший мужчина
+@npc_mourning_long=Лысый темнокожий мужчина средних лет.
 @npc_mourning_prefix=
 
-@npc_barry_short=Barry
-@npc_barry_long=This middle-aged bald man with dark skin has suffered a great loss.
+@npc_barry_short=Барри
+@npc_barry_long=Этот темнокожий мужчина перенёс огромную утрату.
 @npc_barry_prefix=
 
-@npc_boy_short=boy
-@npc_boy_long=A rather skinny boy around ten years old.
+@npc_boy_short=Мальчик
+@npc_boy_long=Довольно тощий мальчик лет десяти.
 @npc_boy_prefix=
 
-@npc_cody_short=Cody
-@npc_cody_long=A rather skinny boy around ten years old.
+@npc_cody_short=Коди
+@npc_cody_long=Довольно тощий мальчик лет десяти.
 @npc_cody_prefix=
 
-@moon_short=Moon
-@moon_long=The Moon, broken into pieces.
+@moon_short=Луна
+@moon_long=Луна, распавшаяся на куски.
 @moon_prefix=
 
-@basedoor_short=door
-@basedoor_long=A sturdy looking door.
+@basedoor_short=Дверь
+@basedoor_long=Прочная дверь.
 @basedoor_prefix=
 
-@leave_short=Leave
-@leave_long=Leave
+@leave_short=Выйти
+@leave_long=Выйти.
 @leave_prefix=
 
-@button_short=button
-@button_long=A button
+@button_short=Кнопка
+@button_long=Кнопка.
 @button_prefix=
 
-@dream_window_short=window
-@dream_window_long=It's dark outside...
+@dream_window_short=Окно
+@dream_window_long=За окном тёмная ночь...
 @dream_window_prefix=
 
-@intro_desert_short=travel
+@intro_desert_short=Идти дальше
 @intro_desert_long=I guess I have to keep walking...
 @intro_desert_prefix=
 
