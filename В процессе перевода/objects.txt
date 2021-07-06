@@ -2,8 +2,8 @@
 @blank_long=
 @blank_prefix=
 
-@npc_ginger_short=Рыжая женщина
-@npc_ginger_long=Молодая женщина с огненно-рыжими волосами.
+@npc_ginger_short=Рыжая девушка
+@npc_ginger_long=Молодая девушка с огненно-рыжими волосами.
 @npc_ginger_prefix=
 
 @npc_cathy_short=Кэтрин
@@ -47,246 +47,246 @@
 @dream_window_prefix=
 
 @intro_desert_short=Идти дальше
-@intro_desert_long=I guess I have to keep walking...
+@intro_desert_long=Думаю, мне нужно идти дальше...
 @intro_desert_prefix=
 
-@tent_tent_short=my tent
-@tent_tent_long=My old tent. Torn and damaged by wind, it won't be of much use to me.
+@tent_tent_short=Моя палатка
+@tent_tent_long=Старая палатка. Ветер сильно потрепал её. Особой пользы она уже не принесёт.
 @tent_tent_prefix=
 
-@tent_bonfire_short=remains of a campfire
-@tent_bonfire_long=A sad pile of ash. It gets really cold in the desert at night.
+@tent_bonfire_short=Остатки огня
+@tent_bonfire_long=Досадная куча пепла. Ночью в пустыне станет очень холодно.
 @tent_bonfire_prefix=
 
-@tent_backpack_short=my backpack
-@tent_backpack_long=My trusty backpack. I'm not going anywhere without it.
+@tent_backpack_short=Мой рюкзак
+@tent_backpack_long=Мой верный рюкзак. Я без него никуда не пойду.
 @tent_backpack_prefix=
 
-@tent_distance_swarm_short=dark cloud
-@tent_distance_swarm_long=It looks like a dark cloud...
+@tent_distance_swarm_short=Тёмное облако
+@tent_distance_swarm_long=Похоже, это тёмное облако...
 @tent_distance_swarm_prefix=
 
-@tent_distance_gas_short=green cloud
-@tent_distance_gas_long=It looks like a green cloud...
+@tent_distance_gas_short=Зелёное облако
+@tent_distance_gas_long=Похоже, это зелёное облако...
 @tent_distance_gas_prefix=
 
-@tent_distance_webs_short=cobwebs
-@tent_distance_webs_long=Huge spiderwebs carried by the wind.
+@tent_distance_webs_short=Паутина
+@tent_distance_webs_long=Ветер разносит огромную паутину.
 @tent_distance_webs_prefix=
 
-@tent_waypoint_short=Into the wasteland
-@tent_waypoint_long=Barren wastelands await.
+@tent_waypoint_short=В пустыню
+@tent_waypoint_long=Бесплодная пустошь ждёт.
 @tent_waypoint_prefix=
 
-@tutorial_wall_far_short=wall
-@tutorial_wall_far_long=An old wall with a small wooden shed.
+@tutorial_wall_far_short=Стена
+@tutorial_wall_far_long=Древняя стена и маленький деревянный сарай неподалёку.
 @tutorial_wall_far_prefix=
 
-@tutorial_ruins_short=ruins
-@tutorial_ruins_long=A sad skeleton of a building, slowly consumed by sand.
+@tutorial_ruins_short=Руины
+@tutorial_ruins_long=Каркас какого-то здания, медленно утопающий в песке.
 @tutorial_ruins_prefix=
 
-@tutorial_door_short=shed
-@tutorial_door_long=A small wooden shed with a squeaky door. I wonder what's inside.
+@tutorial_door_short=Сарай
+@tutorial_door_long=Маленький деревянный сарай со скрипучей дверью. Интересно, что внутри.
 @tutorial_door_prefix=
 
-@tutorial_hammer_short=sledgehammer
-@tutorial_hammer_long=A big, heavy hammer.
+@tutorial_hammer_short=Кувалда
+@tutorial_hammer_long=Большой и тяжёлый молоток.
 @tutorial_hammer_prefix=
 
-@tutorial_wall1_short=hole in the wall
-@tutorial_wall1_long=If it was a bit bigger, I could probably get to the other side.
+@tutorial_wall1_short=Дыра в стене
+@tutorial_wall1_long=Будь она побольше, я смог бы перебраться на другую сторону.
 @tutorial_wall1_prefix=
 
-@tutorial_wall2_short=big hole
-@tutorial_wall2_long=I can get through to the other side of the wall.
+@tutorial_wall2_short=Большая дыра в стене
+@tutorial_wall2_long=Я могу перебраться на другую сторону.
 @tutorial_wall2_prefix=
 
-@house_front_short=front yard path
-@house_front_long=A path that leads to the front yard.
+@house_front_short=К передней части дома
+@house_front_long=Дорожка, ведущая к передней части дома.
 @house_front_prefix=
 
-@house_back_short=backyard path
-@house_back_long=This path leads to the backyard.
+@house_back_short=Обойти дом
+@house_back_long=Дорожка, ведущая за дом.
 @house_back_prefix=
 
-@barn_entry_short=barn
-@barn_entry_long=An entry to a barn.
+@barn_entry_short=Сарай
+@barn_entry_long=Зайти в сарай.
 @barn_entry_prefix=
 
-@barn_exit_short=exit
-@barn_exit_long=A barn exit.
+@barn_exit_short=Выйти
+@barn_exit_long=Выйти из сарая.
 @barn_exit_prefix=
 
-@barn_fields_short=water irrigation system
-@barn_fields_long=The pipes go out far, covering the fields around the house.
+@barn_fields_short=Система орошения
+@barn_fields_long=Длинные трубы простираются над полем, окружающим эту ферму.
 @barn_fields_prefix=
 
-@tracktor_short=tractor
-@tracktor_long=A rusty piece of junk. The sad thing is that the tractor wasn't even old when the world ended.
+@tracktor_short=Трактор
+@tracktor_long=Ржавый металлолом. Очень жаль, ведь он был почти новым, когда миру пришёл конец.
 @tracktor_prefix=
 
-@car_short=car
-@car_long=An old pickup truck.
+@car_short=Машина
+@car_long=Старый пикап.
 @car_prefix=
 
-@car_trunk_short=cargo box
-@car_trunk_long=A car's cargo box for storing stuff.
+@car_trunk_short=Багажник
+@car_trunk_long=Автомобильный багажник для перевозки предметов.
 @car_trunk_prefix=
 
-@down_hill_short=path downhill.
-@down_hill_long=A path that leads down the hill to an old dusty road.
+@down_hill_short=Спуститься вниз
+@down_hill_long=Дорожка, ведущая вниз по склону к старой асфальтированной дороге.
 @down_hill_prefix=
 
-@base_path_short=path
-@base_path_long=A dusty path.
+@base_path_short=Дорожка
+@base_path_long=Дорожка в сторону дома.
 @base_path_prefix=
 
-@up_hill_short=path uphill
-@up_hill_long=A path that leads up the hill to a decent-looking farmhouse.
+@up_hill_short=Подняться наверх
+@up_hill_long=Дорожка, ведущая вверх по склону к фермерскому дому.
 @up_hill_prefix=
 
-@road_east_short=road east
-@road_east_long=A road that leads east.
+@road_east_short=Дорога на восток
+@road_east_long=Дорога на восток.
 @road_east_prefix=
 
-@road_west_short=road west
-@road_west_long=A road that leads west.
+@road_west_short=Дорога на запад
+@road_west_long=Дорога на запад.
 @road_west_prefix=
 
-@kitchen_door_short=kitchen door
-@kitchen_door_long=A sturdy looking door.
+@kitchen_door_short=Кухонная дверь
+@kitchen_door_long=Прочная дверь.
 @kitchen_door_prefix=
 
-@kitchen_door1_short=passage
-@kitchen_door1_long=A passage that leads to the kitchen.
+@kitchen_door1_short=На кухню
+@kitchen_door1_long=Проход, ведущий на кухню.
 @kitchen_door1_prefix=
 
-@kitchen_door2_short=passage
-@kitchen_door2_long=A passage that leads to the main room.
+@kitchen_door2_short=В гостинную
+@kitchen_door2_long=Проход, ведущий в гостинную.
 @kitchen_door2_prefix=
 
-@kitchen_exit_short=exit
-@kitchen_exit_long=This exit leads to the backyard.
+@kitchen_exit_short=Выйти во двор
+@kitchen_exit_long=Этот проход ведёт во двор.
 @kitchen_exit_prefix=
 
-@kitchen_entry_short=backdoor to the kitchen
-@kitchen_entry_long=This door leads to the kitchen.
+@kitchen_entry_short=Кухонная дверь
+@kitchen_entry_long=Эта дверь ведёт на кухню.
 @kitchen_entry_prefix=
 
-@upstairs_papers_short=papers
-@upstairs_papers_long=A stack of documents.
+@upstairs_papers_short=Документы
+@upstairs_papers_long=Стопка документов.
 @upstairs_papers_prefix=
 
-@upstairs_ladder_short=ladder leading to a ceiling hatch
-@upstairs_ladder_long=The hatch seems to be shut for good. I don't think I can open it.
+@upstairs_ladder_short=Лестница, ведущая на чердак
+@upstairs_ladder_long=Люк плотно закрыт. Сомневаюсь, что смогу его открыть.
 @upstairs_ladder_prefix=
 
-@upstairs_ladder2_short=ladder leading to a ceiling hatch
-@upstairs_ladder2_long=The hatch is gone. A gaping hole in the ceiling leads to the attic.
+@upstairs_ladder2_short=Лестница, ведущая на чердак
+@upstairs_ladder2_long=Люк выпал. Теперь в потолке есть проход, через который можно попасть на чердак.
 @upstairs_ladder2_prefix=
 
-@base_stairs_up_short=stairs
-@base_stairs_up_long=Stairs to the upper floor.
+@base_stairs_up_short=Лестница
+@base_stairs_up_long=Подняться на второй этаж.
 @base_stairs_up_prefix=
 
-@base_stairs_down_short=stairs
-@base_stairs_down_long=Stairs to the ground floor.
+@base_stairs_down_short=Лестница
+@base_stairs_down_long=Спуститься на первый этаж.
 @base_stairs_down_prefix=
 
-@base_entry_short=house entry
-@base_entry_long=This entry leads to the house.
+@base_entry_short=Проход в дом
+@base_entry_long=Этот проход ведёт в дом.
 @base_entry_prefix=
 
-@base_exit_short=exit
-@base_exit_long=This exit leads to the front yard.
+@base_exit_short=Выйти
+@base_exit_long=Этот проход ведёт к передней части дома.
 @base_exit_prefix=
 
-@base_painting_short=painting
-@base_painting_long=A painting of a wooden hut.
+@base_painting_short=Картина
+@base_painting_long=На картине изображена деревянная хижина.
 @base_painting_prefix=
 
-@base_painting2_short=photo
-@base_painting2_long=A photo of an old lady.
+@base_painting2_short=Фотография
+@base_painting2_long=Фотография пожилой женщины.
 @base_painting2_prefix=
 
-@base_fridge_note1_short=sticky note
-@base_fridge_note1_long=A yellow sticky note attached to the fridge. There's something written on it.
+@base_fridge_note1_short=Стикер
+@base_fridge_note1_long=Жёлтый стикер, прилепленный к холодильнику. На нём что-то написано.
 @base_fridge_note1_prefix=
 
-@base_fridge_short=fridge
-@base_fridge_long=The fridge has been sitting here without any power for quite a while now.
+@base_fridge_short=Холодильник
+@base_fridge_long=В холодильник давно не поступало электричество.
 @base_fridge_prefix=
 
-@base_window_short=window
-@base_window_long=A locked window.
+@base_window_short=Окно
+@base_window_long=Целое окно.
 @base_window_prefix=
 
-@base_window_1_short=window
-@base_window_1_long=A broken window.
+@base_window_1_short=Окно
+@base_window_1_long=Разбитое окно.
 @base_window_1_prefix=
 
-@base_window_2_short=window
-@base_window_2_long=A broken window.
+@base_window_2_short=Окно
+@base_window_2_long=Разбитое окно.
 @base_window_2_prefix=
 
-@base_window_3_short=window
-@base_window_3_long=A broken window.
+@base_window_3_short=Окно
+@base_window_3_long=Разбитое окно.
 @base_window_3_prefix=
 
-@base_broken_pc_short=broken computer
-@base_broken_pc_long=It looks like it's broken beyond repair.
+@base_broken_pc_short=Сломанный компьютер
+@base_broken_pc_long=Похоже, он не подлежит ремонту.
 @base_broken_pc_prefix=
 
-@base_window_net_short=window with a net
-@base_window_net_long=A window with a net hanging from the frame. It looks like it's about to fall with the next strong gust of wind.
+@base_window_net_short=Окно с сеткой
+@base_window_net_long=Окно с сеткой, свисающей с оконной рамы. Сетка выглядит так, как будто вот-вот сорвётся при сильном порыве ветра.
 @base_window_net_prefix=
 
-@base_window_foil_short=window with plastic wrap
-@base_window_foil_long=A window with plastic wrap hanging from the frame. It looks like it's about to fall with the next strong gust of wind.
+@base_window_foil_short=Окно с полиэтиленовой плёнкой
+@base_window_foil_long=Окно с полиэтиленовой плёнкой, свисающей с оконной рамы. Плёнка выглядит так, как будто вот-вот сорвётся при сильном порыве ветра.
 @base_window_foil_prefix=
 
-@base_window_bars_short=window with metal bars
-@base_window_bars_long=A window with some metal bars on the windowsill ready to be installed. Currently it won't do much good...
+@base_window_bars_short=Окно с металлической решёткой
+@base_window_bars_long=Окно с металлической решёткой на подоконнике. Её нужно прочно прикрепить к окну, потому что в данный момент от неё особо не будет...
 @base_window_bars_prefix=
 
-@base_window_net_taped_short=window with a net taped to the frame
-@base_window_net_taped_long=A window with a net attached to the frame with some duct tape. Doesn't look very durable, to be honest.
+@base_window_net_taped_short=Окно с сеткой, приклеенной к оконной раме
+@base_window_net_taped_long=Окно с сеткой, приклеенной к оконной раме скотчем. Честно говоря, это не выглядит долговечным.
 @base_window_net_taped_prefix=
 
-@base_window_foil_taped_short=window with plastic wrap taped to the frame
-@base_window_foil_taped_long=A window with plastic wrap attached to the frame with some duct tape. Looks more or less air-tight.
+@base_window_foil_taped_short=Окно с полиэтиленовой плёнкой, приклеенной к оконной раме
+@base_window_foil_taped_long=Окно с полиэтиленовой плёнкой, приклеенной к оконной раме скотчем. Выглядит более-менее герметично.
 @base_window_foil_taped_prefix=
 
-@base_window_bars_taped_short=window with metal bars taped to the frame
-@base_window_bars_taped_long=A window with metal bars attached to the frame with some duct tape. The bars are really heavy. Maybe using duct tape wasn't such a good idea...?
+@base_window_bars_taped_short=Окно с металлической решёткой, приклеенной к оконной раме
+@base_window_bars_taped_long=Окно с металлической решёткой, приклеенной к оконной раме скотчем. Решётка довольно тяжёлая. Может быть, скотч - не лучшая идея...?
 @base_window_bars_taped_prefix=
 
-@base_window_net_nailed_short=window with a net nailed to the frame
-@base_window_net_nailed_long=A window with a net attached to the frame with some nails. Seems solid.
+@base_window_net_nailed_short=Окно с сеткой, прибитой к оконной раме
+@base_window_net_nailed_long=Окно с сеткой, прибитой к оконной раме гвоздями. Выглядит надёжно.
 @base_window_net_nailed_prefix=
 
-@base_window_foil_nailed_short=window with plastic wrap nailed to the frame
-@base_window_foil_nailed_long=A window with plastic wrap attached to the frame with some nails. Not 100% air-tight, but it's better than nothing.
+@base_window_foil_nailed_short=Окно с полиэтиленовой плёнкой, прибитой к оконной раме
+@base_window_foil_nailed_long=Окно с полиэтиленовой плёнкой, прибитой к оконной раме гвоздями. Не на 100% герметично, но всё же это лучше, чем ничего.
 @base_window_foil_nailed_prefix=
 
-@base_window_bars_nailed_short=window with metal bars nailed to the frame
-@base_window_bars_nailed_long=A window with metal bars attached to the frame with some nails. Looks pretty solid.
+@base_window_bars_nailed_short=Окно с металлической решёткой, прибитой к оконной раме
+@base_window_bars_nailed_long=Окно с металлической решёткой, прибитой к оконной раме гвоздями. Выглядит надёжно.
 @base_window_bars_nailed_prefix=
 
-@base_window_net_taped_nailed_short=window with a net taped and nailed to the frame
-@base_window_net_taped_nailed_long=A window with a net attached to the frame with some duct tape AND nails.
+@base_window_net_taped_nailed_short=Окно с сеткой, приклеенной и прибитой к оконной раме
+@base_window_net_taped_nailed_long=Окно с сеткой, приделанной к оконной раме при помощи скотча И гвоздей.
 @base_window_net_taped_nailed_prefix=
 
-@base_window_foil_taped_nailed_short=window with plastic wrap taped and nailed to the frame
-@base_window_foil_taped_nailed_long=A window with plastic wrap attached to the frame with some duct tape AND nails. Looks more or less air-tight.
+@base_window_foil_taped_nailed_short=Окно с полиэтиленовой плёнкой, приклеенной и прибитой к оконной раме
+@base_window_foil_taped_nailed_long=Окно с полиэтиленовой плёнкой, приделанной к оконной раме при помощи скотча И гвоздей. Выглядит более-менее герметично.
 @base_window_foil_taped_nailed_prefix=
 
-@base_window_bars_taped_nailed_short=window with metal bars taped and nailed to the frame
-@base_window_bars_taped_nailed_long=A window with metal bars attached to the frame with some duct tape AND nails. Looks pretty solid.
+@base_window_bars_taped_nailed_short=Окно с металлической решёткой, приклеенной и прибитой к оконной раме
+@base_window_bars_taped_nailed_long=Окно с металлической решёткой, приделанной к оконной раме при помощи скотча И гвоздей. Выглядит надёжно.
 @base_window_bars_taped_nailed_prefix=
 
-@base_window_net_short=window with a net
+@base_window_net_short=Окно с сеткой
 @base_window_net_long=A window with a net hanging from the frame. It looks like it's about to fall with the first strong gust of wind.
 @base_window_net_prefix=
 
@@ -370,114 +370,114 @@
 @base_window_board_taped_nailed_long=A window with a wooden board nailed AND duct-taped to the wall.
 @base_window_board_taped_nailed_prefix=
 
-@base_window_broken_short=window
-@base_window_broken_long=A broken window.
+@base_window_broken_short=Окно
+@base_window_broken_long=Разбитое окно.
 @base_window_broken_prefix=
 
-@base_bathroom_entry_short=bathroom
-@base_bathroom_entry_long=A bathroom entry.
+@base_bathroom_entry_short=Ванная комната
+@base_bathroom_entry_long=Проход в ванную комнату.
 @base_bathroom_entry_prefix=
 
-@base_bathroom_exit_short=exit
-@base_bathroom_exit_long=A bathroom exit.
+@base_bathroom_exit_short=Выйти
+@base_bathroom_exit_long=Выйти из ванной комнаты.
 @base_bathroom_exit_prefix=
 
-@base_chimney__short=fireplace
-@base_chimney__long=A fireplace. It's empty and cold.
+@base_chimney__short=Камин
+@base_chimney__long=Камин пустой и холодный.
 @base_chimney__prefix=
 
-@base_chimney_1_short=fireplace
+@base_chimney_1_short=Камин
 @base_chimney_1_long=A fireplace with an old note as kindling.
 @base_chimney_1_prefix=
-@base_chimney_2_short=fireplace
+@base_chimney_2_short=Камин
 @base_chimney_2_long=A fireplace with some wads of cash as kindling.
 @base_chimney_2_prefix=
-@base_chimney_3_short=fireplace
+@base_chimney_3_short=Камин
 @base_chimney_3_long=A fireplace with a stack of papers as kindling.
 @base_chimney_3_prefix=
-@base_chimney_4_short=fireplace
+@base_chimney_4_short=Камин
 @base_chimney_4_long=A fireplace with an empty charcoal bag as kindling.
 @base_chimney_4_prefix=
-@base_chimney_A_short=fireplace
+@base_chimney_A_short=Камин
 @base_chimney_A_long=A fireplace filled with charcoal.
 @base_chimney_A_prefix=
-@base_chimney_B_short=fireplace
+@base_chimney_B_short=Камин
 @base_chimney_B_long=A fireplace filled with wooden planks.
 @base_chimney_B_prefix=
-@base_chimney_1A_short=fireplace
+@base_chimney_1A_short=Камин
 @base_chimney_1A_long=A fireplace filled with charcoal and an old note as kindling.
 @base_chimney_1A_prefix=
-@base_chimney_2A_short=fireplace
+@base_chimney_2A_short=Камин
 @base_chimney_2A_long=A fireplace filled with charcoal and some wads of cash as kindling.
 @base_chimney_2A_prefix=
-@base_chimney_3A_short=fireplace
+@base_chimney_3A_short=Камин
 @base_chimney_3A_long=A fireplace filled with charcoal and a stack of papers as kindling.
 @base_chimney_3A_prefix=
-@base_chimney_4A_short=fireplace
+@base_chimney_4A_short=Камин
 @base_chimney_4A_long=A fireplace filled with charcoal and an empty charcoal bag as kindling.
 @base_chimney_4A_prefix=
-@base_chimney_1B_short=fireplace
+@base_chimney_1B_short=Камин
 @base_chimney_1B_long=A fireplace filled with wooden planks and an old note as kindling.
 @base_chimney_1B_prefix=
-@base_chimney_2B_short=fireplace
+@base_chimney_2B_short=Камин
 @base_chimney_2B_long=A fireplace filled with wooden planks and some wads of cash as kindling.
 @base_chimney_2B_prefix=
-@base_chimney_3B_short=fireplace
+@base_chimney_3B_short=Камин
 @base_chimney_3B_long=A fireplace filled with wooden planks and a stack of papers as kindling.
 @base_chimney_3B_prefix=
-@base_chimney_4B_short=fireplace
+@base_chimney_4B_short=Камин
 @base_chimney_4B_long=A fireplace filled with wooden planks and an empty charcoal bag as kindling.
 @base_chimney_4B_prefix=
 
-@base_chimney_lit_short=lit fireplace
-@base_chimney_lit_long=A fireplace with a bright fire dancing within. It's nice and warm.
+@base_chimney_lit_short=Горящий камин
+@base_chimney_lit_long=Яркое пламя весело танцует в камине. Тепло и приятно.
 @base_chimney_lit_prefix=
 
-@base_chimney_basket_empty_short=kindling basket
-@base_chimney_basket_empty_long=A container for the fireplace's fuel. It's empty.
+@base_chimney_basket_empty_short=Корзина для угля
+@base_chimney_basket_empty_long=Деревянная корзина для угля или дров. Она пустая.
 @base_chimney_basket_empty_prefix=
 
-@base_chimney_basket_filled_short=kindling basket
-@base_chimney_basket_filled_long=A container for the fireplace's fuel. It's filled with stuff. I have to take a closer look to see what's inside.
+@base_chimney_basket_filled_short=Корзина для угля
+@base_chimney_basket_filled_long=Деревянная корзина для угля или дров. Мне нужно рассмотреть корзину поближе, чтобы понять, чем она заполнена.
 @base_chimney_basket_filled_prefix=
 
-@bathroom_bath_short=bath
-@bathroom_bath_long=A good old-fashioned ceramic bathtub.
+@bathroom_bath_short=Ванна
+@bathroom_bath_long=Немного старомодная керамическая ванна.
 @bathroom_bath_prefix=
 
-@bathroom_mirror_short=mirror
-@bathroom_mirror_long=A bathroom mirror. A bit dusty.
+@bathroom_mirror_short=Зеркало
+@bathroom_mirror_long=Немного пыльное зеркало.
 @bathroom_mirror_prefix=
 
-@kitchen_towel_short=towel
-@kitchen_towel_long=A kitchen towel.
+@kitchen_towel_short=Полотенце
+@kitchen_towel_long=Кухонное полотенце.
 @kitchen_towel_prefix=
 
-@bathroom_towel_short=towel
-@bathroom_towel_long=A bathroom towel.
+@bathroom_towel_short=Полотенце
+@bathroom_towel_long=Полотенце для ванной комнаты.
 @bathroom_towel_prefix=
 
-@house_key_short=keys
-@house_key_long=A set of house keys.
+@house_key_short=Ключи
+@house_key_long=Ключи от дома.
 @house_key_prefix=
 
 @information_exit_prefix=
-@information_exit_short=Exit
-@information_exit_long=Exit
+@information_exit_short=Закрыть дневник
+@information_exit_long=Закрыть дневник
 
 @information_next_prefix=
-@information_next_short=Next page
-@information_next_long=Next page
+@information_next_short=Следующая страница
+@information_next_long=Следующая страница
 
 @information_prev_prefix=
-@information_prev_short=Previous page
-@information_prev_long=Previous page
+@information_prev_short=Предыдущая страница
+@information_prev_long=Предыдущая страница
 
 @barn_haystack_short=haystack
 @barn_haystack_long=Wow, a haystack. I wonder if there's a needle in it.
 @barn_haystack_prefix=
 
-@barn_pipe_to_pick_short=short pipe
+@barn_pipe_to_pick_short=Короткая труба
 @barn_pipe_to_pick_long=A short pipe, a bit rusty here and there.
 @barn_pipe_to_pick_prefix=
 
@@ -537,23 +537,23 @@
 @pesttruck_locker_long=A metal locker. I wonder what's inside.
 @pesttruck_locker_prefix=
 
-@pest_can_short=can of pesticide
-@pest_can_long=The label says it's a strong pesticide that is harmful to all bugs and insects. And life in general, I guess. It should be used after mixing with water.
+@pest_can_short=Банка пестицидов
+@pest_can_long=На этикетке написано, что это мощный пестицид, который вреден для жуков и насекомых. Думаю, мне нужно смешать его с водой.
 @pest_can_prefix=
 
-@pest_note_short=sticky note
-@pest_note_long=There are some bug pictures and labels on it. Maybe I should pick it up and take a closer look...
+@pest_note_short=Стикер
+@pest_note_long=На стикере есть несколько надписей и картинок с жуками. Может, стоит рассмотреть поближе?...
 @pest_note_prefix=
 
-@gas_note_short=sticky note
-@gas_note_long=There is something written on it. Maybe I should pick it up and take a closer look...
+@gas_note_short=Стикер
+@gas_note_long=На стикере что-то написано. Может, стоит рассмотреть поближе?...
 @gas_note_prefix=
 
-@spider_note_short=sticky note
-@spider_note_long=There is something written on it, with some pictures below. Maybe I should pick it up and take a closer look...
+@spider_note_short=Стикер
+@spider_note_long=На стикере есть несколько надписей с картинками. Может, стоит рассмотреть поближе?...
 @spider_note_prefix=
 
-@pest_ducttape_short=duct tape
+@pest_ducttape_short=Скотч
 @pest_ducttape_long=Strong, water resistant duct tape hangs on a small hook in the locker.
 @pest_ducttape_prefix=
 
@@ -561,20 +561,20 @@
 @pesttruck_bear_traps_long=These guys must have been prepared for everything. Those bear traps look really dangerous.
 @pesttruck_bear_traps_prefix=
 
-@pesttruck_bear_trap_short=bear trap
+@pesttruck_bear_trap_short=Медвежий капкан
 @pesttruck_bear_trap_long=A single bear trap remains here after I took the other one.
 @pesttruck_bear_trap_prefix=
 
-@chemsuit_dmg_short=hazmat suit
+@chemsuit_dmg_short=Защитный костюм
 @chemsuit_dmg_long=A yellow hazmat suit with gloves, boots and a gas mask. I should check it more closely.
 @chemsuit_dmg_prefix=
 
-@chem_glass_short=empty chemistry flask
-@chem_glass_long=A glass intended for short-term storage of chemical substances.
+@chem_glass_short=Пустая химическая колба
+@chem_glass_long=Предназначена для кратковременного хранения химических веществ.
 @chem_glass_prefix=
 
-@sonic_short=weird device
-@sonic_long=The label says "Sonic Repellent Device". This device is supposedly used to fend off bugs and insects.
+@sonic_short=Странное устройство
+@sonic_long=Надпись гласит: "Ультразвуковое поражающее устройство". Скорее всего оно предназначено для борьбы с жуками и насекомыми.
 @sonic_prefix=
 
 @gas_truck_locked_prefix=
@@ -606,20 +606,20 @@
 @pest_truck_long=It's beyond any repair. The back door is open.
 
 @pest_truck_spider_pest1_prefix=
-@pest_truck_spider_pest1_short=can labeled "A-13"
-@pest_truck_spider_pest1_long=It seems to be some sort of aromatic repellent.
+@pest_truck_spider_pest1_short=Банка с пометкой "A-13"
+@pest_truck_spider_pest1_long=Кажется, это какой-то ароматический репеллент.
 
 @pest_truck_spider_pest2_prefix=
-@pest_truck_spider_pest2_short=can labeled "B-11"
-@pest_truck_spider_pest2_long=It seems to be some sort of aromatic repellent.
+@pest_truck_spider_pest2_short=Банка с пометкой "B-11"
+@pest_truck_spider_pest2_long=Кажется, это какой-то ароматический репеллент.
 
 @pest_truck_spider_pest3_prefix=
-@pest_truck_spider_pest3_short=can labeled "A-18"
-@pest_truck_spider_pest3_long=It seems to be some sort of aromatic repellent.
+@pest_truck_spider_pest3_short=Банка с пометкой "A-18"
+@pest_truck_spider_pest3_long=Кажется, это какой-то ароматический репеллент.
 
 @pest_truck_spider_pest4_prefix=
-@pest_truck_spider_pest4_short=can labeled "B-36"
-@pest_truck_spider_pest4_long=It seems to be some sort of aromatic repellent.
+@pest_truck_spider_pest4_short=Банка с пометкой "B-36"
+@pest_truck_spider_pest4_long=Кажется, это какой-то ароматический репеллент.
 
 @gas_truck_prefix=
 @gas_truck_short=Chemical emergency response
@@ -714,8 +714,8 @@
 @barn_console_reset_long=This button disables all sprinklers.
 
 @pipe_to_pick_prefix=
-@pipe_to_pick_short=short pipe
-@pipe_to_pick_long=A short, metal pipe.
+@pipe_to_pick_short=Короткая труба
+@pipe_to_pick_long=Короткая металлическая труба.
 
 @greenhouse_nails_prefix=
 @greenhouse_nails_short=greenhouse
@@ -726,12 +726,12 @@
 @greenhouse_no_nails_long=There is nothing left of the greenhouse other than a pile of rotten planks.
 
 @greenhouse_sprayer_prefix=
-@greenhouse_sprayer_short=water sprayer
+@greenhouse_sprayer_short=Распылитель
 @greenhouse_sprayer_long=A handheld water sprayer. It's empty.
 
-@bridge_drone_short=weather drone
+@bridge_drone_short=Метеорологический дрон
 @bridge_drone_prefix=
-@bridge_drone_long=An automated drone used to measure weather conditions. Looks like it's too damaged to ever fly again.
+@bridge_drone_long=Автоматизированный дрон, используется для измерения погодных условий. Похоже, он серьёзно повредился во время последнего приземления.
 
 @bridge_spade_prefix=
 @bridge_spade_short=small spade
@@ -762,7 +762,7 @@
 @gasstation_canister_long=Maybe there's some fuel in it...
 
 @gasstation_charcoal_prefix=
-@gasstation_charcoal_short=bag of charcoal
+@gasstation_charcoal_short=Мешок угля
 @gasstation_charcoal_long=If I ever happen to fancy a barbecue...
 
 @gasstation_newspaper_prefix=
@@ -778,7 +778,7 @@
 @gasstation_net_long=It's a large piece of a window net. It seems really strong.
 
 @gasstation_bars_prefix=
-@gasstation_bars_short=metal bars
+@gasstation_bars_short=Металлическая решётка
 @gasstation_bars_long=A heavy frame of metal bars.
 
 @gasstation_tank_canister_full_prefix=
@@ -845,8 +845,8 @@
 @attic_hatch1_long=A way back to the upper floor.
 @attic_hatch1_prefix=
 
-@ext_cord_short=extension cord
-@ext_cord_long=A few meters of cord with an electrical socket at one end.
+@ext_cord_short=Удлинитель
+@ext_cord_long=Несколько метров кабеля с розетками на конце.
 @ext_cord_prefix=
 
 @attic_hatch2_short=hatch
@@ -857,8 +857,8 @@
 @attic_hatch3_long=A hatch that leads outside to the roof.
 @attic_hatch3_prefix=
 
-@screwdriver_short=screwdriver
-@screwdriver_long=A handy tool.
+@screwdriver_short=Отвёртка
+@screwdriver_long=Удобный инструмент.
 @screwdriver_prefix=
 
 @helicopter_short=helicopter wreck
@@ -873,7 +873,7 @@
 @roof_hatch_long=A hatch that leads back to the attic.
 @roof_hatch_prefix=
 
-@deadbird_short=dead bird
+@deadbird_short=Мёртвая птица
 @deadbird_long=A mummified carcase of a bird. I don't see a reason to carry this around...
 @deadbird_prefix=
 
@@ -929,7 +929,7 @@
 @npc_grave_long=A pile of rocks and rubble. He deserved a better burial, but it is all we were able to give him.
 @npc_grave_prefix=
 
-@house_b_inside_body_short=body
+@house_b_inside_body_short=Труп
 @house_b_inside_body_long=Barry's wife's body.
 @house_b_inside_body_prefix=
 
@@ -961,8 +961,8 @@
 @house_b_inside_picture_long=A picture depicts a lighthouse by the sea.
 @house_b_inside_picture_prefix=
 
-@house_b_inside_sheet_short=bed sheet
-@house_b_inside_sheet_long=A thin, white bed sheet.
+@house_b_inside_sheet_short=Простыня
+@house_b_inside_sheet_long=Обычная простыня.
 @house_b_inside_sheet_prefix=
 
 @house_b_inside_coat_short=coat
@@ -973,11 +973,11 @@
 @house_b_inside_rubble_long=The rest of the house has collapsed into a pile of rubble.
 @house_b_inside_rubble_prefix=
 
-@house_b_back_hose_1_short=short hose
+@house_b_back_hose_1_short=Пожарный шланг
 @house_b_back_hose_1_long=A short, rubber hose. It's connected to the gas tank's valve.
 @house_b_back_hose_1_prefix=
 
-@house_b_back_hose_2_short=short hose
+@house_b_back_hose_2_short=Пожарный шланг
 @house_b_back_hose_2_long=A short, rubber hose.
 @house_b_back_hose_2_prefix=
 
@@ -985,7 +985,7 @@
 @house_b_back_ground_long=Soft ground.
 @house_b_back_ground_prefix=
 
-@house_b_back_tank_short=propane tank
+@house_b_back_tank_short=Баллон с пропаном
 @house_b_back_tank_long=A gas tank filled with propane ... probably. I think it was used as the kitchen's fuel supply.
 @house_b_back_tank_prefix=
 
@@ -993,8 +993,8 @@
 @house_b_garage_long=Sturdy looking metal door.
 @house_b_garage_prefix=
 
-@house_b_shovel_short=shovel
-@house_b_shovel_long=A shovel. Good for digging holes.
+@house_b_shovel_short=Лопата
+@house_b_shovel_long=Лопата. Хороший инструмент для копания.
 @house_b_shovel_prefix=
 
 @house_b_car_short=car wreck
@@ -1041,7 +1041,7 @@
 @restaurant_door_long=A heavy, closed door.
 @restaurant_door_prefix=
 
-@restaurant_ac_short=portable air conditioner
+@restaurant_ac_short=Портативный кондиционер
 @restaurant_ac_long=It's big and heavy but can be moved. Still, it needs to be installed near an opening like a window, so the pipe can lead the hot air out.
 @restaurant_ac_prefix=
 
@@ -1053,7 +1053,7 @@
 @restaurant_fridge_water2_long=Bottles of water in the refrigerator.
 @restaurant_fridge_water2_prefix=
 
-@restaurant_fridge_water1_short=bottle of water
+@restaurant_fridge_water1_short=Бутылка воды
 @restaurant_fridge_water1_long=A bottle of water in the refrigerator.
 @restaurant_fridge_water1_prefix=
 
@@ -1073,11 +1073,11 @@
 @restaurant_backdoor_long=Restaurant's backdoor.
 @restaurant_backdoor_prefix=
 
-@restaurant_knife_short=kitchen knife
-@restaurant_knife_long=A rather blunt kitchen knife.
+@restaurant_knife_short=Кухонный нож
+@restaurant_knife_long=Немного тупой кухонный нож.
 @restaurant_knife_prefix=
 
-@restaurant_can_short=can of meat
+@restaurant_can_short=Консервированное мясо
 @restaurant_can_long=A tin can. The label claims it contains delicious canned meat, expiring in two weeks.
 @restaurant_can_prefix=
 
@@ -1089,11 +1089,11 @@
 @restaurant_pole_clamp_long=The clamp that is holding the rope is kept in place by a release mechanism. The lever is missing.
 @restaurant_pole_clamp_prefix=
 
-@restaurant_rope_short=rope
+@restaurant_rope_short=Верёвка
 @restaurant_rope_long=A rope attached to the flag on top of this pole.
 @restaurant_rope_prefix=
 
-@rv_hook_short=hook
+@rv_hook_short=Крюк
 @rv_hook_long=A towing hook attached to the RV.
 @rv_hook_prefix=
 
@@ -1101,7 +1101,7 @@
 @rv_exit_long=A door that leads out of the RV.
 @rv_exit_prefix=
 
-@rv_door_short=door
+@rv_door_short=Дверь
 @rv_door_long=RV's door.
 @rv_door_prefix=
 
@@ -1114,11 +1114,11 @@
 @rv_clothes_prefix=
 
 
-@rv_water1_short=two bottles of water
+@rv_water1_short=Две бутылки воды
 @rv_water1_long=A pair of plastic water bottles.
 @rv_water1_prefix=
 
-@rv_water2_short=bottle of water
+@rv_water2_short=Бутылка воды
 @rv_water2_long=A plastic water bottle.
 @rv_water2_prefix=
 
@@ -1138,15 +1138,15 @@
 @house_b_heater_long=A device that blows hot air after plugging it into electricity.
 @house_b_heater_prefix=
 
-@house_b_fan_short=fan
-@house_b_fan_long=An electric fan.
+@house_b_fan_short=Вентилятор
+@house_b_fan_long=Электрический вентилятор.
 @house_b_fan_prefix=
 
 @rv_blanket_short=big blanket
 @rv_blanket_long=It's thick and heavy.
 @rv_blanket_prefix=
 
-@rv_generator_short=portable generator
+@rv_generator_short=Портативный генератор
 @rv_generator_long=I wonder if it has any fuel. Doubtful, knowing my luck.
 @rv_generator_prefix=
 
@@ -1154,49 +1154,49 @@
 @rv_rocks_long=The boulders have formed a large rock structure here. It's covered with cracks and crevices.
 @rv_rocks_prefix=
 
-@rv_rocks_rope_short=hook
+@rv_rocks_rope_short=Крюк
 @rv_rocks_rope_long=The hook is pushed in a crack between rocks.
 @rv_rocks_rope_prefix=
 @rv_rocks_prefix=
 
-@rv_body1_gas_short=body
+@rv_body1_gas_short=Труп
 @rv_body1_gas_long=A body hanging out of the window. Looks like this person was killed by the corrosive gas from last night.
 @rv_body1_gas_prefix=
 
-@rv_body1_bugs_short=body
+@rv_body1_bugs_short=Труп
 @rv_body1_bugs_long=A body hanging out of the window. Looks like this person was killed by the swarm of insects from last night.
 @rv_body1_bugs_prefix=
 
-@rv_body1_spiders_short=body
+@rv_body1_spiders_short=Труп
 @rv_body1_spiders_long=A body hanging out of the window. Looks like this person was killed by the giant spiders from last night.
 @rv_body1_spiders_prefix=
 @rv_body1_bugs_prefix=
 
-@rv_body1_cold_short=body
+@rv_body1_cold_short=Труп
 @rv_body1_cold_long=A body hanging out of the window. It's frozen solid.
 @rv_body1_cold_prefix=
 
-@rv_body1_hot_short=body
+@rv_body1_hot_short=Труп
 @rv_body1_hot_long=A body hanging out of the window. It's cooked.
 @rv_body1_hot_prefix=
 
-@rv_body2_cold_short=body
+@rv_body2_cold_short=Труп
 @rv_body2_cold_long=It's frozen solid.
 @rv_body2_cold_prefix=
 
-@rv_body2_hot_short=body
+@rv_body2_hot_short=Труп
 @rv_body2_hot_long=It's fried to coal.
 @rv_body2_hot_prefix=
 
-@rv_body2_gas_short=body
+@rv_body2_gas_short=Труп
 @rv_body2_gas_long=Another victim of the deadly gas...
 @rv_body2_gas_prefix=
 
-@rv_body2_bugs_short=body
+@rv_body2_bugs_short=Труп
 @rv_body2_bugs_long=Another victim of the locust swarm...
 @rv_body2_bugs_prefix=
 
-@rv_body2_spiders_short=body
+@rv_body2_spiders_short=Труп
 @rv_body2_spiders_long=Another victim of the spiders...
 @rv_body2_spiders_prefix=
 
@@ -1312,35 +1312,35 @@
 @cave_fan_on_long=An electric fan placed on the ground, cooling the cave with some air circulation.
 @cave_fan_on_prefix=
 
-@kitchen_oven_short=oven
+@kitchen_oven_short=Духовка
 @kitchen_oven_long=An electric kitchen oven.
 @kitchen_oven_prefix=
 
-@kitchen_oven_hot_short=oven
+@kitchen_oven_hot_short=Духовка
 @kitchen_oven_hot_long=An electric kitchen oven, so warmed up I could bake a cake in it.
 @kitchen_oven_hot_prefix=
 
-@attic_hatch_thing_flag_short=flag
+@attic_hatch_thing_flag_short=Флаг
 @attic_hatch_thing_flag_long=This should isolate the temperature change from the attic a bit.
 @attic_hatch_thing_flag_prefix=
 
-@attic_hatch_thing_blanket_short=blanket
+@attic_hatch_thing_blanket_short=Одеяло
 @attic_hatch_thing_blanket_long=This should isolate the temperature change from the attic a bit.
 @attic_hatch_thing_blanket_prefix=
 
-@attic_hatch_thing_thermalb_short=thermal blanket
+@attic_hatch_thing_thermalb_short=Термоодеяло
 @attic_hatch_thing_thermalb_long=This should isolate the temperature change from the attic a bit.
 @attic_hatch_thing_thermalb_prefix=
 
-@rv_cave_thing_flag_short=flag
+@rv_cave_thing_flag_short=Флаг
 @rv_cave_thing_flag_long=This should isolate the temperatures between the cave and the outside a bit.
 @rv_cave_thing_flag_prefix=
 
-@rv_cave_thing_blanket_short=blanket
+@rv_cave_thing_blanket_short=Одеяло
 @rv_cave_thing_blanket_long=This should isolate the temperatures between the cave and the outside a bit.
 @rv_cave_thing_blanket_prefix=
 
-@rv_cave_thing_thermalb_short=thermal blanket
+@rv_cave_thing_thermalb_short=Термоодеяло
 @rv_cave_thing_thermalb_long=This should isolate the temperatures between the cave and the outside a bit.
 @rv_cave_thing_thermalb_prefix=
 
@@ -1476,7 +1476,7 @@
 @sidereal_body_long=The mummified body of a long-dead worker. I could say something about working overtime, but I'm not really in the mood for jokes.
 @sidereal_body_prefix=
 
-@sidereal_papers_short=fax document
+@sidereal_papers_short=Документ из факса
 @sidereal_papers_long=A document in the receiving end of the fax machine.
 @sidereal_papers_prefix=
 
@@ -1614,7 +1614,7 @@
 @sidereal_silencer_long=A ... gun silencer?
 @sidereal_silencer_prefix=
 
-@lab_vials_short=set of vials
+@lab_vials_short=Набор пробирок
 @lab_vials_long=Colorful vials with different labels.
 @lab_vials_prefix=
 
@@ -1638,19 +1638,19 @@
 @lodge_to_inside2_long=Lodge's small pantry room.
 @lodge_to_inside2_prefix=
 
-@hunters_scope_short=rifle scope
-@hunters_scope_long=It could be installed on a rifle, making it more accurate.
+@hunters_scope_short=Прицел для винтовки
+@hunters_scope_long=Можно повысить точность стрельбы, если установить прицел на винтовку.
 @hunters_scope_prefix=
 
 @hunters_whiskey_prefix=
-@hunters_whiskey_short=bottle of whiskey
-@hunters_whiskey_long=A big bottle of strong whiskey.
+@hunters_whiskey_short=Бутылка виски
+@hunters_whiskey_long=Большая бутылка крепкого виски.
 
 @lodge_to_back_short=path to back
 @lodge_to_back_long=A path to the back of the lodge.
 @lodge_to_back_prefix=
 
-@lodge_back_trap_short=bear trap
+@lodge_back_trap_short=Медвежий капкан
 @lodge_back_trap_long=A bear trap on the ground.
 @lodge_back_trap_prefix=
 
@@ -1683,11 +1683,11 @@
 @hunters_picture_prefix=
 @lodge_horns_prefix=
 
-@hunters_chimney_short=fireplace
+@hunters_chimney_short=Камин
 @hunters_chimney_long=It's empty. Smells like ash.
 @hunters_chimney_prefix=
 
-@hunters_trap4_short=bear trap
+@hunters_trap4_short=Медвежий капкан
 @hunters_trap4_long=A bear trap on the maintenance table.
 @hunters_trap4_prefix=
 
@@ -1736,7 +1736,7 @@
 @cs_maggot_long=There are some disgusting maggots in this rotting corpse.
 
 @cs_welder_prefix=
-@cs_welder_short=welding kit
+@cs_welder_short=Сварочный комплект
 @cs_welder_long=Welding equipment and a welder's mask.
 
 @cs_waypoint_2_1_prefix=
@@ -1768,7 +1768,7 @@
 @cs_buckle_rope_long=A round metal buckle on support beams. I hung a rope from it.
 
 @cs_rope_prefix=
-@cs_rope_short=rope
+@cs_rope_short=Верёвка
 @cs_rope_long=I could climb up or down that rope.
 
 @dead_cody_heat_prefix=
@@ -1804,15 +1804,15 @@
 @restaurant_threat_spiders_long=Hopefully no spiders around...
 
 @restaurant_poision_prefix=
-@restaurant_poision_short=bottle of rat poison
+@restaurant_poision_short=Крысиный яд
 @restaurant_poision_long=The label says it's really strong.
 
 @restaurant_oil_prefix=
-@restaurant_oil_short=bottle of oil
-@restaurant_oil_long=A bottle of kitchen oil.
+@restaurant_oil_short=Бутылка растительного масла
+@restaurant_oil_long=Бутылка растительного масла.
 
 @gasstation_sarge1_prefix=
-@gasstation_sarge1_short=Sarge
+@gasstation_sarge1_short=Сержант
 @gasstation_sarge1_long=A man with a mustache, wearing torn remains of an army uniform.
 
 @gasstation_window_away_prefix=
@@ -1820,15 +1820,15 @@
 @gasstation_window_away_long=Go back to the gas station shop.
 
 @gasstation_window_prefix=
-@gasstation_window_short=window
+@gasstation_window_short=Окно
 @gasstation_window_long=A window to the back of the gas station.
 
 @grave_barry_prefix=
-@grave_barry_short=Barry
+@grave_barry_short=Барри
 @grave_barry_long=Barry's grave
 
 @grave_cody_prefix=
-@grave_cody_short=Cody
+@grave_cody_short=Коди
 @grave_cody_long=Cody's grave
 
 @fuse_piece_prefix=
@@ -1908,15 +1908,15 @@
 @outpost_doorway_long=A doorway to a room.
 
 @outpost_remote_prefix=
-@outpost_remote_short=remote controller
-@outpost_remote_long=A slide projector remote.
+@outpost_remote_short=Пульт дистанционного управления проектором
+@outpost_remote_long=Пульт дистанционного управления проектором.
 
 @outpost_card_prefix=
-@outpost_card_short=access card
-@outpost_card_long=An access card. Looks super important.
+@outpost_card_short=Карта доступа
+@outpost_card_long=Карта доступа. Выглядит как что-то очень важное.
 
 @outpost_item1_prefix=
-@outpost_item1_short=weird device
+@outpost_item1_short=Странное устройство
 @outpost_item1_long=What could that be? I have to take a closer look.
 
 @outpost_back_corridor_prefix=
@@ -1964,7 +1964,7 @@
 @bus_fingerprint2_long=A fingerprint covered with a dried glue mold.
 
 @bus_key_prefix=
-@bus_key_short=key
+@bus_key_short=Ключ
 @bus_key_long=A key sitting on the back seat of the bus. It has a small label on it.
 
 @airplane_exit_prefix=
@@ -2392,19 +2392,19 @@
 @lodge_socket_long=An electrical outlet in the wall.
 
 @lodge_socket_connected_prefix=
-@lodge_socket_connected_short=extension cord
+@lodge_socket_connected_short=Удлинитель
 @lodge_socket_connected_long=An extension cord plugged into the electrical outlet.
 
 @lodge_window_prefix=
-@lodge_window_short=broken window
+@lodge_window_short=Разбитое окно
 @lodge_window_long=A window with no glass left in it.
 
 @broom_prefix=
-@broom_short=broomstick
-@broom_long=An old, wooden broomstick.
+@broom_short=Швабра
+@broom_long=Старая деревянная швабра.
 
 @lodge_cord_prefix=
-@lodge_cord_short=extension cord
+@lodge_cord_short=Удлинитель
 @lodge_cord_long=An extension cord connected to the outlet in the lodge.
 
 @lodge_tree_prefix=
@@ -2440,7 +2440,7 @@
 @tutorial_pole_long=One particular wooden pole seems to be in good condition...
 
 @tutorial_hammerhead_prefix=
-@tutorial_hammerhead_short=sledgehammer head
+@tutorial_hammerhead_short=Головка кувалды
 @tutorial_hammerhead_long=That's one big hammer head. Too bad it doesn't have a handle.
 
 @base_chest_prefix=
@@ -2448,7 +2448,7 @@
 @base_chest_long=A big, heavy chest with a lot of space inside. I can use it to store items.
 
 @dream_tiger_prefix=
-@dream_tiger_short=plush tiger
+@dream_tiger_short=Плюшевый тигр
 @dream_tiger_long=A small plush toy tiger sits on the bed.
 
 @dream_maggie_prefix=
@@ -2520,15 +2520,15 @@
 @base_ditches_long=Ditches I've dug around the base to help deal with stormwater.
 
 @boards1_prefix=
-@boards1_short=wooden board
+@boards1_short=Деревянная доска
 @boards1_long=A wide, wooden board treated with some sort of sealer, judging by the smell.
 
 @boards2_prefix=
-@boards2_short=wooden boards
+@boards2_short=Деревянная доска
 @boards2_long=Two wooden boards, treated with some sort of sealer, judging by their smell.
 
 @boards3_prefix=
-@boards3_short=wooden boards
+@boards3_short=Деревянная доска
 @boards3_long=Three wooden boards, treated with some sort of sealer, judging by their smell.
 
 @impregnator_prefix=
@@ -2581,5 +2581,5 @@
 @attic_roof_destroyed_long=The roof is non-existent.
 
 @mixer_note_prefix=
-@mixer_note_short=chemical formula
-@mixer_note_long=A note with a chemical formula on it.
+@mixer_note_short=Химическая формула
+@mixer_note_long=Заметка с химической формулой.
