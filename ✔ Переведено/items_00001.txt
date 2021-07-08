@@ -216,13 +216,13 @@
 
 @window_foil1_prefix=
 @window_foil1_short=Полиэтиленовая плёнка
-@window_foil1_long=Рулон полиэтиленовой плёнки.
+@window_foil1_long=Рулон полиэтиленовой плёнки, обладает светопоглощающим свойством.
 @window_foil2_prefix=
 @window_foil2_short=Полиэтиленовая плёнка
-@window_foil2_long=Рулон полиэтиленовой плёнки.
+@window_foil2_long=Рулон полиэтиленовой плёнки, обладает светопоглощающим свойством.
 @window_foil3_prefix=
 @window_foil3_short=Полиэтиленовая плёнка
-@window_foil3_long=Рулон полиэтиленовой плёнки.
+@window_foil3_long=Рулон полиэтиленовой плёнки, обладает светопоглощающим свойством.
 
 @lighter_prefix=
 @lighter_short=Зажигалка
