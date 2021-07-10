@@ -46,7 +46,7 @@
 @dream_window_long=За окном тёмная ночь...
 @dream_window_prefix=
 
-@intro_desert_short=Идти дальше
+@intro_desert_short=Продолжить путешествие
 @intro_desert_long=Думаю, мне нужно идти дальше...
 @intro_desert_prefix=
 
@@ -102,12 +102,12 @@
 @tutorial_wall2_long=Я могу перебраться на другую сторону.
 @tutorial_wall2_prefix=
 
-@house_front_short=К передней части дома
-@house_front_long=Дорожка, ведущая к передней части дома.
+@house_front_short=Левая сторона дома
+@house_front_long=Обойти дом слева.
 @house_front_prefix=
 
-@house_back_short=Обойти дом
-@house_back_long=Дорожка, ведущая за дом.
+@house_back_short=Правая сторона дома
+@house_back_long=Обойти дом справа.
 @house_back_prefix=
 
 @barn_entry_short=Сарай
@@ -131,7 +131,7 @@
 @car_prefix=
 
 @car_trunk_short=Багажник
-@car_trunk_long=Автомобильный багажник для перевозки предметов.
+@car_trunk_long=Автомобильный багажник.
 @car_trunk_prefix=
 
 @down_hill_short=Спуститься вниз
@@ -139,7 +139,7 @@
 @down_hill_prefix=
 
 @base_path_short=Дорожка
-@base_path_long=Дорожка в сторону дома.
+@base_path_long=Песчаная дорожка.
 @base_path_prefix=
 
 @up_hill_short=Подняться наверх
@@ -199,7 +199,7 @@
 @base_entry_prefix=
 
 @base_exit_short=Выйти
-@base_exit_long=Этот проход ведёт к передней части дома.
+@base_exit_long=Выйти из дома.
 @base_exit_prefix=
 
 @base_painting_short=Картина
@@ -239,135 +239,135 @@
 @base_broken_pc_prefix=
 
 @base_window_net_short=Окно с сеткой
-@base_window_net_long=Окно с сеткой, свисающей с оконной рамы. Сетка выглядит так, как будто вот-вот сорвётся при сильном порыве ветра.
+@base_window_net_long=Окно с сеткой, свисающей с оконной рамы. Выглядит так, будто сетка вот-вот сорвётся при сильном порыве ветра.
 @base_window_net_prefix=
 
 @base_window_foil_short=Окно с полиэтиленовой плёнкой
-@base_window_foil_long=Окно с полиэтиленовой плёнкой, свисающей с оконной рамы. Плёнка выглядит так, как будто вот-вот сорвётся при сильном порыве ветра.
+@base_window_foil_long=Окно с полиэтиленовой плёнкой, свисающей с оконной рамы. Выглядит так, будто плёнка вот-вот сорвётся при сильном порыве ветра.
 @base_window_foil_prefix=
 
 @base_window_bars_short=Окно с металлической решёткой
-@base_window_bars_long=Окно с металлической решёткой на подоконнике. Её нужно прочно прикрепить к окну, потому что в данный момент от неё особо не будет...
+@base_window_bars_long=Окно с металлической решёткой на подоконнике. Её нужно прочно прикрепить к окну, потому что в данный момент от неё особо не будет толку.
 @base_window_bars_prefix=
 
-@base_window_net_taped_short=Окно с сеткой, приклеенной к оконной раме
-@base_window_net_taped_long=Окно с сеткой, приклеенной к оконной раме скотчем. Честно говоря, это не выглядит долговечным.
+@base_window_net_taped_short=Окно с приклеенной сеткой
+@base_window_net_taped_long=Окно с сеткой, приклеенной скотчем к оконной раме. Честно говоря, это не выглядит долговечным.
 @base_window_net_taped_prefix=
 
-@base_window_foil_taped_short=Окно с полиэтиленовой плёнкой, приклеенной к оконной раме
-@base_window_foil_taped_long=Окно с полиэтиленовой плёнкой, приклеенной к оконной раме скотчем. Выглядит более-менее герметично.
+@base_window_foil_taped_short=Окно с приклееной полиэтиленовой плёнкой
+@base_window_foil_taped_long=Окно с полиэтиленовой плёнкой, приклеенной скотчем к оконной раме. Выглядит более-менее герметично.
 @base_window_foil_taped_prefix=
 
-@base_window_bars_taped_short=Окно с металлической решёткой, приклеенной к оконной раме
-@base_window_bars_taped_long=Окно с металлической решёткой, приклеенной к оконной раме скотчем. Решётка довольно тяжёлая. Может быть, скотч - не лучшая идея...?
+@base_window_bars_taped_short=Окно с приклеенной металлической решёткой
+@base_window_bars_taped_long=Окно с металлической решёткой, приклеенной скотчем к оконной раме. Решётка довольно тяжёлая. Может быть, скотч - не лучшая идея...?
 @base_window_bars_taped_prefix=
 
-@base_window_net_nailed_short=Окно с сеткой, прибитой к оконной раме
-@base_window_net_nailed_long=Окно с сеткой, прибитой к оконной раме гвоздями. Выглядит надёжно.
+@base_window_net_nailed_short=Окно с прибитой сеткой
+@base_window_net_nailed_long=Окно с сеткой, прибитой гвоздями к оконной раме. Выглядит надёжно.
 @base_window_net_nailed_prefix=
 
-@base_window_foil_nailed_short=Окно с полиэтиленовой плёнкой, прибитой к оконной раме
-@base_window_foil_nailed_long=Окно с полиэтиленовой плёнкой, прибитой к оконной раме гвоздями. Не на 100% герметично, но всё же это лучше, чем ничего.
+@base_window_foil_nailed_short=Окно с прибитой полиэтиленовой плёнкой
+@base_window_foil_nailed_long=Окно с полиэтиленовой плёнкой, прибитой гвоздями к оконной раме. Не на 100% герметично, но всё же это лучше, чем ничего.
 @base_window_foil_nailed_prefix=
 
-@base_window_bars_nailed_short=Окно с металлической решёткой, прибитой к оконной раме
-@base_window_bars_nailed_long=Окно с металлической решёткой, прибитой к оконной раме гвоздями. Выглядит надёжно.
+@base_window_bars_nailed_short=Окно с прибитой металлической решёткой
+@base_window_bars_nailed_long=Окно с металлической решёткой, прибитой гвоздями к оконной раме. Выглядит надёжно.
 @base_window_bars_nailed_prefix=
 
-@base_window_net_taped_nailed_short=Окно с сеткой, приклеенной и прибитой к оконной раме
-@base_window_net_taped_nailed_long=Окно с сеткой, приделанной к оконной раме при помощи скотча И гвоздей.
+@base_window_net_taped_nailed_short=Окно с прибитой и приклеенной сеткой
+@base_window_net_taped_nailed_long=Окно с сеткой, приделанной к оконной раме при помощи скотча и гвоздей.
 @base_window_net_taped_nailed_prefix=
 
-@base_window_foil_taped_nailed_short=Окно с полиэтиленовой плёнкой, приклеенной и прибитой к оконной раме
-@base_window_foil_taped_nailed_long=Окно с полиэтиленовой плёнкой, приделанной к оконной раме при помощи скотча И гвоздей. Выглядит более-менее герметично.
+@base_window_foil_taped_nailed_short=Окно с прибитой и приклеенной полиэтиленовой плёнкой
+@base_window_foil_taped_nailed_long=Окно с полиэтиленовой плёнкой, приделанной к оконной раме при помощи скотча и гвоздей. Выглядит более-менее герметично.
 @base_window_foil_taped_nailed_prefix=
 
-@base_window_bars_taped_nailed_short=Окно с металлической решёткой, приклеенной и прибитой к оконной раме
-@base_window_bars_taped_nailed_long=Окно с металлической решёткой, приделанной к оконной раме при помощи скотча И гвоздей. Выглядит надёжно.
+@base_window_bars_taped_nailed_short=Окно с прибитой и приклеенной металлической решёткой
+@base_window_bars_taped_nailed_long=Окно с металлической решёткой, приделанной к оконной раме при помощи скотча и гвоздей. Выглядит надёжно.
 @base_window_bars_taped_nailed_prefix=
 
 @base_window_net_short=Окно с сеткой
-@base_window_net_long=A window with a net hanging from the frame. It looks like it's about to fall with the first strong gust of wind.
+@base_window_net_long=Окно с сеткой, свисающей с оконной рамы. Выглядит так, будто сетка вот-вот сорвётся при сильном порыве ветра.
 @base_window_net_prefix=
 
-@base_window_therm_short=window with a thermal blanket
-@base_window_therm_long=A window with a thermal blanket hanging from the frame. It looks like it's about to fall with the first strong gust of wind.
+@base_window_therm_short=Окно с термоодеялом
+@base_window_therm_long=Окно с термоодеялом, свисающим с оконной рамы. Выглядит так, будто термоодеяло вот-вот сорвётся при сильном порыве ветра.
 @base_window_therm_prefix=
 
-@base_window_therm_taped_short=window with a duct-taped thermal blanket
-@base_window_therm_taped_long=A window with a thermal blanket duct-taped to the wall.
+@base_window_therm_taped_short=Окно с приклеенным термоодеялом
+@base_window_therm_taped_long=Окно с термоодеялом, приклеенным скотчем к стене.
 @base_window_therm_taped_prefix=
 
-@base_window_therm_nailed_short=window with a nailed thermal blanket
-@base_window_therm_nailed_long=A window with a thermal blanket nailed to the wall.
+@base_window_therm_nailed_short=Окно с прибитым термоодеялом
+@base_window_therm_nailed_long=Окно с термоодеялом, прибитым гвоздями к стене.
 @base_window_therm_nailed_prefix=
 
-@base_window_therm_taped_nailed_short=window with a nailed and duct-taped thermal blanket
-@base_window_therm_taped_nailed_long=A window with a thermal blanket nailed AND duct-taped to the wall.
+@base_window_therm_taped_nailed_short=Окно с прибитым и приклеенным  термоодеялом
+@base_window_therm_taped_nailed_long=Окно с термоодеялом, приделанным к стене при помощи скотча и гвоздей.
 @base_window_therm_taped_nailed_prefix=
 
-@base_window_blanket_short=window with a blanket
-@base_window_blanket_long=A window with a blanket hanging from the frame. It looks like it's about to fall with the first strong gust of wind.
+@base_window_blanket_short=Окно с одеялом
+@base_window_blanket_long=Окно с одеялом, свисающим с оконной рамы. Выглядит так, будто одеяло вот-вот сорвётся при сильном порыве ветра.
 @base_window_blanket_prefix=
 
-@base_window_blanket_taped_short=window with a duct-taped blanket
-@base_window_blanket_taped_long=A window with a blanket duct-taped to the wall.
+@base_window_blanket_taped_short=Окно с приклеенным одеялом
+@base_window_blanket_taped_long=Окно с одеялом, приклеенным скотчем к стене.
 @base_window_blanket_taped_prefix=
 
-@base_window_blanket_nailed_short=window with a nailed blanket
-@base_window_blanket_nailed_long=A window with a blanket nailed to the wall.
+@base_window_blanket_nailed_short=Окно с прибитым одеялом
+@base_window_blanket_nailed_long=Окно с одеялом, прибитым гвоздями к стене.
 @base_window_blanket_nailed_prefix=
 
-@base_window_blanket_taped_nailed_short=window with a nailed and duct-taped blanket
-@base_window_blanket_taped_nailed_long=A window with a blanket nailed AND duct-taped to the wall.
+@base_window_blanket_taped_nailed_short=Окно с прибитым и приклеенным одеялом
+@base_window_blanket_taped_nailed_long=Окно с одеялом, приделанным к стене при помощи скотча и гвоздей.
 @base_window_blanket_taped_nailed_prefix=
 
-@base_window_blanketb_short=window with a blanket
-@base_window_blanketb_long=A window with a blanket hanging from the frame. It looks like it's about to fall with the first strong gust of wind.
+@base_window_blanketb_short=Окно с одеялом
+@base_window_blanketb_long=Окно с одеялом, свисающим с оконной рамы. Выглядит так, будто одеяло вот-вот сорвётся при сильном порыве ветра.
 @base_window_blanketb_prefix=
 
-@base_window_blanketb_taped_short=window with a duct-taped blanket
-@base_window_blanketb_taped_long=A window with a blanket duct-taped to the wall.
+@base_window_blanketb_taped_short=Окно с приклеенным одеялом
+@base_window_blanketb_taped_long=Окно с одеялом, приклеенным скотчем к стене.
 @base_window_blanketb_taped_prefix=
 
-@base_window_blanketb_nailed_short=window with a nailed blanket
-@base_window_blanketb_nailed_long=A window with a blanket nailed to the wall.
+@base_window_blanketb_nailed_short=Окно с прибитым одеялом
+@base_window_blanketb_nailed_long=Окно с одеялом, прибитым гвоздями к стене.
 @base_window_blanketb_nailed_prefix=
 
-@base_window_blanketb_taped_nailed_short=window with a nailed and duct-taped blanket
-@base_window_blanketb_taped_nailed_long=A window with a blanket nailed AND duct-taped to the wall.
+@base_window_blanketb_taped_nailed_short=Окно с прибитым и приклеенным одеялом
+@base_window_blanketb_taped_nailed_long=Окно с одеялом, приделанным к стене при помощи скотча и гвоздей.
 @base_window_blanketb_taped_nailed_prefix=
 
-@base_window_flag_short=window with a flag
-@base_window_flag_long=A window with a restaurant flag hanging from the frame. It looks like it's about to fall with the first strong gust of wind.
+@base_window_flag_short=Окно с флагом
+@base_window_flag_long=Окно с флагом, свисающим с оконной рамы. Выглядит так, будто флаг вот-вот сорвётся при сильном порыве ветра.
 @base_window_flag_prefix=
 
-@base_window_flag_taped_short=window with a duct-taped flag
-@base_window_flag_taped_long=A window with a restaurant flag duct-taped to the wall.
+@base_window_flag_taped_short=Окно с приклеенным флагом
+@base_window_flag_taped_long=Окно с флагом, приклеенным скотчем к стене.
 @base_window_flag_taped_prefix=
 
-@base_window_flag_nailed_short=window with a nailed flag
-@base_window_flag_nailed_long=A window with a restaurant flag nailed to the wall.
+@base_window_flag_nailed_short=Окно с прибитым флагом
+@base_window_flag_nailed_long=Окно с флагом, прибитым гвоздями к стене.
 @base_window_flag_nailed_prefix=
 
-@base_window_flag_taped_nailed_short=window with a nailed and duct-taped flag
-@base_window_flag_taped_nailed_long=A window with a restaurant flag nailed AND duct-taped to the wall.
+@base_window_flag_taped_nailed_short=Окно с прибитым и приклеенным флагом
+@base_window_flag_taped_nailed_long=Окно с флагом, приделанным к стене при помощи скотча и гвоздей.
 @base_window_flag_taped_nailed_prefix=
 
-@base_window_board_short=window with a wooden board
-@base_window_board_long=A window with a wooden board on the windowsill ready to be installed. Currently it won't do much good...
+@base_window_board_short=Окно с деревянной доской
+@base_window_board_long=Окно с деревянной доской на подоконнике. Её нужно прикрепить к окну, потому что в данный момент от неё особо не будет толку.
 @base_window_board_prefix=
 
-@base_window_board_taped_short=window with a duct-taped wooden board
-@base_window_board_taped_long=A window with a wooden board duct-taped to the wall.
+@base_window_board_taped_short=Окно с приклеенной деревянной доской
+@base_window_board_taped_long=Окно с деревянной доской, приклеенной скотчем к стене.
 @base_window_board_taped_prefix=
 
-@base_window_board_nailed_short=window with a nailed wooden board
-@base_window_board_nailed_long=A window with a wooden board nailed to the wall.
+@base_window_board_nailed_short=Окно с прибитой деревянной доской
+@base_window_board_nailed_long=Окно с деревянной доской, прибитой гвоздями к стене.
 @base_window_board_nailed_prefix=
 
-@base_window_board_taped_nailed_short=window with a nailed and duct-taped wooden board
-@base_window_board_taped_nailed_long=A window with a wooden board nailed AND duct-taped to the wall.
+@base_window_board_taped_nailed_short=Окно с прибитой и приклеенной деревянной доской
+@base_window_board_taped_nailed_long=Окно с деревянной доской, приделанной к стене при помощи скотча и гвоздей.
 @base_window_board_taped_nailed_prefix=
 
 @base_window_broken_short=Окно
@@ -387,46 +387,46 @@
 @base_chimney__prefix=
 
 @base_chimney_1_short=Камин
-@base_chimney_1_long=A fireplace with an old note as kindling.
+@base_chimney_1_long=Камин, наполненный старой заметкой.
 @base_chimney_1_prefix=
 @base_chimney_2_short=Камин
-@base_chimney_2_long=A fireplace with some wads of cash as kindling.
+@base_chimney_2_long=Камин, наполненный пачкой наличных.
 @base_chimney_2_prefix=
 @base_chimney_3_short=Камин
-@base_chimney_3_long=A fireplace with a stack of papers as kindling.
+@base_chimney_3_long=Камин, наполненный стопкой документов.
 @base_chimney_3_prefix=
 @base_chimney_4_short=Камин
-@base_chimney_4_long=A fireplace with an empty charcoal bag as kindling.
+@base_chimney_4_long=Камин, наполненный пустым мешком угля.
 @base_chimney_4_prefix=
 @base_chimney_A_short=Камин
-@base_chimney_A_long=A fireplace filled with charcoal.
+@base_chimney_A_long=Камин, наполненный углём.
 @base_chimney_A_prefix=
 @base_chimney_B_short=Камин
-@base_chimney_B_long=A fireplace filled with wooden planks.
+@base_chimney_B_long=Камин, наполненный деревянными досками.
 @base_chimney_B_prefix=
 @base_chimney_1A_short=Камин
-@base_chimney_1A_long=A fireplace filled with charcoal and an old note as kindling.
+@base_chimney_1A_long=Камин, наполненный углём и старой заметкой.
 @base_chimney_1A_prefix=
 @base_chimney_2A_short=Камин
-@base_chimney_2A_long=A fireplace filled with charcoal and some wads of cash as kindling.
+@base_chimney_2A_long=Камин, наполненный углём и пачкой наличных.
 @base_chimney_2A_prefix=
 @base_chimney_3A_short=Камин
-@base_chimney_3A_long=A fireplace filled with charcoal and a stack of papers as kindling.
+@base_chimney_3A_long=Камин, наполненный углём и стопкой документов.
 @base_chimney_3A_prefix=
 @base_chimney_4A_short=Камин
-@base_chimney_4A_long=A fireplace filled with charcoal and an empty charcoal bag as kindling.
+@base_chimney_4A_long=Камин, наполненный углём и пустым мешком угля.
 @base_chimney_4A_prefix=
 @base_chimney_1B_short=Камин
-@base_chimney_1B_long=A fireplace filled with wooden planks and an old note as kindling.
+@base_chimney_1B_long=Камин, наполненный деревянными досками и старой заметкой.
 @base_chimney_1B_prefix=
 @base_chimney_2B_short=Камин
-@base_chimney_2B_long=A fireplace filled with wooden planks and some wads of cash as kindling.
+@base_chimney_2B_long=Камин, наполненный деревянными досками и пачкой наличных.
 @base_chimney_2B_prefix=
 @base_chimney_3B_short=Камин
-@base_chimney_3B_long=A fireplace filled with wooden planks and a stack of papers as kindling.
+@base_chimney_3B_long=Камин, наполненный деревянными досками и стопкой документов.
 @base_chimney_3B_prefix=
 @base_chimney_4B_short=Камин
-@base_chimney_4B_long=A fireplace filled with wooden planks and an empty charcoal bag as kindling.
+@base_chimney_4B_long=Камин, наполненный деревянными досками и пустым мешком угля.
 @base_chimney_4B_prefix=
 
 @base_chimney_lit_short=Горящий камин
@@ -434,11 +434,11 @@
 @base_chimney_lit_prefix=
 
 @base_chimney_basket_empty_short=Корзина для угля
-@base_chimney_basket_empty_long=Деревянная корзина для угля или дров. Она пустая.
+@base_chimney_basket_empty_long=Деревянная корзина для угля и дров. Она пустая.
 @base_chimney_basket_empty_prefix=
 
 @base_chimney_basket_filled_short=Корзина для угля
-@base_chimney_basket_filled_long=Деревянная корзина для угля или дров. Мне нужно рассмотреть корзину поближе, чтобы понять, чем она заполнена.
+@base_chimney_basket_filled_long=Деревянная корзина для угля и дров. Мне нужно рассмотреть корзину поближе, чтобы понять, чем она заполнена.
 @base_chimney_basket_filled_prefix=
 
 @bathroom_bath_short=Ванна
@@ -454,7 +454,7 @@
 @kitchen_towel_prefix=
 
 @bathroom_towel_short=Полотенце
-@bathroom_towel_long=Полотенце для ванной комнаты.
+@bathroom_towel_long=Банное полотенце.
 @bathroom_towel_prefix=
 
 @house_key_short=Ключи
@@ -473,68 +473,68 @@
 @information_prev_short=Предыдущая страница
 @information_prev_long=Предыдущая страница
 
-@barn_haystack_short=haystack
-@barn_haystack_long=Wow, a haystack. I wonder if there's a needle in it.
+@barn_haystack_short=Стог сена
+@barn_haystack_long=Вау, стог сена. Интересно, есть ли в нём игла.
 @barn_haystack_prefix=
 
 @barn_pipe_to_pick_short=Короткая труба
-@barn_pipe_to_pick_long=A short pipe, a bit rusty here and there.
+@barn_pipe_to_pick_long=Короткая труба, кое-где слегка поржавевшая.
 @barn_pipe_to_pick_prefix=
 
-@barn_pipe_fixed_short=pipe
-@barn_pipe_fixed_long=The pipe is wrapped with enough duct tape to cover all the holes.
+@barn_pipe_fixed_short=Труба
+@barn_pipe_fixed_long=Эта труба плотно обёрнута скотчем, закрывающим все дыры.
 @barn_pipe_fixed_prefix=
 
-@barn_pipe_broken_short=pipe
-@barn_pipe_broken_long=There are some holes in it. A lot of water would leak out of it.
+@barn_pipe_broken_short=Труба
+@barn_pipe_broken_long=В ней большие дыры, через которые утечёт много воды.
 @barn_pipe_broken_prefix=
 
-@barn_sprinklers_disabled_short=water pump and irrigation control system.
-@barn_sprinklers_disabled_long=This console controls the water sprinklers out in the fields. It also has slots for pesticide cans that can be used to add something to the water. It's disabled.
+@barn_sprinklers_disabled_short=Насос с системой управления поливом
+@barn_sprinklers_disabled_long=Эта консоль управляет спринклерной системой, размещённой в поле. В нём также есть отверстия, предназначенные для добавления пестицидов в воду. Консоль выключена.
 @barn_sprinklers_disabled_prefix=
 
-@barn_sprinklers_enabled_short=water pump and irrigation control system.
-@barn_sprinklers_enabled_long=This console controls the water sprinklers out in the fields. It also has slots for pesticide cans that can be used to add something to the water. It's powered, but I still have to set the schedule for the sprinklers.
+@barn_sprinklers_enabled_short=Насос с системой управления поливом
+@barn_sprinklers_enabled_long=Эта консоль управляет спринклерной системой, размещённой в поле. В нём также есть отверстия, предназначенные для добавления пестицидов в воду. Консоль подключена к источнику питания, но программа полива ещё не установлена.
 @barn_sprinklers_enabled_prefix=
 
-@barn_sprinklers_set_short=water pump and irrigation control system.
-@barn_sprinklers_set_long=This console controls the water sprinklers out in the fields. It also has slots for pesticide cans that can be used to add something to the water. It's powered and the sprinklers have been scheduled.
+@barn_sprinklers_set_short=Насос с системой управления поливом
+@barn_sprinklers_set_long=Эта консоль управляет спринклерной системой, размещённой в поле. В нём также есть отверстия, предназначенные для добавления пестицидов в воду. На консоль подано питание, и программа полива настроена.
 @barn_sprinklers_set_prefix=
 
-@sprinklers_slots_empty_short=pesticide inlet
-@sprinklers_slots_empty_long=An opening used to add components like pesticides that are supposed to get mixed in with the water for the sprinklers.
+@sprinklers_slots_empty_short=Отверстие для пестицидов
+@sprinklers_slots_empty_long=Отверстие, предназначенное для пестицидов, которые будут смешиваться с водой во время полива.
 @sprinklers_slots_empty_prefix=
 
-@sprinklers_slots_chem_short=pesticide inlet with a chemical bottle
-@sprinklers_slots_chem_long=A bottle of chemicals is installed in the inlet. I can still take the bottle back if I want to.
+@sprinklers_slots_chem_short=Химикат в отверстии для пестицидов
+@sprinklers_slots_chem_long=Колба с химреагентом установлена ​​в отверстие для пестицидов. Я могу забрать её, если понадобится.
 @sprinklers_slots_chem_prefix=
 
-@sprinklers_slots_filled1_short=pesticide can in the component inlet
-@sprinklers_slots_filled1_long=There's a pesticide can installed in the inlet.
+@sprinklers_slots_filled1_short=Пестицид в отверстии для пестицидов
+@sprinklers_slots_filled1_long=Пестицид установлен ​​в отверстие для пестицидов.
 @sprinklers_slots_filled1_prefix=
 
-@sprinklers_slots_filled2_short=pesticide cans in the component inlets
-@sprinklers_slots_filled2_long=Both inlets have pesticide cans attached to them.
+@sprinklers_slots_filled2_short=Пестициды в отверстиях для пестицидов
+@sprinklers_slots_filled2_long=Две банки пестицидов установлены в отверстия для пестицидов.
 @sprinklers_slots_filled2_prefix=
 
-@sprinklers_slots_filled3_short=repellent can in the component inlet
-@sprinklers_slots_filled3_long=There's a can of spider repellent installed in the inlet.
+@sprinklers_slots_filled3_short=Репеллент в отверстии для пестицидов
+@sprinklers_slots_filled3_long=Средство защиты от пауков установлено в отверстие для пестицидов.
 @sprinklers_slots_filled3_prefix=
 
-@crossroad_sign_short=sign
-@crossroad_sign_long=A gas station sign.
+@crossroad_sign_short=Знак
+@crossroad_sign_long=Знак АЗС.
 @crossroad_sign_prefix=
 
-@barn_pump_disabled_short=water pump
+@barn_pump_disabled_short=Водяной насос
 @barn_pump_disabled_long=A fuel-powered water pump used to drain water from the ground. It's not working.
 @barn_pump_disabled_prefix=
 
-@barn_pump_enabled_short=water pump
+@barn_pump_enabled_short=Водяной насос
 @barn_pump_enabled_long=A fuel-powered water pump used to drain water from the ground. It's a bit noisy, but it should be providing fresh water to the pipes.
 @barn_pump_enabled_prefix=
 
-@pesttruck_locker_short=locker
-@pesttruck_locker_long=A metal locker. I wonder what's inside.
+@pesttruck_locker_short=Шкаф
+@pesttruck_locker_long=Металлический шкаф. Интересно, что там внутри.
 @pesttruck_locker_prefix=
 
 @pest_can_short=Банка пестицидов
@@ -770,8 +770,8 @@
 @gasstation_newspaper_long=Some colorful magazines full of nice, bright pictures. And newspapers, full of dark ones.
 
 @gasstation_foil_prefix=
-@gasstation_foil_short=roll of plastic wrap
-@gasstation_foil_long=Transparent plastic wrap, used mostly for wrapping.
+@gasstation_foil_short=Рулон полиэтиленовой плёнки
+@gasstation_foil_long=Полиэтиленовая плёнка, обладает светопоглощающим свойством. Обычно ею что-то накрывают или обворачивают.
 
 @gasstation_net_prefix=
 @gasstation_net_short=piece of window net
