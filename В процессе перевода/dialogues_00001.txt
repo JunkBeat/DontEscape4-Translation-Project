@@ -4549,7 +4549,7 @@
 
 @dialogue_sarge_thugs4_barry_1_a=Барри, я и без твоих обвинений чувствую вину.
 @dialogue_sarge_thugs4_barry_2_c=Я всё равно буду тебя осуждать. Я ведь полагался на тебя, я верил тебе и... я не этого хотел.
-@dialogue_sarge_thugs4_barry_3_c=Это совсем не то, чего я хотел.
+@dialogue_sarge_thugs4_barry_3_c=Это совершенно не то, чего я хотел.
 @dialogue_sarge_thugs4_barry_4_a=А что ещё делать-то?
 @dialogue_sarge_thugs4_barry_5_c=Поговорить с ним? Найти другое решение? Да, взять пушку и решить всё грубой силой — проще всего.
 @dialogue_sarge_thugs4_barry_6_c=А переговоры — это слишком сложно.
@@ -4557,13 +4557,13 @@
 @dialogue_sarge_thugs4_barry_8_c=Он мог нам помочь. Кто знает? Ты ведь даже не попытался.
 
 
-@dialogue_sarge_thugs1_cody_1_a=Hmm...
-@dialogue_sarge_thugs1_cody_2_c=Are you worried about something?
-@dialogue_sarge_thugs1_cody_3_a=No. I'm fine. Well ... yeah. Maybe a little.
-@dialogue_sarge_thugs1_cody_4_c=If it's about that soldier, you don't have to be worried.
-@dialogue_sarge_thugs1_cody_5_c=He looked like a good guy. I'm pretty sure I can recognize a villain.
-@dialogue_sarge_thugs1_cody_6_c=I read a lot of comic books.
-@dialogue_sarge_thugs1_cody_7_a=Good to have a specialist in the field.
+@dialogue_sarge_thugs1_cody_1_a=Хм-м...
+@dialogue_sarge_thugs1_cody_2_c=Тебя что-то беспокоит?
+@dialogue_sarge_thugs1_cody_3_a=Нет. Всё хорошо. Ну... да. Немного.
+@dialogue_sarge_thugs1_cody_4_c=Если это из-за того солдата, не стоит беспокоиться.
+@dialogue_sarge_thugs1_cody_5_c=Он казался хорошим парнем. Я почти уверен, что смог бы вычислить злодея.
+@dialogue_sarge_thugs1_cody_6_c=Я прочитал кучу комиксов.
+@dialogue_sarge_thugs1_cody_7_a=Здорово, когда есть специалист в этой области.
 
 @dialogue_sarge_thugs2_cody_1_a=Что ж, сержант...
 @dialogue_sarge_thugs2_cody_2_c=Я знал, что он не злодей!
@@ -4592,15 +4592,15 @@
 @dialogue_sarge_thugs4_cody_10_c=Это не должно так работать...
 @dialogue_sarge_thugs4_cody_11_a=Я знаю...
 
-@dialogue_sarge_storm_caption=About Sarge...
-@dialogue_sarge_storm1_cate_1_a=About Sarge...
-@dialogue_sarge_storm1_cate_2_b=What about him?
-@dialogue_sarge_storm1_cate_3_a=You have any thoughts about him?
-@dialogue_sarge_storm1_cate_4_b=He can be useful. He and his men.
-@dialogue_sarge_storm1_cate_5_a=You really think of them as some kind of ... resource?
-@dialogue_sarge_storm1_cate_6_b=It's not like we can join forces with them.
-@dialogue_sarge_storm1_cate_7_b=They have their group, and we have ours. We should focus mainly on our own survival. If they can help us, I'm fine with that.
-@dialogue_sarge_storm1_cate_8_b=They aren't even helping us for free, so like I said, everyone thinks about themselves.
+@dialogue_sarge_storm_caption=Насчёт сержанта...
+@dialogue_sarge_storm1_cate_1_a=Насчёт сержанта...
+@dialogue_sarge_storm1_cate_2_b=А что с ним?
+@dialogue_sarge_storm1_cate_3_a=Что ты о нём думаешь?
+@dialogue_sarge_storm1_cate_4_b=Он мог бы нам пригодиться. Он и его парни.
+@dialogue_sarge_storm1_cate_5_a=Серьёзно? Для тебя они просто как... инструмент?
+@dialogue_sarge_storm1_cate_6_b=Вряд ли мы смогли бы объединиться.
+@dialogue_sarge_storm1_cate_7_b=У них своя группа, у нас — своя. Нам надо думать о том, как спастись самим. Если они предложат нам помощь, я не откажусь.
+@dialogue_sarge_storm1_cate_8_b=Но они не хотят помогать нам задаром, так что каждый сам за себя.
 
 @dialogue_sarge_storm1_barry_1_a=About Sarge...
 @dialogue_sarge_storm1_barry_2_c=I didn't realize there were still military units working in the field.
