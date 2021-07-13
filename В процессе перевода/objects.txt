@@ -489,15 +489,15 @@
 @barn_pipe_broken_long=В ней большие дыры, через которые утечёт много воды.
 @barn_pipe_broken_prefix=
 
-@barn_sprinklers_disabled_short=Насос с системой управления поливом
+@barn_sprinklers_disabled_short=Водяной насос с системой управления поливом
 @barn_sprinklers_disabled_long=Эта консоль управляет спринклерной системой, размещённой в поле. В нём также есть отверстия, предназначенные для добавления пестицидов в воду. Консоль выключена.
 @barn_sprinklers_disabled_prefix=
 
-@barn_sprinklers_enabled_short=Насос с системой управления поливом
+@barn_sprinklers_enabled_short=Водяной насос с системой управления поливом
 @barn_sprinklers_enabled_long=Эта консоль управляет спринклерной системой, размещённой в поле. В нём также есть отверстия, предназначенные для добавления пестицидов в воду. Консоль подключена к источнику питания, но программа полива ещё не установлена.
 @barn_sprinklers_enabled_prefix=
 
-@barn_sprinklers_set_short=Насос с системой управления поливом
+@barn_sprinklers_set_short=Водяной насос с системой управления поливом
 @barn_sprinklers_set_long=Эта консоль управляет спринклерной системой, размещённой в поле. В нём также есть отверстия, предназначенные для добавления пестицидов в воду. На консоль подано питание, и программа полива настроена.
 @barn_sprinklers_set_prefix=
 
@@ -526,11 +526,11 @@
 @crossroad_sign_prefix=
 
 @barn_pump_disabled_short=Водяной насос
-@barn_pump_disabled_long=A fuel-powered water pump used to drain water from the ground. It's not working.
+@barn_pump_disabled_long=Топливный водяной насос, который осушивает почву. Он не работает.
 @barn_pump_disabled_prefix=
 
 @barn_pump_enabled_short=Водяной насос
-@barn_pump_enabled_long=A fuel-powered water pump used to drain water from the ground. It's a bit noisy, but it should be providing fresh water to the pipes.
+@barn_pump_enabled_long=Топливный водяной насос, который осушивает почву. Немного шумит, но закачивает воду в трубы.
 @barn_pump_enabled_prefix=
 
 @pesttruck_locker_short=Шкаф
@@ -554,19 +554,19 @@
 @spider_note_prefix=
 
 @pest_ducttape_short=Скотч
-@pest_ducttape_long=Strong, water resistant duct tape hangs on a small hook in the locker.
+@pest_ducttape_long=Прочный водонепроницаемый скотч висит на крючке в шкафу.
 @pest_ducttape_prefix=
 
-@pesttruck_bear_traps_short=pair of bear traps
-@pesttruck_bear_traps_long=These guys must have been prepared for everything. Those bear traps look really dangerous.
+@pesttruck_bear_traps_short=Медвежьи капканы
+@pesttruck_bear_traps_long=Эти ребята наверное были готовы ко всему, даже капканами запаслись. Выглядит весьма опасно.
 @pesttruck_bear_traps_prefix=
 
 @pesttruck_bear_trap_short=Медвежий капкан
-@pesttruck_bear_trap_long=A single bear trap remains here after I took the other one.
+@pesttruck_bear_trap_long=Капкан. Второй уже у меня.
 @pesttruck_bear_trap_prefix=
 
 @chemsuit_dmg_short=Защитный костюм
-@chemsuit_dmg_long=A yellow hazmat suit with gloves, boots and a gas mask. I should check it more closely.
+@chemsuit_dmg_long=Жёлтый защитный костюм с перчатками, ботинками и противогазом. Мне нужно осмотреть его перед использованием.
 @chemsuit_dmg_prefix=
 
 @chem_glass_short=Пустая химическая колба
@@ -578,23 +578,23 @@
 @sonic_prefix=
 
 @gas_truck_locked_prefix=
-@gas_truck_locked_short=Chemical emergency response truck
-@gas_truck_locked_long=It's beyond any repair. The back door seems to be locked.
+@gas_truck_locked_short=Служба реагирования в чрезвычайных ситуациях
+@gas_truck_locked_long=Их грузовик явно не подлежит ремонту. И ещё, судя по виду, у него закрыты задние двери.
 
 @pest_truck_locked_prefix=
-@pest_truck_locked_short=Pest control truck
-@pest_truck_locked_long=It's beyond any repair. The back door seems to be locked.
+@pest_truck_locked_short=Служба по борьбе с вредителями
+@pest_truck_locked_long=Их грузовик явно не подлежит ремонту. И ещё, судя по всему, задние двери закрыты.
 
 @pesttruck_chem_1_prefix=
-@pesttruck_chem_1_short=valve labeled "A"
+@pesttruck_chem_1_short=Клапан, помеченный буквой "A"
 @pesttruck_chem_1_long=With a proper container, I could obtain some chemical liquid here.
 
 @pesttruck_chem_2_prefix=
-@pesttruck_chem_2_short=valve labeled "B"
+@pesttruck_chem_2_short=Клапан, помеченный буквой "B"
 @pesttruck_chem_2_long=With a proper container, I could obtain some chemical liquid here.
 
 @pesttruck_chem_3_prefix=
-@pesttruck_chem_3_short=valve labeled "C"
+@pesttruck_chem_3_short=Клапан, помеченный буквой "C"
 @pesttruck_chem_3_long=With a proper container, I could obtain some chemical liquid here.
 
 @pesttruck_chem_disp_prefix=
