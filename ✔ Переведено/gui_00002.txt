@@ -107,7 +107,8 @@
 @clear_data_yes=ДА, сбросить прогресс
 @clear_data_no=НЕТ, отмена!
 
-@fuel_used=Потрачу топлива
+@fuel_used=Потрачу
+@fuel_used2=топлива
 @not_enough_fuel=Не хватает топлива!
 
 @credits_1=^^^^^^^^создатель игры^MATEUS# "SCRIPTWELDER" SO’ALS#C#U’
