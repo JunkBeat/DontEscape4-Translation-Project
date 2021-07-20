@@ -7,10 +7,10 @@
 @map_gasstation_prefix=
 
 @map_bridge_short=Разрушенный мост
-@map_bridge_long=Обрушившийся через сухой овраг мост.
+@map_bridge_long=Мост, который обрушился через сухой овраг.
 @map_bridge_prefix=
 
-@map_cars_short=Блокпост
+@map_cars_short=Перекрытая дорога
 @map_cars_long=Дорогу перекрывают сломанные автомобили.
 @map_cars_prefix=
 
@@ -30,7 +30,7 @@
 @map_sidereal_long=Офисное здание корпорации Sidereal Plexus, размещённое среди руин некогда прекрасного города.
 @map_sidereal_prefix=
 
-@map_construction_short=Стройка
+@map_construction_short=Строительная площадка
 @map_construction_long=Предполагалось, что это будет престижное поселение на окраине близлежащего города.
 @map_construction_prefix=
 
