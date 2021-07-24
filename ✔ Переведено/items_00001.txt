@@ -841,8 +841,8 @@
 @broom_long=Старая деревянная швабра.
 
 @wire_prefix=
-@wire_short=Медные провода
-@wire_long=Множество медных проводов.
+@wire_short=Катушка проволоки
+@wire_long=Катушка токопроводящей проволоки.
 
 @bandage_prefix=
 @bandage_short=Бинт
