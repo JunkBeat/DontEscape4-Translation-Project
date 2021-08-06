@@ -1,2585 +1,3235 @@
 @blank_short=
+@blank_short_dative=
 @blank_long=
 @blank_prefix=
 
 @npc_ginger_short=Рыжая девушка
+@npc_ginger_short_dative=рыжей девушке
 @npc_ginger_long=Молодая девушка с огненно-рыжими волосами.
 @npc_ginger_prefix=
 
 @npc_cathy_short=Кэтрин
+@npc_cathy_short_dative=Кэтрин
 @npc_cathy_long=Кэтрин. Но если коротко - Кейт.
 @npc_cathy_prefix=
 
 @npc_mourning_short=Поникший мужчина
+@npc_mourning_short_dative=поникшему мужчине
 @npc_mourning_long=Лысый темнокожий мужчина средних лет.
 @npc_mourning_prefix=
 
 @npc_barry_short=Барри
+@npc_barry_short_dative=Барри
 @npc_barry_long=Этот темнокожий мужчина перенёс огромную утрату.
 @npc_barry_prefix=
 
 @npc_boy_short=Мальчик
-@npc_boy_long=Довольно тощий мальчик лет десяти.
+@npc_boy_short_dative=мальчику
+@npc_boy_long=Тощий мальчик лет десяти.
 @npc_boy_prefix=
 
 @npc_cody_short=Коди
-@npc_cody_long=Довольно тощий мальчик лет десяти.
+@npc_cody_short_dative=Коди
+@npc_cody_long=Тощий мальчик лет десяти.
 @npc_cody_prefix=
 
 @moon_short=Луна
+@moon_short_dative=Луне
 @moon_long=Луна, распавшаяся на куски.
 @moon_prefix=
 
 @basedoor_short=Дверь
+@basedoor_short_dative=двери
 @basedoor_long=Прочная дверь.
 @basedoor_prefix=
 
 @leave_short=Выйти
+@leave_short_dative=
 @leave_long=Выйти.
 @leave_prefix=
 
 @button_short=Кнопка
+@button_short_dative=кнопке
 @button_long=Кнопка.
 @button_prefix=
 
 @dream_window_short=Окно
+@dream_window_short_dative=
 @dream_window_long=За окном тёмная ночь...
 @dream_window_prefix=
 
 @intro_desert_short=Продолжить путешествие
+@intro_desert_short_dative=
 @intro_desert_long=Думаю, мне нужно идти дальше...
 @intro_desert_prefix=
 
 @tent_tent_short=Моя палатка
+@tent_tent_short_dative=
 @tent_tent_long=Старая палатка. Ветер сильно потрепал её. Особой пользы она уже не принесёт.
 @tent_tent_prefix=
 
-@tent_bonfire_short=Остатки огня
-@tent_bonfire_long=Досадная куча пепла. Ночью в пустыне станет очень холодно.
+@tent_bonfire_short=Остатки костра
+@tent_bonfire_short_dative=
+@tent_bonfire_long=Досадная куча пепла. По ночам в пустыне сильно холодает.
 @tent_bonfire_prefix=
 
 @tent_backpack_short=Мой рюкзак
+@tent_backpack_short_dative=
 @tent_backpack_long=Мой верный рюкзак. Я без него никуда не пойду.
 @tent_backpack_prefix=
 
 @tent_distance_swarm_short=Тёмное облако
+@tent_distance_swarm_short_dative=
 @tent_distance_swarm_long=Похоже, это тёмное облако...
 @tent_distance_swarm_prefix=
 
 @tent_distance_gas_short=Зелёное облако
+@tent_distance_gas_short_dative=
 @tent_distance_gas_long=Похоже, это зелёное облако...
 @tent_distance_gas_prefix=
 
 @tent_distance_webs_short=Паутина
+@tent_distance_webs_short_dative=
 @tent_distance_webs_long=Ветер разносит огромную паутину.
 @tent_distance_webs_prefix=
 
 @tent_waypoint_short=В пустыню
+@tent_waypoint_short_dative=
 @tent_waypoint_long=Бесплодная пустошь ждёт.
 @tent_waypoint_prefix=
 
 @tutorial_wall_far_short=Стена
-@tutorial_wall_far_long=Древняя стена и маленький деревянный сарай неподалёку.
+@tutorial_wall_far_short_dative=
+@tutorial_wall_far_long=Старая стена и маленький деревянный сарай неподалёку.
 @tutorial_wall_far_prefix=
 
 @tutorial_ruins_short=Руины
-@tutorial_ruins_long=Каркас какого-то здания, медленно утопающий в песке.
+@tutorial_ruins_short_dative=руинам
+@tutorial_ruins_long=Печальный каркас какого-то здания, медленно утопающий в песке.
 @tutorial_ruins_prefix=
 
 @tutorial_door_short=Сарай
+@tutorial_door_short_dative=сараю
 @tutorial_door_long=Маленький деревянный сарай со скрипучей дверью. Интересно, что внутри.
 @tutorial_door_prefix=
 
 @tutorial_hammer_short=Кувалда
+@tutorial_hammer_short_dative=
 @tutorial_hammer_long=Большой и тяжёлый молоток.
 @tutorial_hammer_prefix=
 
 @tutorial_wall1_short=Дыра в стене
+@tutorial_wall1_short_dative=дыре в стене
 @tutorial_wall1_long=Будь она побольше, я смог бы перебраться на другую сторону.
 @tutorial_wall1_prefix=
 
 @tutorial_wall2_short=Большая дыра в стене
+@tutorial_wall2_short_dative=большой дыре в стене
 @tutorial_wall2_long=Я могу перебраться на другую сторону.
 @tutorial_wall2_prefix=
 
 @house_front_short=Левая сторона дома
+@house_front_short_dative=левой стороне дома
 @house_front_long=Обойти дом слева.
 @house_front_prefix=
 
 @house_back_short=Правая сторона дома
+@house_back_short_dative=правой стороне дома
 @house_back_long=Обойти дом справа.
 @house_back_prefix=
 
 @barn_entry_short=Сарай
-@barn_entry_long=Зайти в сарай.
+@barn_entry_short_dative=входу в сарай
+@barn_entry_long=Вход в сарай.
 @barn_entry_prefix=
 
-@barn_exit_short=Выйти
-@barn_exit_long=Выйти из сарая.
+@barn_exit_short=Выход
+@barn_exit_short_dative=выходу из сарая
+@barn_exit_long=Выход из сарая.
 @barn_exit_prefix=
 
 @barn_fields_short=Система орошения
+@barn_fields_short_dative=системе орошения
 @barn_fields_long=Длинные трубы простираются над полем, окружающим эту ферму.
 @barn_fields_prefix=
 
 @tracktor_short=Трактор
+@tracktor_short_dative=трактору
 @tracktor_long=Ржавый металлолом. Очень жаль, ведь он был почти новым, когда миру пришёл конец.
 @tracktor_prefix=
 
 @car_short=Машина
+@car_short_dative=машине
 @car_long=Старый пикап.
 @car_prefix=
 
 @car_trunk_short=Багажник
+@car_trunk_short_dative=багажнику
 @car_trunk_long=Автомобильный багажник.
 @car_trunk_prefix=
 
 @down_hill_short=Спуститься вниз
+@down_hill_short_dative=дорожке, ведущей вниз
 @down_hill_long=Дорожка, ведущая вниз по склону к старой асфальтированной дороге.
 @down_hill_prefix=
 
 @base_path_short=Дорожка
+@base_path_short_dative=дорожке
 @base_path_long=Песчаная дорожка.
 @base_path_prefix=
 
 @up_hill_short=Подняться наверх
+@up_hill_short_dative=дорожке, ведущей вверх
 @up_hill_long=Дорожка, ведущая вверх по склону к фермерскому дому.
 @up_hill_prefix=
 
 @road_east_short=Дорога на восток
+@road_east_short_dative=дороге на восток
 @road_east_long=Дорога на восток.
 @road_east_prefix=
 
 @road_west_short=Дорога на запад
+@road_west_short_dative=дороге на запад
 @road_west_long=Дорога на запад.
 @road_west_prefix=
 
 @kitchen_door_short=Кухонная дверь
+@kitchen_door_short_dative=кухонной двери
 @kitchen_door_long=Прочная дверь.
 @kitchen_door_prefix=
 
-@kitchen_door1_short=На кухню
+@kitchen_door1_short=Проход на кухню
+@kitchen_door1_short_dative=проходу на кухню
 @kitchen_door1_long=Проход, который ведёт на кухню.
 @kitchen_door1_prefix=
 
-@kitchen_door2_short=В гостинную
-@kitchen_door2_long=Проход, который ведёт в гостинную.
+@kitchen_door2_short=Проход в гостиную
+@kitchen_door2_short_dative=проходу в гостиную
+@kitchen_door2_long=Проход, который ведёт в гостиную.
 @kitchen_door2_prefix=
 
-@kitchen_exit_short=Выйти во двор
-@kitchen_exit_long=Этот проход ведёт во двор.
+@kitchen_exit_short=Выход
+@kitchen_exit_short_dative=выходу из дома
+@kitchen_exit_long=Выход, который ведёт во двор за домом.
 @kitchen_exit_prefix=
 
 @kitchen_entry_short=Кухонная дверь
+@kitchen_entry_short_dative=кухонной двери
 @kitchen_entry_long=Эта дверь ведёт на кухню.
 @kitchen_entry_prefix=
 
 @upstairs_papers_short=Документы
+@upstairs_papers_short_dative=документам
 @upstairs_papers_long=Стопка документов.
 @upstairs_papers_prefix=
 
 @upstairs_ladder_short=Лестница, ведущая на чердак
+@upstairs_ladder_short_dative=лестнице, ведущей на чердак
 @upstairs_ladder_long=Люк плотно закрыт. Сомневаюсь, что смогу его открыть.
 @upstairs_ladder_prefix=
 
 @upstairs_ladder2_short=Лестница, ведущая на чердак
-@upstairs_ladder2_long=Люк выпал. Теперь в потолке есть проход, через который можно попасть на чердак.
+@upstairs_ladder2_short_dative=лестнице, ведущей на чердак
+@upstairs_ladder2_long=Люк оторвался. Теперь в потолке есть проход, через который можно попасть на чердак.
 @upstairs_ladder2_prefix=
 
 @base_stairs_up_short=Лестница
+@base_stairs_up_short_dative=лестнице
 @base_stairs_up_long=Подняться на второй этаж.
 @base_stairs_up_prefix=
 
 @base_stairs_down_short=Лестница
+@base_stairs_down_short_dative=лестнице
 @base_stairs_down_long=Спуститься на первый этаж.
 @base_stairs_down_prefix=
 
 @base_entry_short=Проход в дом
+@base_entry_short_dative=проходу в дом
 @base_entry_long=Этот проход ведёт в дом.
 @base_entry_prefix=
 
-@base_exit_short=Выйти
-@base_exit_long=Выйти из дома.
+@base_exit_short=Выход
+@base_exit_short_dative=выходу из дома
+@base_exit_long=Выход, который ведёт во двор перед домом.
 @base_exit_prefix=
 
 @base_painting_short=Картина
+@base_painting_short_dative=картине
 @base_painting_long=На картине изображена деревянная хижина.
 @base_painting_prefix=
 
 @base_painting2_short=Фотография
+@base_painting2_short_dative=фотографии
 @base_painting2_long=Фотография пожилой женщины.
 @base_painting2_prefix=
 
 @base_fridge_note1_short=Стикер
+@base_fridge_note1_short_dative=стикеру
 @base_fridge_note1_long=Жёлтый стикер, прилепленный к холодильнику. На нём что-то написано.
 @base_fridge_note1_prefix=
 
 @base_fridge_short=Холодильник
-@base_fridge_long=В холодильник давно не поступало электричество.
+@base_fridge_short_dative=холодильнику
+@base_fridge_long=Холодильник уже давно стоит без электричества.
 @base_fridge_prefix=
 
 @base_window_short=Окно
-@base_window_long=Целое окно.
+@base_window_short_dative=окну
+@base_window_long=Закрытое окно.
 @base_window_prefix=
 
 @base_window_1_short=Окно
+@base_window_1_short_dative=окну
 @base_window_1_long=Разбитое окно.
 @base_window_1_prefix=
 
 @base_window_2_short=Окно
+@base_window_2_short_dative=окну
 @base_window_2_long=Разбитое окно.
 @base_window_2_prefix=
 
 @base_window_3_short=Окно
+@base_window_3_short_dative=окну
 @base_window_3_long=Разбитое окно.
 @base_window_3_prefix=
 
 @base_broken_pc_short=Сломанный компьютер
+@base_broken_pc_short_dative=сломанному компьютеру
 @base_broken_pc_long=Похоже, он не подлежит ремонту.
 @base_broken_pc_prefix=
 
 @base_window_net_short=Окно с сеткой
-@base_window_net_long=Окно с сеткой, свисающей с оконной рамы. Выглядит так, будто сетка вот-вот сорвётся при сильном порыве ветра.
+@base_window_net_short_dative=окну с сеткой
+@base_window_net_long=Окно с сеткой, свисающей с оконной рамы. Думаю, при сильном порыве ветра она просто сорвётся
 @base_window_net_prefix=
 
 @base_window_foil_short=Окно с полиэтиленовой плёнкой
-@base_window_foil_long=Окно с полиэтиленовой плёнкой, свисающей с оконной рамы. Выглядит так, будто плёнка вот-вот сорвётся при сильном порыве ветра.
+@base_window_foil_short_dative=окну с полиэтиленовой плёнкой
+@base_window_foil_long=Окно с полиэтиленовой плёнкой, свисающей с оконной рамы. Думаю, при сильном порыве ветра она просто сорвётся
 @base_window_foil_prefix=
 
 @base_window_bars_short=Окно с металлической решёткой
+@base_window_bars_short_dative=окну с металлической решёткой
 @base_window_bars_long=Окно с металлической решёткой на подоконнике. Её нужно прочно прикрепить к окну, потому что в данный момент от неё особо не будет толку.
 @base_window_bars_prefix=
 
 @base_window_net_taped_short=Окно с приклеенной сеткой
-@base_window_net_taped_long=Окно с сеткой, приклеенной скотчем к оконной раме. Честно говоря, это не выглядит долговечным.
+@base_window_net_taped_short_dative=окну с приклеенной сеткой
+@base_window_net_taped_long=Окно с сеткой, приклеенной скотчем к оконной раме. Честно говоря, конструкция очень непрочная.
 @base_window_net_taped_prefix=
 
-@base_window_foil_taped_short=Окно с приклееной полиэтиленовой плёнкой
+@base_window_foil_taped_short=Окно с приклеенной полиэтиленовой плёнкой
+@base_window_foil_taped_short_dative=окну с приклеенной полиэтиленовой плёнкой
 @base_window_foil_taped_long=Окно с полиэтиленовой плёнкой, приклеенной скотчем к оконной раме. Выглядит более-менее герметично.
 @base_window_foil_taped_prefix=
 
 @base_window_bars_taped_short=Окно с приклеенной металлической решёткой
+@base_window_bars_taped_short_dative=окну с приклеенной металлической решёткой
 @base_window_bars_taped_long=Окно с металлической решёткой, приклеенной скотчем к оконной раме. Решётка довольно тяжёлая. Может быть, скотч - не лучшая идея...?
 @base_window_bars_taped_prefix=
 
 @base_window_net_nailed_short=Окно с прибитой сеткой
+@base_window_net_nailed_short_dative=окну с прибитой сеткой
 @base_window_net_nailed_long=Окно с сеткой, прибитой гвоздями к оконной раме. Выглядит надёжно.
 @base_window_net_nailed_prefix=
 
 @base_window_foil_nailed_short=Окно с прибитой полиэтиленовой плёнкой
+@base_window_foil_nailed_short_dative=окну с прибитой полиэтиленовой плёнкой
 @base_window_foil_nailed_long=Окно с полиэтиленовой плёнкой, прибитой гвоздями к оконной раме. Не на 100% герметично, но всё же это лучше, чем ничего.
 @base_window_foil_nailed_prefix=
 
 @base_window_bars_nailed_short=Окно с прибитой металлической решёткой
+@base_window_bars_nailed_short_dative=окну с прибитой металлической решёткой
 @base_window_bars_nailed_long=Окно с металлической решёткой, прибитой гвоздями к оконной раме. Выглядит надёжно.
 @base_window_bars_nailed_prefix=
 
 @base_window_net_taped_nailed_short=Окно с прибитой и приклеенной сеткой
+@base_window_net_taped_nailed_short_dative=окну с прибитой и приклеенной сеткой
 @base_window_net_taped_nailed_long=Окно с сеткой, приделанной к оконной раме при помощи скотча и гвоздей.
 @base_window_net_taped_nailed_prefix=
 
 @base_window_foil_taped_nailed_short=Окно с прибитой и приклеенной полиэтиленовой плёнкой
+@base_window_foil_taped_nailed_short_dative=окну с прибитой и приклеенной полиэтиленовой плёнкой
 @base_window_foil_taped_nailed_long=Окно с полиэтиленовой плёнкой, приделанной к оконной раме при помощи скотча и гвоздей. Выглядит более-менее герметично.
 @base_window_foil_taped_nailed_prefix=
 
 @base_window_bars_taped_nailed_short=Окно с прибитой и приклеенной металлической решёткой
+@base_window_bars_taped_nailed_short_dative=окну с прибитой и приклеенной металлической решёткой
 @base_window_bars_taped_nailed_long=Окно с металлической решёткой, приделанной к оконной раме при помощи скотча и гвоздей. Выглядит надёжно.
 @base_window_bars_taped_nailed_prefix=
 
 @base_window_net_short=Окно с сеткой
-@base_window_net_long=Окно с сеткой, свисающей с оконной рамы. Выглядит так, будто сетка вот-вот сорвётся при сильном порыве ветра.
+@base_window_net_short_dative=окну с сеткой
+@base_window_net_long=Окно с сеткой, свисающей с оконной рамы. Думаю, при сильном порыве ветра она просто сорвётся
 @base_window_net_prefix=
 
 @base_window_therm_short=Окно с термоодеялом
-@base_window_therm_long=Окно с термоодеялом, свисающим с оконной рамы. Выглядит так, будто термоодеяло вот-вот сорвётся при сильном порыве ветра.
+@base_window_therm_short_dative=окну с термоодеялом
+@base_window_therm_long=Окно с термоодеялом, свисающим с оконной рамы. Думаю, при сильном порыве ветра оно просто сорвётся
 @base_window_therm_prefix=
 
 @base_window_therm_taped_short=Окно с приклеенным термоодеялом
+@base_window_therm_taped_short_dative=окну с приклеенным термоодеялом
 @base_window_therm_taped_long=Окно с термоодеялом, приклеенным скотчем к стене.
 @base_window_therm_taped_prefix=
 
 @base_window_therm_nailed_short=Окно с прибитым термоодеялом
+@base_window_therm_nailed_short_dative=окну с прибитым термоодеялом
 @base_window_therm_nailed_long=Окно с термоодеялом, прибитым гвоздями к стене.
 @base_window_therm_nailed_prefix=
 
-@base_window_therm_taped_nailed_short=Окно с прибитым и приклеенным  термоодеялом
+@base_window_therm_taped_nailed_short=Окно с прибитым и приклеенным термоодеялом
+@base_window_therm_taped_nailed_short_dative=окну с прибитым и приклеенным термоодеялом
 @base_window_therm_taped_nailed_long=Окно с термоодеялом, приделанным к стене при помощи скотча и гвоздей.
 @base_window_therm_taped_nailed_prefix=
 
 @base_window_blanket_short=Окно с одеялом
-@base_window_blanket_long=Окно с одеялом, свисающим с оконной рамы. Выглядит так, будто одеяло вот-вот сорвётся при сильном порыве ветра.
+@base_window_blanket_short_dative=окну с одеялом
+@base_window_blanket_long=Окно с одеялом, свисающим с оконной рамы. Думаю, при сильном порыве ветра оно просто сорвётся
 @base_window_blanket_prefix=
 
 @base_window_blanket_taped_short=Окно с приклеенным одеялом
+@base_window_blanket_taped_short_dative=окну с приклеенным одеялом
 @base_window_blanket_taped_long=Окно с одеялом, приклеенным скотчем к стене.
 @base_window_blanket_taped_prefix=
 
 @base_window_blanket_nailed_short=Окно с прибитым одеялом
+@base_window_blanket_nailed_short_dative=окну с прибитым одеялом
 @base_window_blanket_nailed_long=Окно с одеялом, прибитым гвоздями к стене.
 @base_window_blanket_nailed_prefix=
 
 @base_window_blanket_taped_nailed_short=Окно с прибитым и приклеенным одеялом
+@base_window_blanket_taped_nailed_short_dative=окну с прибитым и приклеенным одеялом
 @base_window_blanket_taped_nailed_long=Окно с одеялом, приделанным к стене при помощи скотча и гвоздей.
 @base_window_blanket_taped_nailed_prefix=
 
 @base_window_blanketb_short=Окно с одеялом
-@base_window_blanketb_long=Окно с одеялом, свисающим с оконной рамы. Выглядит так, будто одеяло вот-вот сорвётся при сильном порыве ветра.
+@base_window_blanketb_short_dative=окну с одеялом
+@base_window_blanketb_long=Окно с одеялом, свисающим с оконной рамы. Думаю, при сильном порыве ветра оно просто сорвётся
 @base_window_blanketb_prefix=
 
 @base_window_blanketb_taped_short=Окно с приклеенным одеялом
+@base_window_blanketb_taped_short_dative=окну с приклеенным одеялом
 @base_window_blanketb_taped_long=Окно с одеялом, приклеенным скотчем к стене.
 @base_window_blanketb_taped_prefix=
 
 @base_window_blanketb_nailed_short=Окно с прибитым одеялом
+@base_window_blanketb_nailed_short_dative=окну с прибитым одеялом
 @base_window_blanketb_nailed_long=Окно с одеялом, прибитым гвоздями к стене.
 @base_window_blanketb_nailed_prefix=
 
 @base_window_blanketb_taped_nailed_short=Окно с прибитым и приклеенным одеялом
+@base_window_blanketb_taped_nailed_short_dative=окну с прибитым и приклеенным одеялом
 @base_window_blanketb_taped_nailed_long=Окно с одеялом, приделанным к стене при помощи скотча и гвоздей.
 @base_window_blanketb_taped_nailed_prefix=
 
 @base_window_flag_short=Окно с флагом
-@base_window_flag_long=Окно с флагом, свисающим с оконной рамы. Выглядит так, будто флаг вот-вот сорвётся при сильном порыве ветра.
+@base_window_flag_short_dative=окну с флагом
+@base_window_flag_long=Окно с флагом, свисающим с оконной рамы. Думаю, при сильном порыве ветра он просто сорвётся
 @base_window_flag_prefix=
 
 @base_window_flag_taped_short=Окно с приклеенным флагом
+@base_window_flag_taped_short_dative=окну с приклеенным флагом
 @base_window_flag_taped_long=Окно с флагом, приклеенным скотчем к стене.
 @base_window_flag_taped_prefix=
 
 @base_window_flag_nailed_short=Окно с прибитым флагом
+@base_window_flag_nailed_short_dative=окну с прибитым флагом
 @base_window_flag_nailed_long=Окно с флагом, прибитым гвоздями к стене.
 @base_window_flag_nailed_prefix=
 
 @base_window_flag_taped_nailed_short=Окно с прибитым и приклеенным флагом
+@base_window_flag_taped_nailed_short_dative=окну с прибитым и приклеенным флагом
 @base_window_flag_taped_nailed_long=Окно с флагом, приделанным к стене при помощи скотча и гвоздей.
 @base_window_flag_taped_nailed_prefix=
 
-@base_window_board_short=Окно с деревянной доской
-@base_window_board_long=Окно с деревянной доской на подоконнике. Её нужно прикрепить к окну, потому что в данный момент от неё особо не будет толку.
+@base_window_board_short=Окно с фанерой
+@base_window_board_short_dative=окну с фанерой
+@base_window_board_long=Окно с фанерой на подоконнике. Её нужно прикрепить к окну, потому что в данный момент от неё особо не будет толку.
 @base_window_board_prefix=
 
-@base_window_board_taped_short=Окно с приклеенной деревянной доской
-@base_window_board_taped_long=Окно с деревянной доской, приклеенной скотчем к стене.
+@base_window_board_taped_short=Окно с приклеенной фанерой
+@base_window_board_taped_short_dative=окну с приклеенной фанерой
+@base_window_board_taped_long=Окно с фанерой, приклеенной скотчем к стене.
 @base_window_board_taped_prefix=
 
-@base_window_board_nailed_short=Окно с прибитой деревянной доской
-@base_window_board_nailed_long=Окно с деревянной доской, прибитой гвоздями к стене.
+@base_window_board_nailed_short=Окно с прибитой фанерой
+@base_window_board_nailed_short_dative=окну с прибитой фанерой
+@base_window_board_nailed_long=Окно с фанерой, прибитой гвоздями к стене.
 @base_window_board_nailed_prefix=
 
-@base_window_board_taped_nailed_short=Окно с прибитой и приклеенной деревянной доской
-@base_window_board_taped_nailed_long=Окно с деревянной доской, приделанной к стене при помощи скотча и гвоздей.
+@base_window_board_taped_nailed_short=Окно с прибитой и приклеенной фанерой
+@base_window_board_taped_nailed_short_dative=окну с прибитой и приклеенной фанерой
+@base_window_board_taped_nailed_long=Окно с фанерой, приделанной к стене при помощи скотча и гвоздей.
 @base_window_board_taped_nailed_prefix=
 
 @base_window_broken_short=Окно
+@base_window_broken_short_dative=окну
 @base_window_broken_long=Разбитое окно.
 @base_window_broken_prefix=
 
 @base_bathroom_entry_short=Ванная комната
+@base_bathroom_entry_short_dative=ванной комнате
 @base_bathroom_entry_long=Проход в ванную комнату.
 @base_bathroom_entry_prefix=
 
-@base_bathroom_exit_short=Выйти
-@base_bathroom_exit_long=Выйти из ванной комнаты.
+@base_bathroom_exit_short=Выход
+@base_bathroom_exit_short_dative=выходу из ванной комнаты
+@base_bathroom_exit_long=Выход из ванной комнаты.
 @base_bathroom_exit_prefix=
 
 @base_chimney__short=Камин
+@base_chimney__short_dative=камину
 @base_chimney__long=Камин пустой и холодный.
 @base_chimney__prefix=
 
 @base_chimney_1_short=Камин
-@base_chimney_1_long=Камин, наполненный старой заметкой.
+@base_chimney_1_short_dative=камину
+@base_chimney_1_long=Камин с клочком бумаги внутри.
 @base_chimney_1_prefix=
 @base_chimney_2_short=Камин
-@base_chimney_2_long=Камин, наполненный пачкой наличных.
+@base_chimney_2_short_dative=камину
+@base_chimney_2_long=Камин с пачкой наличных.
 @base_chimney_2_prefix=
 @base_chimney_3_short=Камин
-@base_chimney_3_long=Камин, наполненный стопкой документов.
+@base_chimney_3_short_dative=камину
+@base_chimney_3_long=Камин с кучей документов.
 @base_chimney_3_prefix=
 @base_chimney_4_short=Камин
-@base_chimney_4_long=Камин, наполненный пустым мешком угля.
+@base_chimney_4_short_dative=камину
+@base_chimney_4_long=Камин с пустым мешком угля.
 @base_chimney_4_prefix=
 @base_chimney_A_short=Камин
-@base_chimney_A_long=Камин, наполненный углём.
+@base_chimney_A_short_dative=камину
+@base_chimney_A_long=Камин с углём.
 @base_chimney_A_prefix=
 @base_chimney_B_short=Камин
-@base_chimney_B_long=Камин, наполненный деревянными досками.
+@base_chimney_B_short_dative=камину
+@base_chimney_B_long=Камин с деревянными досками.
 @base_chimney_B_prefix=
 @base_chimney_1A_short=Камин
-@base_chimney_1A_long=Камин, наполненный углём и старой заметкой.
+@base_chimney_1A_short_dative=камину
+@base_chimney_1A_long=Камин с углём и старой заметкой.
 @base_chimney_1A_prefix=
 @base_chimney_2A_short=Камин
-@base_chimney_2A_long=Камин, наполненный углём и пачкой наличных.
+@base_chimney_2A_short_dative=камину
+@base_chimney_2A_long=Камин с углём и пачкой наличных.
 @base_chimney_2A_prefix=
 @base_chimney_3A_short=Камин
-@base_chimney_3A_long=Камин, наполненный углём и стопкой документов.
+@base_chimney_3A_short_dative=камину
+@base_chimney_3A_long=Камин с углём и стопкой документов.
 @base_chimney_3A_prefix=
 @base_chimney_4A_short=Камин
-@base_chimney_4A_long=Камин, наполненный углём и пустым мешком угля.
+@base_chimney_4A_short_dative=камину
+@base_chimney_4A_long=Камин с углём и пустым мешком угля.
 @base_chimney_4A_prefix=
 @base_chimney_1B_short=Камин
-@base_chimney_1B_long=Камин, наполненный деревянными досками и старой заметкой.
+@base_chimney_1B_short_dative=камину
+@base_chimney_1B_long=Камин с деревянными досками и старой заметкой.
 @base_chimney_1B_prefix=
 @base_chimney_2B_short=Камин
-@base_chimney_2B_long=Камин, наполненный деревянными досками и пачкой наличных.
+@base_chimney_2B_short_dative=камину
+@base_chimney_2B_long=Камин с деревянными досками и пачкой наличных.
 @base_chimney_2B_prefix=
 @base_chimney_3B_short=Камин
-@base_chimney_3B_long=Камин, наполненный деревянными досками и стопкой документов.
+@base_chimney_3B_short_dative=камину
+@base_chimney_3B_long=Камин с деревянными досками и стопкой документов.
 @base_chimney_3B_prefix=
 @base_chimney_4B_short=Камин
-@base_chimney_4B_long=Камин, наполненный деревянными досками и пустым мешком угля.
+@base_chimney_4B_short_dative=камину
+@base_chimney_4B_long=Камин с деревянными досками и пустым мешком угля.
 @base_chimney_4B_prefix=
 
 @base_chimney_lit_short=Горящий камин
+@base_chimney_lit_short_dative=горящему камину
 @base_chimney_lit_long=Яркое пламя весело танцует в камине. Тепло и приятно.
 @base_chimney_lit_prefix=
 
-@base_chimney_basket_empty_short=Корзина для угля
+@base_chimney_basket_empty_short=Корзина для дров
+@base_chimney_basket_empty_short_dative=корзине для дров
 @base_chimney_basket_empty_long=Деревянная корзина для угля и дров. Она пустая.
 @base_chimney_basket_empty_prefix=
 
-@base_chimney_basket_filled_short=Корзина для угля
+@base_chimney_basket_filled_short=Корзина для дров
+@base_chimney_basket_filled_short_dative=корзине для дров
 @base_chimney_basket_filled_long=Деревянная корзина для угля и дров. Мне нужно рассмотреть корзину поближе, чтобы понять, чем она заполнена.
 @base_chimney_basket_filled_prefix=
 
 @bathroom_bath_short=Ванна
+@bathroom_bath_short_dative=ванной
 @bathroom_bath_long=Немного старомодная керамическая ванна.
 @bathroom_bath_prefix=
 
 @bathroom_mirror_short=Зеркало
+@bathroom_mirror_short_dative=зеркалу
 @bathroom_mirror_long=Немного пыльное зеркало.
 @bathroom_mirror_prefix=
 
 @kitchen_towel_short=Полотенце
+@kitchen_towel_short_dative=полотенцу
 @kitchen_towel_long=Кухонное полотенце.
 @kitchen_towel_prefix=
 
 @bathroom_towel_short=Полотенце
-@bathroom_towel_long=Банное полотенце.
+@bathroom_towel_short_dative=полотенцу
+@bathroom_towel_long=Полотенце для ванной комнаты.
 @bathroom_towel_prefix=
 
 @house_key_short=Ключи
+@house_key_short_dative=ключам
 @house_key_long=Ключи от дома.
 @house_key_prefix=
 
 @information_exit_prefix=
-@information_exit_short=Закрыть дневник
+@information_exit_short=Закрыть
+@information_exit_short_dative=
 @information_exit_long=Закрыть дневник
 
 @information_next_prefix=
 @information_next_short=Следующая страница
+@information_next_short_dative=
 @information_next_long=Следующая страница
 
 @information_prev_prefix=
 @information_prev_short=Предыдущая страница
+@information_prev_short_dative=
 @information_prev_long=Предыдущая страница
 
 @barn_haystack_short=Стог сена
-@barn_haystack_long=Вау, стог сена. Интересно, есть ли в нём игла.
+@barn_haystack_short_dative=стогу сена
+@barn_haystack_long=Ух ты, стог сена. Интересно, есть ли в нём игла.
 @barn_haystack_prefix=
 
 @barn_pipe_to_pick_short=Короткая труба
+@barn_pipe_to_pick_short_dative=короткой трубе
 @barn_pipe_to_pick_long=Короткая труба, кое-где слегка поржавевшая.
 @barn_pipe_to_pick_prefix=
 
 @barn_pipe_fixed_short=Труба
+@barn_pipe_fixed_short_dative=трубе
 @barn_pipe_fixed_long=Эта труба плотно обёрнута скотчем, закрывающим все дыры.
 @barn_pipe_fixed_prefix=
 
 @barn_pipe_broken_short=Труба
+@barn_pipe_broken_short_dative=трубе
 @barn_pipe_broken_long=В ней большие дыры, через которые утечёт много воды.
 @barn_pipe_broken_prefix=
 
 @barn_sprinklers_disabled_short=Водяной насос с системой управления поливом
-@barn_sprinklers_disabled_long=Эта консоль управляет спринклерной системой, размещённой в поле. В нём также есть отверстия, предназначенные для добавления пестицидов в воду. Консоль выключена.
+@barn_sprinklers_disabled_short_dative=водяному насосу с системой управления поливом
+@barn_sprinklers_disabled_long=Эта панель управляет оросительной системой, размещённой в поле. В ней также есть отверстия, предназначенные для добавления пестицидов в воду. Панель отключена.
 @barn_sprinklers_disabled_prefix=
 
 @barn_sprinklers_enabled_short=Водяной насос с системой управления поливом
-@barn_sprinklers_enabled_long=Эта консоль управляет спринклерной системой, размещённой в поле. В нём также есть отверстия, предназначенные для добавления пестицидов в воду. Консоль подключена к источнику питания, но программа полива ещё не установлена.
+@barn_sprinklers_enabled_short_dative=водяному насосу с системой управления поливом
+@barn_sprinklers_enabled_long=Эта панель управляет оросительной системой, размещённой в поле. В ней также есть отверстия, предназначенные для добавления пестицидов в воду. Панель подключена к источнику питания, но программа полива ещё не установлена.
 @barn_sprinklers_enabled_prefix=
 
 @barn_sprinklers_set_short=Водяной насос с системой управления поливом
-@barn_sprinklers_set_long=Эта консоль управляет спринклерной системой, размещённой в поле. В нём также есть отверстия, предназначенные для добавления пестицидов в воду. На консоль подано питание, и программа полива настроена.
+@barn_sprinklers_set_short_dative=водяному насосу с системой управления поливом
+@barn_sprinklers_set_long=Эта панель управляет оросительной системой, размещённой в поле. В ней также есть отверстия, предназначенные для добавления пестицидов в воду. Панель подключена к источнику питания, и программа полива настроена.
 @barn_sprinklers_set_prefix=
 
 @sprinklers_slots_empty_short=Отверстие для пестицидов
+@sprinklers_slots_empty_short_dative=отверстию для пестицидов
 @sprinklers_slots_empty_long=Отверстие, предназначенное для пестицидов, которые будут смешиваться с водой во время полива.
 @sprinklers_slots_empty_prefix=
 
 @sprinklers_slots_chem_short=Химикат в отверстии для пестицидов
+@sprinklers_slots_chem_short_dative=химикату в отверстии для пестицидов
 @sprinklers_slots_chem_long=Колба с химреагентом установлена в отверстие для пестицидов. Я могу забрать её, если понадобится.
 @sprinklers_slots_chem_prefix=
 
 @sprinklers_slots_filled1_short=Пестицид в отверстии для пестицидов
+@sprinklers_slots_filled1_short_dative=пестициду в отверстии для пестицидов
 @sprinklers_slots_filled1_long=Пестицид установлен в отверстие для пестицидов.
 @sprinklers_slots_filled1_prefix=
 
 @sprinklers_slots_filled2_short=Пестициды в отверстиях для пестицидов
+@sprinklers_slots_filled2_short_dative=пестицидам в отверстиях для пестицидов
 @sprinklers_slots_filled2_long=Две банки пестицидов установлены в отверстия для пестицидов.
 @sprinklers_slots_filled2_prefix=
 
 @sprinklers_slots_filled3_short=Репеллент в отверстии для пестицидов
+@sprinklers_slots_filled3_short_dative=репелленту в отверстии для пестицидов
 @sprinklers_slots_filled3_long=Средство защиты от пауков установлено в отверстие для пестицидов.
 @sprinklers_slots_filled3_prefix=
 
-@crossroad_sign_short=Знак
-@crossroad_sign_long=Знак АЗС.
+@crossroad_sign_short=Дорожный знак
+@crossroad_sign_short_dative=дорожному знаку
+@crossroad_sign_long=Знак автозаправочной станции.
 @crossroad_sign_prefix=
 
 @barn_pump_disabled_short=Водяной насос
-@barn_pump_disabled_long=Топливный водяной насос, который осушивает почву. Он не работает.
+@barn_pump_disabled_short_dative=водяному насосу
+@barn_pump_disabled_long=Топливный водяной насос, который осушает почву. Он не работает.
 @barn_pump_disabled_prefix=
 
 @barn_pump_enabled_short=Водяной насос
-@barn_pump_enabled_long=Топливный водяной насос, который осушивает почву. Немного шумит, но закачивает воду в трубы.
+@barn_pump_enabled_short_dative=водяному насосу
+@barn_pump_enabled_long=Топливный водяной насос, который осушает почву. Немного шумит, но закачивает воду в трубы.
 @barn_pump_enabled_prefix=
 
-@pesttruck_locker_short=Шкаф
-@pesttruck_locker_long=Металлический шкаф. Интересно, что там внутри.
+@pesttruck_locker_short=Шкафчик
+@pesttruck_locker_short_dative=шкафчику
+@pesttruck_locker_long=Металлический шкафчик. Интересно, что там внутри.
 @pesttruck_locker_prefix=
 
 @pest_can_short=Банка пестицидов
-@pest_can_long=На этикетке написано, что это мощный пестицид, который вреден для жуков и насекомых. Думаю, мне нужно смешать его с водой.
+@pest_can_short_dative=банке пестицидов
+@pest_can_long=На этикетке написано, что это мощный пестицид, который вреден для жуков и насекомых. И, похоже, для всего живого в целом. Думаю, мне нужно смешать его с водой.
 @pest_can_prefix=
 
 @pest_note_short=Стикер
-@pest_note_long=На стикере есть несколько надписей и картинок с жуками. Может, стоит рассмотреть поближе?...
+@pest_note_short_dative=стикеру
+@pest_note_long=На стикере несколько надписей и картинок с жуками. Может, стоит рассмотреть поближе?...
 @pest_note_prefix=
 
 @gas_note_short=Стикер
+@gas_note_short_dative=стикеру
 @gas_note_long=На стикере что-то написано. Может, стоит рассмотреть поближе?...
 @gas_note_prefix=
 
 @spider_note_short=Стикер
-@spider_note_long=На стикере есть несколько надписей с картинками. Может, стоит рассмотреть поближе?...
+@spider_note_short_dative=стикеру
+@spider_note_long=На стикере несколько надписей с картинками. Может, стоит рассмотреть поближе?...
 @spider_note_prefix=
 
-@pest_ducttape_short=Скотч
+@pest_ducttape_short=Армированный скотч
+@pest_ducttape_short_dative=армированному скотчу
 @pest_ducttape_long=Прочный водонепроницаемый скотч висит на крючке в шкафу.
 @pest_ducttape_prefix=
 
 @pesttruck_bear_traps_short=Медвежьи капканы
-@pesttruck_bear_traps_long=Эти ребята наверное были готовы ко всему, даже капканами запаслись. Выглядит весьма опасно.
+@pesttruck_bear_traps_short_dative=медвежьим капканам
+@pesttruck_bear_traps_long=Эти ребята, наверное, были готовы ко всему, даже капканами запаслись. Выглядит весьма опасно.
 @pesttruck_bear_traps_prefix=
 
 @pesttruck_bear_trap_short=Медвежий капкан
+@pesttruck_bear_trap_short_dative=медвежьему капкану
 @pesttruck_bear_trap_long=Капкан. Второй уже у меня.
 @pesttruck_bear_trap_prefix=
 
 @chemsuit_dmg_short=Защитный костюм
+@chemsuit_dmg_short_dative=защитному костюму
 @chemsuit_dmg_long=Жёлтый защитный костюм с перчатками, ботинками и противогазом. Мне нужно осмотреть его перед использованием.
 @chemsuit_dmg_prefix=
 
 @chem_glass_short=Пустая химическая колба
-@chem_glass_long=Предназначена для кратковременного хранения химических веществ.
+@chem_glass_short_dative=пустой химической колбе
+@chem_glass_long=Она предназначена для кратковременного хранения химических веществ.
 @chem_glass_prefix=
 
 @sonic_short=Странное устройство
+@sonic_short_dative=странному устройству
 @sonic_long=Надпись гласит: "Ультразвуковое поражающее устройство". Скорее всего оно предназначено для борьбы с жуками и насекомыми.
 @sonic_prefix=
 
 @gas_truck_locked_prefix=
 @gas_truck_locked_short=Служба реагирования в чрезвычайных ситуациях
-@gas_truck_locked_long=Их грузовик явно не подлежит ремонту. И ещё, судя по виду, у него закрыты задние двери.
+@gas_truck_locked_short_dative=службе реагирования в чрезвычайных ситуациях
+@gas_truck_locked_long=Их грузовик явно не подлежит ремонту. И ещё, судя по виду, у него заперты задние двери.
 
 @pest_truck_locked_prefix=
 @pest_truck_locked_short=Служба по борьбе с вредителями
-@pest_truck_locked_long=Их грузовик явно не подлежит ремонту. И ещё, судя по виду, у него закрыты задние двери.
+@pest_truck_locked_short_dative=службе по борьбе с вредителями
+@pest_truck_locked_long=Их грузовик явно не подлежит ремонту. И ещё, судя по виду, у него заперты задние двери.
 
 @pesttruck_chem_1_prefix=
 @pesttruck_chem_1_short=Клапан, помеченный буквой "A"
-@pesttruck_chem_1_long=Имея некий сосуд, я мог бы получить немного этого вещества.
+@pesttruck_chem_1_short_dative=клапану, помеченному буквой "A"
+@pesttruck_chem_1_long=Будь у меня подходящий сосуд, я бы мог раздобыть немного этого вещества.
 
 @pesttruck_chem_2_prefix=
 @pesttruck_chem_2_short=Клапан, помеченный буквой "B"
-@pesttruck_chem_2_long=Имея некий сосуд, я мог бы получить немного этого вещества.
+@pesttruck_chem_2_short_dative=клапану, помеченному буквой "В"
+@pesttruck_chem_2_long=Будь у меня подходящий сосуд, я бы мог раздобыть немного этого вещества.
 
 @pesttruck_chem_3_prefix=
 @pesttruck_chem_3_short=Клапан, помеченный буквой "C"
-@pesttruck_chem_3_long=Имея некий сосуд, я мог бы получить немного этого вещества.
+@pesttruck_chem_3_short_dative=клапану, помеченному буквой "С"
+@pesttruck_chem_3_long=Будь у меня подходящий сосуд, я бы мог раздобыть немного этого вещества.
 
 @pesttruck_chem_disp_prefix=
 @pesttruck_chem_disp_short=Утилизация химических веществ
-@pesttruck_chem_disp_long=Здесь можно безопасно избавиться от нежелательных химикатов.
+@pesttruck_chem_disp_short_dative=утилизации химических веществ
+@pesttruck_chem_disp_long=Здесь можно безопасно избавиться от химикатов.
 
 @pest_truck_prefix=
 @pest_truck_short=Служба по борьбе с вредителями
+@pest_truck_short_dative=службе по борьбе с вредителями
 @pest_truck_long=Их грузовик явно не подлежит ремонту. Задние двери открыты.
 
 @pest_truck_spider_pest1_prefix=
 @pest_truck_spider_pest1_short=Банка с пометкой "A-13"
-@pest_truck_spider_pest1_long=Кажется, это какой-то ароматический репеллент.
+@pest_truck_spider_pest1_short_dative=банке с пометкой "A-13"
+@pest_truck_spider_pest1_long=Кажется, это какой-то сильно пахнущий репеллент.
 
 @pest_truck_spider_pest2_prefix=
 @pest_truck_spider_pest2_short=Банка с пометкой "B-11"
-@pest_truck_spider_pest2_long=Кажется, это какой-то ароматический репеллент.
+@pest_truck_spider_pest2_short_dative=банке с пометкой "B-11"
+@pest_truck_spider_pest2_long=Кажется, это какой-то сильно пахнущий репеллент.
 
 @pest_truck_spider_pest3_prefix=
 @pest_truck_spider_pest3_short=Банка с пометкой "A-18"
-@pest_truck_spider_pest3_long=Кажется, это какой-то ароматический репеллент.
+@pest_truck_spider_pest3_short_dative=банке с пометкой "A-18"
+@pest_truck_spider_pest3_long=Кажется, это какой-то сильно пахнущий репеллент.
 
 @pest_truck_spider_pest4_prefix=
 @pest_truck_spider_pest4_short=Банка с пометкой "B-36"
-@pest_truck_spider_pest4_long=Кажется, это какой-то ароматический репеллент.
+@pest_truck_spider_pest4_short_dative=банке с пометкой "B-36"
+@pest_truck_spider_pest4_long=Кажется, это какой-то сильно пахнущий репеллент.
 
 @gas_truck_prefix=
 @gas_truck_short=Служба реагирования в чрезвычайных ситуациях
+@gas_truck_short_dative=службе реагирования в чрезвычайных ситуациях
 @gas_truck_long=Их грузовик явно не подлежит ремонту. Задние двери открыты.
 
 @crashsite_tracks_prefix=
 @crashsite_tracks_short=Следы шин
+@crashsite_tracks_short_dative=следам шин
 @crashsite_tracks_long=Следы ведут на север. Кто-то проезжал здесь недавно...
 
 @crashsite_body1_bugs_a_prefix=
 @crashsite_body1_bugs_a_short=Наполовину съеденный труп
+@crashsite_body1_bugs_a_short_dative=наполовину съеденному трупу
 @crashsite_body1_bugs_a_long=Кошмар. Его тело частично съедено, но нет ни единой капли крови. Небольшие следы от укусов покрывают всю его кожу, а одежда разорвана в клочья. Возможно, среди этих останков найдётся что-нибудь полезное?
 
 @crashsite_body1_bugs_b_prefix=
 @crashsite_body1_bugs_b_short=Наполовину съеденный труп
+@crashsite_body1_bugs_b_short_dative=наполовину съеденному трупу
 @crashsite_body1_bugs_b_long=За рваной одеждой нет ничего полезного, только лишённое жизни тело.
 
 @crashsite_body1_spiders_a_prefix=
 @crashsite_body1_spiders_a_short=Труп, покрытый паутиной
+@crashsite_body1_spiders_a_short_dative=трупу, покрытому паутиной
 @crashsite_body1_spiders_a_long=У него на коже есть следы от укусов.
 
 @crashsite_cars_prefix=
-@crashsite_cars_short=Автомобильные аварии
-@crashsite_cars_long=Несколько автокатастроф вдалеке.
+@crashsite_cars_short=Последствия автомобильных аварий
+@crashsite_cars_short_dative=последствиям автомобильных аварий
+@crashsite_cars_long=Последствия автокатастроф вдалеке.
 
 @crashsite_body2_bugs_prefix=
 @crashsite_body2_bugs_short=Наполовину съеденный труп
-@crashsite_body2_bugs_long=Между складками разорванной одежды лежит небольшая бумажка.
+@crashsite_body2_bugs_short_dative=наполовину съеденному трупу
+@crashsite_body2_bugs_long=Под складками разорванной одежды лежит небольшая бумажка.
 
 @crashsite_body2_spiders_prefix=
 @crashsite_body2_spiders_short=Труп, покрытый паутиной
-@crashsite_body2_spiders_long=Между складками разорванной одежды лежит небольшая бумажка.
+@crashsite_body2_spiders_short_dative=трупу, покрытому паутиной
+@crashsite_body2_spiders_long=Под складками разорванной одежды лежит небольшая бумажка.
 
 @crashsite_bug_prefix=
 @crashsite_bug_short=Мёртвое насекомое
+@crashsite_bug_short_dative=мёртвому насекомому
 @crashsite_bug_long=В отличие от других насекомых, это почти полностью уцелело.
 
 @crashsite_wrench_bugs_prefix=
 @crashsite_wrench_bugs_short=Разводной гаечный ключ
+@crashsite_wrench_bugs_short_dative=разводному гаечному ключу
 @crashsite_wrench_bugs_long=С помощью этого ключа уничтожено много насекомых.
 
 @crashsite_wrench_spiders_prefix=
 @crashsite_wrench_spiders_short=Разводной гаечный ключ
+@crashsite_wrench_spiders_short_dative=разводному гаечному ключу
 @crashsite_wrench_spiders_long=Этим ключом пытались убить пауков... но безуспешно.
 
 @crashsite_car_unexamined_short=Машина
+@crashsite_car_unexamined_short_dative=машине
 @crashsite_car_unexamined_long=Интересно, можно ли её завести.
 @crashsite_car_unexamined_prefix=
 
 @crashsite_car_examined_short=Сломанная машина
-@crashsite_car_examined_long=Эта машина не подлежит ремонту... но зато внутри неё есть исправная катушка зажигания.
+@crashsite_car_examined_short_dative=сломанной машине
+@crashsite_car_examined_long=Эта машина не подлежит ремонту... но зато у неё есть исправная катушка зажигания.
 @crashsite_car_examined_prefix=
 
-@crashsite_car_harvested_short=Сломанная, разобраная машина
+@crashsite_car_harvested_short=Сломанная, разобранная машина
+@crashsite_car_harvested_short_dative=сломанной, разобранной машине
 @crashsite_car_harvested_long=Эта машина не подлежит ремонту. Я уже вытащил из неё полезные запчасти.
 @crashsite_car_harvested_prefix=
 
 @crashsite_body1_gas_a_prefix=
 @crashsite_body1_gas_a_short=Труп
-@crashsite_body1_gas_a_long=Этот человек умер в жёлтом костюме, который используется для защиты от смертельно опасных химикатов. Скорее всего уровень токсина был слишком высоким, но что, если костюм всё ещё пригоден для использования...?
+@crashsite_body1_gas_a_short_dative=трупу
+@crashsite_body1_gas_a_long=На трупе жёлтый костюм, который используется для защиты от смертельно опасных химикатов. Скорее всего уровень токсинов был слишком высоким, но что, если костюм всё ещё пригоден для использования...?
 
 @crashsite_body1_gas_b_prefix=
 @crashsite_body1_gas_b_short=Труп
+@crashsite_body1_gas_b_short_dative=трупу
 @crashsite_body1_gas_b_long=Защитный костюм не помог этому несчастному человеку.
 
 @crashsite_body2_gas_prefix=
 @crashsite_body2_gas_short=Труп
+@crashsite_body2_gas_short_dative=трупу
 @crashsite_body2_gas_long=В одном из карманов костюма лежит небольшая бумажка.
 
 @crashsite_wrench_gas_prefix=
 @crashsite_wrench_gas_short=Разводной гаечный ключ
+@crashsite_wrench_gas_short_dative=разводному гаечному ключу
 @crashsite_wrench_gas_long=У разводного ключа много предназначений, но он оказался бессилен против смертоносного газового облака.
 
 @barn_console_stnd_by_prefix=
 @barn_console_stnd_by_short=Кнопка "Режим ожидания"
-@barn_console_stnd_by_long=Нажатие этой кнопки переведёт спринклерную систему в режим ожидания.
+@barn_console_stnd_by_short_dative=
+@barn_console_stnd_by_long=Нажатие этой кнопки переведёт оросительную систему в режим ожидания.
 
 @barn_console_ground_prefix=
 @barn_console_ground_short=Кнопка "Полив почвы"
+@barn_console_ground_short_dative=
 @barn_console_ground_long=Нажатие этой кнопки приведёт к разбрызгиванию воды на почву.
 
 @barn_console_air_prefix=
 @barn_console_air_short=Кнопка "Ночное увлажнение воздуха"
+@barn_console_air_short_dative=
 @barn_console_air_long=Нажатие этой кнопки приведёт к распылению воды, что будет выглядеть как слой густого тумана. Включение запланировано на ночь.
 
 @barn_console_sprinkler_prefix=
-@barn_console_sprinkler_short=Кнопки управления спринклерами
-@barn_console_sprinkler_long=Эти кнопки управляют отдельными спринклерами.
+@barn_console_sprinkler_short=Кнопки управления оросителями
+@barn_console_sprinkler_short_dative=
+@barn_console_sprinkler_long=Эти кнопки управляют отдельными оросителями.
 
 @barn_console_reset_prefix=
 @barn_console_reset_short=Кнопка сброса
-@barn_console_reset_long=При нажатии все спринклеры отключатся.
+@barn_console_reset_short_dative=
+@barn_console_reset_long=При нажатии все оросители отключатся.
 
 @pipe_to_pick_prefix=
 @pipe_to_pick_short=Короткая труба
+@pipe_to_pick_short_dative=короткой трубе
 @pipe_to_pick_long=Короткая металлическая труба.
 
 @greenhouse_nails_prefix=
-@greenhouse_nails_short=Каркас теплицы
-@greenhouse_nails_long=Остатки деревянной теплицы. Гнилые доски удерживаются засчёт ржавых гвоздей. Но по крайней мере некоторые гвозди можно вытащить и повторно использовать.
+@greenhouse_nails_short=Теплица
+@greenhouse_nails_short_dative=теплице
+@greenhouse_nails_long=Остатки деревянной теплицы. Гнилые доски удерживаются за счёт ржавых гвоздей. Но, по крайней мере, некоторые гвозди можно вытащить и повторно использовать.
 
 @greenhouse_no_nails_prefix=
-@greenhouse_no_nails_short=Каркас теплицы
+@greenhouse_no_nails_short=Теплица
+@greenhouse_no_nails_short_dative=теплице
 @greenhouse_no_nails_long=Кроме кучи гнилых досок, от каркаса теплицы ничего не осталось.
 
 @greenhouse_sprayer_prefix=
 @greenhouse_sprayer_short=Распылитель
+@greenhouse_sprayer_short_dative=распылителю
 @greenhouse_sprayer_long=Обычный распылитель воды. Он пустой.
 
 @bridge_drone_short=Метеорологический дрон
+@bridge_drone_short_dative=метеорологическому дрону
 @bridge_drone_prefix=
-@bridge_drone_long=Автоматизированный дрон, используется для измерения погодных условий. Похоже, он серьёзно повредился во время последнего приземления.
+@bridge_drone_long=Автоматизированный дрон, который используется для измерения погодных условий. Похоже, он серьёзно повредился во время последнего приземления.
 
 @bridge_spade_prefix=
 @bridge_spade_short=Небольшая лопата
+@bridge_spade_short_dative=небольшой лопате
 @bridge_spade_long=Небольшая лопата с крепкой деревянной ручкой.
 
 @bridge_carwreck_prefix=
 @bridge_carwreck_short=Перевёрнутый автомобиль
-@bridge_carwreck_long=Эта машина определённо видела деньки и получше. Она не подлежит ремонту и теперь её обломки останутся здесь навсегда.
+@bridge_carwreck_short_dative=перевёрнутому автомобилю
+@bridge_carwreck_long=Эта машина определённо знавала деньки и получше. Она не подлежит ремонту, и теперь её обломки останутся здесь навсегда.
 
 @bridge_carwreck_wheel_prefix=
 @bridge_carwreck_wheel_short=Перевёрнутый автомобиль
-@bridge_carwreck_wheel_long=Эта машина определённо видела деньки и получше. Единственное, что я могу вытащить из неё - это колесо.
+@bridge_carwreck_wheel_short_dative=перевёрнутому автомобилю
+@bridge_carwreck_wheel_long=Эта машина определённо знавала деньки и получше. Единственное, что я могу вытащить из неё - это колесо.
 
 @bridge_planks_prefix=
 @bridge_planks_short=Куча досок
-@bridge_planks_long=Эти доски могут оказаться полезными, но к сожалению они слишком большие и тяжёлые, так что у меня не получится унести их отсюда. Единственное, что я могу с ними сделать - это применить поблизости.
+@bridge_planks_short_dative=куче досок
+@bridge_planks_long=Эти доски могут оказаться полезными, но, к сожалению, они слишком большие и тяжёлые, так что у меня не получится унести их отсюда. Единственное, что я могу с ними сделать - это применить поблизости.
 
 @bridge_ravine_prefix=
 @bridge_ravine_short=Овраг
+@bridge_ravine_short_dative=оврагу
 @bridge_ravine_long=Может, когда-то это была река, но теперь это просто сухой овраг. Его можно пересечь, но на это потребуется время.
 
 @gasstation_trinkets_prefix=
 @gasstation_trinkets_short=Подставка для мелких товаров
-@gasstation_trinkets_long=Подставка для мелких товаров, продаваемых на кассе. Обычно в неё ложат всякие брелки и жвачки, но что, если я обнаружу здесь что-то поинтереснее.
+@gasstation_trinkets_short_dative=подставке для мелких товаров
+@gasstation_trinkets_long=Подставка для мелких товаров, продаваемых на кассе. Возможно, в ней лежит что-нибудь поинтереснее просроченной жвачки.
 
 @gasstation_canister_prefix=
 @gasstation_canister_short=Канистра
+@gasstation_canister_short_dative=канистре
 @gasstation_canister_long=Возможно, в ней ещё осталось немного бензина...
 
 @gasstation_charcoal_prefix=
 @gasstation_charcoal_short=Мешок угля
+@gasstation_charcoal_short_dative=мешку угля
 @gasstation_charcoal_long=Если мне вдруг когда-нибудь захочется барбекю...
 
 @gasstation_newspaper_prefix=
 @gasstation_newspaper_short=Подставка для газет и журналов
+@gasstation_newspaper_short_dative=подставке для газет и журналов
 @gasstation_newspaper_long=Красочные журналы, полные ярких картинок. И черно-белые газеты, полные мрачных оттенков.
 
 @gasstation_foil_prefix=
 @gasstation_foil_short=Рулон полиэтиленовой плёнки
-@gasstation_foil_long=Полиэтиленовая плёнка, обладает светопоглощающим свойством. Обычно ею что-то накрывают или обворачивают.
+@gasstation_foil_short_dative=рулону полиэтиленовой плёнки
+@gasstation_foil_long=Полиэтиленовая плёнка, обладает светопоглощающим свойством. Обычно ею что-то накрывают или оборачивают.
 
 @gasstation_net_prefix=
 @gasstation_net_short=Кусок сетки для окна
+@gasstation_net_short_dative=куску сетки для окна
 @gasstation_net_long=Большой кусок сетки для окна. На вид она достаточно прочная.
 
 @gasstation_bars_prefix=
 @gasstation_bars_short=Металлическая решётка
+@gasstation_bars_short_dative=металлической решётке
 @gasstation_bars_long=Тяжёлая решётчатая рама.
 
 @gasstation_tank_canister_full_prefix=
-@gasstation_tank_canister_full_short=Клапаны, подсоединённые к полной топливной цистерне
-@gasstation_tank_canister_full_long=Цистерна, полная топлива, находится прямо под топливными клапанами.
+@gasstation_tank_canister_full_short=Топливные клапаны над полной канистрой
+@gasstation_tank_canister_full_short_dative=топливным клапанам над полной канистрой
+@gasstation_tank_canister_full_long=Канистра, полная топлива, находится прямо под топливными клапанами.
 
 @gasstation_tank_canister_prefix=
-@gasstation_tank_canister_short=Клапаны, подсоединённые к пустой топливной цистерне
-@gasstation_tank_canister_long=Пустая цистерна находится прямо под топливными клапанами.
+@gasstation_tank_canister_short=Топливные клапаны над пустой канистрой
+@gasstation_tank_canister_short_dative=топливным клапанам над пустой канистрой
+@gasstation_tank_canister_long=Пустая канистра находится прямо под топливными клапанами.
 
 @gasstation_tank_prefix=
 @gasstation_tank_short=Топливные клапаны
+@gasstation_tank_short_dative=топливным клапанам
 @gasstation_tank_long=С их помощью топливо либо заливают в цистерну, либо выкачивают.
 
 @gasstation_cash_prefix=
 @gasstation_cash_short=Наличка
-@gasstation_cash_long=Кто-то украл деньги из кассы, выронив несколько банкнот из рук.
+@gasstation_cash_short_dative=наличке
+@gasstation_cash_long=Кто-то украл деньги из кассы, выронив несколько банкнот.
 
 @gasstation_crowbar_prefix=
 @gasstation_crowbar_short=Лом застрял в кассовом аппарате
+@gasstation_crowbar_short_dative=лому, застрявшему в кассовом аппарате
 @gasstation_crowbar_long=Кто-то разломал кассовый аппарат при помощи лома. Похоже, лом застрял в трещине.
 
-@gasstation_entry1_short=Магазин при АЗС
-@gasstation_entry1_long=Этот проход ведёт в одну из комнат магазина при АЗС...
+@gasstation_entry1_short=Магазин
+@gasstation_entry1_short_dative=магазину
+@gasstation_entry1_long=Этот проход ведёт в одну из комнат магазина...
 @gasstation_entry1_prefix=
 
-@gasstation_exit_short=Выйти
-@gasstation_exit_long=Покинуть магазин.
+@gasstation_exit_short=Выход
+@gasstation_exit_short_dative=выходу из магазина
+@gasstation_exit_long=Выход из магазина.
 @gasstation_exit_prefix=
 
 @gasstation_room1_entry_short=Проход
-@gasstation_room1_entry_long=Этот проход ведёт в соседнюю комнату магазина при АЗС...
+@gasstation_room1_entry_short_dative=проходу в магазин
+@gasstation_room1_entry_long=Этот проход ведёт в соседнюю комнату магазина...
 @gasstation_room1_entry_prefix=
 
 @gasstation_back_short=Парковка
-@gasstation_back_long=Парковка, расположенная за АЗС.
+@gasstation_back_short_dative=парковке
+@gasstation_back_long=Парковка, расположенная за автозаправкой.
 @gasstation_back_prefix=
 
-@gasstation_front_short=Вернуться к АЗС
-@gasstation_front_long=Вернуться к АЗС.
+@gasstation_front_short=Вернуться к автозаправке
+@gasstation_front_short_dative=дороге, ведущей к автозаправке
+@gasstation_front_long=Вернуться к автозаправке.
 @gasstation_front_prefix=
 
 @gasstation_corpse_short=Труп
+@gasstation_corpse_short_dative=трупу
 @gasstation_corpse_long=Паутина плотно обвивает бледное тело.
 @gasstation_corpse_prefix=
 
 @nasty_spider_short=Огромный паук
-@nasty_spider_long=Это просто противный паук...
+@nasty_spider_short_dative=огромному пауку
+@nasty_spider_long=Какой же гадкий паук...
 @nasty_spider_prefix=
 
 @gasstation_rifle_short=Охотничья винтовка
+@gasstation_rifle_short_dative=охотничьей винтовке
 @gasstation_rifle_long=Мне определённо понадобится эта винтовка...
 @gasstation_rifle_prefix=
 
 @gasstation_plates_short=Куча тарелок
-@gasstation_plates_long=Когда-то их использовала небольшая закусочная на этой АЗС, а теперь они просто собирают пыль.
+@gasstation_plates_short_dative=куче тарелок
+@gasstation_plates_long=Когда-то из них ели в небольшой закусочной на этой заправке, а теперь они просто собирают пыль.
 @gasstation_plates_prefix=
 
 @attic_door_short=Проход
+@attic_door_short_dative=проходу на другую сторону чердака
 @attic_door_long=Проход на другую сторону чердака.
 @attic_door_prefix=
 
 @attic_hatch1_short=Люк
+@attic_hatch1_short_dative=люку
 @attic_hatch1_long=Вернуться на второй этаж.
 @attic_hatch1_prefix=
 
 @ext_cord_short=Удлинитель
+@ext_cord_short_dative=удлинителю
 @ext_cord_long=Несколько метров кабеля с розетками на конце.
 @ext_cord_prefix=
 
 @attic_hatch2_short=Люк
+@attic_hatch2_short_dative=люку
 @attic_hatch2_long=Люк ведёт прямо на крышу.
 @attic_hatch2_prefix=
 
 @attic_hatch3_short=Проход на крышу
+@attic_hatch3_short_dative=проходу на крышу
 @attic_hatch3_long=Люк ведёт прямо на крышу.
 @attic_hatch3_prefix=
 
 @screwdriver_short=Отвёртка
+@screwdriver_short_dative=отвёртке
 @screwdriver_long=Удобный инструмент.
 @screwdriver_prefix=
 
 @helicopter_short=Разбившийся вертолёт
-@helicopter_long=Вертолёт, который совершил жёсткую посадку, а если точнее - выламывание крыши.
+@helicopter_short_dative=разбившемуся вертолёту
+@helicopter_long=Этот вертолёт довольно жёстко приземлился. Или, правильнее сказать, "врезался".
 @helicopter_prefix=
 
 @roof_other_part_short=Вторая часть крыши
+@roof_other_part_short_dative=второй части крыши
 @roof_other_part_long=Вторая часть крыши.
 @roof_other_part_prefix=
 
 @roof_hatch_short=Люк
+@roof_hatch_short_dative=люку
 @roof_hatch_long=Люк ведёт на чердак.
 @roof_hatch_prefix=
 
 @deadbird_short=Мёртвая птица
+@deadbird_short_dative=мёртвой птице
 @deadbird_long=Мумифицированная туша птицы. Не вижу смысла брать её с собой...
 @deadbird_prefix=
 
 @roof_chimney_short=Дымоход
+@roof_chimney_short_dative=дымоходу
 @roof_chimney_long=Дымоход предназначен для вывода дыма из камина.
 @roof_chimney_prefix=
 
 @roof_heli_short=Вертолёт
+@roof_heli_short_dative=вертолёту
 @roof_heli_long=Вертолёт врезался в дом...
 @roof_heli_prefix=
 
 @house_b_waypoint1_short=К тыльной стороне дома
+@house_b_waypoint1_short_dative=дорожке, ведущей к тыльной стороне дома
 @house_b_waypoint1_long=Дорожка, ведущая к тыльной стороне разрушенного дома.
 @house_b_waypoint1_prefix=
 
 @house_b_waypoint2_short=Проход
+@house_b_waypoint2_short_dative=проходу в дом
 @house_b_waypoint2_long=Проход, который ведёт в дом.
 @house_b_waypoint2_prefix=
 
 @house_b_waypoint0_short=Дорога
-@house_b_waypoint0_long=Вернуться обратно к дороге.
+@house_b_waypoint0_short_dative=дороге
+@house_b_waypoint0_long=Вернуться к дороге.
 @house_b_waypoint0_prefix=
 
 @house_b_back_waypoint0_short=К лицевой стороне дома
+@house_b_back_waypoint0_short_dative=дорожке, ведущей к лицевой стороне дома
 @house_b_back_waypoint0_long=Дорожка, ведущая к лицевой стороне разрушенного дома.
 @house_b_back_waypoint0_prefix=
 
 @house_b_back_hose_short=Короткий шланг
+@house_b_back_hose_short_dative=короткому шлангу
 @house_b_back_hose_long=Короткий резиновый шланг присоединён к газовому баллону.
 @house_b_back_hose_prefix=
 
 @house_b_back_gastank_short=Баллон с пропаном
+@house_b_back_gastank_short_dative=баллону с пропаном
 @house_b_back_gastank_long=Баллон, заполненный пропаном. Думаю, его использовали в качестве источника газа для кухонной плиты.
 @house_b_back_gastank_prefix=
 
-@house_b_back_body_short=Накрытое простынёй тело Мэгги
-@house_b_back_body_long=Жена Барри, накрытая простынёй.
+@house_b_back_body_short=Обёрнутое простынёй тело Мэгги
+@house_b_back_body_short_dative=обёрнутому простынёй телу Мэгги
+@house_b_back_body_long=Жена Барри, обёрнутая простынёй.
 @house_b_back_body_prefix=
 
 @house_b_back_ground_short=Мягкая земля
+@house_b_back_ground_short_dative=мягкой земле
 @house_b_back_ground_long=Хорошее место, чтобы выкопать могилу.
 @house_b_back_ground_prefix=
 
 @house_b_back_hole_short=Яма
+@house_b_back_hole_short_dative=яме
 @house_b_back_hole_long=Яма для жены Барри.
 @house_b_back_hole_prefix=
 
 @house_b_back_grave_short=Могила
+@house_b_back_grave_short_dative=могиле
 @house_b_back_grave_long=Мы похоронили здесь жену Барри.
 @house_b_back_grave_prefix=
 
 @npc_grave_short=Надгробие
-@npc_grave_long=Куча кабней и щебня. Он заслуживает полноценных похорон, но это всё, что мы могли сделать.
+@npc_grave_short_dative=надгробию
+@npc_grave_long=Груда камней и щебня. Он заслуживает полноценных похорон, но это всё, что мы могли сделать.
 @npc_grave_prefix=
 
 @house_b_inside_body_short=Мёртвое тело Мэгги
+@house_b_inside_body_short_dative=мёртвому телу Мэгги
 @house_b_inside_body_long=Тело жены Барри.
 @house_b_inside_body_prefix=
 
 @house_b_phone_short=Телефон
+@house_b_phone_short_dative=телефону
 @house_b_phone_long=Старомодный телефон.
 @house_b_phone_prefix=
 
 @house_b_painting_short=Картина
+@house_b_painting_short_dative=картине
 @house_b_painting_long=Картина с изображением маяка на берегу моря.
 @house_b_painting_prefix=
 
-@house_b_inside_waypoint0_short=К лицевой стороне дома
-@house_b_inside_waypoint0_long=Дорожка, ведущая к лицевой стороне разрушенного дома.
+@house_b_inside_waypoint0_short=Проход
+@house_b_inside_waypoint0_short_dative=проходу во двор перед домом
+@house_b_inside_waypoint0_long=Проход, который ведёт во двор перед домом.
 @house_b_inside_waypoint0_prefix=
 
-@house_b_inside_waypoint1_short=К тыльной стороне дома
-@house_b_inside_waypoint1_long=Дорожка, ведущая к тыльной стороне разрушенного дома.
+@house_b_inside_waypoint1_short=Проход
+@house_b_inside_waypoint1_short_dative=проходу на задний двор
+@house_b_inside_waypoint1_long=Проход, который ведёт на задний двор.
 @house_b_inside_waypoint1_prefix=
 
 @house_b_inside_closet_short=Шкаф
+@house_b_inside_closet_short_dative=шкафу
 @house_b_inside_closet_long=Старый деревянный шкаф.
 @house_b_inside_closet_prefix=
 
 @house_b_inside_phone_short=Телефон
-@house_b_inside_phone_long=Довольно старый телефон.
+@house_b_inside_phone_short_dative=телефону
+@house_b_inside_phone_long=Очень старый телефон.
 @house_b_inside_phone_prefix=
 
 @house_b_inside_picture_short=Картина
+@house_b_inside_picture_short_dative=картине
 @house_b_inside_picture_long=Картина с изображением маяка на берегу моря.
 @house_b_inside_picture_prefix=
 
 @house_b_inside_sheet_short=Простыня
+@house_b_inside_sheet_short_dative=простыне
 @house_b_inside_sheet_long=Обычная простыня.
 @house_b_inside_sheet_prefix=
 
 @house_b_inside_coat_short=Тёплое пальто
+@house_b_inside_coat_short_dative=тёплому пальто
 @house_b_inside_coat_long=Большое тёплое пальто висит в шкафу.
 @house_b_inside_coat_prefix=
 
 @house_b_inside_rubble_short=Щебень
-@house_b_inside_rubble_long=Часть дома распалась на куски щебня.
+@house_b_inside_rubble_short_dative=щебню
+@house_b_inside_rubble_long=Часть дома обвалилась, осталась только кучка щебня.
 @house_b_inside_rubble_prefix=
 
-@house_b_back_hose_1_short=Пожарный шланг
-@house_b_back_hose_1_long=Короткий резиновый шланг. Он присоединён к огнетушителю.
+@house_b_back_hose_1_short=Короткий резиновый шланг
+@house_b_back_hose_1_short_dative=короткому резиновому шлангу
+@house_b_back_hose_1_long=Короткий резиновый шланг. Он присоединён к пропановому баллону.
 @house_b_back_hose_1_prefix=
 
-@house_b_back_hose_2_short=Пожарный шланг
+@house_b_back_hose_2_short=Короткий резиновый шланг
+@house_b_back_hose_2_short_dative=короткому резиновому шлангу
 @house_b_back_hose_2_long=Короткий резиновый шланг.
 @house_b_back_hose_2_prefix=
 
 @house_b_back_ground_short=Мягкая земля
+@house_b_back_ground_short_dative=мягкой земле
 @house_b_back_ground_long=Хорошее место, чтобы выкопать могилу.
 @house_b_back_ground_prefix=
 
 @house_b_back_tank_short=Баллон с пропаном
+@house_b_back_tank_short_dative=баллону с пропаном
 @house_b_back_tank_long=Баллон, заполненный пропаном. Думаю, его использовали в качестве источника газа для кухонной плиты.
 @house_b_back_tank_prefix=
 
 @house_b_garage_short=Дверь гаража
+@house_b_garage_short_dative=двери гаража
 @house_b_garage_long=Прочная металлическая дверь.
 @house_b_garage_prefix=
 
 @house_b_shovel_short=Лопата
+@house_b_shovel_short_dative=лопате
 @house_b_shovel_long=Лопата. Хороший инструмент для копания.
 @house_b_shovel_prefix=
 
 @house_b_car_short=Повреждённый автомобиль
-@house_b_car_long=Эта машина никуда не денется.
+@house_b_car_short_dative=повреждённому автомобилю
+@house_b_car_long=Эта машина уже никуда не уедет.
 @house_b_car_prefix=
 
 @restaurant_waypoint0_short=Выйти на главную дорогу
+@restaurant_waypoint0_short_dative=выходу на главную дорогу
 @restaurant_waypoint0_long=Выйти на главную дорогу.
 @restaurant_waypoint0_prefix=
 
 @restaurant_waypoint12_short=К тыльной стороне ресторана
+@restaurant_waypoint12_short_dative=дороге, ведущей к тыльной стороне ресторана
 @restaurant_waypoint12_long=Дорога, ведущая к тыльной стороне ресторана.
 @restaurant_waypoint12_prefix=
 
 @restaurant_waypoint21_short=К лицевой стороне ресторана
+@restaurant_waypoint21_short_dative=дороге, ведущей к лицевой стороне ресторана
 @restaurant_waypoint21_long=Дорога, ведущая к лицевой стороне ресторана.
 @restaurant_waypoint21_prefix=
 
-@restaurant_waypoint13_short=Зайти внутрь
-@restaurant_waypoint13_long=Зайти в ресторан... вернее, то что от него осталось.
+@restaurant_waypoint13_short=Вход в ресторан
+@restaurant_waypoint13_short_dative=проходу в ресторан
+@restaurant_waypoint13_long=Вход в ресторан... вернее, в то, что от него осталось.
 @restaurant_waypoint13_prefix=
 
-@restaurant_waypoint31_short=Выйти
-@restaurant_waypoint31_long=Выйти из ресторана.
+@restaurant_waypoint31_short=Выход
+@restaurant_waypoint31_short_dative=выходу из ресторана
+@restaurant_waypoint31_long=Выход из ресторана.
 @restaurant_waypoint31_prefix=
 
 @restaurant_waypoint34_short=Дверь
+@restaurant_waypoint34_short_dative=двери
 @restaurant_waypoint34_long=Дверь, которая ведёт на кухню.
 @restaurant_waypoint34_prefix=
 
 @restaurant_waypoint35_short=Проход в уборную
+@restaurant_waypoint35_short_dative=проходу в уборную
 @restaurant_waypoint35_long=Проход в уборную.
 @restaurant_waypoint35_prefix=
 
 @restaurant_waypoint43l_short=Дверь
-@restaurant_waypoint43l_long=У двери есть защёлка с этой стороны. Я запросто могу её открыть.
+@restaurant_waypoint43l_short_dative=двери
+@restaurant_waypoint43l_long=На двери висит замок с этой стороны. Я запросто могу его открыть.
 @restaurant_waypoint43l_prefix=
 
 @restaurant_waypoint43o_short=Дверь
+@restaurant_waypoint43o_short_dative=двери
 @restaurant_waypoint43o_long=Дверь, которая ведёт в главный зал.
 @restaurant_waypoint43o_prefix=
 
 @restaurant_door_short=Дверь
+@restaurant_door_short_dative=двери
 @restaurant_door_long=Тяжёлая дверь, и к тому же закрытая.
 @restaurant_door_prefix=
 
 @restaurant_ac_short=Портативный кондиционер
-@restaurant_ac_long=Большой и тяжёлый кондиционер с выхлопной трубой. Он портативный, но его необходимо устанавливать рядом с окном, чтобы по трубе мог выходить тёплый воздух.
+@restaurant_ac_short_dative=портативному кондиционеру
+@restaurant_ac_long=Большой и тяжёлый кондиционер с выхлопной трубой. Он портативный, но его необходимо устанавливать рядом с отверстием по типу окна, чтобы по трубе мог выходить тёплый воздух.
 @restaurant_ac_prefix=
 
 @restaurant_fridge_short=Холодильник для напитков
-@restaurant_fridge_long=Холодильник не охлаждается, но я вижу внутри две бутылки с водой.
+@restaurant_fridge_short_dative=холодильнику для напитков
+@restaurant_fridge_long=Холодильник не работает, но я вижу внутри две бутылки с водой.
 @restaurant_fridge_prefix=
 
 @restaurant_fridge_water2_short=Бутылки воды
+@restaurant_fridge_water2_short_dative=бутылкам воды
 @restaurant_fridge_water2_long=Бутылки воды лежат в холодильнике.
 @restaurant_fridge_water2_prefix=
 
 @restaurant_fridge_water1_short=Бутылка воды
+@restaurant_fridge_water1_short_dative=бутылке воды
 @restaurant_fridge_water1_long=Бутылка воды лежит в холодильнике.
 @restaurant_fridge_water1_prefix=
 
 @restaurant_freezer_short=Морозильная камера
+@restaurant_freezer_short_dative=морозильной камере
 @restaurant_freezer_long=Морозильная камера, предназначенная для хранения свежих продуктов.
 @restaurant_freezer_prefix=
 
 @restaurant_trash_short=Мусорный бак
+@restaurant_trash_short_dative=мусорному баку
 @restaurant_trash_long=Большой и тяжелый контейнер, заполненный мусором.
 @restaurant_trash_prefix=
 
 @restaurant_window_short=Маленькое окно
+@restaurant_window_short_dative=маленькому окну
 @restaurant_window_long=Маленькое приоткрытое окно, размещённое над дверью.
 @restaurant_window_prefix=
 
 @restaurant_backdoor_short=Дверь
+@restaurant_backdoor_short_dative=двери
 @restaurant_backdoor_long=Запасной выход.
 @restaurant_backdoor_prefix=
 
 @restaurant_knife_short=Кухонный нож
+@restaurant_knife_short_dative=кухонному ножу
 @restaurant_knife_long=Немного тупой кухонный нож.
 @restaurant_knife_prefix=
 
 @restaurant_can_short=Консервированное мясо
+@restaurant_can_short_dative=консервированному мясу
 @restaurant_can_long=На этикетке написано, что в этой банке вкусное мясо, срок годности которого истекает через две недели.
 @restaurant_can_prefix=
 
 @restaurant_cupboard_short=Комод
+@restaurant_cupboard_short_dative=комоду
 @restaurant_cupboard_long=Самый обычный кухонный комод.
 @restaurant_cupboard_prefix=
 
 @restaurant_pole_clamp_short=Механизм освобождения верёвки
+@restaurant_pole_clamp_short_dative=механизму освобождения верёвки
 @restaurant_pole_clamp_long=Зажим, удерживающий верёвку, находится у освобождающего механизма, но рычаг отсутствует.
 @restaurant_pole_clamp_prefix=
 
 @restaurant_rope_short=Верёвка
+@restaurant_rope_short_dative=верёвке
 @restaurant_rope_long=Верёвка, прицепленная к флагу наверху этого столба.
 @restaurant_rope_prefix=
 
 @rv_hook_short=Крюк
+@rv_hook_short_dative=крюку
 @rv_hook_long=Буксирный крюк, прикреплённый к фургону сзади.
 @rv_hook_prefix=
 
-@rv_exit_short=Выйти
-@rv_exit_long=Выйти из фургона.
+@rv_exit_short=Выход
+@rv_exit_short_dative=выходу из фургона
+@rv_exit_long=Выход из фургона.
 @rv_exit_prefix=
 
 @rv_door_short=Дверь
+@rv_door_short_dative=двери
 @rv_door_long=Дверь фургона.
 @rv_door_prefix=
 
 @rv_drawer_short=Комод
+@rv_drawer_short_dative=комоду
 @rv_drawer_long=Небольшой комод под крышей фургона.
 @rv_drawer_prefix=
 
 @rv_clothes_short=Тёплая куртка
+@rv_clothes_short_dative=тёплой куртке
 @rv_clothes_long=В этом комоде хранили одежду...
 @rv_clothes_prefix=
 
 
 @rv_water1_short=Две бутылки воды
+@rv_water1_short_dative=двум бутылкам воды
 @rv_water1_long=Две бутылки воды.
 @rv_water1_prefix=
 
 @rv_water2_short=Бутылка воды
+@rv_water2_short_dative=бутылке воды
 @rv_water2_long=Бутылка воды.
 @rv_water2_prefix=
 
 @rv_fuel_inlet_short=Бензобак
+@rv_fuel_inlet_short_dative=бензобаку
 @rv_fuel_inlet_long=Бензобак фургона.
 @rv_fuel_inlet_prefix=
 
 @rv_seats_short=Водительское сиденье
+@rv_seats_short_dative=водительскому сиденью
 @rv_seats_long=Водительское сиденье.
 @rv_seats_prefix=
 
 @house_b_blanket_short=Большое одеяло
+@house_b_blanket_short_dative=большому одеялу
 @house_b_blanket_long=Одеяло, плотное и тяжёлое.
 @house_b_blanket_prefix=
 
 @house_b_heater_short=Электрический обогреватель
+@house_b_heater_short_dative=электрическому обогревателю
 @house_b_heater_long=Устройство, которое выдувает горячий воздух при подключении к сети.
 @house_b_heater_prefix=
 
 @house_b_fan_short=Вентилятор
+@house_b_fan_short_dative=вентилятору
 @house_b_fan_long=Электрический вентилятор.
 @house_b_fan_prefix=
 
 @rv_blanket_short=Большое одеяло
+@rv_blanket_short_dative=большому одеялу
 @rv_blanket_long=Одеяло, плотное и тяжёлое.
 @rv_blanket_prefix=
 
 @rv_generator_short=Портативный генератор
-@rv_generator_long=Интересно, заправлен ли он топливом. Зная мою "удачливость", скорее всего нет.
+@rv_generator_short_dative=портативному генератору
+@rv_generator_long=Интересно, он заправлен? Зная, какой я везучий, скорее всего нет.
 @rv_generator_prefix=
 
 @rv_rocks_short=Горная порода
-@rv_rocks_long=Валуны образовали здесь большое образование. Оно покрыто трещинами и щелями.
+@rv_rocks_short_dative=горной породе
+@rv_rocks_long=Валуны сформировали здесь большое образование. Оно покрыто трещинами и щелями.
 @rv_rocks_prefix=
 
 @rv_rocks_rope_short=Крюк
+@rv_rocks_rope_short_dative=крюку
 @rv_rocks_rope_long=Крюк вдавлен в щель между камнями.
 @rv_rocks_rope_prefix=
 @rv_rocks_prefix=
 
 @rv_body1_gas_short=Труп
-@rv_body1_gas_long=Тело, свисающее из окна. Похоже, он умер от кислотного газа прошлой ночью.
+@rv_body1_gas_short_dative=трупу
+@rv_body1_gas_long=Тело, свисающее из окна. Похоже, он умер прошлой ночью от кислотного газа.
 @rv_body1_gas_prefix=
 
 @rv_body1_bugs_short=Труп
-@rv_body1_bugs_long=Тело, свисающее из окна. Похоже, на него напал рой саранчи прошлой ночью.
+@rv_body1_bugs_short_dative=трупу
+@rv_body1_bugs_long=Тело, свисающее из окна. Похоже, прошлой ночью на него напал рой саранчи.
 @rv_body1_bugs_prefix=
 
 @rv_body1_spiders_short=Труп
-@rv_body1_spiders_long=Тело, свисающее из окна. Похоже, на него напали гигантские пауки прошлой ночью.
+@rv_body1_spiders_short_dative=трупу
+@rv_body1_spiders_long=Тело, свисающее из окна. Похоже, прошлой ночью на него напали гигантские пауки.
 @rv_body1_spiders_prefix=
 @rv_body1_bugs_prefix=
 
 @rv_body1_cold_short=Труп
-@rv_body1_cold_long=Тело, свисающее из окна. Оно замёрзло до костей.
+@rv_body1_cold_short_dative=трупу
+@rv_body1_cold_long=Тело, свисающее из окна. Оно превратилось в лёд.
 @rv_body1_cold_prefix=
 
 @rv_body1_hot_short=Труп
-@rv_body1_hot_long=Тело, свисающее из окна. Оно зажарилось на солнцепёке.
+@rv_body1_hot_short_dative=трупу
+@rv_body1_hot_long=Тело, свисающее из окна. Оно превратилось в уголь.
 @rv_body1_hot_prefix=
 
 @rv_body2_cold_short=Труп
+@rv_body2_cold_short_dative=трупу
 @rv_body2_cold_long=Тело, замёрзшее до костей.
 @rv_body2_cold_prefix=
 
 @rv_body2_hot_short=Труп
+@rv_body2_hot_short_dative=трупу
 @rv_body2_hot_long=Тело высокой степени прожарки.
 @rv_body2_hot_prefix=
 
 @rv_body2_gas_short=Труп
+@rv_body2_gas_short_dative=трупу
 @rv_body2_gas_long=Ещё одна жертва смертоносного газа...
 @rv_body2_gas_prefix=
 
 @rv_body2_bugs_short=Труп
+@rv_body2_bugs_short_dative=трупу
 @rv_body2_bugs_long=Ещё одна жертва роя саранчи...
 @rv_body2_bugs_prefix=
 
 @rv_body2_spiders_short=Труп
+@rv_body2_spiders_short_dative=трупу
 @rv_body2_spiders_long=Ещё одна жертва пауков...
 @rv_body2_spiders_prefix=
 
 @rv_cave_short=Пещера
-@rv_cave_long=Пещера скрывается под небольшой трещиной в земле.
+@rv_cave_short_dative=пещере
+@rv_cave_long=Отверстие в земле, ведущее в пещеру.
 @rv_cave_prefix=
 
-@rv_cave_exit_short=Вход в пещеру
+@rv_cave_exit_short=Выход из пещеры
+@rv_cave_exit_short_dative=выходу из пещеры
 @rv_cave_exit_long=Без этой верёвки я бы не смог выбраться из пещеры.
 @rv_cave_exit_prefix=
 
 @rv_car_short=Фургон
+@rv_car_short_dative=фургону
 @rv_car_long=Похоже, фургон здесь останется навсегда.
 @rv_car_prefix=
 
 @rv_aid_short=Аптечка
+@rv_aid_short_dative=аптечке
 @rv_aid_long=Аптечка, лежащая на столе.
 @rv_aid_prefix=
 
 @base_window_barricade_broken_short=Сломанное укрепление
-@base_window_barricade_broken_long=Это всё, что осталось от моего укрепления. Оно меня здорово выручило, но теперь никакой пользы от него не будет.
+@base_window_barricade_broken_short_dative=сломанному укреплению
+@base_window_barricade_broken_long=Это всё, что осталось от моего укрепления. Оно меня здорово выручило, но теперь никакой пользы оно не принесёт.
 @base_window_barricade_broken_prefix=
 
 @barn_generator_button_sprinklers_short=Насос
+@barn_generator_button_sprinklers_short_dative=
 @barn_generator_button_sprinklers_long=Насос
 @barn_generator_button_sprinklers_prefix=
 
 @barn_generator_button_house_short=Дом
+@barn_generator_button_house_short_dative=
 @barn_generator_button_house_long=Дом
 @barn_generator_button_house_prefix=
 
 @barn_generator_button_off_short=Выкл.
+@barn_generator_button_off_short_dative=
 @barn_generator_button_off_long=Выкл.
 @barn_generator_button_off_prefix=
 
 @barn_generator_enabled_short=Резервный генератор
-@barn_generator_enabled_long=Полезен в экстренных случаях. Как видите, сейчас круглосуточное экстренное положение, и этот резервный генератор очень спасает. В данный момент он заправлен топливом и работает.
+@barn_generator_enabled_short_dative=резервному генератору
+@barn_generator_enabled_long=Ну, сейчас что-то вроде круглосуточной ЧС, так что я очень рад, что он здесь. Заправленный и включённый.
 @barn_generator_enabled_prefix=
 
 @barn_generator_disabled_short=Резервный генератор
-@barn_generator_disabled_long=Полезен в экстренных случаях. Как видите, сейчас круглосуточное экстренное положение, и этот резервный генератор очень спасает. В данный момент он не работает.
+@barn_generator_disabled_short_dative=резервному генератору
+@barn_generator_disabled_long=Ну, сейчас что-то вроде круглосуточной ЧС, так что я очень рад, что он здесь. В данный момент он не работает.
 @barn_generator_disabled_prefix=
 
 @barn_generator_starting_cord_short=Стартер
+@barn_generator_starting_cord_short_dative=стартеру
 @barn_generator_starting_cord_long=Если потянуть за ручку, должен заработать генератор.
 @barn_generator_starting_cord_prefix=
 
 @ext_cord_placed_short=Розетки удлинителя
+@ext_cord_placed_short_dative=розетке удлинителя
 @ext_cord_placed_long=На конце удлинителя есть несколько розеток.
 @ext_cord_placed_prefix=
 
 @kitchen_socket_short=Электрическая розетка
+@kitchen_socket_short_dative=электрической розетке
 @kitchen_socket_long=Электрическая розетка. Я могу подключить к ней какое-то электрическое устройство.
 @kitchen_socket_prefix=
 
 @plugged_fan_off_short=Подключённый электрический вентилятор
+@plugged_fan_off_short_dative=подключённому электрическому вентилятору
 @plugged_fan_off_long=Он не работает. Наверное, нет питания.
 @plugged_fan_off_prefix=
 
 @plugged_fan_on_short=Подключённый электрический вентилятор
+@plugged_fan_on_short_dative=подключённому электрическому вентилятору
 @plugged_fan_on_long=Вентилятор заметно охлаждает воздух.
 @plugged_fan_on_prefix=
 
 @plugged_heater_off_short=Подключённый электрический обогреватель
+@plugged_heater_off_short_dative=подключённому электрическому обогревателю
 @plugged_heater_off_long=Он не работает. Наверное, нет питания.
 @plugged_heater_off_prefix=
 
 @plugged_cord_short=Подключённый удлинитель
+@plugged_cord_short_dative=подключённому удлинителю
 @plugged_cord_long=Удлинитель подключен к розетке.
 @plugged_cord_prefix=
 
 @plugged_heater_on_short=Подключённый электрический обогреватель
+@plugged_heater_on_short_dative=подключённому электрическому обогревателю
 @plugged_heater_on_long=Благодаря обогревателю воздух становится очень горячим.
 @plugged_heater_on_prefix=
 
-@ac_plug_short=Вилка портативного кондиционера
-@ac_plug_long=Вилка портативного кондиционера.
+@ac_plug_short=Шнур питания кондиционера
+@ac_plug_short_dative=шнуру питания кондиционера
+@ac_plug_long=Шнур питания кондиционера.
 @ac_plug_prefix=
 
 @ac_window_short=Портативный кондиционер
+@ac_window_short_dative=портативному кондиционеру
 @ac_window_long=Портативный кондиционер, установленный у окна.
 @ac_window_prefix=
 
 @ac_cave_short=Портативный кондиционер
+@ac_cave_short_dative=портативному кондиционеру
 @ac_cave_long=Портативный кондиционер, установленный у входа в пещеру.
 @ac_cave_prefix=
 
 @base_heater_off_short=Электрический обогреватель
+@base_heater_off_short_dative=электрическому обогревателю
 @base_heater_off_long=Электрический обогреватель, размещённый на полу. Он не работает.
 @base_heater_off_prefix=
 @base_heater_on_short=Электрический обогреватель
-@base_heater_on_long=Электрический обогреватель, размещённый на полу. Он отлично выдувает горячий воздух.
+@base_heater_on_short_dative=электрическому обогревателю
+@base_heater_on_long=Электрический обогреватель, размещённый на полу. Он выдувает приятный тёплый воздух.
 @base_heater_on_prefix=
 
-@base_fan_off_short=Электрический вентилятор
+@base_fan_off_short=Вентилятор
+@base_fan_off_short_dative=вентилятору
 @base_fan_off_long=Электрический вентилятор, размещённый на полу. Он не работает.
 @base_fan_off_prefix=
-@base_fan_on_short=Электрический вентилятор
+@base_fan_on_short=Вентилятор
+@base_fan_on_short_dative=вентилятору
 @base_fan_on_long=Электрический вентилятор, размещённый на полу. Он обеспечивает циркуляцию охлаждающего воздуха.
 @base_fan_on_prefix=
 
 @cave_heater_off_short=Электрический обогреватель
+@cave_heater_off_short_dative=электрическому обогревателю
 @cave_heater_off_long=Электрический обогреватель, размещённый на земле. Он не работает.
 @cave_heater_off_prefix=
 @cave_heater_on_short=Электрический обогреватель
-@cave_heater_on_long=Электрический обогреватель, размещённый на земле. Он отлично выдувает горячий воздух.
+@cave_heater_on_short_dative=электрическому обогревателю
+@cave_heater_on_long=Электрический обогреватель, размещённый на земле. Он выдувает приятный тёплый воздух.
 @cave_heater_on_prefix=
 
-@cave_fan_off_short=Электрический вентилятор
+@cave_fan_off_short=Вентилятор
+@cave_fan_off_short_dative=вентилятору
 @cave_fan_off_long=Электрический вентилятор, размещённый на земле. Он не работает.
 @cave_fan_off_prefix=
-@cave_fan_on_short=Электрический вентилятор
+@cave_fan_on_short=Вентилятор
+@cave_fan_on_short_dative=вентилятору
 @cave_fan_on_long=Электрический вентилятор, размещённый на земле. Он обеспечивает циркуляцию охлаждающего воздуха в пещере.
 @cave_fan_on_prefix=
 
 @kitchen_oven_short=Духовка
+@kitchen_oven_short_dative=духовке
 @kitchen_oven_long=Электрическая духовка.
 @kitchen_oven_prefix=
 
 @kitchen_oven_hot_short=Духовка
-@kitchen_oven_hot_long=Электрическая духовка, достаточно горячая, чтобы испечь торт.
+@kitchen_oven_hot_short_dative=духовке
+@kitchen_oven_hot_long=Электрическая духовка, достаточно разогретая, чтобы испечь торт.
 @kitchen_oven_hot_prefix=
 
 @attic_hatch_thing_flag_short=Флаг
+@attic_hatch_thing_flag_short_dative=флагу
 @attic_hatch_thing_flag_long=Это должно снизить влияние температуры чердака на температуру первого и второго этажей.
 @attic_hatch_thing_flag_prefix=
 
 @attic_hatch_thing_blanket_short=Одеяло
+@attic_hatch_thing_blanket_short_dative=одеялу
 @attic_hatch_thing_blanket_long=Это должно снизить влияние температуры чердака на температуру первого и второго этажей.
 @attic_hatch_thing_blanket_prefix=
 
 @attic_hatch_thing_thermalb_short=Термоодеяло
+@attic_hatch_thing_thermalb_short_dative=термоодеялу
 @attic_hatch_thing_thermalb_long=Это должно снизить влияние температуры чердака на температуру первого и второго этажей.
 @attic_hatch_thing_thermalb_prefix=
 
 @rv_cave_thing_flag_short=Флаг
+@rv_cave_thing_flag_short_dative=флагу
 @rv_cave_thing_flag_long=Это должно изолировать пещеру от внешней среды.
 @rv_cave_thing_flag_prefix=
 
 @rv_cave_thing_blanket_short=Одеяло
+@rv_cave_thing_blanket_short_dative=одеялу
 @rv_cave_thing_blanket_long=Это должно изолировать пещеру от внешней среды.
 @rv_cave_thing_blanket_prefix=
 
 @rv_cave_thing_thermalb_short=Термоодеяло
+@rv_cave_thing_thermalb_short_dative=термоодеялу
 @rv_cave_thing_thermalb_long=Это должно изолировать пещеру от внешней среды.
 @rv_cave_thing_thermalb_prefix=
 
 @rv_socket_short=Электрическая розетка
+@rv_socket_short_dative=электрической розетке
 @rv_socket_long=Внешняя электрическая розетка.
 @rv_socket_prefix=
 
-@electric_pin_short=Электрический пин
-@electric_pin_long=Мне нужно подключить эти пины таким образом, чтобы выходы А и В имели правильные значения...
+@electric_pin_short=Электрический контакт
+@electric_pin_short_dative=электрическому контакту
+@electric_pin_long=Мне нужно подключить эти контакты таким образом, чтобы выходы А и В имели правильные значения...
 @electric_pin_prefix=
 
-@sidereal_exit1_short=Выйти
+@sidereal_exit1_short=Выход
+@sidereal_exit1_short_dative=проходу на крышу
 @sidereal_exit1_long=Вернуться на крышу...
 @sidereal_exit1_prefix=
 
-@sidereal_exit2_short=Выйти
+@sidereal_exit2_short=Выход
+@sidereal_exit2_short_dative=проходу в полуразрушенную комнату
 @sidereal_exit2_long=Вернуться в полуразрушенную комнату.
 @sidereal_exit2_prefix=
 
 @sidereal_exit3_short=Проход
+@sidereal_exit3_short_dative=проходу в коридор
 @sidereal_exit3_long=Проход в коридор.
 @sidereal_exit3_prefix=
 
 @sidereal_exit4_short=Проход
+@sidereal_exit4_short_dative=проходу в комнату
 @sidereal_exit4_long=Проход в комнату.
 @sidereal_exit4_prefix=
 
 @sidereal_exit5_short=Проход
+@sidereal_exit5_short_dative=проходу
 @sidereal_exit5_long=Какой-то проход.
 @sidereal_exit5_prefix=
 
 @sidereal_door2_short=Дверь
+@sidereal_door2_short_dative=двери
 @sidereal_door2_long=Прочная дверь. Интересно, что за ней находится.
 @sidereal_door2_prefix=
 
 @sidereal_door1_short=Проход
+@sidereal_door1_short_dative=проходу в тёмный коридор
 @sidereal_door1_long=Проход в тёмный коридор.
 @sidereal_door1_prefix=
 
 @sidereal_stairs_down_short=Спуститься по лестнице
+@sidereal_stairs_down_short_dative=лестнице, ведущей вниз
 @sidereal_stairs_down_long=Лестница, ведущая вниз...
 @sidereal_stairs_down_prefix=
 
 @sidereal_stairs_up_short=Подняться по лестнице
+@sidereal_stairs_up_short_dative=лестнице, ведущей вверх
 @sidereal_stairs_up_long=Лестница, ведущая вверх...
 @sidereal_stairs_up_prefix=
 
 @sidereal_stairs_down_blocked_short=Разрушенная лестница
+@sidereal_stairs_down_blocked_short_dative=разрушенной лестнице
 @sidereal_stairs_down_blocked_long=Я мог бы подняться по этой лестнице, но она в разрушенном состоянии...
 @sidereal_stairs_down_blocked_prefix=
 
 @sidereal_stairs_up_blocked_short=Разрушенная лестница
+@sidereal_stairs_up_blocked_short_dative=разрушенной лестнице
 @sidereal_stairs_up_blocked_long=Я мог бы спуститься по этой лестнице, но она в разрушенном состоянии...
 @sidereal_stairs_up_blocked_prefix=
 
-@sidereal_alarm1_short=Пожарная тревога
-@sidereal_alarm1_long="При пожаре РАЗБЕЙ стекло и НАЖМИ кнопку".
+@sidereal_alarm1_short=Кнопка пожарной тревоги
+@sidereal_alarm1_short_dative=кнопке пожарной тревоги
+@sidereal_alarm1_long="При пожаре РАЗБЕЙТЕ стекло и НАЖМИТЕ кнопку".
 @sidereal_alarm1_prefix=
 
 @sidereal_chart_short=Диаграмма
+@sidereal_chart_short_dative=диаграмме
 @sidereal_chart_long=Понятия не имею, что на ней изображено. Возможно, это что-то связанное с полупроводниками?
 @sidereal_chart_prefix=
 
 @sidereal_collapse1_short=Разрушенный проход
-@sidereal_collapse1_long=В этой части здания обрушился потолок, заполнив всю комнату щебнем и песком.
+@sidereal_collapse1_short_dative=разрушенному проходу
+@sidereal_collapse1_long=В этой части здания обрушился потолок, завалив всю комнату щебнем и песком.
 @sidereal_collapse1_prefix=
 
 @sidereal_computer1_short=Компьютер
+@sidereal_computer1_short_dative=компьютеру
 @sidereal_computer1_long=ПК. Сомневаюсь, что он всё ещё работает.
 @sidereal_computer1_prefix=
 
 @sidereal_computer2_short=Сломанный компьютер
+@sidereal_computer2_short_dative=сломанному компьютеру
 @sidereal_computer2_long=От него мало что осталось.
 @sidereal_computer2_prefix=
 
 @sidereal_elevator_3_short=Лифт
+@sidereal_elevator_3_short_dative=лифту
 @sidereal_elevator_3_long=Лифт застрял между этажами.
 @sidereal_elevator_3_prefix=
 
 @sidereal_elevator_2_short=Шахта лифта
+@sidereal_elevator_2_short_dative=шахте лифта
 @sidereal_elevator_2_long=Долгий путь вниз...
 @sidereal_elevator_2_prefix=
 
 @sidereal_elevator_1_short=Шахта лифта с опущенным шлангом
+@sidereal_elevator_1_short_dative=шахте лифта с опущенным шлангом
 @sidereal_elevator_1_long=При помощи опущенного шланга можно перемещаться по шахте...
 @sidereal_elevator_1_prefix=
 
 @sidereal_pipe_short=Труба
+@sidereal_pipe_short_dative=трубе
 @sidereal_pipe_long=Похоже, она довольно тяжёлая.
 @sidereal_pipe_prefix=
 
 @sidereal_hose_short=Пожарный шланг
+@sidereal_hose_short_dative=пожарному шлангу
 @sidereal_hose_long=Длинный пожарный шланг.
 @sidereal_hose_prefix=
 
 @sidereal_battery_short=Запасной источник энергии
-@sidereal_battery_long=Он здесь на случай сбоя основного генератора.
+@sidereal_battery_short_dative=запасному источнику энергии
+@sidereal_battery_long=Он здесь на случай сбоя основного электропитания.
 @sidereal_battery_prefix=
 
 @sidereal_f2c_door_short=Дверь
+@sidereal_f2c_door_short_dative=двери
 @sidereal_f2c_door_long=Прочная дверь с маленькой замочной скважиной.
 @sidereal_f2c_door_prefix=
 
 @sidereal_elevator_closed_short=Дверь лифта
-@sidereal_elevator_closed_long=Я могу открыть эту дверь силой.
+@sidereal_elevator_closed_short_dative=двери лифта
+@sidereal_elevator_closed_long=Возможно, у меня получится открыть эту дверь силой.
 @sidereal_elevator_closed_prefix=
 
 @sidereal_internet_app_short=Интернет-браузер
-@sidereal_internet_app_long=Программа для просмотра веб-страниц, но интернета сейчас нет.
+@sidereal_internet_app_short_dative=
+@sidereal_internet_app_long=Он был предназначен для работы в интернете. Правда интернета больше нет.
 @sidereal_internet_app_prefix=
 
 @sidereal_mail_app_short=Почтовый клиент
+@sidereal_mail_app_short_dative=
 @sidereal_mail_app_long=Программа для отправки и получения электронных писем. Потрясающая новая технология.
 @sidereal_mail_app_prefix=
 
 @sidereal_x_app_short=Закрыть
+@sidereal_x_app_short_dative=
 @sidereal_x_app_long=Закрыть окно программы.
 @sidereal_x_app_prefix=
 
 @sidereal_mail_short=Электронное письмо
+@sidereal_mail_short_dative=
 @sidereal_mail_long=Одно из входящих электронных писем этого почтового ящика.
 @sidereal_mail_prefix=
 
 @sidereal_pc_off_short=Компьютер
+@sidereal_pc_off_short_dative=компьютеру
 @sidereal_pc_off_long=Выключенный компьютер.
 @sidereal_pc_off_prefix=
 
 @sidereal_pc_on_short=Включённый компьютер
+@sidereal_pc_on_short_dative=включённому компьютеру
 @sidereal_pc_on_long=Включённый компьютер.
 @sidereal_pc_on_prefix=
 
 @sidereal_body_short=Труп
+@sidereal_body_short_dative=трупу
 @sidereal_body_long=Тело давно умершего офисного работника. Я мог бы сказать что-нибудь о сверхурочной работе, но я не в настроении для шуток.
 @sidereal_body_prefix=
 
 @sidereal_papers_short=Документ в факсе
-@sidereal_papers_long=Документ в факсе.
+@sidereal_papers_short_dative=документу в факсе
+@sidereal_papers_long=Документ в выходном лотке факса.
 @sidereal_papers_prefix=
 
 @sidereal_fax_short=Факс
-@sidereal_fax_long=Используется для пересылки важных документов между офисами. Кому вообще нужны все эти электронные письма?
+@sidereal_fax_short_dative=факсу
+@sidereal_fax_long=Он используется для пересылки важных документов между офисами. Кому вообще нужны все эти электронные письма?
 @sidereal_fax_prefix=
 
 
 @sidereal_vent_short=Вентиляция
+@sidereal_vent_short_dative=вентиляции
 @sidereal_vent_long=Вентиляционное отверстие в стене. К сожалению, оно слишком маленькое, я не смогу пролезть.
 @sidereal_vent_prefix=
 
 @sidereal_main_door_short=Главный вход
-@sidereal_main_door_long=С внешней стороны эта дверь полностью погрязла в песке. Удивительно, что эта комната ещё не превратилась в руины.
+@sidereal_main_door_short_dative=главному входу
+@sidereal_main_door_long=С внешней стороны эта дверь полностью погрязла в песке. Чудо, что эта комната ещё не ушла под землю.
 @sidereal_main_door_prefix=
 
 @sidereal_reception_desk_short=Стойка регистрации
+@sidereal_reception_desk_short_dative=стойке регистрации
 @sidereal_reception_desk_long=Стол покрыт пылью. Ничего полезного здесь нет...
 @sidereal_reception_desk_prefix=
 
 @sidereal_logo_short=Логотип
+@sidereal_logo_short_dative=логотипу
 @sidereal_logo_long=Логотип Sidereal Plexus.
 @sidereal_logo_prefix=
 
-@sidereal_outside_back_short=Назад
+@sidereal_outside_back_short=Вернуться назад
+@sidereal_outside_back_short_dative=дороге назад
 @sidereal_outside_back_long=Вернуться назад.
 @sidereal_outside_back_prefix=
 
 @sidereal_climb_short=Большая песчаная дюна
-@sidereal_climb_long=Эта песчаная дюна достигает высоты нескольких этажей.
+@sidereal_climb_short_dative=большой песчаной дюне
+@sidereal_climb_long=Она достигает высоты нескольких этажей.
 @sidereal_climb_prefix=
 
 @sidereal_climb2_short=Спуститься вниз
+@sidereal_climb2_short_dative=спуску вниз
 @sidereal_climb2_long=Вернуться к лицевой стороне здания.
 @sidereal_climb2_prefix=
 
 @sidereal_climb3_short=Путь на крышу
+@sidereal_climb3_short_dative=подъёму на крышу
 @sidereal_climb3_long=Подняться на крышу.
 @sidereal_climb3_prefix=
 
 @sidereal_outside_back2_short=Восточное крыло
+@sidereal_outside_back2_short_dative=восточному крылу
 @sidereal_outside_back2_long=Дорога к восточному крылу здания.
 @sidereal_outside_back2_prefix=
 
 @sidereal_outside_dune_short=Обойти песчаную дюну
+@sidereal_outside_dune_short_dative=обходу песчаной дюны
 @sidereal_outside_dune_long=Обойти песчаную дюну.
 @sidereal_outside_dune_prefix=
 
 @sidereal_dune2_short=Вернуться назад
+@sidereal_dune2_short_dative=дороге назад
 @sidereal_dune2_long=Вернуться к лицевой стороне здания.
 @sidereal_dune2_prefix=
 
 @sidereal_outside_door_short=Металлическая дверь
+@sidereal_outside_door_short_dative=металлической двери
 @sidereal_outside_door_long=Прочная металлическая дверь.
 @sidereal_outside_door_prefix=
 
 @sidereal_outside_door2_short=Проход
+@sidereal_outside_door2_short_dative=проходу в офис
 @sidereal_outside_door2_long=Проход в тёмные недры офисного здания Sidereal Plexus.
 @sidereal_outside_door2_prefix=
 
 @sidereal_outside_front_short=Офисное здание Sidereal Plexus
+@sidereal_outside_front_short_dative=офисному зданию Sidereal Plexus
 @sidereal_outside_front_long=Дорога к офисному зданию.
 @sidereal_outside_front_prefix=
 
 @sidereal_streetlamp_short=Уличный фонарь
+@sidereal_streetlamp_short_dative=уличному фонарю
 @sidereal_streetlamp_long=Фонарь почти полностью погряз в песке.
 @sidereal_streetlamp_prefix=
 
 @sidereal_entry_collapsed_short=Вход
+@sidereal_entry_collapsed_short_dative=входу
 @sidereal_entry_collapsed_long=На этом месте должен быть вход, но я его не вижу.
 @sidereal_entry_collapsed_prefix=
 
 @sidereal_side_building_short=Другая сторона здания
+@sidereal_side_building_short_dative=другой стороне здания
 @sidereal_side_building_long=Можно проверить другую сторону здания.
 @sidereal_side_building_prefix=
 
 @sidereal_hole_short=Отверстие в стене
+@sidereal_hole_short_dative=отверстию в стене
 @sidereal_hole_long=Через эту дыру я смогу пробраться внутрь.
 @sidereal_hole_prefix=
 
 @sidereal_hole_outside_short=Отверстие в стене
+@sidereal_hole_outside_short_dative=отверстию в стене
 @sidereal_hole_outside_long=Отверстие, которое ведёт обратно на крышу.
 @sidereal_hole_outside_prefix=
 
 @sidereal_xero_short=Стопка документов
+@sidereal_xero_short_dative=стопке документов
 @sidereal_xero_long=Документ в копировальном аппарате, готов к печати, но так и не был отксерокопирован.
 @sidereal_xero_prefix=
 
 @sidereal_secrets_short=Стопка документов в факсе
+@sidereal_secrets_short_dative=стопке документов в факсе
 @sidereal_secrets_long=Документы, лежащие в поддоне для распечатанных бумаг, в факсе.
 @sidereal_secrets_prefix=
 
 @sidereal_calendar_short=Календарь
+@sidereal_calendar_short_dative=календарю
 @sidereal_calendar_long=Календарь на 1996 год.
 @sidereal_calendar_prefix=
 
 @sidereal_photocopier_short=Копировальный аппарат
-@sidereal_photocopier_long=Копировальный аппарат, предназначен для ксерокопирования документов.
+@sidereal_photocopier_short_dative=копировальному аппарату
+@sidereal_photocopier_long=Копировальный аппарат, предназначенный для ксерокопирования документов.
 @sidereal_photocopier_prefix=
 
 @sidereal_corridor_short=Коридор
+@sidereal_corridor_short_dative=коридору
 @sidereal_corridor_long=Тёмный коридор.
 @sidereal_corridor_prefix=
 @sidereal_photocopier_prefix=
 
 @sidereal_doorway_short=Дверь
+@sidereal_doorway_short_dative=двери
 @sidereal_doorway_long=Прочная дверь.
 @sidereal_doorway_prefix=
 
 @sidereal_doorway_lab_short=Вход в лабораторию
+@sidereal_doorway_lab_short_dative=входу в лабораторию
 @sidereal_doorway_lab_long=Вход в одну из лабораторий.
 @sidereal_doorway_lab_prefix=
 
 @sidereal_lab14_short=Лаборатория 14
+@sidereal_lab14_short_dative=лаборатории 14
 @sidereal_lab14_long=Табличка у двери.
 @sidereal_lab14_prefix=
 
 @sidereal_lab13_short=Лаборатория 13
+@sidereal_lab13_short_dative=лаборатории 13
 @sidereal_lab13_long=Табличка у двери.
 @sidereal_lab13_prefix=
 
 @sidereal_lab12_short=Лаборатория 12
+@sidereal_lab12_short_dative=лаборатории 12
 @sidereal_lab12_long=Табличка у двери.
 @sidereal_lab12_prefix=
 
 @sidereal_lab11_short=Лаборатория 11
+@sidereal_lab11_short_dative=лаборатории 11
 @sidereal_lab11_long=Табличка у двери.
 @sidereal_lab11_prefix=
 
 @sidereal_mixer_short=Химический миксер
-@sidereal_mixer_long=Устройство для смешивания химических веществ из различых пробирок.
+@sidereal_mixer_short_dative=химическому миксеру
+@sidereal_mixer_long=Устройство для смешивания химических веществ из различных пробирок.
 @sidereal_mixer_prefix=
 
 @sidereal_silencer_short=Глушитель
+@sidereal_silencer_short_dative=глушителю
 @sidereal_silencer_long=Это... глушитель для оружия?
 @sidereal_silencer_prefix=
 
 @lab_vials_short=Набор пробирок
+@lab_vials_short_dative=набору пробирок
 @lab_vials_long=Цветные пробирки с разными этикетками.
 @lab_vials_prefix=
 
 @lodge_to_front_short=К лицевой стороне хижины
+@lodge_to_front_short_dative=дороге, ведущей к лицевой стороне хижины
 @lodge_to_front_long=Дорога, ведущая к лицевой стороне хижины.
 @lodge_to_front_prefix=
 
-@lodge_to_outside_short=Выйти
-@lodge_to_outside_long=Выйти из хижины.
+@lodge_to_outside_short=Выход
+@lodge_to_outside_short_dative=выходу из хижины
+@lodge_to_outside_long=Выход из хижины.
 @lodge_to_outside_prefix=
 
-@lodge_to_inside_short=Войти
-@lodge_to_inside_long=Войти в хижину.
+@lodge_to_inside_short=Вход
+@lodge_to_inside_short_dative=входу в хижину
+@lodge_to_inside_long=Вход в хижину.
 @lodge_to_inside_prefix=
 
 @lodge_to_inside1_short=В главную комнату
+@lodge_to_inside1_short_dative=проходу в главную комнату
 @lodge_to_inside1_long=Вернуться в главную комнату хижины.
 @lodge_to_inside1_prefix=
 
 @lodge_to_inside2_short=Кладовая
+@lodge_to_inside2_short_dative=кладовой
 @lodge_to_inside2_long=Небольшая кладовая в хижине.
 @lodge_to_inside2_prefix=
 
 @hunters_scope_short=Прицел для винтовки
+@hunters_scope_short_dative=прицелу для винтовки
 @hunters_scope_long=Можно повысить точность стрельбы, если установить прицел на винтовку.
 @hunters_scope_prefix=
 
 @hunters_whiskey_prefix=
 @hunters_whiskey_short=Бутылка виски
+@hunters_whiskey_short_dative=бутылке виски
 @hunters_whiskey_long=Большая бутылка крепкого виски.
 
 @lodge_to_back_short=К тыльной стороне хижины
+@lodge_to_back_short_dative=дороге, ведущей к тыльной стороне хижины
 @lodge_to_back_long=Дорога, ведущая к тыльной стороне хижины.
 @lodge_to_back_prefix=
 
 @lodge_back_trap_short=Медвежий капкан
+@lodge_back_trap_short_dative=медвежьему капкану
 @lodge_back_trap_long=Медвежий капкан на земле.
 @lodge_back_trap_prefix=
 
 @lodge_back_corpse_short=Труп животного
-@lodge_back_corpse_long=Кабан угодил в ловушку. То, что не было съедено, полностью сгнило. Меня скоро вырвет.
+@lodge_back_corpse_short_dative=трупу животного
+@lodge_back_corpse_long=Кабан угодил в ловушку. Не обглоданные куски плоти полностью сгнили. Меня сейчас вырвет.
 @lodge_back_corpse_prefix=
 
 @lodge_back_latrine_short=Уборная
+@lodge_back_latrine_short_dative=уборной
 @lodge_back_latrine_long=Запах просто ужасный, как и всё здесь.
 @lodge_back_latrine_prefix=
 
 @lodge_couch_short=Диван
+@lodge_couch_short_dative=дивану
 @lodge_couch_long=Он выглядит достаточно комфортным.
 @lodge_couch_prefix=
 
 @lodge_scratches_short=Царапины
+@lodge_scratches_short_dative=царапинам
 @lodge_scratches_long=Мне нужно рассмотреть поближе...
 @lodge_scratches_prefix=
 
 @lodge_hatch_short=Сейф в полу
+@lodge_hatch_short_dative=сейфу в полу
 @lodge_hatch_long=Металлический сейф, спрятанный в полу хижины.
 @lodge_hatch_prefix=
 
 @lodge_horns_short=Трофей из головы оленя
+@lodge_horns_short_dative=трофею из головы оленя
 @lodge_horns_long=Один олений рог подозрительно изогнут...
 @lodge_horns_prefix=
 
 @hunters_picture_short=Картина
+@hunters_picture_short_dative=картине
 @hunters_picture_long=На картине изображён волк или собака на заснеженном холме.
 @hunters_picture_prefix=
 @lodge_horns_prefix=
 
 @hunters_chimney_short=Камин
+@hunters_chimney_short_dative=камину
 @hunters_chimney_long=Пустой камин, пахнет пеплом.
 @hunters_chimney_prefix=
 
 @hunters_trap4_short=Медвежий капкан
+@hunters_trap4_short_dative=медвежьему капкану
 @hunters_trap4_long=Медвежий капкан на ремонтном столе.
 @hunters_trap4_prefix=
 
 @back_to_road_short=Вернуться к дороге
+@back_to_road_short_dative=дороге, ведущей за город
 @back_to_road_long=Дорога, ведущая за город.
 @back_to_road_prefix=
 
 @back_to_road2_short=Вернуться к дороге
+@back_to_road2_short_dative=дороге, ведущей за строительную площадку
 @back_to_road2_long=Дорога, ведущая за строительную площадку.
 @back_to_road2_prefix=
 
 @machine_park_short=Стоянка для строительного оборудования
+@machine_park_short_dative=стоянке для строительного оборудования
 @machine_park_long=Стоянка для строительного оборудования.
 @machine_park_prefix=
 
 @construction_site_entrance_short=Вход на строительную площадку
+@construction_site_entrance_short_dative=входу на строительную площадку
 @construction_site_entrance_long=Главные входные ворота строительной площадки.
 @construction_site_entrance_prefix=
 
 @construction_site_2_short=К лицевой стороне строительной площадки
+@construction_site_2_short_dative=дороге, ведущей к лицевой стороне строительной площадки
 @construction_site_2_long=Дорога, ведущая к лицевой стороне строительной площадки.
 @construction_site_2_prefix=
 
 @cs_ammobox_short=Ящики с боеприпасами
-@cs_ammobox_long=Ящики, полные боеприпасов. Надпись гласит: "Собственность правительства США. Держать вдали огня и влаги".
+@cs_ammobox_short_dative=ящикам с боеприпасами
+@cs_ammobox_long=Ящики, полные боеприпасов. Надпись гласит: "Собственность правительства США. Держать вдали от огня и влаги".
 @cs_ammobox_prefix=
 
 @cs_shelf_short=Погнутая часть забора
-@cs_shelf_long=Здесь забор погнут, образуя практически ровную поверхность.
+@cs_shelf_short_dative=погнутой части забора
+@cs_shelf_long=Здесь забор погнут, образуя практически ровную поверхность, похожую на подоконник.
 @cs_shelf_prefix=
 
 @cs_food_short=Продовольственные запасы
+@cs_food_short_dative=продовольственным запасам
 @cs_food_long=Ящики, полные еды.
 @cs_food_prefix=
 
 @cs_food_poisioned_short=Отравленные продовольственные запасы
+@cs_food_poisioned_short_dative=отравленным продовольственным запасам
 @cs_food_poisioned_long=Ящики, полные отравленной еды.
 @cs_food_poisioned_prefix=
 
 @cs_thug_prefix=
 @cs_thug_short=Бандит
+@cs_thug_short_dative=бандиту
 @cs_thug_long=Этот парень выглядит опасным.
 
 @cs_maggot_prefix=
 @cs_maggot_short=Труп
-@cs_maggot_long=В этом гниющем трупе ютятся отвратительные на вид личинки.
+@cs_maggot_short_dative=трупу
+@cs_maggot_long=В этом гниющем трупе ютятся отвратительные личинки.
 
 @cs_welder_prefix=
 @cs_welder_short=Сварочный комплект
+@cs_welder_short_dative=сварочному комплекту
 @cs_welder_long=Комплект, состоящий из сварочного оборудования и сварочной маски.
 
 @cs_waypoint_2_1_prefix=
 @cs_waypoint_2_1_short=Покинуть строительную площадку
+@cs_waypoint_2_1_short_dative=дороге, ведущей за пределы строительной площадки
 @cs_waypoint_2_1_long=Выйти за пределы строительной площадки.
 
 @cs_waypoint_2_3_prefix=
 @cs_waypoint_2_3_short=Дыра в стене
+@cs_waypoint_2_3_short_dative=дыре в стене
 @cs_waypoint_2_3_long=В стене есть дыра. Я могу перебраться на другую сторону.
 
 @cs_waypoint_4_1_prefix=
 @cs_waypoint_4_1_short=Покинуть строительную площадку
+@cs_waypoint_4_1_short_dative=дороге, ведущей за пределы строительной площадки
 @cs_waypoint_4_1_long=Выйти за пределы строительной площадки.
 
 @cs_waypoint_4_3_prefix=
 @cs_waypoint_4_3_short=Спуститься вниз
+@cs_waypoint_4_3_short_dative=спуску вниз
 @cs_waypoint_4_3_long=Пройти дальше по строительной площадке.
 
 @cs_scaffolding_prefix=
 @cs_scaffolding_short=Ржавые строительные леса
-@cs_scaffolding_long=Они выглядят не очень, все в ржавчине и с острыми краями.
+@cs_scaffolding_short_dative=ржавым строительным лесам
+@cs_scaffolding_long=Они выглядят не очень: все в ржавчине и с острыми краями.
 
 @cs_buckle_prefix=
 @cs_buckle_short=Карабин
+@cs_buckle_short_dative=карабину
 @cs_buckle_long=Овальное металлическое звено на опорной балке. Выглядит надёжно.
 
 @cs_buckle_rope_prefix=
 @cs_buckle_rope_short=Карабин с прицепленной к нему верёвкой
+@cs_buckle_rope_short_dative=карабину с прицепленной к нему верёвкой
 @cs_buckle_rope_long=Овальное металлическое звено на опорной балке. Я прицепил к нему верёвку.
 
 @cs_rope_prefix=
 @cs_rope_short=Верёвка
-@cs_rope_long=По этой верёвке можно перемещаться вверх и вниз.
+@cs_rope_short_dative=верёвке
+@cs_rope_long=По ней можно перемещаться вверх и вниз.
 
 @dead_cody_heat_prefix=
 @dead_cody_heat_short=Мёртвый мальчик
+@dead_cody_heat_short_dative=мёртвому мальчику
 @dead_cody_heat_long=Похоже, он умер от невыносимой жары...
 
 @dead_cody_cold_prefix=
 @dead_cody_cold_short=Мёртвый мальчик
+@dead_cody_cold_short_dative=мёртвому мальчику
 @dead_cody_cold_long=Похоже, он замёрз до смерти...
 
 @dead_barry_heat_prefix=
 @dead_barry_heat_short=Мёртвый мужчина
+@dead_barry_heat_short_dative=мёртвому мужчине
 @dead_barry_heat_long=Похоже, он умер от невыносимой жары...
 
 @dead_barry_cold_prefix=
 @dead_barry_cold_short=Мёртвый мужчина
+@dead_barry_cold_short_dative=мёртвому мужчине
 @dead_barry_cold_long=Похоже, он замёрз до смерти...
 
 @restaurant_chem_door_prefix=
 @restaurant_chem_door_short=Дверь чулана
+@restaurant_chem_door_short_dative=двери чулана
 @restaurant_chem_door_long=Дверь чулана.
 
 @restaurant_threat_bugs_prefix=
 @restaurant_threat_bugs_short=Рой саранчи
-@restaurant_threat_bugs_long=Я надеялся никогда больше не увидеть этих ублюдков...
+@restaurant_threat_bugs_short_dative=рою саранчи
+@restaurant_threat_bugs_long=Я надеялся никогда больше не увидеть этих гадов...
 
 @restaurant_threat_gas_prefix=
 @restaurant_threat_gas_short=Газовое облако
-@restaurant_threat_gas_long=Это тот же газ, что и вчера.
+@restaurant_threat_gas_short_dative=газовому облаку
+@restaurant_threat_gas_long=Опять этот газ.
 
 @restaurant_threat_spiders_prefix=
 @restaurant_threat_spiders_short=Паутина
+@restaurant_threat_spiders_short_dative=паутине
 @restaurant_threat_spiders_long=Надеюсь, тут нет пауков...
 
 @restaurant_poision_prefix=
 @restaurant_poision_short=Крысиный яд
+@restaurant_poision_short_dative=крысиному яду
 @restaurant_poision_long=Судя по надписи на предупреждающей этикетке, это очень сильный яд.
 
 @restaurant_oil_prefix=
 @restaurant_oil_short=Бутылка растительного масла
+@restaurant_oil_short_dative=бутылке растительного масла
 @restaurant_oil_long=Бутылка растительного масла.
 
 @gasstation_sarge1_prefix=
 @gasstation_sarge1_short=Сержант
+@gasstation_sarge1_short_dative=сержанту
 @gasstation_sarge1_long=Седоусый мужчина в потрёпанной военной форме.
 
 @gasstation_window_away_prefix=
 @gasstation_window_away_short=Отойти от окна
+@gasstation_window_away_short_dative=отходу от окна
 @gasstation_window_away_long=Отойти от окна.
 
 @gasstation_window_prefix=
 @gasstation_window_short=Подойти к окну
+@gasstation_window_short_dative=окну
 @gasstation_window_long=Окно, выходящее на тыльную сторону заправочной станции.
 
 @grave_barry_prefix=
 @grave_barry_short=Могила Барри
+@grave_barry_short_dative=могиле Барри
 @grave_barry_long=Могила Барри.
 
 @grave_cody_prefix=
 @grave_cody_short=Могила Коди
+@grave_cody_short_dative=могиле Коди
 @grave_cody_long=Могила Коди.
 
 @fuse_piece_prefix=
 @fuse_piece_short=Провод
-@fuse_piece_long=Я могу его поворачивать, чтобы направить ток в нужном направлении. Я был уверен, что электрика так не работает, но что я вообще знаю?
+@fuse_piece_short_dative=
+@fuse_piece_long=Я могу его повернуть, чтобы направить ток в нужном направлении. Я был уверен, что электрика так не работает, но что я вообще знаю?
 
 @fuse_door_prefix=
-@fuse_door_short=Пин коврика
-@fuse_door_long=Если этот пин запитан, электрический коврик будет находиться под напряжением. Это как раз то, чего я не хочу.
+@fuse_door_short=Контакт коврика
+@fuse_door_short_dative=
+@fuse_door_long=Если этот контакт запитан, электрический коврик будет под напряжением. Это как раз то, чего я не хочу.
 
 @fuse_elevator_prefix=
-@fuse_elevator_short=Пин лифта
-@fuse_elevator_long=Если этот пин запитан, будет работать лифт. Это именно то, что мне нужно.
+@fuse_elevator_short=Контакт лифта
+@fuse_elevator_short_dative=
+@fuse_elevator_long=Если этот контакт запитан, будет работать лифт. Это именно то, что мне нужно.
 
 @source_good_prefix=
 @source_good_short=Источник питания
+@source_good_short_dative=источнику питания
 @source_good_long=Это моя отправная точка.
 
 @source_bad_prefix=
 @source_bad_short=Сломанный источник питания
-@source_bad_long=Эта вещь сломана и нет подачи питания...
+@source_bad_short_dative=сломанному источнику питания
+@source_bad_long=Он сломан и подача питания отсутствует...
 
 @mixer_button_small_prefix=
 @mixer_button_small_short=Кнопка
+@mixer_button_small_short_dative=кнопке
 @mixer_button_small_long=С помощью этой кнопки можно добавить или убрать химическое вещество из смеси.
 
 @mixer_button_big_prefix=
 @mixer_button_big_short=Кнопка смешивания
+@mixer_button_big_short_dative=кнопке смешивания
 @mixer_button_big_long=Эта кнопка запускает процедуру смешивания химических веществ.
 
 @mixer_tray_empty_prefix=
 @mixer_tray_empty_short=Лоток
+@mixer_tray_empty_short_dative=лотку
 @mixer_tray_empty_long=По окончанию смешивания здесь образуется химическая смесь.
 
 @mixer_tray_catalyst_prefix=
 @mixer_tray_catalyst_short=Лоток с жидкостью
+@mixer_tray_catalyst_short_dative=лотку с жидкостью
 @mixer_tray_catalyst_long=Пахнет аккумуляторной кислотой.
 
 @mixer_tray_pills_prefix=
 @mixer_tray_pills_short=Лоток с порошком
+@mixer_tray_pills_short_dative=лотку с порошком
 @mixer_tray_pills_long=Нет, это не кокаин.
 
 @mixer_tray_junk_prefix=
 @mixer_tray_junk_short=Лоток с отвратительной слизью
+@mixer_tray_junk_short_dative=лотку с отвратительной слизью
 @mixer_tray_junk_long=Гадость...
 
 @mixer_glass_prefix=
 @mixer_glass_short=Химическая колба
+@mixer_glass_short_dative=химической колбе
 @mixer_glass_long=Стеклянная химическая колба.
 
 @pill_half_prefix=
 @pill_half_short=Куча пустых таблеток
+@pill_half_short_dative=куче пустых таблеток
 @pill_half_long=Куча открытых пустых капсул.
 
 @outpost_elevator_prefix=
 @outpost_elevator_short=Лифт
+@outpost_elevator_short_dative=лифту
 @outpost_elevator_long=Запертая дверь лифта с кнопкой вызова на стене.
 
 @outpost_elevator_open_prefix=
 @outpost_elevator_open_short=Лифт
+@outpost_elevator_open_short_dative=лифту
 @outpost_elevator_open_long=Открытая дверь лифта, с помощью которого можно спуститься под землю и вернуться обратно.
 
 @outpost_switch_prefix=
 @outpost_switch_short=Выключатель
+@outpost_switch_short_dative=выключателю
 @outpost_switch_long=Так и хочется пощёлкать.
 
 @outpost_corridor_prefix=
 @outpost_corridor_short=Проход
+@outpost_corridor_short_dative=проходу в коридор
 @outpost_corridor_long=Проход в коридор.
 
 @outpost_corridor2_prefix=
 @outpost_corridor2_short=Коридор
+@outpost_corridor2_short_dative=проходу по коридору
 @outpost_corridor2_long=Пройти дальше по коридору.
 
 @outpost_doorway_prefix=
 @outpost_doorway_short=Проход
+@outpost_doorway_short_dative=проходу в комнату
 @outpost_doorway_long=Проход в комнату.
 
 @outpost_remote_prefix=
-@outpost_remote_short=Пульт дистанционного управления проектором
+@outpost_remote_short=Пульт от проектора
+@outpost_remote_short_dative=пульту от проектора
 @outpost_remote_long=Пульт дистанционного управления проектором.
 
 @outpost_card_prefix=
 @outpost_card_short=Карта доступа
+@outpost_card_short_dative=карте доступа
 @outpost_card_long=Карта доступа. Выглядит как что-то очень важное.
 
 @outpost_item1_prefix=
 @outpost_item1_short=Странное устройство
+@outpost_item1_short_dative=странному устройству
 @outpost_item1_long=Что это такое? Мне нужно взглянуть поближе.
 
 @outpost_back_corridor_prefix=
 @outpost_back_corridor_short=Вернуться в коридор
+@outpost_back_corridor_short_dative=проходу, который ведёт в коридор форпоста
 @outpost_back_corridor_long=Проход, который ведёт в коридор форпоста.
 
 @outpost_fingerscanner_prefix=
 @outpost_fingerscanner_short=Сканер отпечатков пальцев
+@outpost_fingerscanner_short_dative=сканеру отпечатков пальцев
 @outpost_fingerscanner_long=Механизм блокировки дверей, основанный на системе распознавания отпечатков пальцев.
 
 @outpost_cardscanner_prefix=
 @outpost_cardscanner_short=Считыватель магнитных карт
+@outpost_cardscanner_short_dative=считывателю магнитных карт
 @outpost_cardscanner_long=Механизм блокировки дверей, основанный на системе считывания магнитных карт.
 
 @outpost_ship_prefix=
 @outpost_ship_short=Космический шаттл
+@outpost_ship_short_dative=космическому шаттлу
 @outpost_ship_long=Космический корабль с ракетными двигателями.
 
 @outpost_control_room_prefix=
 @outpost_control_room_short=Диспетчерская
+@outpost_control_room_short_dative=диспетчерской
 @outpost_control_room_long=Вход в диспетчерскую стартовой площадки.
 
 @outpost_launchpad_prefix=
 @outpost_launchpad_short=Спуститься к стартовой площадке
+@outpost_launchpad_short_dative=лестнице, ведущей к стартовой площадке
 @outpost_launchpad_long=Лестница, ведущая к стартовой площадке.
 
 @outpost_staircase_prefix=
 @outpost_staircase_short=Лестничная площадка
+@outpost_staircase_short_dative=лестнице, ведущей на лестничную площадку
 @outpost_staircase_long=Выйти на лестничную площадку.
 
 @ship_ladder_down_prefix=
 @ship_ladder_down_short=Лестница, ведущая вниз
+@ship_ladder_down_short_dative=лестнице, ведущей вниз
 @ship_ladder_down_long=Спуститься на дно космического корабля.
 
 @ship_ladder_up_prefix=
 @ship_ladder_up_short=Лестница, ведущая вверх
+@ship_ladder_up_short_dative=лестнице, ведущей вверх
 @ship_ladder_up_long=Подняться по лестнице.
 
 @bus_fingerprint_prefix=
 @bus_fingerprint_short=Отпечаток руки
+@bus_fingerprint_short_dative=отпечатку руки
 @bus_fingerprint_long=Отпечаток, оставленный человеческой рукой на грязном стекле.
 
 @bus_fingerprint2_prefix=
 @bus_fingerprint2_short=Отпечаток пальца, сформированный на высохшем клее
+@bus_fingerprint2_short_dative=отпечатку пальца на высохшем клее
 @bus_fingerprint2_long=Отпечаток пальца, сформированный на высохшем клее.
 
 @bus_key_prefix=
 @bus_key_short=Ключ
+@bus_key_short_dative=ключу
 @bus_key_long=Ключ, который лежит на дальнем сидении автобуса. На ключе есть небольшой ярлык.
 
 @airplane_exit_prefix=
 @airplane_exit_short=Проход
+@airplane_exit_short_dative=проходу в разбившийся самолёт
 @airplane_exit_long=Проход в разбившийся самолёт.
 
 @airplane_nose_prefix=
 @airplane_nose_short=Засыпанный самолёт
+@airplane_nose_short_dative=засыпанному самолёту
 @airplane_nose_long=Самолёт частично засыпан песком. Если бы здешняя пустошь была более песчаной, я бы, наверное, ничего здесь не нашел.
 
 @airplane_ground_prefix=
 @airplane_ground_short=Песчаная дюна
+@airplane_ground_short_dative=песчаной дюне
 @airplane_ground_long=Небольшая песчаная дюна перекрывает вход в самолёт.
 
 @exit_wasteland_prefix=
 @exit_wasteland_short=Вернуться в пустыню
-@exit_wasteland_long=Вернуться обратно в пустыню.
+@exit_wasteland_short_dative=дороге назад
+@exit_wasteland_long=Вернуться в пустыню.
 
 @outpost_silo_far_prefix=
 @outpost_silo_far_short=Стартовая шахта
+@outpost_silo_far_short_dative=стартовой шахте
 @outpost_silo_far_long=Выглядит как стартовая шахта.
 
 @outpost_base_far_prefix=
 @outpost_base_far_short=Форпост
+@outpost_base_far_short_dative=форпосту
 @outpost_base_far_long=Если так посмотреть, форпост не выглядит слишком большим.
 
 @outpost_base_entrance1_prefix=
 @outpost_base_entrance1_short=Дверь со сканером
+@outpost_base_entrance1_short_dative=двери со сканером
 @outpost_base_entrance1_long=Вход в форпост. На двери есть что-то вроде фотообъектива.
 
 @outpost_base_entrance2_prefix=
 @outpost_base_entrance2_short=Вход
+@outpost_base_entrance2_short_dative=входу в форпост
 @outpost_base_entrance2_long=Вход в форпост.
 
 @outpost_bars_reset_prefix=
 @outpost_bars_reset_short=Кнопка сброса
-@outpost_bars_reset_long=Судя по надписи, эта кнопка используется, чтобы сделать сброс если что-то пойдёт не так.
+@outpost_bars_reset_short_dative=кнопке сброса
+@outpost_bars_reset_long=Судя по надписи, эта кнопка предназначена для сброса, если что-то пойдёт не так.
 
 @outpost_bars_button_prefix=
 @outpost_bars_button_short=Кнопка
+@outpost_bars_button_short_dative=кнопке со знаком "+"
 @outpost_bars_button_long=Кнопка со знаком "+".
 
 @outpost_computer_bars1_prefix=
 @outpost_computer_bars1_short=Контроль топливной смеси
+@outpost_computer_bars1_short_dative=системе, контролирующей топливную смесь
 @outpost_computer_bars1_long=Система, контролирующая топливную смесь, которая будет использоваться во время взлёта.
 
 @outpost_computer_bars2_prefix=
 @outpost_computer_bars2_short=Контроль воздушной смеси
+@outpost_computer_bars2_short_dative=системе, контролирующей воздушную смесь
 @outpost_computer_bars2_long=Система, контролирующая воздушную смесь, которая заполнит кабину корабля во время взлёта.
 
 @outpost_ship_lioh0_prefix=
 @outpost_ship_lioh0_short=Слот для воздушного фильтра
+@outpost_ship_lioh0_short_dative=слоту для воздушного фильтра
 @outpost_ship_lioh0_long=Слот, подписанный как "Фильтр LiOH".
 
 @outpost_ship_lioh1_prefix=
 @outpost_ship_lioh1_short=Установленный воздушный фильтр
+@outpost_ship_lioh1_short_dative=установленному воздушному фильтру
 @outpost_ship_lioh1_long=Воздушный фильтр установлен в слот, подписанный как "Фильтр LiOH".
 
 @outpost_ship_nav0_prefix=
-@outpost_ship_nav0_short=Набор электронных печатных плат
-@outpost_ship_nav0_long=Ряд слотов с установленными печатными платами (чипами). Одна плата отсутствует.
+@outpost_ship_nav0_short=Набор чипов
+@outpost_ship_nav0_short_dative=набору чипов
+@outpost_ship_nav0_long=Ряд слотов с установленными чипами. Один чип отсутствует.
 
 @outpost_ship_nav1_prefix=
-@outpost_ship_nav1_short=Полный набор электронных печатных плат
-@outpost_ship_nav1_long=Ряд слотов с установленными печатными платами.
+@outpost_ship_nav1_short=Полный набор чипов
+@outpost_ship_nav1_short_dative=полному набору чипов
+@outpost_ship_nav1_long=Ряд слотов с установленными чипами.
 
 @outpost_ship_air0_prefix=
 @outpost_ship_air0_short=Круглые отверстия
+@outpost_ship_air0_short_dative=круглым отверстиям
 @outpost_ship_air0_long=Круглые отверстия, подписанные как "Запасной воздух".
 
 @outpost_ship_air1_prefix=
 @outpost_ship_air1_short=Установленные баллоны с воздухом
+@outpost_ship_air1_short_dative=установленным баллонам с воздухом
 @outpost_ship_air1_long=Баллоны вставлены в отверстия, подписанные как "Запасной воздух".
 
 @outpost_ship_calib0_prefix=
 @outpost_ship_calib0_short=Отсутствующая система
+@outpost_ship_calib0_short_dative=отсутствующей системе
 @outpost_ship_calib0_long=Кабели свисают из большой дыры. Надпись гласит: "Калибратор двигателя".
 
 @outpost_ship_calib1_prefix=
 @outpost_ship_calib1_short=Калибратор
+@outpost_ship_calib1_short_dative=калибратору
 @outpost_ship_calib1_long=Система, подписанная как "Калибратор двигателя".
 
 @outpost_ship_socket_prefix=
 @outpost_ship_socket_short=Розетка
+@outpost_ship_socket_short_dative=розетке
 @outpost_ship_socket_long=Похоже на высоковольтную розетку для специализированного оборудования.
 
 @outpost_ship_welder_prefix=
 @outpost_ship_welder_short=Подключённый сварочный аппарат
-@outpost_ship_welder_long=Сварочный аппарат готов к использованию. Теперь мне нужно что-то заварить...
+@outpost_ship_welder_short_dative=подключённому сварочному аппарату
+@outpost_ship_welder_long=Сварочный аппарат готов к использованию. Осталось только найти сварочный материал...
 
 @outpost_ship_crack_in_prefix=
 @outpost_ship_crack_in_short=Опасная трещина
+@outpost_ship_crack_in_short_dative=опасной трещине
 @outpost_ship_crack_in_long=Трещина - это серьёзный повод для беспокойства, особенно если это трещина в корпусе космического корабля.
 
 @outpost_ship_crack_in_welded_prefix=
 @outpost_ship_crack_in_welded_short=Металлическая пластина, приваренная к корпусу корабля
+@outpost_ship_crack_in_welded_short_dative=металлической пластине, приваренной к корпусу корабля
 @outpost_ship_crack_in_welded_long=Металлическая пластина, приваренная к месту трещины на поверхности корабля. Надеюсь, этого достаточно.
 
 @outpost_ship_crack_out_prefix=
 @outpost_ship_crack_out_short=Опасная трещина
+@outpost_ship_crack_out_short_dative=опасной трещине
 @outpost_ship_crack_out_long=Трещина в крыле космического корабля может стать причиной очень недолгого полёта.
 
 @outpost_ship_crack_out_welded_prefix=
 @outpost_ship_crack_out_welded_short=Металлическая пластина, приваренная к крылу корабля
+@outpost_ship_crack_out_welded_short_dative=металлической пластине, приваренной к крылу корабля
 @outpost_ship_crack_out_welded_long=Металлическая пластина, приваренная к месту трещины на поверхности крыла корабля. Надеюсь, этого достаточно.
 
 @outpost_ship_elevator_broken_prefix=
 @outpost_ship_elevator_broken_short=Двигатель лифта без приводного ремня
+@outpost_ship_elevator_broken_short_dative=двигателю лифта без приводного ремня
 @outpost_ship_elevator_broken_long=Он не сможет работать без приводного ремня.
 
 @outpost_ship_elevator_fixed_prefix=
 @outpost_ship_elevator_fixed_short=Двигатель лифта с приводным ремнём
+@outpost_ship_elevator_fixed_short_dative=двигателю лифта с приводным ремнём
 @outpost_ship_elevator_fixed_long=Двигатель с установленным приводным ремнём.
 
 @outpost_elev_up_prefix=
 @outpost_elev_up_short=Кнопка "Вверх"
+@outpost_elev_up_short_dative=кнопке "Вверх"
 @outpost_elev_up_long=Кнопка со стрелкой, указывающей вверх.
 
 @outpost_elev_down_prefix=
 @outpost_elev_down_short=Кнопка "Вниз"
+@outpost_elev_down_short_dative=кнопке "Вниз"
 @outpost_elev_down_long=Кнопка со стрелкой, указывающей вниз.
 
 @outpost_big_computer_prefix=
-@outpost_big_computer_short=Большая электронно-вычислительная машина
-@outpost_big_computer_long=Компьютер размером со шкаф, ну и с кучей ярких лампочек.
+@outpost_big_computer_short=Центральная электронно-вычислительная машина
+@outpost_big_computer_short_dative=центральной электронно-вычислительной машине
+@outpost_big_computer_long=Громадная коробка с мерцающими лампочками.
 
 @outpost_big_computer_part_prefix=
 @outpost_big_computer_part_short=Панель с электроникой
+@outpost_big_computer_part_short_dative=панели с электроникой
 @outpost_big_computer_part_long=Открытая панель с электроникой.
 
 @outpost_injector_prefix=
 @outpost_injector_short=Консоль топливного катализатора
+@outpost_injector_short_dative=отверстию для добавления катализатора в топливные баки
 @outpost_injector_long=Консоль с отверстием для добавления катализатора в топливные баки.
 
 @airplane_crate_1_prefix=
-@airplane_crate_1_short=Ящик помеченный цифрой 1
+@airplane_crate_1_short=Ящик, помеченный цифрой 1
+@airplane_crate_1_short_dative=ящику, помеченному цифрой 1
 @airplane_crate_1_long=Запечатанный деревянный ящик, на котором написано "1".
 
 @airplane_crate_2_prefix=
-@airplane_crate_2_short=Ящик помеченный цифрой 2
+@airplane_crate_2_short=Ящик, помеченный цифрой 2
+@airplane_crate_2_short_dative=ящику, помеченному цифрой 2
 @airplane_crate_2_long=Запечатанный деревянный ящик, на котором написано "2".
 
 @airplane_crate_3_prefix=
-@airplane_crate_3_short=Ящик помеченный цифрой 3
+@airplane_crate_3_short=Ящик, помеченный цифрой 3
+@airplane_crate_3_short_dative=ящику, помеченному цифрой 3
 @airplane_crate_3_long=Запечатанный деревянный ящик, на котором написано "3".
 
 @airplane_crate_4_prefix=
-@airplane_crate_4_short=Ящик помеченный цифрой 4
+@airplane_crate_4_short=Ящик, помеченный цифрой 4
+@airplane_crate_4_short_dative=ящику, помеченному цифрой 4
 @airplane_crate_4_long=Запечатанный деревянный ящик, на котором написано "4".
 
 @airplane_crate_5_prefix=
-@airplane_crate_5_short=Ящик помеченный цифрой 5
+@airplane_crate_5_short=Ящик, помеченный цифрой 5
+@airplane_crate_5_short_dative=ящику, помеченному цифрой 5
 @airplane_crate_5_long=Запечатанный деревянный ящик, на котором написано "5".
 
 @airplane_crate_6_prefix=
-@airplane_crate_6_short=Ящик помеченный цифрой 6
+@airplane_crate_6_short=Ящик, помеченный цифрой 6
+@airplane_crate_6_short_dative=ящику, помеченному цифрой 6
 @airplane_crate_6_long=Запечатанный деревянный ящик, на котором написано "6".
 
 @airplane_crate_7_prefix=
-@airplane_crate_7_short=Ящик помеченный цифрой 7
+@airplane_crate_7_short=Ящик, помеченный цифрой 7
+@airplane_crate_7_short_dative=ящику, помеченному цифрой 7
 @airplane_crate_7_long=Запечатанный деревянный ящик, на котором написано "7".
 
 @airplane_crate_revealed_1_prefix=
 @airplane_crate_revealed_1_short=Ящик с навигационными чипами
+@airplane_crate_revealed_1_short_dative=ящику с навигационными чипами
 @airplane_crate_revealed_1_long=Деревянный ящик с кучей электронных навигационных чипов.
 
 @airplane_crate_revealed_2_prefix=
 @airplane_crate_revealed_2_short=Ящик с воздушными баллонами
+@airplane_crate_revealed_2_short_dative=ящику с воздушными баллонами
 @airplane_crate_revealed_2_long=Деревянный ящик с воздушными баллонами.
 
 @airplane_crate_revealed_3_prefix=
 @airplane_crate_revealed_3_short=Ящик с вольтметрами
+@airplane_crate_revealed_3_short_dative=ящику с вольтметрами
 @airplane_crate_revealed_3_long=Деревянный ящик с кучей вольтметров.
 
 @airplane_crate_revealed_4_prefix=
 @airplane_crate_revealed_4_short=Ящик с лапшой быстрого приготовления
+@airplane_crate_revealed_4_short_dative=ящику с лапшой быстрого приготовления
 @airplane_crate_revealed_4_long=Деревянный ящик с пачками вредной лапши быстрого приготовления.
 
 @airplane_crate_revealed_5_prefix=
 @airplane_crate_revealed_5_short=Ящик с резиновыми прокладками
+@airplane_crate_revealed_5_short_dative=ящику с резиновыми прокладками
 @airplane_crate_revealed_5_long=Деревянный ящик с резиновыми прокладками разных размеров.
 
 @airplane_crate_revealed_6_prefix=
 @airplane_crate_revealed_6_short=Ящик с гайками и болтами
+@airplane_crate_revealed_6_short_dative=ящику с гайками и болтами
 @airplane_crate_revealed_6_long=Деревянный ящик с различными гайками и болтами.
 
 @airplane_crate_revealed_7_prefix=
 @airplane_crate_revealed_7_short=Ящик с медными проводами
+@airplane_crate_revealed_7_short_dative=ящику с медными проводами
 @airplane_crate_revealed_7_long=Деревянный ящик с проводами всевозможных цветов.
 
 @airplane_pilot_prefix=
 @airplane_pilot_short=Пилот
-@airplane_pilot_long=Скорее всего он умер во время аварийного приземления самолёта.
+@airplane_pilot_short_dative=пилоту
+@airplane_pilot_long=Скорее всего, он погиб при крушении самолёта.
 
 @airplane_transponder_prefix=
-@airplane_transponder_short=Транспондер
-@airplane_transponder_long=Я до сих пор не могу поверить, что эта штука так долго проработала.
+@airplane_transponder_short=Радиолокационный ответчик
+@airplane_transponder_short_dative=радиолокационному ответчику
+@airplane_transponder_long=Я до сих пор не могу поверить, что он так долго проработал.
 
 @airplane_cabin_prefix=
 @airplane_cabin_short=Кабина пилота
+@airplane_cabin_short_dative=проходу в кабину пилота
 @airplane_cabin_long=Проход в кабину пилота.
 
 @airplane_cargo_prefix=
 @airplane_cargo_short=Грузовой отсек
+@airplane_cargo_short_dative=проходу в грузовой отсек
 @airplane_cargo_long=Проход в грузовой отсек.
 
 @outpost_radar_plate_prefix=
 @outpost_radar_plate_short=Радар
+@outpost_radar_plate_short_dative=радару
 @outpost_radar_plate_long=Большая радиолокационная пластина.
 
 @outpost_radar_panel_prefix=
 @outpost_radar_panel_short=Панель доступа
+@outpost_radar_panel_short_dative=панели доступа
 @outpost_radar_panel_long=Панель доступа к радару.
 
 @outpost_engine_belted_prefix=
 @outpost_engine_belted_short=Двигатель с приводным ремнём
+@outpost_engine_belted_short_dative=двигателю с приводным ремнём
 @outpost_engine_belted_long=Большой двигатель с резиновым ремнём, соединяющим две вращающиеся детали.
 
 @outpost_engine_unbelted_prefix=
 @outpost_engine_unbelted_short=Двигатель без приводного ремня
+@outpost_engine_unbelted_short_dative=двигателю без приводного ремня
 @outpost_engine_unbelted_long=Большой двигатель. Он не сможет работать без приводного ремня.
 
 @outpost_dead_man_prefix=
 @outpost_dead_man_short=Труп
-@outpost_dead_man_long=Электрический заряд коврика был настолько сильным, что смог "превратить" этого человека в уголь, а песок вокруг него переплавить в стекло.
+@outpost_dead_man_short_dative=трупу
+@outpost_dead_man_long=Сгоревший дотла труп, вокруг которого песок, сплавившийся в стекло.
 
 @outpost_hatch_open_prefix=
 @outpost_hatch_open_short=Открытый пусковой люк
-@outpost_hatch_open_long=Открытый люк, под которым располагалась подземная стартовая площадка.
+@outpost_hatch_open_short_dative=открытому пусковому люку
+@outpost_hatch_open_long=Открытый люк, ведущий вниз, к стартовой площадке.
 
 @outpost_hatch_closed_prefix=
 @outpost_hatch_closed_short=Пусковой люк
+@outpost_hatch_closed_short_dative=пусковому люку
 @outpost_hatch_closed_long=Закрытый люк частично засыпан песком.
 
 @outpost_empty_pad_prefix=
 @outpost_empty_pad_short=Стартовая площадка
+@outpost_empty_pad_short_dative=пустой стартовой площадке
 @outpost_empty_pad_long=Пустая стартовая площадка, на которой находился другой корабль.
 
 @crashed_bike_prefix=
-@crashed_bike_short=Разбитый байк
-@crashed_bike_long=Разбитый байк, оставленный одним из бандитов. Он не подлежит ремонту.
+@crashed_bike_short=Разбитый мотоцикл
+@crashed_bike_short_dative=разбитому мотоциклу
+@crashed_bike_long=Разбитый мотоцикл, оставленный одним из бандитов. Он не подлежит ремонту.
 
 @outpost_radar_screen_prefix=
 @outpost_radar_screen_short=Экран радара
+@outpost_radar_screen_short_dative=экрану радара
 @outpost_radar_screen_long=Монитор, отображающий показания радара.
 
 @heap_of_thugs_prefix=
 @heap_of_thugs_short=Куча трупов
-@heap_of_thugs_long=Множество умерших соучастников Бритвы.
+@heap_of_thugs_short_dative=куче трупов
+@heap_of_thugs_long=Куча трупов. Всё, что осталось от банды Бритвы.
 
 @bus_entrance_prefix=
 @bus_entrance_short=Проход в автобус
+@bus_entrance_short_dative=проходу в автобус
 @bus_entrance_long=Проход в разбитый автобус.
 
 @bus_entrance_prefix=
 @bus_entrance_short=Проход в автобус
+@bus_entrance_short_dative=проходу в автобус
 @bus_entrance_long=Проход в разбитый автобус.
 
 @bus_exit_prefix=
-@bus_exit_short=Выйти
-@bus_exit_long=Выйти из автобуса.
+@bus_exit_short=Выход
+@bus_exit_short_dative=выходу из автобуса
+@bus_exit_long=Выход из автобуса.
 
 @outpost_outside_back_prefix=
-@outpost_outside_back_short=Вернуться обратно
-@outpost_outside_back_long=Вернуться обратно к воротам... вернее к их остаткам.
+@outpost_outside_back_short=Вернуться к воротам
+@outpost_outside_back_short_dative=дороге, ведущей к воротам
+@outpost_outside_back_long=Вернуться к воротам... вернее к их остаткам.
 
 @outpost_exit_prefix=
-@outpost_exit_short=Выйти
-@outpost_exit_long=Выйти из форпоста.
+@outpost_exit_short=Выход
+@outpost_exit_short_dative=выходу из форпоста
+@outpost_exit_long=Выход из форпоста.
 
 @outpost_approach_prefix=
 @outpost_approach_short=Путь ко входной двери
+@outpost_approach_short_dative=дороге ко входной двери
 @outpost_approach_long=Дорога к небольшому зданию посреди огороженной территории.
 
 @outpost_board_prefix=
 @outpost_board_short=Презентация
-@outpost_board_long=Слайд презентации. На нём отображена Земля, Луна и траектория полёта корабля.
+@outpost_board_short_dative=презентации
+@outpost_board_long=Слайд презентации. На нём изображена Земля, Луна и траектория полёта корабля.
 
 @fusebox_prefix=
 @fusebox_short=Предохранитель
+@fusebox_short_dative=предохранителю
 @fusebox_long=Предохранитель, который является частью электрической цепи и может подпитывать дверь и другие штуки.
 
 @outpost_recepie_prefix=
 @outpost_recepie_short=Лист бумаги
-@outpost_recepie_long=Похоже на записку.
+@outpost_recepie_short_dative=листу бумаги
+@outpost_recepie_long=Похоже на какую-то записку.
 
 @screen_quests_prefix=
 @screen_quests_short=Экран диагностики
+@screen_quests_short_dative=экрану диагностики
 @screen_quests_long=Монитор, отображающий показания системной диагностики.
 
 @outpost_hatch_computer_prefix=
 @outpost_hatch_computer_short=Контроль пускового люка
+@outpost_hatch_computer_short_dative=системе, контролирующей пусковой люк
 @outpost_hatch_computer_long=Система, контролирующая пусковой люк.
 
 @ship_launch_console_prefix=
 @ship_launch_console_short=Главная консоль управления
-@ship_launch_console_long=Эта консоль используется для управления кораблём.  Процедуру запуска космического корабля можно провести прямо отсюда.
+@ship_launch_console_short_dative=главной консоли управления
+@ship_launch_console_long=Эта консоль используется для управления кораблём. Процедуру запуска космического корабля можно провести прямо отсюда.
 
 @outpost_ship_closet_prefix=
 @outpost_ship_closet_short=Грузовой отсек
-@outpost_ship_closet_long=Небольшой грузовой отсек. Он используется для хранения вещей, которые могут понадобиться после взлёта, в основном это что-то для экстренных случаев.
+@outpost_ship_closet_short_dative=грузовому отсеку
+@outpost_ship_closet_long=Небольшой грузовой отсек. Он используется для хранения вещей, которые могут понадобиться после взлёта... в основном для экстренных случаев.
 
 @outpost_ship_closet_open_prefix=
 @outpost_ship_closet_open_short=Грузовой отсек со скафандрами
-@outpost_ship_closet_open_long=Небольшой грузовой отсек. Он используется для хранения вещей, которые могут понадобиться после взлёта, в основном это что-то для экстренных случаев.
+@outpost_ship_closet_open_short_dative=грузовому отсеку со скафандрами
+@outpost_ship_closet_open_long=Небольшой грузовой отсек. Он используется для хранения вещей, которые могут понадобиться после взлёта... в основном для экстренных случаев.
 
 @ship_toolbox_prefix=
 @ship_toolbox_short=Набор инструментов
+@ship_toolbox_short_dative=набору инструментов
 @ship_toolbox_long=Набор, оставленный группой технического обслуживания...
 
 @ship_exit_prefix=
 @ship_exit_short=Люк
+@ship_exit_short_dative=люку
 @ship_exit_long=Выход из корабля, ведущий прямо на поверхность Луны.
 
 @ship_closet_prefix=
 @ship_closet_short=Грузовой отсек
+@ship_closet_short_dative=грузовому отсеку
 @ship_closet_long=Небольшой грузовой отсек со скафандрами.
 
 @airlock_ring_1_a_prefix=
-@airlock_ring_1_a_short=Повернуть 1ое кольцо против часовой стрелки.
-@airlock_ring_1_a_long=Это часть механизма ручного открытия шлюза.
+@airlock_ring_1_a_short=Повернуть 1-ое кольцо против часовой стрелки.
+@airlock_ring_1_a_short_dative=
+@airlock_ring_1_a_long=Это часть механизма управления шлюзом.
 
 @airlock_ring_2_a_prefix=
-@airlock_ring_2_a_short=Повернуть 2ое кольцо против часовой стрелки.
-@airlock_ring_2_a_long=Это часть механизма ручного открытия шлюза.
+@airlock_ring_2_a_short=Повернуть 2-ое кольцо против часовой стрелки.
+@airlock_ring_2_a_short_dative=
+@airlock_ring_2_a_long=Это часть механизма управления шлюзом.
 
 @airlock_ring_3_a_prefix=
-@airlock_ring_3_a_short=Повернуть 3е кольцо против часовой стрелки.
-@airlock_ring_3_a_long=Это часть механизма ручного открытия шлюза.
+@airlock_ring_3_a_short=Повернуть 3-е кольцо против часовой стрелки.
+@airlock_ring_3_a_short_dative=
+@airlock_ring_3_a_long=Это часть механизма управления шлюзом.
 
 @airlock_ring_4_a_prefix=
-@airlock_ring_4_a_short=Повернуть 4ое кольцо против часовой стрелки.
-@airlock_ring_4_a_long=Это часть механизма ручного открытия шлюза.
+@airlock_ring_4_a_short=Повернуть 4-ое кольцо против часовой стрелки.
+@airlock_ring_4_a_short_dative=
+@airlock_ring_4_a_long=Это часть механизма управления шлюзом.
 
 @airlock_ring_5_a_prefix=
-@airlock_ring_5_a_short=Повернуть 5ое кольцо против часовой стрелки.
-@airlock_ring_5_a_long=Это часть механизма ручного открытия шлюза.
+@airlock_ring_5_a_short=Повернуть 5-ое кольцо против часовой стрелки.
+@airlock_ring_5_a_short_dative=
+@airlock_ring_5_a_long=Это часть механизма управления шлюзом.
 
 @airlock_ring_1_b_prefix=
-@airlock_ring_1_b_short=Повернуть 1ое кольцо по часовой стрелке.
-@airlock_ring_1_b_long=Это часть механизма ручного открытия шлюза.
+@airlock_ring_1_b_short=Повернуть 1-ое кольцо по часовой стрелке.
+@airlock_ring_1_b_short_dative=
+@airlock_ring_1_b_long=Это часть механизма управления шлюзом.
 
 @airlock_ring_2_b_prefix=
-@airlock_ring_2_b_short=Повернуть 2ое кольцо по часовой стрелке.
-@airlock_ring_2_b_long=Это часть механизма ручного открытия шлюза.
+@airlock_ring_2_b_short=Повернуть 2-ое кольцо по часовой стрелке.
+@airlock_ring_2_b_short_dative=
+@airlock_ring_2_b_long=Это часть механизма управления шлюзом.
 
 @airlock_ring_3_b_prefix=
-@airlock_ring_3_b_short=Повернуть 3е кольцо по часовой стрелке.
-@airlock_ring_3_b_long=Это часть механизма ручного открытия шлюза.
+@airlock_ring_3_b_short=Повернуть 3-е кольцо по часовой стрелке.
+@airlock_ring_3_b_short_dative=
+@airlock_ring_3_b_long=Это часть механизма управления шлюзом.
 
 @airlock_ring_4_b_prefix=
-@airlock_ring_4_b_short=Повернуть 4ое кольцо по часовой стрелке.
-@airlock_ring_4_b_long=Это часть механизма ручного открытия шлюза.
+@airlock_ring_4_b_short=Повернуть 4-ое кольцо по часовой стрелке.
+@airlock_ring_4_b_short_dative=
+@airlock_ring_4_b_long=Это часть механизма управления шлюзом.
 
 @airlock_ring_5_b_prefix=
-@airlock_ring_5_b_short=Повернуть 5ое кольцо по часовой стрелке.
-@airlock_ring_5_b_long=Это часть механизма ручного открытия шлюза.
+@airlock_ring_5_b_short=Повернуть 5-ое кольцо по часовой стрелке.
+@airlock_ring_5_b_short_dative=
+@airlock_ring_5_b_long=Это часть механизма управления шлюзом.
 
 @ship_derlict_prefix=
 @ship_derlict_short=Разбитый космический корабль
+@ship_derlict_short_dative=разбитому космическому кораблю
 @ship_derlict_long=Я знал, что это будет поездка в один конец...
 
 @moonbase1_prefix=
 @moonbase1_short=Лунная база
-@moonbase1_long=Лунная база, собственность компании Sidereal Plexus.
+@moonbase1_short_dative=лунной базе
+@moonbase1_long=Лунная база, собственность корпорации Sidereal Plexus.
 
 @moon_airlock_control_prefix=
-@moon_airlock_control_short=Механизм ручного открытия шлюза
+@moon_airlock_control_short=Механизм управления шлюзом
+@moon_airlock_control_short_dative=
 @moon_airlock_control_long=Я могу вручную открыть воздушный шлюз снаружи.
 
 @moon_base_prefix=
 @moon_base_short=Лунная база
+@moon_base_short_dative=лунной базе
 @moon_base_long=Что я вообще здесь делаю?
 
 @moon_base_entrance_prefix=
 @moon_base_entrance_short=Воздушный шлюз
+@moon_base_entrance_short_dative=
 @moon_base_entrance_long=Вход на Лунную базу...
 
 @moonbase_passage_prefix=
 @moonbase_passage_short=Проход
-@moonbase_passage_long=Проход на другую сторону лунной базы.
+@moonbase_passage_short_dative=проходу в другую часть лунной базы
+@moonbase_passage_long=Проход в другую часть лунной базы.
 
 @moonbase_control_console_prefix=
 @moonbase_control_console_short=Консоль управления
+@moonbase_control_console_short_dative=консоли управления Капсулами сна
 @moonbase_control_console_long=Консоль, предназначенная для управления Капсулами сна.
 
 @moonbase_pods_prefix=
 @moonbase_pods_short=Капсулы сна
+@moonbase_pods_short_dative=Капсулам сна
 @moonbase_pods_long=В этих капсулах много спящих людей...
 
 @moonbase_pod_empty_prefix=
 @moonbase_pod_empty_short=Пустая Капсула сна
+@moonbase_pod_empty_short_dative=пустой Капсуле сна
 @moonbase_pod_empty_long=Капсула гибернации, предположительно способная ввести человеческое сознание в царство снов.
 
 @moonbase_pod_barry_prefix=
 @moonbase_pod_barry_short=Капсула Барри
+@moonbase_pod_barry_short_dative=капсуле Барри
 @moonbase_pod_barry_long=Капсула гибернации, предположительно способная ввести человеческое сознание в царство снов.
 
 @moonbase_pod_cody_prefix=
 @moonbase_pod_cody_short=Капсула Коди
+@moonbase_pod_cody_short_dative=капсуле Коди
 @moonbase_pod_cody_long=Капсула гибернации, предположительно способная ввести человеческое сознание в царство снов.
 
 @moonbase_pod_cate_prefix=
 @moonbase_pod_cate_short=Капсула Кейт
+@moonbase_pod_cate_short_dative=капсуле Кейт
 @moonbase_pod_cate_long=Капсула гибернации, предположительно способная ввести человеческое сознание в царство снов.
 
 @moonbase_pod_david_prefix=
 @moonbase_pod_david_short=Моя Капсула сна
+@moonbase_pod_david_short_dative=своей Капсуле сна
 @moonbase_pod_david_long=Капсула гибернации, предположительно способная ввести человеческое сознание в царство снов.
 
 @moon_card_prefix=
 @moon_card_short=Чёрная карта
+@moon_card_short_dative=чёрной карте
 @moon_card_long=Похоже на карту доступа.
 
 @moon_card_reader_prefix=
 @moon_card_reader_short=Картридер
+@moon_card_reader_short_dative=картридеру
 @moon_card_reader_long=Слот для карт доступа.
 
 @moon_computer_prefix=
-@moon_computer_short=Управляющий компьютер
+@moon_computer_short=Главный компьютер
+@moon_computer_short_dative=главному компьютеру
 @moon_computer_long=Похоже, этот компьютер отвечает за работу ключевых систем на лунной базе.
 
 @lodge_socket_prefix=
 @lodge_socket_short=Электрическая розетка
+@lodge_socket_short_dative=электрической розетке
 @lodge_socket_long=Электрическая розетка на стене.
 
 @lodge_socket_connected_prefix=
 @lodge_socket_connected_short=Подключённый удлинитель
-@lodge_socket_connected_long=Удлинитель подключен к розетке.
+@lodge_socket_connected_short_dative=подключённому удлинителю
+@lodge_socket_connected_long=Удлинитель, подключённый к розетке.
 
 @lodge_window_prefix=
 @lodge_window_short=Разбитое окно
+@lodge_window_short_dative=разбитому окну
 @lodge_window_long=Окно без стекла.
 
 @broom_prefix=
 @broom_short=Швабра
+@broom_short_dative=швабре
 @broom_long=Старая деревянная швабра.
 
 @lodge_cord_prefix=
 @lodge_cord_short=Подключённый удлинитель
+@lodge_cord_short_dative=подключённому удлинителю
 @lodge_cord_long=Удлинитель, подключённый к розетке в хижине.
 
 @lodge_tree_prefix=
 @lodge_tree_short=Высокое дерево
-@lodge_tree_long=Большое дерево с множеством веток, на которые не сложно залезть...
+@lodge_tree_short_dative=высокому дереву
+@lodge_tree_long=Большое дерево с множеством веток, по которым можно легко взобраться...
 
 @lodge_solar1_prefix=
 @lodge_solar1_short=Крыша, усыпанная листьями
+@lodge_solar1_short_dative=крыше, усыпанной листьями
 @lodge_solar1_long=Я вижу что-то сияющее под всеми этими листьями...
 
 @lodge_solar2_prefix=
 @lodge_solar2_short=Солнечные панели
+@lodge_solar2_short_dative=солнечным панелям
 @lodge_solar2_long=Источник энергии хижины.
 
 @cs_crane_controller_prefix=
 @cs_crane_controller_short=Рычаги управления краном
+@cs_crane_controller_short_dative=рычагам управления краном
 @cs_crane_controller_long=Набор рычагов, управляющих краном.
 
 @cs_crane_lever_1_prefix=
 @cs_crane_lever_1_short=Вверх/Вниз
-@cs_crane_lever_1_long=Рычаг для подъема и опускания захвата.
+@cs_crane_lever_1_short_dative=рычагам для подъёма и спуска захвата
+@cs_crane_lever_1_long=Рычаг для подъёма и спуска захвата.
 
 @cs_crane_lever_0_prefix=
 @cs_crane_lever_0_short=Влево/Вправо
+@cs_crane_lever_0_short_dative=рычагам для перемещения захвата в сторону
 @cs_crane_lever_0_long=Рычаг для перемещения захвата в сторону.
 
 @cs_crane_lever_2_prefix=
 @cs_crane_lever_2_short=Сжать/Разжать
+@cs_crane_lever_2_short_dative=рычагам для сжатия и разжатия захвата
 @cs_crane_lever_2_long=Рычаг для сжатия и разжатия захвата.
 
 @tutorial_pole_prefix=
 @tutorial_pole_short=Деревянный столб
+@tutorial_pole_short_dative=деревянному столбу
 @tutorial_pole_long=В отличие от остальных, этот столб выглядит прочным и целым...
 
 @tutorial_hammerhead_prefix=
 @tutorial_hammerhead_short=Головка кувалды
+@tutorial_hammerhead_short_dative=головке кувалды
 @tutorial_hammerhead_long=Большая головка кувалды. Очень жаль, что у неё нет рукоятки.
 
 @base_chest_prefix=
 @base_chest_short=Сундук
+@base_chest_short_dative=сундуку
 @base_chest_long=Большой и тяжёлый сундук, в котором я могу хранить всякие предметы. В нём много места.
 
 @dream_tiger_prefix=
 @dream_tiger_short=Плюшевый тигр
+@dream_tiger_short_dative=плюшевому тигру
 @dream_tiger_long=Маленький плюшевый тигр сидит на кровати.
 
 @dream_maggie_prefix=
 @dream_maggie_short=Мэгги
+@dream_maggie_short_dative=Мэгги
 @dream_maggie_long=Мёртвая жена Барри...
 
 @dream_tiger_maggie_prefix=
 @dream_tiger_maggie_short=Плюшевый тигр и Мэгги
+@dream_tiger_maggie_short_dative=плюшевому тигру и Мэгги
 @dream_tiger_maggie_long=Мёртвая жена Барри в сопровождении плюшевого тигра.
 
 @dream_stairs_prefix=
 @dream_stairs_short=Лестница
+@dream_stairs_short_dative=лестнице
 @dream_stairs_long=Деревянная лестница. Кажется, её здесь раньше не было.
 
 @house_lucid_book_prefix=
 @house_lucid_book_short=Книга
+@house_lucid_book_short_dative=старой книге
 @house_lucid_book_long=Старая книга лежит на диване. У неё изношены углы, а корешок сильно помят, как будто книгу перечитывали много раз.
 
 @restaurant_leaflet_prefix=
 @restaurant_leaflet_short=Листовки
+@restaurant_leaflet_short_dative=старым листовкам
 @restaurant_leaflet_long=Старые листовки, приклеенные к асфальту.
 
 @restaurant_conspiracy_prefix=
 @restaurant_conspiracy_short=Журнал
-@restaurant_conspiracy_long=Номер журнала "Еженедельный конспиратор". Даже не знаю, что грязнее, пол в уборной или этот журнал.
+@restaurant_conspiracy_short_dative=журналу
+@restaurant_conspiracy_long=Номер журнала "Еженедельный заговор". Даже не знаю, что грязнее, пол в уборной или этот журнал.
 
 @construction_conspiracy_prefix=
 @construction_conspiracy_short=Журнал
-@construction_conspiracy_long=Номер журнала "Еженедельный конспиратор". Думаю, тут ему самое место.
+@construction_conspiracy_short_dative=журналу
+@construction_conspiracy_long=Номер журнала "Еженедельный заговор". Думаю, тут ему самое место.
 
 @outpost_faq_prefix=
 @outpost_faq_short=Презентационные материалы
-@outpost_faq_long=Часто задаваемые вопросы. Интересно, как часто взрывается Луна...
+@outpost_faq_short_dative=презентационным материалам
+@outpost_faq_long=Часто задаваемые вопросы. Интересно, как часто взрывается Луна?...
 
 @sidereal_list_prefix=
 @sidereal_list_short=Лист бумаги
+@sidereal_list_short_dative=листу бумаги
 @sidereal_list_long=Таблица, распечатанная на листе бумаги. Тут написаны имена и фамилии в две колонки.
 
 @sidereal_lab_note_prefix=
 @sidereal_lab_note_short=Заметка
+@sidereal_lab_note_short_dative=заметке
 @sidereal_lab_note_long=Небольшой лист бумаги с какими-то странными обозначениями и коротким текстом внизу.
 
 @disc1_prefix=
 @disc1_short=Дискета
+@disc1_short_dative=дискете
 @disc1_long=На дискете написано "УСИЛИТЕЛЬ ПАМЯТИ". Кажется, я уже видел её раньше.
 
 @disc2_prefix=
 @disc2_short=Дискета
+@disc2_short_dative=дискете
 @disc2_long=На дискете написано "МАЛЫЙ ФАЗОВЫЙ КОНТРОЛЛЕР". Что это значит? И почему меня не покидает чувство, что я видел эту дискету раньше?
 
 @sidereal_darkness_prefix=
 @sidereal_darkness_short=Темнота
-@sidereal_darkness_long=Эта сторона коридора слишком тёмная. Может, там что-то есть, но лучше не ходить вслепую, мало ли.
+@sidereal_darkness_short_dative=темноте
+@sidereal_darkness_long=Там кромешная тьма. Может, там что-то есть, но лучше не ходить вслепую, мало ли.
 
 @outpost_ship_inside_prefix=
-@outpost_ship_inside_short=Интерьер корабля
+@outpost_ship_inside_short=Залезть внутрь
+@outpost_ship_inside_short_dative=проходу в корабль
 @outpost_ship_inside_long=Залезть внутрь корабля.
 
 @outpost_ship_outside_prefix=
-@outpost_ship_outside_short=Экстерьер корабля
+@outpost_ship_outside_short=Вылезти
+@outpost_ship_outside_short_dative=проходу из корабля
 @outpost_ship_outside_long=Вылезти из корабля.
 
 @base_ground_prefix=
 @base_ground_short=Земля вокруг убежища
+@base_ground_short_dative=земле вокруг убежища
 @base_ground_long=Вокруг убежища довольно мягкая земля, несмотря на суровый климат.
 
 @base_ditches_prefix=
 @base_ditches_short=Канавы вокруг убежища
+@base_ditches_short_dative=канавам вокруг убежища
 @base_ditches_long=Канавы, которые я вырыл, чтобы туда стекала дождевая вода.
 
 @boards1_prefix=
-@boards1_short=Деревянная доска
+@boards1_short=Фанера
+@boards1_short_dative=фанере
 @boards1_long=Широкая деревянная доска, пропитанная специальной герметизирующей жидкостью, судя по запаху.
 
 @boards2_prefix=
-@boards2_short=Деревянная доска
+@boards2_short=Фанера
+@boards2_short_dative=фанере
 @boards2_long=Две широкие деревянные доски, пропитанные специальной герметизирующей жидкостью, судя по запаху.
 
 @boards3_prefix=
-@boards3_short=Деревянная доска
+@boards3_short=Фанера
+@boards3_short_dative=фанере
 @boards3_long=Три широкие деревянные доски, пропитанные специальной герметизирующей жидкостью, судя по запаху.
 
 @impregnator_prefix=
 @impregnator_short=Банка лака для дерева
-@impregnator_long=В банке был лак для дерева... когда-то. А теперь он высох и банка стала бесполезной.
+@impregnator_short_dative=банке лака для дерева
+@impregnator_long=В банке был лак для дерева... когда-то. А теперь он высох, и банка стала бесполезной.
 
 @restaurant_solider_1_prefix=
 @restaurant_solider_1_short=Джош
+@restaurant_solider_1_short_dative=Джошу
 @restaurant_solider_1_long=Один из солдат. Выглядит угрожающе.
 @restaurant_solider_2_prefix=
 @restaurant_solider_2_short=Марк
+@restaurant_solider_2_short_dative=Марку
 @restaurant_solider_2_long=Один из солдат. Охраняет входную дверь.
 
 @restaurant_solider_3_prefix=
 @restaurant_solider_3_short=Стив
-@restaurant_solider_3_long=Раненый солдат, сидит на полу. Будем надеяться, что он не простудится от этого.
+@restaurant_solider_3_short_dative=Стиву
+@restaurant_solider_3_long=Раненый солдат, сидит на полу. Надеюсь, он не подцепит вдобавок к травме простуду.
 @restaurant_solider_4_prefix=
 @restaurant_solider_4_short=Пол
+@restaurant_solider_4_short_dative=Полу
 @restaurant_solider_4_long=Один из солдат сержанта. Он похож на умного парня, но кто его знает?
 @restaurant_sarge_prefix=
 @restaurant_sarge_short=Сержант
+@restaurant_sarge_short_dative=сержанту
 @restaurant_sarge_long=Усатый мужчина в слегка поношенной военной форме.
 
 @cs_wire_prefix=
 @cs_wire_short=Катушка проволоки
+@cs_wire_short_dative=катушке проволоки
 @cs_wire_long=Катушка с довольно толстой проволокой.
 
 @cs_pack_prefix=
 @cs_pack_short=Бетонные блоки
-@cs_pack_long=Это выглядит невероятно тяжёлым.
+@cs_pack_short_dative=бетонным блокам
+@cs_pack_long=Они выглядят невероятно тяжёлыми.
 
 @tarpaulin_prefix=
 @tarpaulin_short=Сложенный брезент
-@tarpaulin_long=Большой сложенный брезент. Он намного тяжелее, чем вы думаете.
+@tarpaulin_short_dative=сложенному брезенту
+@tarpaulin_long=Большой сложенный брезент. Он намного тяжелее, чем кажется.
 
 @cs_crane_prefix=
 @cs_crane_short=Грузоподъёмный кран
+@cs_crane_short_dative=грузоподъёмному крану
 @cs_crane_long=Высокий строительный кран. Никто не в курсе, откуда они берутся, они просто внезапно появляются на стройплощадках. На этот кран можно забраться.
 
 @cs_engine_prefix=
 @cs_engine_short=Генератор
+@cs_engine_short_dative=генератору
 @cs_engine_long=Электроснабжение крана.
 
 @cs_cables_box_prefix=
 @cs_cables_box_short=Кабельная коробка
+@cs_cables_box_short_dative=кабельной коробке
 @cs_cables_box_long=Коробка с электрическими проводами.
 
 @attic_roof_destroyed_prefix=
 @attic_roof_destroyed_short=Разрушенная крыша
+@attic_roof_destroyed_short_dative=разрушенной крыше
 @attic_roof_destroyed_long=Крыши просто нет.
 
 @mixer_note_prefix=
 @mixer_note_short=Химическая формула
+@mixer_note_short_dative=химической формуле
 @mixer_note_long=Заметка с химической формулой.

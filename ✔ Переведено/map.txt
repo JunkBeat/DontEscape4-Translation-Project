@@ -2,8 +2,8 @@
 @map_base_long=Заброшенный дом на холме. Похоже, хорошее место для отдыха.
 @map_base_prefix=
 
-@map_gasstation_short=АЗС
-@map_gasstation_long=Разрушенная АЗС. В одном из баков осталось топливо.
+@map_gasstation_short=Автозаправочная станция
+@map_gasstation_long=Заброшенная автозаправка. В одном из баков осталось топливо.
 @map_gasstation_prefix=
 
 @map_bridge_short=Разрушенный мост
