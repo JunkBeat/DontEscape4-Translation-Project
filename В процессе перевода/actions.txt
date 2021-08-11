@@ -1,621 +1,621 @@
-@default1=Не могу это сделать.
+@default1=Ничего не выйдет.
 @default2=Плохая идея.
-@default3=Это не сработает!
-@default4=Нет...
-@default5=I don't think so.
-@default6=И что из этого получится?
-
-@crossroad_intro1=Well, this place looks promising.
-@story_intro_day_1_1=Какой кошмар...
-@story_intro_day_1_2=Всё было настолько реалистичным...
-
-@story_start=Well, this place looks promising.
-@story_no_go=I should find a safe place for the night before exploring any further.
-@story_base1=This place looks abandoned...
-@story_base2=Staying here might be a good idea, but I only have a few hours to convert this ruin into a fortress before my nightmare catches up with me.
-@story_base3=I should look around and explore. ^That road sign might be a good start.
-
-@helicopter=This machine is totally wrecked. There is nothing I can do about it.
-
-@tent_distance_swarm=I don't like the look of this cloud. It seems to be moving this way.
-@tent_distance_gas=This cloud ... it's green.
-@tent_distance_webs=Are those spiderwebs on the wind? They're huge.
-@tent_distance_2=I think my nightmare might have been more than just a dream.
-@tent_distance_3=I still have a couple of hours, but I have to find a shelter ... fast.
-
-@tent_tent=I think this tent served me well long enough. It's too damaged to keep using it. I'll just leave it here.
-@tent_tent_2=This torn tent is not going to be a good enough shelter!
-
-@tent_bonfire=That campfire kept me warm through the night. There's nothing left of it now.
-
-@generic_tool=I need a tool for that.
-@generic_locked=It's locked.
-@generic_opened=It's already open.
-@generic_close_first=I'd better close it first.
-@generic_blocked=Something is blocking it.
-@generic_key=It won't fit.
-@generic_pick_it_up=I should pick it up first.
-
-@base_painting=It's a painting of an old-fashioned wooden hut somewhere in the wilderness.
-@base_painting2=This photo of an old lady was taken years ago. The colors have faded a bit, but her warm smile is still clearly visible.
-@base_fridge_note1=I think they never bought that milk.
-@base_fridge_note2=Some phone numbers are listed on this piece of paper.
-@base_fridge=The fridge is empty. After such a long time without electricity, I'm relieved to know that.
-@bathroom_bath=There's no time to take a bath, unfortunately.
-
-@bathroom_mirror1=Mirror, mirror, here I stand. Who is the fairest in the land? Probably not me.
-@bathroom_mirror2=I can see each and every day spent on the wasteland reflected in this face.
-@bathroom_mirror3=This mirror has probably seen better looking faces.
-@bathroom_mirror4=You're talking to me?
-@bathroom_mirror5=That's me. I should probably wash myself. If only I had the time...
-
-@barn_car_missing_wheel=Obviously a wheel is missing.
-@barn_car_coil_missing=The ignition coil is busted.
-@barn_car_battery_missing=The car battery is completely missing.
-@barn_car_fuel_missing=It has no fuel.
-@barn_car_uninspected=I should first inspect the car closer.
-@barn_car_installed=I've installed a part.
-@barn_car_fueled=I've fueled the car.
-@barn_car_examined=Well, the car could be started, I guess. But it doesn't look very good.
-
-@window_locked=It's locked.
-@window_empty=A nice view around the wasteland, with the Moon hanging above like an executioner's axe.
-@window_blocked=I can't go in. The window is blocked.
-@window_wrong_side=That might work, but I'd have to do it from inside.
-@pest_truck_locked=The back door is locked.
-@pest_truck_locked_pipe=The pipe was good for smashing windows, but it's too broad to fit between the door and the rest of the truck.
-@pest_truck_locker_locked=It's locked.
-@pest_chemsuit_repair=I'd better take the suit before I start fixing it.
-@chemsuit_ducttape=I've covered the hole with some duct tape.
-@chemsuit_filter=I've replaced the air filter.
-
-@chem_glass_emptied=I've emptied the chemical glass.
-@chem_glass_empty=The glass is empty.
-@chem_disposal=The sink is used to dispose of unwanted chemical liquids.
-@chem_glass_already=I've already added this liquid into the mix.
-@chem_glass_full=The glass is already full.
-@chem_no_glass=I need a proper container for that.
-
-@towel_already=There is a towel here already.
-@towel_placed=I've put the towel under the door, blocking the gap beneath it.
-
-@crashsite_body1_bugs_remote1=Something shines between the pieces of torn bag that he was carrying.
-@crashsite_body1_bugs_remote2=There was a strange remote controller in the corpse's bag.
-@crashsite_body1_bugs_remote3=There is nothing useful here.
-
-@crashsite_body1_gas_filter1=The suit has been destroyed by incredibly strong chemicals and is of no use to me. Maybe the gas mask...?
-@crashsite_body1_gas_filter2=The gas mask is broken, but I managed to salvage an air filter.
-@crashsite_body1_gas_filter3=There is nothing useful here.
-
-@crashsite_body2_gas_long2=I don't want to take this piece of paper since it's highly contaminated with gas, but I've noted what's important in my journal.
-
-@crashsite_discover_gas1=Oh god. Those corpses are burnt in a really nasty way. The toxic cloud got them.
-@crashsite_discover_gas2=It looks like they were wearing hazmat suits.
-@crashsite_discover_gas3=But the chemicals were too strong.
-
-@crashsite_discover_bugs1=Oh god. Those corpses are partially eaten. The swarm got them.
-@crashsite_discover_bugs2=It looks like these men put up a fight and killed a bunch of the insects.
-@crashsite_discover_bugs3=But they didn't stand a chance in the open.
-
-@crashsite_discover_spiders1=Oh god. Those corpses are covered in spider webs.
-@crashsite_discover_spiders2=It looks like these men put up a fight.
-@crashsite_discover_spiders3=But they didn't stand a chance in the open.
-
-@crashsite_wrench=Let's hope it will be more useful to me than it was to them.
-
-@crashsite_car_examine=I have to take a closer look to check out this vehicle.
-@crashsite_car_harvest=Well, let's see...
-@crashsite_car_could_harvest=I could remove the ignition coil from this car, but I need an adjustable wrench to do that.
-
-@crashsite_car_examined=The car is busted, so it's not going anywhere. One part that seems to be fine is the ignition coil, but getting it out won't be easy.
-@crashsite_car_harvested=I've removed the ignition coil from the car.
-@crashsite_car_empty=There is nothing useful left here.
-
-@crashsite_spider_body_start=There are some bite marks on its skin.
-@take_gun_plz=I'd rather take that gun with me.
-
-@barn_pipe_broken=There are some seriously big holes in this pipe.
-@barn_pipe_fixed=I've put enough duct tape here to make it last until the end of time. Well, until Thursday, that is.
-@barn_sprinklers_no_power=It seems to be dead. I think it's powered by that big generator next to it.
-@barn_sprinklers_enabled=There. I've enabled the irrigation system to start watering the fields at sunset.
-@barn_sprinklers_already_enabled=It's already set. The water should flow at sunset.
-@barn_sprinklers_chem=I've poured the solution into the pesticide inlet. It should mix nicely with the water when it starts.
-@barn_sprinklers_inlet=I could use this to add something to the water that will be pumped to the sprinklers.
-@barn_sprinklers_broken=It seems to be broken for good.
-@barn_sprinklers_full=There is something in the inlet already.
-@sprinklers_dont_want=I don't need this anymore.
-
-@car_already_fueled=The car's tank is already full.
-@barn_pump_already_fueled=The generator is already fueled.
-@barn_pump_fuel=I've fueled the generator. Now I just have to start it.
-@canister_is_empty=There is no fuel in this canister.
-
-@barn_console_no_stnd_by=I want to switch it on, not off.
-@barn_console_no_ground=There is no need to water the ground. It's not like I'll grow any crops here anyway.
-@barn_console_air=This should cause the night sky to be soaked with dense mist.
-
-@barn_fields=These pipes seem to cover a lot of area, surrounding the house with the irrigation system.
-@tracktor=Months spent out in the open took its toll on this tractor. It's completely ruined. There isn't even anything to salvage.
-@greenhouse_nails=I could recycle some of the nails that hold this greenhouse together, but I need a tool for that.
-@greenhouse_no_nails=There are no nails left. Just a stack of rotten planks.
-
-@bridge_drone_1=It's an automated drone used to measure weather conditions.
-@bridge_drone_2=Looks like it's too damaged to ever fly again, but there is still something on its display.
-
-@got_wheel=Apart from almost falling off the cliff once, all went well. I got the wheel.
-@bridge_carwreck_wheel=This car has been wrecked beyond repair. Maybe I could take its wheel off if I had a wrench...
-@bridge_carwreck_wheel2=...which I happen to have!
-@bridge_carwreck=This car has been wrecked beyond repair. No need to waste my time on that.
-@bridge_planks=I can't take those planks with me, but they could probably be useful right here by the bridge if I had the proper tools...
-@ravine_wrong_side=I have to cross the ravine first.
-
-@nails_fail=Throwing nails at it won't work. I need a hammer.
-@no_nails=I need nails to do this.
-
-@base_broken_pc=The screen is all cracked and the case seems partially burnt. This PC won't work.
-@base_papers1=There was a paper clip holding several sheets of paper together.
-@base_papers2=The documents themselves don't hold any useful information. Just some invoices for farming equipment.
-@base_hatch_locked=It's locked, and I can't find any means of opening it.
-
-@window_needs_material=I could use that to fortify the window with something. I need that 'something' first, though.
-@window_planks=Those planks are too rotten and fragile to be of any use here.
-@window_net=I've hung the net by putting it into the cracks in the frame. It barely holds in place like that.
-@window_foil=I've hung the plastic wrap by putting it into the cracks in the frame. It barely holds in place like that.
-@window_bars=I've put the bars by the window, but I need something to hold it if it's going to be of any serious use.
-@window_remove_nails=I could remove the nails but I need a tool for that.
-@window_already_nailed=It's already nailed.
-@window_already_taped=It's already taped.
-@window_occupied=There is something else in the window. I should remove it first.
-@window_crowbar=There is nothing to pry here.
-
-@window_blocked=I can't go through, there is something blocking the way.
-@window_glass=I have to break that glass if I want to get inside.
-
-@gasstation_newspaper_start=A newspaper from long ago sits in the magazine stand.
-@gasstation_newspaper_end=Keep calm and carry on.
-
-@gasstation_trinkets_lighter=There is a lighter here that could be useful.
-@gasstation_trinkets_empty=There is nothing useful left here.
-
-@gasstation_corpse=This man is dead. Covered with webs and partially eaten. I don't want to touch him.
-@gasstation_nospider=The spider is probably still there. I don't want to come anywhere near it...
-
-@gasstation_canister=It's empty. Well, the container might be useful.
-@gasstation_tank_wrench=There is a valve from which the fuel should flow. But how do I open it?
-@fuel_valves_closed=There is no way I can open the valve with my bare hands...
-@tank_canister_full=The canister is already full of fuel.
-@tank_sprayer=Its hole is too small, and fuel would just spill all over it. I should use a fuel canister first.
-
-@ducttape_watersprayer=I could use it to tape something to the water sprayer, but what should I tape?
-@no_ducttape_watersprayer=If I only had some duct tape...
-@remote_sonic=I should put the sonic device somewhere on the ground first.
-@remote_sonic2=Nothing happened. I think it stopped working. Oh, well. I don't need it anyway.
-
-@fuel_watersprayer=I've poured fuel into the water sprayer's container.
-@lighter_watersprayer=Using some duct tape, I've attached the lighter to the barrel of the water sprayer.
-@flamethrower_ready=^I now have a working flamethrower. It will probably break really fast, but it's better than nothing.
-@pestsprayer=Well, I now have a bug spray.
-
-@gasstation_cash=Well, you never know. Maybe it's going to be worth something again someday.
-@gasstation_plates_no_need=I see no reason to make so much noise.
-@gasstation_plates_noise=Breaking this pile of plates would sure make a lot of noise.
-
-@nasty_spider_eating=It hasn't noticed me yet. I'd rather keep it that way.
-@nasty_spider_blocking=I don't want to get anywhere near that spider.
-
-@roof_chimney_clogged=It seems the chimney is clogged by something inside. I can't reach it.
-@roof_chimney_unclogged=The chimney is now unclogged.
-@roof_chimney_unclog=There was a dead bird inside the chimney.
-@roof_chimney_unclogged=The chimney seems to be fine now that the obstruction was removed from it.
-@roof_hatch_no_need=There is no point in covering this hatch. I could just close it, but there is an entire wall missing in the other room. I'd better cover the other hatch that leads to the house's upper floor.
-@hatch_nails_no_need=Covering this with some cloth should be sufficient. There's no need to do anything else with it.
-@hatch_wrong_side=I should climb the ladder first.
-@hatch_tarp=This could be used to cover a much bigger hole.
-@window_tarpaulin=This could be used to cover something much bigger than a window.
-@pc_ext=Judging by the look of the socket this PC was plugged into, I think it stopped working soon after it fried that computer's circuits.
-
-@roof_heli=It has crashed into the house, making a big hole in the attic.
-
-@ginger_barry_distracted=They're busy talking. Let's keep it this way.
-
-@base_chimney=The fireplace
-@base_chimney_empty=is empty. Only some ashes from previous uses still scattered all around in it.
-@base_chimney_clogged=I also think the chimney is clogged. I don't feel any air draft.
-@base_chimney_clogged_d1=That's actually good news ... at least for now.
-@base_chimney_d1=I don't think lighting a fire is my priority now.
-@base_chimney_has=has
-@base_chimney_bag=a paper bag
-@base_chimney_note=an old note
-@base_chimney_cash=some cash
-@base_chimney_papers=a stack of papers
-@base_chimney_charcoal=a whole bunch of charcoal
-@base_chimney_wood=some wooden planks
-@base_chimney_has_end=inside. Which is no surprise, I've put it there myself.
-@base_chimney_and=and
-@this_note_might_be_usefull=This note might still be useful.
-@already_kindled=There is already some kindling in the fireplace. Everything that would prolong the fire is useful, but instead of burning it all at once, I should put the fuel and kindling in the kindling box by the fireplace to save it for later.
-@chimney_fueled=There is already some fuel in the fireplace. Instead of burning everything at once, I should put the fuel in the kindling box by the fireplace to save it for later.
-@chimney_kindling1=I've put
-@chimney_kindling2=into the fireplace.
-@basket_kindling1=I've put
-@basket_kindling2=into the kindling box.
-@chimney_cough_cough=-cough, cough- I think ... -cough- ... the chimney might be clogged ... 
-@chimney_cough_cough2=I'll put it out for now. I don't want to choke to death with all that smoke.
-@chimney_already_lit=It's already lit!
-@chimney_flamethrower_1=It's fun to light a fire with a flamethrower.
-@chimney_flamethrower_2=Even though the flamethrower has no fuel, the lighter at its end still works.
-
-@base_chimney_basket_plank=a stack of broken wooden planks
-@base_chimney_basket_planks=stacks of broken wooden planks
-
-@chimney_basket_empty=The kindling box is empty.
-@chimney_basket_d1=I don't have to put any fuel in the kindling box. I don't plan on lighting a fire...for now.
-@chimney_basket_full=There is something inside. Let's see...
-@chimney_basket_fuel=Before I start stacking up fuel supplies for the night, I should place something in the fireplace to fuel the actual fire.
-@chimney_basket_kindling=I will need something like this as a kindling to start the fire.
-
-@chimney_no_kindling=There is no kindling in the fireplace. There's no way I can start a fire without something small that can easily be set on fire.
-@chimney_no_fuel=There is no fuel in the fireplace. I need to find something to burn.
-
-@house_b_hose_connected=First I have to disconnect the hose from the tank. The ends are tightly secured with some lug nuts. I need to disconnect them first.
-@house_b_hose_already_disconnected=The hose is already disconnected.
-@house_b_hose_disconnected=I've disconnected the hose from the propane tank.
-
-@house_b_wife_inspected=She has a small locket on her neck.
-@house_b_wife_covered=I've covered the body with the bedsheet.
-@house_b_wife_cant_move=I hope Barry doesn't leave her like that.
-@house_b_wife_time_for_barry=I should get Barry to come here before I bury her.
-@house_b_wife_needs_cover=I should find something to cover the body with.
-@house_b_wife_wrong_cover=I should find something else to cover the body with. This blanket could be useful elsewhere.
-@house_b_wife_wrong_cover2=I should find something else to cover the body with. This coat could come in handy elsewhere.
-@house_b_wife_needs_grave=It's ready to be buried. Now I just have to dig a grave.
-@house_b_locket_unread=I know I probably shouldn't, but it might be important. I want to take a closer look at that locket before I give it back to Barry.
-
-@shovel_body=I should try digging the ground instead.
-@hose_screwdriver=I need a wrench.
-
-@house_b_garage=It's locked and I doubt if I could pick or lever that lock. I need a key.
-@house_b_grave=Rest in peace.
-
-@house_b_phone=All phone lines have been dead for quite a while now.
-
-@restaurant_first_check_front=I should check the front door first.
-@restaurant_trash_heavy=It's too heavy.
-@restaurant_window=I could probably squeze through it. But I can't reach that high...
-@restaurant_trash_moved=I've already got it to where I want it.
-@restaurant_door_locked=The boy struggles with a big metal door. I wonder what's behind it.
-@restaurant_backdoor=It's locked.
-@restaurant_backdoor2=It's locked. Besides, it's blocked by a garbage container on the other side.
-@restaurant_window2=I don't want to climb back up there.
-@take_foodcan_plz=I'd better take some food with me while I'm here.
-@foodcan_open=I've opened the can of meat.
-@restaurant_kitchen_cupboard_locked=It's locked.
-@restaurant_pole=A part is missing. I need something with a round profile that could act as a lever.
-@restaurant_pole_done=The clamp is already released. It seems that the pipe is stuck here for good.
-@restaurant_pole_wrong=It doesn't fit. I need something with a round profile that could act as a lever.
-@restaurant_pole_pipe=This pipe fits perfectly into the opening.
-@restaurant_rope=The flag's rope is stuck. It's held by a metal clamp. I have to release it first.
-@cupboard_clip=The lock is too tiny. I need brute force for this one.
-
-@rv_hook=The hook is attached to the RV with big bolts.
-@rv_hook_detach=I've detached the hook.
-@ropehook=I've tied the rope with the hook.
-@rv_generator_taken=Just as I thought: it has no fuel. Just my luck.
-@fuel_generator=I've fueled the portable generator.
-@rv_rock_rope_in=I've inserted the hook into the crack. It sits there firmly. It should be safe to use the rope.
-@rv_rock_rope_out=I've removed the hook from the crack. That rope might be useful elsewhere.
-@rv_rocks=This rock formation is full of cracks and holes, but it looks really sturdy and stable.
-@rope_rocks_fail=Good idea, but I can't tie the rope to any of the boulders. It would just slide off.
-@rv_body1=He's dead. No valuable belongings.
-@rv_cave_cant=It's at least 7 feet deep. I don't really want to jump in there.
-@rv_cave_visit=Brrr...it's really cold down here.
-@rv_cave_hook_missclick=I could use this to get the rope down the cave! But I need to put it in the crack in the rocks above the cave.
-@rv_car_1=Well, let's see...
-@rv_car_1b=Before I try to do anything else with it, I should inspect the car first.
-@rv_car_2a=The engine seems fine, but the suspension is busted.
-@rv_car_2b=The RV is not going anywhere, and I don't think there is anything I can do to fix it.
-@rv_car_2c=Also, the internal battery for appliances seems to be working, but I don't know how much juice it has left.
-@rv_car_2d=The battery is charged when the engine is running.
-@rv_aid_1=There is some stuff in this first aid kit.
-@rv_aid_2=There was a bandage in the first aid kit. There's something more here.
-@rv_aid_3=There was a thermal blanket in the first aid kit.
-@rv_aid_4=There's nothing else in here. Previous owners must have used it all.
-@rv_no_fuel=Something is wrong. It won't start, but the engine is fine. Fuel perhaps..?
-@rv_started=I've started the RV's engine.
-@rv_already_running=The engine is already running, but the RV is too damaged to move. I guess it's staying here.
-@rv_already_fueled=The RV is already fueled.
-@rv_fuel_inlet=I could pour fuel through that.
-@cave_do_it_outside=I should do it while I'm outside.
-
-@bandage_chimney=That would be a waste of a good bandage.
-@welder_poke=Poking it won't help. There's gotta be a way to get in there and pick it up.
-@welder_pull=It's a delicate piece of equipment. I can't just toss a hook at it in hopes of pulling it back!
-@shelf_ropehook=I could climb this in theory, but I'd be completely visible while I do it. There's gotta be a better way inside.
-
-@barn_pump_no_output=I should select an output first.
-@barn_pump_no_fuel=It's out of fuel.
-@barn_pump_running=The generator is already running!
-
-@barn_pipe_first=I should find a way to get into that house before I start fiddling with things in here.
-@window_thing_placed=It's just hanging there. I still should do something to attach it to the wall around the window.
-
-@barn_generator_try1=It choked but didn't start. Let's try that again...
-@barn_generator_try2=Come on, start already!
-@barn_generator_try3=Finally! It's running!
-@barn_generator_try4=The generator is running again.
-@barn_generator_off=I've switched it off.
-
-@kitchen_oven_open=I've opened the oven.
-@kitchen_oven_off=I've also switched it on, but nothing happened. There's no power.
-@kitchen_oven_on=I've also switched it on. It's getting hot already.
-@kitchen_oven_close=I've closed the oven and switched it off.
-@kitchen_oven_nogood=Too bad this is not going to help me in any way. I probably don't need this today.
-
-@socket_busy=There is already something plugged in this socket.
-@heater_plugged=There is already something plugged in this socket.
-@fan_cant_plug_here=An extension cord is plugged into the socket. I'd better unplug it first or plug the fan into the other end of the cord.
-@heater_cant_plug_here=An extension cord is plugged into the socket. I'd better unplug it first or plug the heater into the other end of the cord.
-@ext_cord_where_put=Where should I take the end of the extension cord?
-@ac_cord_where_put=Where should I take the end of the AC unit's cord?
-@ext_cord_wrong=Plugging this into the extension cord here isn't the best idea. I should take the extension cord somewhere else first.
-@socket_wrong=Plugging this in here isn't the best idea.
-@ext_cord_plugged=I can't take the extension cord. Something is plugged into it.
-@ext_cord_ac_machine1=Before I plug it in, I should install it by the window.
-@ext_cord_ac_machine2=Before I plug it in, I should install it by the cave's opening.
-@ac_unplugged=I've unplugged the air conditioner.
-
-@ac_cave_down=Okay, but I should install it while inside the cave.
-
-@unplug_first=I should unplug it first.
-@cord_upfloor=No point dragging it up there.
-@window_remove_old_barricade_first=I should remove the old barricade first. It only gets in the way.
-@window_this_wont_help=Placing this in the window won't help me now.
-
-@chimney_probably_clogged=It's windy outside yet I can't feel any draft. I think it's clogged.
-@check_attic=Something happened in the attic. I should check it first.
-@window_it_was_broken=The barricade was not salvageable.
-@window_it_was_broken2=Besides the nails, the barricade was not salvageable.
-
-@hatch_busy=There is something here already. I should remove it first.
-@cord_dragged=If I want to retrieve the extension cord, I should bring the other end here first.
-@socket_empty=The socket won't solve any of my problems without anything to plug in.
-@restaurant_freezer_empty=There is nothing left in the freezer.
-@restaurant_freezer=There's no food here. Only some weird tile-shaped objects. I wonder what those are...
-@restaurant_fridge_locked=It's locked, and the glass seems to be hardened.
-@heat_absorber_activated=After I dented the tile it hissed and became really cold. I think this thing really absorbs heat.
-
-@heli_crash_check=I'd better check out what happened in the attic first.
-@heli_crash_what=What was that? The attic...?
-
-@gasheater=I've installed the propane tank in the gas heater.
-
-@moon=It's shattered, just like all the dreams humankind ever had...
-
-@tutorial_wall=If only that hole was a bit larger I could squeeze through to the other side of that wall...
-@tutorial_wall_already_smashed=The hole is already large enough.
-@tutorial_quicksands=It's some sort of quicksand. I'm too heavy! I should get rid of that sledgehammer.
-@tutorial_ruins=Another ruin slowly swallowed by the desert.
-@tutorial_tab=Press [SHIFT] to highlight dropped items.
-
-@sidereal_base_check=I have to find out where Sidereal's spaceship outpost is first.
-@sidereal_cant_leave=We can't leave until we find what we came for.
-@sidereal_collapsed_stairs=The stairway is blocked. I have to find a way around it.
-@sidereal_elevator_open_first=I should open the door first.
-@sidereal_keys=He has an ID on his neck.
-@sidereal_body=I've already took his ID. He doesn't have anything else that would be interesting.
-@sidereal_fax=The fax machine is not operational.
-@sidereal_pc_off1=It's not powered.
-@sidereal_pc_off2=Or it's broken.
-@sidereal_pc_off3=Or both.
-@generic_unlocked=I've unlocked it.
-@sidereal_pipe_too_heavy=It's too heavy.
-@sidereal_vent_too_small=I can't fit in there.
-@sidereal_cody_door_locked=It seems to be locked from the other side.
-@sidereal_main_door=There is a dune of sand on the other side of that door. I'd better find another exit.
-@sidereal_reception_desk=Nothing useful here.
-@sidereal_logo=What exactly were you doing, Sidereal? What was your game?
-@sidereal_back_collapsed=Everything here is either collapsed or covered with tons of sand...
-@sidereal_entrance_locked_from_other_side=It seems to be locked from the other side.
-@sidereal_crowbar_fail=It's no use. The lock is too strong.
-@sidereal_climb_collapsed=No point in climbing up there. The roof is collapsed.
-@sidereal_cant_go_yet=I should find the outpost location before going any further.
-@sidereal_chart=This chart has some lines of different heights and curves. I have no idea what exactly it represents. Electrical voltages? Something with semiconductors?
-@sidereal_computer1=This computer doesn't seem to work.
-@sidereal_computer2=Time wasn't very merciful to this particular computer.
-@sidereal_collapse1=It's completely collapsed. I can't do much about it.
-@sidereal_alarm1=In case of emergency, break the glass.
-@sidereal_alarm2=I think I've done enough glass breaking for now.
-@sidereal_alarm_break=I doubt anyone would come to the rescue anyway.
-
-@sidereal_elevator3=The elevator is stuck mid-floor. I don't think getting inside would be a good idea.
-@sidereal_elevator2=The elevator shaft is just like our future ... dark and hollow. And with a risk of being crushed by a heavy thing falling from above.
-@sidereal_elevator1=I think I see the bottom, but it's far too high to jump.
-
-@poor_barry=Poor Barry. I have to leave him like this for now. Maybe after finding an exit there will be time to honor him.
-@poor_cody=Poor Cody. I have to leave him like this for now. Maybe after finding an exit there will be time to honor him.
-@npc_grave=He sleeps calmly, watching the blue sky through the hole in the ceiling above him.
-
-@save_npc_first1=I've gotta help him!
-@save_npc_first2=I've gotta help them!
-@save_npc_shocked_barry=I should check on Barry first. He seems to be in shock.
-@save_npc_shocked_cody=I should check on Cody first. Poor kid seems to be in shock.
-
-@sidereal_lodge_discover_1=Hmm ... this place might be worth checking out.
-@sidereal_lodge_discover_2=I've marked it on my map.
-
-@sidereal_base_discover_1=That's it! This is the location we needed!
-@sidereal_base_discover_2=I've marked it on my map.
-@sidereal_base_discover_3=Now I can finally get out of here.
-
-@sidereal_calendar1=1996. What a year.
-@sidereal_calendar2=The year of the beginning of the end.
-@sidereal_photocopier=It's not operational.
-
-@sidereal_hose_glass=It's a fire hose locked in a glass cabinet.
-@sidereal_hose_glass2=The glass is already broken.
-
-@hunters_lodge_smell=What a terrible stink...
-@lodge_back_corspe_cleared=Now I smell no better than that dead boar.
-@hunters_lodge_couch1=No time to sit down now.
-@hunters_lodge_scratches=There are some visible scratches on the floor as if something was pushed back and forth repeatedly.
-@hunters_take_revolver=There was a revolver in the safe. There is still something there.
-@hunters_take_ammo1=There was a box of rifle ammo in the safe. There is one more box inside.
-@hunters_take_ammo2=There was a box of revolver ammo in the safe.
-@hunters_hatch_empty=The safe is empty.
-@hunters_hatch_locked=It's locked.
-@hunters_horns=One of the antlers is skewed. I can't reach it.
-@hunters_horns2=This seems long enough to be able to push the antler.
-@hunters_horns3=There was a loud click somewhere in the room...
-@hunters_picture=The painting depicts a wolf or a large dog on a snowy hill. There is a human settlement in the distance. Night is dark and the sky seems hazy. I think I've seen this picture somewhere before...
-@hunters_chimney=The fireplace is empty, with a thick layer of ash on its walls and floor. It smells like burnt wood.
-
-@cs_parapet=This piece of fence is flat like a plate, but that won't help me get to the other side.
-@cs_already_distracted=He is already distracted ... but not for long.
-@cs_ammobox_1=The boxes contain a lot of different kinds of bullets. Both are far too heavy or clunky to move.
-@cs_ammobox_2=It's a bit upsetting to think all these bullets will be flying in my general direction a few hours from now.
-@cs_ammobox_oil=I've poured a lot of oil into the box. At least some of the bullets should fail when fired.
-@cs_ammobox_water=I've poured a lot of water into the box. At least some of the bullets should fail when fired.
-
-@cs_dont_walk_there=I don't think getting near those guys is a good idea.
-@cs_food_taken=I've taken some food.
-@cs_food_taken2=I've already taken some food. I don't want them to notice.
-@cs_food_poisioned=Well, I've poisoned the food.
-@cs_food_poisioned2=I don't want to take it. It's poisoned.
-@cs_food_whiskey=You've gotta down that food with something, right? I hope some of those thugs have weak heads.
-
-@restaurant_door_locked2=It's locked.
-
-@restaurant_block_rifle=There's too many of them...
-@restaurant_block_flamethrower=Yeah, and burn down the whole place I'm trying to get to in the process. No, thanks...
-@restaurant_block_chemsuit=The gas is too highly concentrated. The suit won't properly protect me.
-
-@rifle_too_loud=The rest of them will hear the gunshot...
-@thug_rock=That would only knock him out briefly. Then, he'd start the alarm.
-@thug_maggot=That maggot could be used to distract the guard, but not directly. Maggots don't randomly fall from the sky. It would just make him more alert, if anything...
-@thug_knife=I'm neither a ninja nor a commando!
-@rifle_no_ammo=It has no ammo...
-
-@sarge_sidereal_id=Sure, I could pretend to be a member of a corporation that has destroyed the world, but I don't really want to.
-@sarge_knife=I'm pretty sure he'd break my neck or something the moment he sees a knife in my hand.
-
-@chimney_longer=I need something much longer to unclog it.
-@restaurant_door_crowbar=The door looks very sturdy. There's gotta be a way around it.
-@restaurant_door_lockpick=There is no lock to pick here.
-@sidereal_door_crowbar=The door looks very sturdy. Maybe there's an easier way of opening it?
-@sidereal_door_clip=The lock is way too complicated for this trick to work.
-@sidereal_door_screwdriver=That won't open this door...
-@sidereal_door_id=There is no card scanner here. Is that card even used for doors? I haven't checked it yet.
-
-@gasstation_sarge_dead=He's dead...
-@gasstation_sarge_wrench_far=He could use that wrench for those valves, but I'd have to go there first.
-@gasstation_sarge_wrench_done=I've already helped him with that.
-@gasstation_sarge_shoot_not_here=He's a military man. I'd be dead before I even pull the trigger. If I really want to shoot him, I'd better go into the gas station so he doesn't see me...
-@gasstation_thugs_are_there=I'd rather not go there blindly. We could take a peek safely from the inside of the shop.
-@tank_canister_already=There is a gas canister here already...
-@tank_canister_take_first=I should first pick it up and place it directly under the valve.
-
-@revolver_full=The revolver is fully loaded.
-@revolver_npc_ammo=I could give this to him so he can defend himself, but I should load it first.
-
-@bear_trap_b=This trap has caught something disgusting. I need a tool of some sort to reset the spring.
-
-@scffolding=Ouch! This metal is rusty and covered with spikes. I'm gonna cut my hands and bleed to death if I try to climb it.
-@cs_buckle=This was used to pull heavy weights up and down. Maybe this could help me somehow.
-@cant_reach=I can't reach that.
-@cs_nomore=I've done enough killing here for now. If they detect me we will all be in serious trouble.
-@cs_sharpshooter=I'm no sharpshooter. I need to get closer if I really want to shoot anyone.
-@cs_buckle_hook=I should find a rope first.
-@cs_buckle_rope=I could use some sort of a hook to attach the rope here.
-@cable_box_screwdriver=There's no need to fiddle with this.
-
-@sidereal_lighter_failed=The wind blowing down the stairs puts the flame out...
-
-@fuse_elevator_on=The pin controlling the elevator. It is powered.
-@fuse_elevator_off=The pin controlling the elevator. It is offline.
-@fuse_doormat_on=The pin controlling the electrical doormat. It is powered.
-@fuse_doormat_off=The pin controlling the electrical doormat. It is offline.
-@fuse_short_circuit0=Whoa!!! I've caused a short circuit.
-@fuse_short_circuit1=Ouch! I have to watch out for those damaged squares.
-@fuse_short_circuit2=Damn it. Gotta be more careful.
-@fuse_short_circuit3=No, not again!
-
-@outpost_fuse_source=I can't remove it. I have to redirect the power.
-
-@outpost_fuse_briefning_1=Looks like those wires power the electrical doormat and the elevator.
-@outpost_fuse_briefning_2=The elevator line is down.
-@outpost_fuse_briefning_3=I have to find a way to restore its power...
-@outpost_fuse_briefning_4=...and while I'm at it, I should disable this doormat before someone gets hurt.
-@outpost_elevator_no_power=Nothing happens ... I think there is no power.
-@outpost_elevator_no_doormat=Before I take the elevator, I should disable the doormat so nobody gets hurt by accident.
-@outpost_fusebox_done=Doormat is disabled, the elevator is powered. There's nothing I want to change here.
-
-@sidereal_mixer_tray_empty=The tray is empty.
-@sidereal_mixer_tray_full=The tray is not empty.
-@sidereal_mixer_tray_junk1=Yuck! It looks and smells disgusting!
-@sidereal_mixer_tray_junk2=I don't think that's the result I wanted.
-@sidereal_mixer_tray_junk3=I'll throw it away.
-@sidereal_mixer_tray_full=The tray is not empty.
-@sidereal_mixer_tray_wrong=Well, it doesn't look bad. However...
-@sidereal_mixer_tray_pills1=Looks like some sort of powder.
-@sidereal_mixer_tray_pills2=I've put some powder into pill casings.
-@sidereal_mixer_tray_catalyst1=It looks like a liquid of some sort.
-@sidereal_mixer_tray_catalyst2=I've put it into the bottle.
-@sidereal_mixer_button_no_components=There are no components to mix.
-@sidereal_mixer_button_not_complete=I think I should select more ingredients first.
-@sidereal_mixer_button_already_done=I don't need to mix anything else. I'm done here.
-@sidereal_mixer_missing=Ingredient is missing here...
-@sidereal_mixer_item_no_use=I could use that to retrieve the mix once it's done.
-@sidereal_mixer_complete=The mixer finished its work. Let's see...
-
-@sidereal_lab14=Lab 14. That suggests the existence of 13 more labs.
-@sidereal_lab13=Lab 13. Unlike the neighbor lab, this one could be undamaged.
-@sidereal_lab12=Lab 12. I wonder what they did here. Guess I'll never know.
-@sidereal_lab11=Lab 11. Another mystery lost forever.
-
-@sidereal_lab_locked=It's locked. I need a key to open this door.
-
-@outpost_switch_pressed=The projector is already on.
-
-@remote_break=David smash! I've got the batteries, but the remote is useless now.
-@remote_open=I've removed the batteries. Without them, the remote is useless.
-
-@bus_fingerprint=On the dirty glass there's a well preserved impression of a hand made with dried grease. You can even see fingerprints on it.
-@bus_fingerprint2=The glue has dried and formed a plastic mold. I need something to separate it from the glass without damaging the imprint.
-@gluegun_no_power=This could work, but the glue gun has no power and can't melt the glue into moldable goo.
-@gluegun_take_impression_1=Glue gun melts the glue into a moldable goo. I've put some of it on the window. Now I just need to wait a moment for it to dry...
-@gluegun_take_impression_2=Meanwhile, the glue gun has run out of power. I guess remote controller batteries don't last too long.
-@fingerprint_no_mold=I don't want to scrape that dirt off.
-@fingerprint_mold_taken=There! I have a perfect impression of this guy's fingerprint.
-@locked_fingerprint=It's locked ... probably with that fingerprint-reading lock.
-@fingerprint_reader1=It's a fingerprint scanner.
-@fingerprint_reader2=Let's see if it recognizes me.
-@fingerprint_reader3=<ACCESS DENIED>
-@fingerprint_reader4=That's what I thought.
-@fingerprint_reader5=Well, here goes nothing.
-@fingerprint_reader6=<ACCESS GRANTED>
-@fingerprint_reader_cate=Happy now?
-
-@fingerprint_finger1=I wonder if...
-
-@moon_presentation=I can't believe we are doing this...
-
-@fingerprint_no_card=There is no slot for a card here. It looks more like a fingerprint reader.
-
-@card_reader_1=<ACCESS DENIED>
-@card_reader_2=<INSUFFICIENT PRIVILEGES>
-@card_reader_3=<ACCESS GRANTED>
-
-@outpost_ship_1=A spaceship is attached to huge rocket engine units.
-@outpost_ship_2=The shuttle itself looks similar to the ones used by NASA, yet it's smaller and somehow seems more ... modern?
-@outpost_ship_3=This must be a design by Sidereal Plexus. I haven't seen it anywhere before.
-@outpost_ship_4=Anyway, that's our ticket out of here. Or at least that's what I hope.
-
-@ship_toolbox_searched1=I've found a glue gun in the toolbox. It seems to be out of power.
-@ship_toolbox_searched2=There is nothing interesting left in the toolbox.
-
-@plane_covered=The entrance is covered with a whole lot of sand. I'll have to get rid of it first.
-@plane_ground=That's a lot of sand. The whole nose of the plane is buried.
-@plane_ground2=Digging that would definitely take too much time.
+@default3=Не сработает!
+@default4=Да нет же...
+@default5=Я так не думаю.
+@default6=Не понимаю, как мне это поможет.
+
+@crossroad_intro1=Что ж, выглядит многообещающе.
+@story_intro_day_1_1=Всего лишь кошмар...
+@story_intro_day_1_2=Он казался таким правдоподобным...
+
+@story_start=Что ж, выглядит многообещающе.
+@story_no_go=Прежде чем идти куда-то ещё, я должен найти безопасное место для ночлега.
+@story_base1=Это место, похоже, заброшено...
+@story_base2=Укрыться здесь - идея неплохая, но надо успеть превратить эту развалюху в убежище до того, как мой кошмар станет явью.
+@story_base3=Нужно исследовать ближайшие окрестности. ^Неплохо было бы начать с этого знака.
+
+@helicopter=Эта машина совсем сломана. Я уже ничего не смогу с ней сделать.
+
+@tent_distance_swarm=Не нравится мне это облако. Похоже, оно движется сюда.
+@tent_distance_gas=Зелёное... облако?
+@tent_distance_webs=Это что, паутина колышется на ветру? Какая огромная.
+@tent_distance_2=Похоже, мой кошмар - нечто большее, чем просто плохой сон.
+@tent_distance_3=У меня ещё есть несколько часов, но сначала мне нужно найти укрытие... и побыстрее.
+
+@tent_tent=Думаю, эта палатка мне хорошо послужила. Она уже изрядно потрепалась. Оставлю её здесь.
+@tent_tent_2=Эта потрёпанная палатка не годится в роли приличного убежища!
+
+@tent_bonfire=Костёр согревал меня всю ночь. Теперь от него ничего не осталось.
+
+@generic_tool=Для этого мне нужен инструмент.
+@generic_locked=Заперто.
+@generic_opened=Уже открыто.
+@generic_close_first=Лучше сначала её закрыть.
+@generic_blocked=Что-то мешается.
+@generic_key=Не подходит.
+@generic_pick_it_up=Лучше сначала его подобрать.
+
+@base_painting=На картине старая деревянная хижина где-то в лесу.
+@base_painting2=Это фото пожилой дамы, сделанное много лет назад. Цвета слегка поблёкли, но её приятная улыбка всё ещё отчётливо видна.
+@base_fridge_note1=Кажется, молоко они так и не купили.
+@base_fridge_note2=На этом листе бумаги перечислены чьи-то номера телефонов.
+@base_fridge=Пустой холодильник. И слава богу, учитывая, сколько он тут простоял без электричества.
+@bathroom_bath=У меня нет времени принимать ванну, к сожалению.
+
+@bathroom_mirror1=Зеркало, зеркало, дай мне ответ, кто красой затмил весь свет? Ну, уж точно не я.
+@bathroom_mirror2=На этом лице я вижу отражение всех дней, проведённых в пустоши.
+@bathroom_mirror3=Полагаю, это зеркало видало лица и получше.
+@bathroom_mirror4=Что ты там про меня вякнул?
+@bathroom_mirror5=Это я. Мне бы не мешало принять ванну. Было бы время…
+
+@barn_car_missing_wheel=Очевидно, не хватает колеса.
+@barn_car_coil_missing=Катушке зажигания кранты.
+@barn_car_battery_missing=Отсутствует аккумулятор.
+@barn_car_fuel_missing=Топливо закончилось.
+@barn_car_uninspected=Сначала нужно получше осмотреть машину.
+@barn_car_installed=Я установил запчасть.
+@barn_car_fueled=Я заправил машину.
+@barn_car_examined=Что ж, полагаю, теперь она заведётся. Хотя она и не в лучшем состоянии.
+
+@window_locked=Заперто.
+@window_empty=Чудесный вид на пустошь с Луной, свисающей с неба, как топор палача.
+@window_blocked=Я не могу залезть. Окно закрыто.
+@window_wrong_side=Может сработать, но лучше сделать это изнутри.
+@pest_truck_locked=Задняя дверь заперта.
+@pest_truck_locked_pipe=Эта труба отлично разбивает окна, но в щель меж дверью и грузовиком её не просунуть, она слишком широкая.
+@pest_truck_locker_locked=Закрыто.
+@pest_chemsuit_repair=Лучше сначала забрать костюм, а потом уже латать его.
+@chemsuit_ducttape=Я заклеил дыру скотчем.
+@chemsuit_filter=Я заменил воздушный фильтр.
+
+@chem_glass_emptied=Я вылил содержимое из колбы.
+@chem_glass_empty=Колба пустая.
+@chem_disposal=В эту раковину сливают ненужные химические смеси.
+@chem_glass_already=Я уже добавлял эту жидкость в смесь.
+@chem_glass_full=Колба итак полная.
+@chem_no_glass=Для этого мне нужна подходящая ёмкость.
+
+@towel_already=Я уже засунул полотенце под дверь.
+@towel_placed=Я засунул полотенце под дверь, закрыв щель.
+
+@crashsite_body1_bugs_remote1=Между кусками разорванного мешка что-то блестит.
+@crashsite_body1_bugs_remote2=В мешке рядом с трупом лежит некий странный пульт.
+@crashsite_body1_bugs_remote3=Ничего полезного здесь нет.
+
+@crashsite_body1_gas_filter1=Крайне сильные химикаты серьёзно повредили костюм, он мне уже не поможет. Разве что противогаз...
+@crashsite_body1_gas_filter2=Противогаз сломан, но мне удалось извлечь уцелевший воздушный фильтр.
+@crashsite_body1_gas_filter3=Ничего полезного здесь нет.
+
+@crashsite_body2_gas_long2=Я не стану брать с собой эту записку, она пропитана токсичным газом, но я отметил все важные детали в своём дневнике.
+
+@crashsite_discover_gas1=О Господи. Трупы с головы до ног в химических ожогах. Токсичное облако застало их врасплох.
+@crashsite_discover_gas2=Похоже, они пытались спастись, надев химзащитные костюмы.
+@crashsite_discover_gas3=Но химикаты оказались слишком сильными.
+
+@crashsite_discover_bugs1=О Господи. Трупы частично съедены. Рой застал их врасплох.
+@crashsite_discover_bugs2=Похоже, эти люди пытались отбиться и даже убили кучку насекомых.
+@crashsite_discover_bugs3=Но на открытой местности у них не было шансов.
+
+@crashsite_discover_spiders1=О Господи. Трупы с ног до головы обмотаны паутиной.
+@crashsite_discover_spiders2=Похоже, эти люди пытались отбиться.
+@crashsite_discover_spiders3=Но на открытой местности у них не было шансов.
+
+@crashsite_wrench=Будем надеяться, что он пригодится мне больше, чем им.
+
+@crashsite_car_examine=Нужно хорошенько осмотреть эту машину, чтобы оценить её состояние.
+@crashsite_car_harvest=Так, посмотрим...
+@crashsite_car_could_harvest=Из машины можно достать катушку зажигания, но для этого мне понадобится разводной ключ.
+
+@crashsite_car_examined=Машина сломана и больше уже никуда не поедет. Единственная уцелевшая запчасть, - катушка зажигания, но извлечь её будет непросто.
+@crashsite_car_harvested=Я достал из машины катушку зажигания.
+@crashsite_car_empty=Больше ничего полезного здесь нет.
+
+@crashsite_spider_body_start=На его коже следы от укуса.
+@take_gun_plz=Я скорее возьму с собой пушку.
+
+@barn_pipe_broken=В этой трубе огромные дыры.
+@barn_pipe_fixed=Я намотал столько скотча, что он продержится до скончания времён. Ну, то есть, до четверга.
+@barn_sprinklers_no_power=Похоже, он не работает. Думаю, в него должно поступать электричество из генератора.
+@barn_sprinklers_enabled=Вот так. Я установил систему орошения так, чтобы оросители включились на закате.
+@barn_sprinklers_already_enabled=Всё уже готово. Оросители включатся на закате.
+@barn_sprinklers_chem=Я вставил колбу с раствором в отверстие для пестицидов. Он должен смешаться с водой, когда включатся оросители.
+@barn_sprinklers_inlet=Я мог бы его использовать, чтобы смешать некую жидкость с водой, которая будет перекачиваться в оросители.
+@barn_sprinklers_broken=Кажется, ремонту он уже не подлежит.
+@barn_sprinklers_full=В отверстии уже что-то есть.
+@sprinklers_dont_want=Это мне больше не нужно.
+
+@car_already_fueled=Машина уже заправлена.
+@barn_pump_already_fueled=Генератор уже заправлен.
+@barn_pump_fuel=Я заправил генератор. Осталось только завести его.
+@canister_is_empty=В канистре нет бензина.
+
+@barn_console_no_stnd_by=Надо их включить, а не выключить.
+@barn_console_no_ground=Нет смысла поливать землю. Я всё равно не успею вырастить зерно.
+@barn_console_air=Это должно помочь создать завесу в ночном небе.
+
+@barn_fields=Похоже, эти трубы покрывают обширную площадь, дом окружён системой полива.
+@tracktor=Месяцы, которые трактор провёл на открытом воздухе, сказались на нём весьма негативно. Он сломан, и ремонту уже не подлежит.
+@greenhouse_nails=Можно попробовать выдернуть несколько гвоздей из этой теплицы, но для этого мне понадобится инструмент.
+@greenhouse_no_nails=Гвоздей больше не осталось. Лишь куча прогнивших досок.
+
+@bridge_drone_1=Беспилотный дрон, который измеряет погодные условия.
+@bridge_drone_2=Похоже, он серьёзно повреждён и больше уже не взлетит, однако на его табло что-то написано.
+
+@got_wheel=Не считая того, что он чуть не упал с обрыва, всё закончилось более или менее благополучно. Я снял колесо.
+@bridge_carwreck_wheel=Этот пикап уже не подлежит ремонту. Будь у меня ключ, думаю, я мог бы снять колесо...
+@bridge_carwreck_wheel2=...как кстати он у меня есть!
+@bridge_carwreck=Этот пикап уже не подлежит ремонту. Не стоит тратить на него драгоценное время.
+@bridge_planks=Я не смогу унести с собой эти доски, хотя, будь у меня нужные инструменты, они могли бы мне пригодиться прямо здесь...
+@ravine_wrong_side=Сначала нужно перебраться через овраг.
+
+@nails_fail=Голыми руками гвозди не забьёшь, нужен молоток.
+@no_nails=Для этого мне нужны гвозди.
+
+@base_broken_pc=Монитор разбит и, кажется, частично сожжён. Компьютер уже точно не запуститься.
+@base_papers1=Несколько листов бумаги, скрепленных маленькой скрепкой.
+@base_papers2=Сами по себе эти документы не содержат никакой полезной информации. Просто счета за сельскохозяйственную технику.
+@base_hatch_locked=Заперто, и я не вижу причин пытаться его открыть.
+
+@window_needs_material=Я мог бы чем-нибудь укрепить это окно. Только для начала нужно понять, чем.
+@window_planks=Доски слишком гнилые и непрочные, здесь они мне не помогут.
+@window_net=Я повесил сеть, засунув её в щель в раме. Она еле держится.
+@window_foil=Я повесил пластиковую плёнку, засунув её в щель в раме. Она еле держится.
+@window_bars=Я вставил решётку в окно, но если я хочу защититься по-серьёзному, необходимо её закрепить.
+@window_remove_nails=Я могу выдрать гвозди, но для этого мне понадобится инструмент.
+@window_already_nailed=Я уже прибил баррикаду к окну.
+@window_already_taped=Я уже прикрепил баррикаду скотчем.
+@window_occupied=К окну уже что-то прикреплено. Сначала надо это снять.
+@window_crowbar=Здесь нечего вырывать.
+
+@window_blocked=Я не могу пролезть, что-то не даёт мне это сделать.
+@window_glass=Чтобы залезть в дом, сначала нужно разбить стекло.
+
+@gasstation_newspaper_start=На журнальной стойке лежит несвежая газета.
+@gasstation_newspaper_end=Спокойно, держи себя в руках.
+
+@gasstation_trinkets_lighter=Зажигалка. Она может мне пригодиться.
+@gasstation_trinkets_empty=Больше ничего полезного здесь нет.
+
+@gasstation_corpse=Он мёртв. Его тело облеплено паутиной и частично обглодано. Я не стану к нему прикасаться.
+@gasstation_nospider=Судя по всему, паук ещё здесь. Лучше держаться от него подальше...
+
+@gasstation_canister=Пустая. Что ж, она ещё может мне пригодиться.
+@gasstation_tank_wrench=Это клапан, служащий для подачи топлива. Но как его открыть?
+@fuel_valves_closed=Я не смогу открыть клапан голыми руками...
+@tank_canister_full=Канистра уже заполнена топливом.
+@tank_sprayer=Отверстие слишком маленькое, топливо просто расплескается. Лучше воспользоваться канистрой.
+
+@ducttape_watersprayer=Можно прикрепить к нему что-нибудь скотчем, вот только что?
+@no_ducttape_watersprayer=Вот будь у меня скотч...
+@remote_sonic=Сначала нужно воткнуть в землю ультразвуковое устройство.
+@remote_sonic2=Ничего не произошло. Похоже, он сломался. Ну, что ж. Он всё равно мне больше не нужен.
+
+@fuel_watersprayer=Я залил бензин в баллон распылителя.
+@lighter_watersprayer=Я прикрепил зажигалку к форсунке распылителя с помощью скотча.
+@flamethrower_ready=^Теперь у меня есть работающий огнемёт. Скорее всего, он быстро сломается, но это лучше, чем ничего.
+@pestsprayer=Что ж, теперь у меня есть распылитель средства от насекомых.
+
+@gasstation_cash=Возможно, в будущем они снова будут чего-то стоить. Кто их знает?
+@gasstation_plates_no_need=Не вижу причин поднимать такой грохот.
+@gasstation_plates_noise=Можно наделать кучу грохота, если разбить эти тарелки.
+
+@nasty_spider_eating=Он меня не заметил, пока что. Не стоит всё портить.
+@nasty_spider_blocking=Я ни на дюйм не приближусь к этому пауку.
+
+@roof_chimney_clogged=Кажется, что-то изнутри забило дымоход. Я не могу достать эту штуку.
+@roof_chimney_unclogged=Теперь с дымоходом всё в порядке.
+@roof_chimney_unclog=В дымоходе застряла дохлая птица.
+@roof_chimney_unclogged=Думаю, раз уж я вытащил птицу, с дымоходом теперь всё в порядке.
+@roof_hatch_no_need=Нет смысла накрывать полотном этот люк, я могу его просто закрыть. В соседней комнате разрушена целая стена. Лучше накрыть полотном тот люк, который ведёт на второй этаж.
+@hatch_nails_no_need=Достаточно накрыть его каким-нибудь полотном. Больше с ним ничего делать не нужно.
+@hatch_wrong_side=Сначала нужно забраться по лестнице.
+@hatch_tarp=Брезентом можно накрыть отверстие покрупнее люка.
+@window_tarpaulin=Брезентом можно накрыть отверстие покрупнее окна.
+@pc_ext=Судя по виду розетки, в которую был подключен этот компьютер, она перестала работать ещё тогда, когда компьютер сгорел из-за перегруза.
+
+@roof_heli=Он врезался в дом, проделав огромную дыру на чердаке.
+
+@ginger_barry_distracted=Они разговаривают. Не буду им мешать.
+
+@base_chimney=В камине
+@base_chimney_empty=ничего нет. Осталось лишь немного золы после предыдущей растопки.
+@base_chimney_clogged=К тому же, мне кажется, что в дымоходе что-то застряло. Из него не дует ветер.
+@base_chimney_clogged_d1=На самом деле, это хорошая новость... по крайней мере, пока что.
+@base_chimney_d1=Разжигание огня не является моей первостепенной задачей.
+@base_chimney_has=лежит
+@base_chimney_bag=бумажный пакет
+@base_chimney_note=старая записка
+@base_chimney_cash=пачка денег
+@base_chimney_papers=стопка бумаг
+@base_chimney_charcoal=целая куча угля
+@base_chimney_wood=парочка деревянных досок
+@base_chimney_has_end=. Что не удивительно, ведь это я их туда положил.
+@base_chimney_and=и
+@this_note_might_be_usefull=Эта записка мне ещё может пригодится.
+@already_kindled=В камине уже лежит растопка. Мне, конечно, пригодится всё, что поможет поддерживать огонь, но, чтобы не сжигать всё сразу, лучше сохранить излишек на потом и положить в корзину для дров рядом с камином.
+@chimney_fueled=В камине уже лежит растопка. Чтобы не сжигать всё сразу, лучше сохранить излишек на потом и положить в корзину для дров рядом с камином.
+@chimney_kindling1=Вот всё, что я положил в камин:
+@chimney_kindling2=.
+@basket_kindling1=Вот всё, что я положил в корзину для дров:
+@basket_kindling2=.
+@chimney_cough_cough=-кхе-кхе- Кажется... -кхе- ... в дымоходе что-то застряло...
+@chimney_cough_cough2=Лучше пока потушить огонь. Я не хочу задохнуться от дыма.
+@chimney_already_lit=Огонь уже зажжён!
+@chimney_flamethrower_1=Зажигать камин огнемётом так весело.
+@chimney_flamethrower_2=Несмотря на то, что в нём нет топлива, зажигалка ещё работает.
+
+@base_chimney_basket_plank=стопка разломанных деревянных досок
+@base_chimney_basket_planks=стопка разломанных деревянных досок
+
+@chimney_basket_empty=Пустая корзина для дров.
+@chimney_basket_d1=Мне незачем класть растопку в корзину. Зажигать камин не в моих планах... пока что.
+@chimney_basket_full=Там внутри что-то есть. Посмотрим...
+@chimney_basket_fuel=Прежде чем начинать собирать запасы растопки на ночь, стоит положить хоть что-то в камин и зажечь огонь.
+@chimney_basket_kindling=Полезная вещь, будет куда складывать растопку.
+
+@chimney_no_kindling=В камине нет растопки. Я не смогу разжечь огонь без того, что можно легко поджечь.
+@chimney_no_fuel=В камине нечего поджигать. Надо найти что-нибудь легковоспламеняющееся.
+
+@house_b_hose_connected=Сначала надо отсоединить шланг от баллона с пропаном. Его края крепко зажаты гайками. Надо их открутить.
+@house_b_hose_already_disconnected=Шланг уже отсоединён.
+@house_b_hose_disconnected=Я отсоединил шланг от баллона с пропаном.
+
+@house_b_wife_inspected=У неё на шее висит небольшой медальон.
+@house_b_wife_covered=Я завернул тело в простыню.
+@house_b_wife_cant_move=Надеюсь, Барри не собирается вот так её здесь оставлять.
+@house_b_wife_time_for_barry=Перед тем, как похоронить её, я должен рассказать об этом Барри.
+@house_b_wife_needs_cover=Надо во что-нибудь завернуть её тело.
+@house_b_wife_wrong_cover=Лучше завернуть её тело во что-нибудь другое. Это одеяло мне ещё может пригодится.
+@house_b_wife_wrong_cover2=Лучше завернуть её тело во что-нибудь другое. Это пальто мне ещё может пригодится.
+@house_b_wife_needs_grave=Она готова к погребению. Осталось только вырыть могилу.
+@house_b_locket_unread=Знаю, так делать нельзя, но вдруг там что-то важное. Я хочу взглянуть на этот медальон поближе, прежде чем отдам его Барри.
+
+@shovel_body=Лучше просто вырыть могилу.
+@hose_screwdriver=Нужен газовый ключ.
+
+@house_b_garage=Закрыто, к тому же я сомневаюсь, что смогу вскрыть замок. Мне нужен ключ.
+@house_b_grave=Покойся с миром.
+
+@house_b_phone=Телефонные линии уже давным-давно не работают.
+
+@restaurant_first_check_front=Лучше сначала проверить парадный вход.
+@restaurant_trash_heavy=Слишком тяжёлый.
+@restaurant_window=Я бы мог попробовать протиснуться через него. Но я не дотянусь...
+@restaurant_trash_moved=Я уже перетащил его куда надо.
+@restaurant_door_locked=Мальчик пытается вскрыть большую железную дверь. Интересно, что там?
+@restaurant_backdoor=Заперто.
+@restaurant_backdoor2=Заперто. Кроме того, она загорожена мусорным контейнером с другой стороны.
+@restaurant_window2=Я не хочу снова лезть в окно.
+@take_foodcan_plz=Не помешало бы прихватить с собой еды, пока я ещё здесь.
+@foodcan_open=Я открыл мясные консервы.
+@restaurant_kitchen_cupboard_locked=Заперто.
+@restaurant_pole=Здесь чего-то не хватает. Мне нужен какой-нибудь стержень, который мог бы послужить рычагом.
+@restaurant_pole_done=Зажим уже ослаблен. И труба, кажется, там застряла.
+@restaurant_pole_wrong=Не влезает. Мне нужен какой-нибудь стержень, который мог бы послужить рычагом.
+@restaurant_pole_pipe=Эта труба идеально входит в отверстие.
+@restaurant_rope=Я не могу спустить флаг. Верёвку держит металлический зажим. Сначала надо его ослабить.
+@cupboard_clip=Замок слишком маленький. Придётся применить грубую силу.
+
+@rv_hook=Крюк прикручен к фургону большими болтами.
+@rv_hook_detach=Я отсоединил крюк.
+@ropehook=Я привязал крюк к верёвке.
+@rv_generator_taken=Так я и думал: нет топлива. Везёт же мне.
+@fuel_generator=Я заправил портативный генератор.
+@rv_rock_rope_in=Я закрепил крюк в трещине. Держится крепко. Теперь можно спускаться вниз.
+@rv_rock_rope_out=Я вынул крюк из трещины. Эта верёвка ещё может мне пригодиться.
+@rv_rocks=В этих камнях полно трещин и дыр, но на вид они вполне надёжные.
+@rope_rocks_fail=Неплохая идея, но я не могу привязать верёвку к валуну. Она просто соскользнёт.
+@rv_body1=Он мёртв. Ничего ценного нет.
+@rv_cave_cant=Она более 2-х метров в глубину. Я не горю желанием туда прыгать.
+@rv_cave_visit=Бррр… холодища какая.
+@rv_cave_hook_missclick=С его помощью можно спустить верёвку в пещеру! Но сначала надо всунуть его в один из валунов рядом с пещерой.
+@rv_car_1=Так, посмотрим...
+@rv_car_1b=Прежде чем делать что-то ещё, надо осмотреть фургон.
+@rv_car_2a=Двигатель в норме, только подвеска сломалась.
+@rv_car_2b=Фургон уже никуда не поедет, и, думаю, я не смогу его починить.
+@rv_car_2c=А ещё внутренний аккумулятор, похоже, в норме, непонятно только, сколько из него получится выжать.
+@rv_car_2d=Аккумулятор работает только тогда, когда заведён двигатель.
+@rv_aid_1=В аптечке ещё кое-что осталось.
+@rv_aid_2=В аптечке бинты. И ещё кое-что.
+@rv_aid_3=В аптечке термоодеяло.
+@rv_aid_4=Больше здесь ничего нет. Наверное, предыдущие владельцы всё израсходовали.
+@rv_no_fuel=Что-то не так. Не заводится, хотя двигатель в порядке. Может, дело в бензине..?
+@rv_started=Я завёл фургон.
+@rv_already_running=Двигатель уже заведён, но из-за повреждений фургон не едет. Похоже, он останется здесь.
+@rv_already_fueled=Фургон уже заправлен.
+@rv_fuel_inlet=Сюда можно залить бензин.
+@cave_do_it_outside=Лучше сделать это снаружи.
+
+@bandage_chimney=Зачем тратить впустую хорошие бинты?
+@welder_poke=Бесполезно тыкать в него. Должен быть способ забраться туда и подобрать его.
+@welder_pull=Это очень хрупкое оборудование. Не стоит кидать крюк в надежде подцепить его!
+@shelf_ropehook=Теоретически я бы мог туда взобраться, но я буду у всех на виду. Должен быть другой способ попасть туда.
+
+@barn_pump_no_output=Сначала надо установить смесь.
+@barn_pump_no_fuel=Бензин кончился.
+@barn_pump_running=Генератор уже запущен!
+
+@barn_pipe_first=Сначала надо понять, как попасть в тот дом, а потом уже копаться здесь.
+@window_thing_placed=Еле держится. Всё равно надо каким-то образом прикрепить её к оконной раме.
+
+@barn_generator_try1=Он чихнул, но не завёлся. Попробуем ещё раз...
+@barn_generator_try2=Ну же, заводись!
+@barn_generator_try3=Наконец-то! Завёлся!
+@barn_generator_try4=Я снова завёл генератор.
+@barn_generator_off=Я выключил его.
+
+@kitchen_oven_open=Я открыл печь.
+@kitchen_oven_off=Также я её включил, но ничего не произошло. Нет электричества.
+@kitchen_oven_on=Также я её включил. Она уже разогревается.
+@kitchen_oven_close=Я закрыл и выключил печь.
+@kitchen_oven_nogood=Жаль, что она мне ничем не поможет. Скорее всего, сегодня она мне не понадобится.
+
+@socket_busy=В эту розетку уже что-то подключено.
+@heater_plugged=В эту розетку уже что-то подключено.
+@fan_cant_plug_here=В розетку уже подключён удлинитель. Сначала надо его отсоединить или подключить вентилятор в удлинитель.
+@heater_cant_plug_here=В розетку уже подключён удлинитель. Сначала надо его отсоединить или подключить обогреватель в удлинитель.
+@ext_cord_where_put=Куда мне отнести шнур от удлинителя?
+@ac_cord_where_put=Куда мне отнести шнур от кондиционера?
+@ext_cord_wrong=Втыкать его в удлинитель здесь - не самая лучшая идея. Сначала надо отнести его в другое место.
+@socket_wrong=Втыкать его в удлинитель - не самая лучшая идея.
+@ext_cord_plugged=Я не могу взять удлинитель. Что-то уже подключено к нему.
+@ext_cord_ac_machine1=Прежде чем подключать его, надо установить его на окно.
+@ext_cord_ac_machine2=Прежде чем подключать его, надо установить его на входе в пещеру.
+@ac_unplugged=Я отключил кондиционер.
+
+@ac_cave_down=Ладно, только надо установить его, находясь в пещере.
+
+@unplug_first=Сначала не помешало бы его отсоединить.
+@cord_upfloor=Нет смысла тащить его наверх.
+@window_remove_old_barricade_first=Сначала надо снять старую баррикаду. Она только мешается.
+@window_this_wont_help=Нет смысла вешать это на окно.
+
+@chimney_probably_clogged=На улице ветрено, но из камина не дует. Похоже, он забит.
+@check_attic=Что-то случилось на чердаке. Надо проверить.
+@window_it_was_broken=Баррикада не выстояла.
+@window_it_was_broken2=Кроме гвоздей, от баррикады ничего не осталось.
+
+@hatch_busy=Здесь уже что-то лежит. Сначала надо это убрать.
+@cord_dragged=Если я хочу отключить удлинитель, сначала надо принести сюда противоположный конец провода.
+@socket_empty=Розетка не поможет решить мои проблемы, если в неё ничего не подключено.
+@restaurant_freezer_empty=В морозилке ничего не осталось.
+@restaurant_freezer=Еды здесь нет. Лишь странные квадратные плитки. Интересно, что это такое...?
+@restaurant_fridge_locked=Заперто, и стекло, похоже, замёрзло.
+@heat_absorber_activated=Как только я раздавил плитку, она зашипела и стала очень холодной. Думаю, эта штука и правда поглощает тепло.
+
+@heli_crash_check=Сначала лучше проверить, что случилось на чердаке.
+@heli_crash_what=Что это было? Чердак...?
+
+@gasheater=Я установил баллон с пропаном в газовый обогреватель.
+
+@moon=Она разлетелась на кусочки, так же как и мечты человечества...
+
+@tutorial_wall=Будь эта дыра чуть больше, я мог бы протиснуться через неё на ту сторону стены...
+@tutorial_wall_already_smashed=Дыра уже достаточно большая.
+@tutorial_quicksands=Похоже на зыбучие пески. Я слишком тяжёлый! Надо избавиться от этой кувалды.
+@tutorial_ruins=Ещё одни развалины, медленно пожираемые пустыней.
+@tutorial_tab=Зажмите [SHIFT], чтобы подсветить брошенные предметы.
+
+@sidereal_base_check=Сначала я должен узнать, где находится аванпост корпорации "Сайдреал".
+@sidereal_cant_leave=Мы не можем уйти, пока не найдём то, ради чего пришли.
+@sidereal_collapsed_stairs=По лестнице не пройти. Придётся найти обходной путь.
+@sidereal_elevator_open_first=Сначала не мешало бы открыть дверь.
+@sidereal_keys=У него на шее висит пропуск.
+@sidereal_body=Я уже забрал пропуск. Больше у него нет ничего интересного.
+@sidereal_fax=Факс не работает.
+@sidereal_pc_off1=Не подключён к сети.
+@sidereal_pc_off2=Или сломан.
+@sidereal_pc_off3=Или всё сразу.
+@generic_unlocked=Открыто.
+@sidereal_pipe_too_heavy=Она слишком тяжёлая.
+@sidereal_vent_too_small=Я туда не пролезу.
+@sidereal_cody_door_locked=Похоже, она заперта с другой стороны.
+@sidereal_main_door=По ту сторону двери - песчаная дюна. Лучше найти другой выход.
+@sidereal_reception_desk=Ничего полезного.
+@sidereal_logo=Чем же вы таким занимались, "Сайдреал"? Что вы задумали?
+@sidereal_back_collapsed=Всё здесь либо разрушено, либо похоронено под тоннами песка...
+@sidereal_entrance_locked_from_other_side=Похоже, они заперты с другой стороны.
+@sidereal_crowbar_fail=Бесполезно. Замок слишком крепкий.
+@sidereal_climb_collapsed=Нет смысла туда залезать. Крыша обвалилась.
+@sidereal_cant_go_yet=Прежде чем идти дальше, я должен найти местоположение аванпоста.
+@sidereal_chart=На этом графике изображены линии разной высоты. Но я понятия не имею, что они обозначают. Электрическое напряжение? Какие-нибудь полупроводники?
+@sidereal_computer1=Похоже, этот компьютер не работает.
+@sidereal_computer2=Время явно не пощадило этот компьютер.
+@sidereal_collapse1=Проход завален. Тут уж ничего не поделаешь.
+@sidereal_alarm1=В случае чрезвычайной ситуации разбейте стекло.
+@sidereal_alarm2=Думаю, хватит с меня на сегодня битья стёкол.
+@sidereal_alarm_break=И вообще, сомневаюсь, что кто-нибудь придёт нам на помощь.
+
+@sidereal_elevator3=Лифт застрял между этажами. Не думаю, что залезать в него - хорошая идея.
+@sidereal_elevator2=Лифтовая шахта так похожа наше будущее... тёмная и бездонная. И есть риск, что сверху на тебя свалится и раздавит громадная бандура.
+@sidereal_elevator1=Кажется, я вижу низ, но он слишком далеко.
+
+@poor_barry=Бедный Барри. Пока придётся оставить его здесь. Может, после того, как мы найдём выход, у нас найдётся время почтить его память.
+@poor_cody=Бедный Коди. Пока придётся оставить его здесь. Может, после того, как мы найдём выход, у нас найдётся время почтить его память.
+@npc_grave=Он мирно спит, наблюдая через дыру в потолке за голубым небом.
+
+@save_npc_first1=Я должен ему помочь!
+@save_npc_first2=Я должен помочь им!
+@save_npc_shocked_barry=Сначала я должен проверить Барри. Похоже, он в шоке.
+@save_npc_shocked_cody=Сначала я должен проверить Коди. Бедный ребёнок, похоже, он в шоке.
+
+@sidereal_lodge_discover_1=Хм-м... возможно, стоит проверить это место.
+@sidereal_lodge_discover_2=Я отметил его на своей карте.
+
+@sidereal_base_discover_1=Вот оно! Местоположение, которое мы искали!
+@sidereal_base_discover_2=Я отметил его на своей карте.
+@sidereal_base_discover_3=Теперь можно наконец уходить отсюда.
+
+@sidereal_calendar1=1996. Вот так год.
+@sidereal_calendar2=Год начала нашего конца.
+@sidereal_photocopier=Он не работает.
+
+@sidereal_hose_glass=Пожарный шланг, запертый в стеклянном ящике.
+@sidereal_hose_glass2=Стекло уже разбито.
+
+@hunters_lodge_smell=Что это за ужасная вонь...?
+@lodge_back_corspe_cleared=Теперь я пахну не лучше дохлого кабана.
+@hunters_lodge_couch1=Не время рассиживаться.
+@hunters_lodge_scratches=На полу заметны царапины, будто что-то часто таскали взад-вперёд.
+@hunters_take_revolver=В сейфе лежит револьвер. И есть ещё кое-что.
+@hunters_take_ammo1=В сейфе лежит коробка с патронами для винтовки. Здесь лежит ещё одна коробка.
+@hunters_take_ammo2=В сейфе лежит коробка с патронами для револьвера.
+@hunters_hatch_empty=Сейф пустой.
+@hunters_hatch_locked=Закрыто.
+@hunters_horns=Один рог слегка перекошен. Не могу дотянуться.
+@hunters_horns2=Этот предмет достаточно длинный, чтобы дотянуться до рога.
+@hunters_horns3=Где-то в комнате прозвучал громкий щелчок...
+@hunters_picture=На картине изображён волк или большой пёс на заснеженном холме. Вдалеке виднеется поселение людей. Тёмная ночь, туманное небо. Кажется, где-то я уже видел эту картину...
+@hunters_chimney=В камине пусто, а на стенках и на полу толстый слой золы. Пахнет горелой древесиной.
+
+@cs_parapet=Этот кусок забора плоский, как лист, хотя это не поможет мне перебраться на ту сторону.
+@cs_already_distracted=Он уже отвернулся... правда ненадолго.
+@cs_ammobox_1=В ящиках огромное количество разнообразных патронов. Их не утащить, они слишком тяжёлые и хлипкие.
+@cs_ammobox_2=Становится страшно, когда понимаешь, что через несколько часов эти патроны полетят в моём направлении.
+@cs_ammobox_oil=Я вылил масло в ящик. Надеюсь, хоть какие-то патроны не выстрелят.
+@cs_ammobox_water=Я вылил воду в ящик. Надеюсь, хоть какие-то патроны не выстрелят.
+
+@cs_dont_walk_there=Подходить к этим парням - плохая идея.
+@cs_food_taken=Я взял немного еды.
+@cs_food_taken2=Я уже взял немного еды. Нельзя, чтобы они заметили.
+@cs_food_poisioned=Что ж, я отравил их пищу.
+@cs_food_poisioned2=Я не буду её брать. Она отравлена.
+@cs_food_whiskey=Есть в сухомятку не положено, так? Надеюсь, хоть кто-то из бандитов клюнет на это.
+
+@restaurant_door_locked2=Заперто.
+
+@restaurant_block_rifle=Их слишком много...
+@restaurant_block_flamethrower=Ага, и в процессе сжечь место, в которое я пытаюсь проникнуть. Нет уж, спасибо...
+@restaurant_block_chemsuit=Газ слишком концентрированный. Костюм меня не защитит.
+
+@rifle_too_loud=Другие бандиты услышат выстрел...
+@thug_rock=Это его вырубит, но ненадолго. Он проснётся и поднимет тревогу.
+@thug_maggot=С помощью этой личинки можно отвлечь караульного, но не напрямую. Просто так личинки с неба не падают. Это, наоборот, его насторожит...
+@thug_knife=Я не ниндзя, и не спецназовец!
+@rifle_no_ammo=В нём нет патронов...
+
+@sarge_sidereal_id=Ну да, я мог бы притвориться членом корпорации, которая уничтожила мир, но что-то мне неохота.
+@sarge_knife=Я более чем уверен, что он свернёт мне шею, когда он увидит меня с ножом.
+
+@chimney_longer=Мне нужно что-то подлиннее, чтобы прочистить дымоход.
+@restaurant_door_crowbar=На вид дверь крепкая. Должен быть другой вход.
+@restaurant_door_lockpick=Здесь нет замка, который можно взломать.
+@sidereal_door_crowbar=На вид дверь довольно крепкая. Может, есть способ попроще открыть её?
+@sidereal_door_clip=Этот трюк не сработает, замок слишком сложный.
+@sidereal_door_screwdriver=Она не поможет открыть дверь...
+@sidereal_door_id=Здесь нет сканера пропусков. Этот пропуск двери-то хоть открывает? Я так ни разу и не проверил.
+
+@gasstation_sarge_dead=Он мёртв...
+@gasstation_sarge_wrench_far=Я мог бы дать ему воспользоваться своим ключом, но сначала надо к нему подойти.
+@gasstation_sarge_wrench_done=Я уже ему помог с бензином.
+@gasstation_sarge_shoot_not_here=Он военный. Я даже на курок нажать не успею. Если я хочу его пристрелить, лучше спрятаться в магазине, чтобы он меня не заметил...
+@gasstation_thugs_are_there=Нельзя идти туда вслепую. Лучше аккуратно подслушать разговор из магазина.
+@tank_canister_already=Здесь уже стоит канистра...
+@tank_canister_take_first=Сначала надо поставить её прямо над вентилем.
+
+@revolver_full=Револьвер полностью заряжен.
+@revolver_npc_ammo=Я мог бы отдать ему свой револьвер для самообороны, но сначала надо его зарядить.
+
+@bear_trap_b=Что-то мерзкое попалось в капкан. Мне понадобится инструмент, чтобы открыть его.
+
+@scffolding=Ай! Метал заржавел и покрылся шипами. Если я попытаюсь залезть, я поранюсь и истеку кровью.
+@cs_buckle=С его помощью можно поднимать и опускать тяжёлые грузы. Возможно, он мне пригодится.
+@cant_reach=Я не дотягиваюсь.
+@cs_nomore=Я итак убил здесь много людей. Если меня засекут, у всех нас будут неприятности.
+@cs_sharpshooter=Я не меткий стрелок. Надо подойти поближе, если я хочу кого-нибудь застрелить.
+@cs_buckle_hook=Сначала надо найти верёвку.
+@cs_buckle_rope=Я мог бы прикрепить сюда верёвку с помощью какого-нибудь крюка.
+@cable_box_screwdriver=Нет смысла здесь возиться.
+
+@sidereal_lighter_failed=Ветер с лестницы гасит пламя...
+
+@fuse_elevator_on=Контакт, управляющий лифтом. Подключён.
+@fuse_elevator_off=Контакт, управляющий лифтом. Отключён.
+@fuse_doormat_on=Контакт, управляющий электрическим ковриком. Подключён.
+@fuse_doormat_off=Контакт, управляющий электрическим ковриком. Отключён.
+@fuse_short_circuit0=Ой!!! Я вызвал короткое замыкание.
+@fuse_short_circuit1=Ай! Надо следить за повреждёнными квадратами.
+@fuse_short_circuit2=Чёрт возьми. Надо быть осторожнее.
+@fuse_short_circuit3=Нет, только не снова!
+
+@outpost_fuse_source=Я не могу его вытащить. Придётся перенаправить ток.
+
+@outpost_fuse_briefning_1=Похоже, эти провода подают питание в электрический коврик и лифт.
+@outpost_fuse_briefning_2=Провод, подведённый к лифту, неисправен.
+@outpost_fuse_briefning_3=Надо заставить его работать...
+@outpost_fuse_briefning_4=...и в то же время, надо отключить этот коврик, пока кто-нибудь не пострадал.
+@outpost_elevator_no_power=Ничего не произошло... похоже, нет питания.
+@outpost_elevator_no_doormat=Прежде чем я вызову лифт, надо отключить коврик, чтобы кто-нибудь случайно не пострадал.
+@outpost_fusebox_done=Коврик отключён, лифт работает. Не за чем что-то менять.
+
+@sidereal_mixer_tray_empty=Лоток пуст.
+@sidereal_mixer_tray_full=В лотке что-то есть.
+@sidereal_mixer_tray_junk1=Фу! Какая гадкая вонь!
+@sidereal_mixer_tray_junk2=Думаю, я ожидал вовсе не такого результата.
+@sidereal_mixer_tray_junk3=Выкину-ка я это.
+@sidereal_mixer_tray_full=В лотке что-то есть.
+@sidereal_mixer_tray_wrong=Ну, выглядит не так уж плохо. Однако...
+@sidereal_mixer_tray_pills1=Похоже на какой-то порошок.
+@sidereal_mixer_tray_pills2=Я положил немного порошка в капсулы.
+@sidereal_mixer_tray_catalyst1=Похоже на какую-то жидкость.
+@sidereal_mixer_tray_catalyst2=Я перелил её в пробирку.
+@sidereal_mixer_button_no_components=Здесь нечего смешивать.
+@sidereal_mixer_button_not_complete=Думаю, мне надо добавить побольше компонентов.
+@sidereal_mixer_button_already_done=Мне больше не нужно ничего смешивать. Этого хватит.
+@sidereal_mixer_missing=Не хватает какого-то компонента...
+@sidereal_mixer_item_no_use=Этим можно будет воспользоваться, когда смесь будет готова.
+@sidereal_mixer_complete=Смеситель завершил работу. Посмотрим...
+
+@sidereal_lab14=Лаборатория 14. Следовательно, есть ещё 13 лабораторий.
+@sidereal_lab13=Лаборатория 13. В отличие от соседних лабораторий, у этой не завален вход.
+@sidereal_lab12=Лаборатория 12. Интересно, что они там делали. Похоже, я никогда не узнаю.
+@sidereal_lab11=Лаборатория 11. Очередная навеки утерянная тайна.
+
+@sidereal_lab_locked=Заперто. Чтобы открыть дверь, мне нужен ключ.
+
+@outpost_switch_pressed=Проектор уже включён.
+
+@remote_break=Дэвид крушить! Я достал батарейки, но теперь пульт бесполезен.
+@remote_open=Я вытащил батарейки. Без них пульт бесполезен.
+
+@bus_fingerprint=На грязном стекле отпечатался жирный след от руки. На нём даже видны отпечатки пальцев.
+@bus_fingerprint2=Клей высох и сформировал пластиковый слепок. Надо как-то отклеить его от стекла, не повредив отпечаток.
+@gluegun_no_power=Это бы сработало, но клеевой пистолет не заряжен и растопить клей не получится.
+@gluegun_take_impression_1=Клеевой пистолет превратил клей в липкую массу. Я приклеил её на стекло. Остаётся только подождать, пока она высохнет...
+@gluegun_take_impression_2=Тем временем, клеевой пистолет разрядился. Похоже, батарейки от пульта не держат большой заряд.
+@fingerprint_no_mold=Я не хочу соскребать эту грязь.
+@fingerprint_mold_taken=Ну вот! Теперь у меня есть идеальный слепок отпечатка пальца этого парня.
+@locked_fingerprint=Заперто... вероятно, дверь защищена сканером отпечатков пальцев.
+@fingerprint_reader1=Сканер отпечатков пальцев.
+@fingerprint_reader2=Посмотрим, распознает ли он меня.
+@fingerprint_reader3=<ДОСТУП ЗАПРЕЩЁН>
+@fingerprint_reader4=Так я и думал.
+@fingerprint_reader5=Ничего не выходит.
+@fingerprint_reader6=<ДОСТУП РАЗРЕШЁН>
+@fingerprint_reader_cate=Доволен?
+
+@fingerprint_finger1=А что если...
+
+@moon_presentation=Поверить не могу, что мы это делаем...
+
+@fingerprint_no_card=Здесь нет отверстия под пропуск. Больше похоже на сканер отпечатков пальцев.
+
+@card_reader_1=<ДОПСТУП ЗАПРЕЩЁН>
+@card_reader_2=<НЕДОСТАТОЧНО ПРАВ>
+@card_reader_3=<ДОСТУП РАЗРЕШЁН>
+
+@outpost_ship_1=Корабль присоединён к огромным двигательным установкам.
+@outpost_ship_2=Сам шаттл напоминает шаттлы "NASA", хотя он поменьше и даже как-то... посовременнее?
+@outpost_ship_3=Должно быть, дизайн разработали "Сайдреал Плексус". Раньше я таких не видел.
+@outpost_ship_4=В любом случае, это наш выход. По крайней мере, я на это надеюсь.
+
+@ship_toolbox_searched1=Я нашёл клеевой пистолет в ящике с инструментами. Похоже, он разряжен.
+@ship_toolbox_searched2=Больше в ящике нет ничего интересного.
+
+@plane_covered=Вход засыпан огромной массой песка. Сначала надо от него избавиться.
+@plane_ground=Как же много песка. Вся носовая часть самолёта ушла под него.
+@plane_ground2=Чтобы его выкопать, понадобится слишком много времени.
 
 @outpost_doormat_10=10...
 @outpost_doormat_9=9...
@@ -629,291 +629,291 @@
 @outpost_doormat_1=1...
 @outpost_doormat_0=0...
 
-@outpost_door_powered=I'm not going to step on that doormat again while it's powered...
-@outpost_bars_perfect=There. I don't think it could be done any better than this.
+@outpost_door_powered=Я не собираюсь снова вставать на этот коврик, когда он под электричеством...
+@outpost_bars_perfect=Вот так. Лучше этого, думаю, уже не сделать.
 
-@ship_examine_lioh_0=A lithium hydroxide filter is missing.
-@ship_examine_lioh_1=A lithium hydroxide filter is installed. Everything seems to be fine here.
+@ship_examine_lioh_0=Отсутствует фильтр из гидроксида лития.
+@ship_examine_lioh_1=Фильтр из гидроксида лития установлен. Кажется, здесь все в порядке.
 
-@ship_examine_nav_0=A slot labeled "Nav chip" is empty.
-@ship_examine_nav_1=All slots are filled with chips. All lights are green. Everything seems to be fine here.
+@ship_examine_nav_0=Слот с надписью "Нав. чип" - пустой.
+@ship_examine_nav_1=Во все слоты установлены чипы. Все лампочки горят зелёным. Кажется, здесь все в порядке.
 
-@ship_examine_air_0=Large round slots labeled "Auxiliary air tanks" are empty.
-@ship_examine_air_1=Auxiliary air tanks are in place. Everything seems to be fine here.
+@ship_examine_air_0=Большие круглые отверстия с надвисью "Запасные воздушные баллоны" - пустые.
+@ship_examine_air_1=Запасные воздушные баллоны на месте. Кажется, здесь все в порядке.
 
-@ship_examine_calib_0=Label says "Engine calibrator", but there is nothing here.
-@ship_examine_calib_1=A device labeled "Engine calibrator" displays engines status. Everything seems to be fine here.
+@ship_examine_calib_0=Написано "Калибратор", но здесь ничего нет.
+@ship_examine_calib_1=Устройство с надписью "Калибратор" отображает состояние двигателя. Кажется, здесь все в порядке.
 
-@welder_plugged=I've plugged in the welder kit. It's powered. Now I just need some material to weld.
-@welder_plug_empty=This is a high-voltage socket for specialized equipment.
-@welder_material_needed=I have a welder alright, but I need something to put over this crack to fix it.
-@welder_needed=Great, but I need something to create an air-tight seal over this crack.
-@welder_wrong_item=Maybe nails or duct tape were good before, but I'll need something more professional here.
-@welder_wrong_item2=Yes, gluing the crack in the spaceship's hull is totally going to help.
-@welder_plug_it=Yes, a welding torch will do. But I need to plug it in to power ... and I need some material to cover the crack with.
-@crack_inside_fixed=I hope this will hold. It has to.
-@crack_outside_fixed=It's not aerodynamically perfect, but it will have to do.
-@welder_no_need=It's already welded. No need to add anything more to it.
-@welder_metal=This will do nicely. I have to put the plate directly on the surface I want to patch.
-@calibrator_already_in=The calibrator is already installed.
-@lioh_already_in=The LiOH filter is already installed.
-@nav_already_in=The navigation chip is already installed.
-@air_already_in=The air tanks are already installed.
-@belt_with_tool=With a proper tool I could remove the transmission belt.
-@belt_engine_with_tool=This large engine surely moves something big, however it's not moving at the moment. With a proper tool I could remove the transmission belt.
-@elevator_no_belt=Without a transmission belt, this engine is useless...
-@elevator_not_working=Hmm ... I hear the engine working, but the elevator doesn't seem to move.
+@welder_plugged=Я подключил сварочный аппарат к розетке. Осталось лишь найти материал для сварки.
+@welder_plug_empty=Это высоковольтная розетка для специализированного оборудования.
+@welder_material_needed=Сварочный аппарат-то у меня есть, но ещё мне нужен какой-нибудь материал, чтобы заделать трещину.
+@welder_needed=Хорошо, но мне нужно какое-нибудь герметичное уплотнение, чтобы заделать трещину.
+@welder_wrong_item=Может, раньше скотч и гвозди мне помогли, но здесь мне понадобится нечто более профессиональное.
+@welder_wrong_item2=Ага, заклеить трещину в корпусе космического корабля однозначно поможет.
+@welder_plug_it=Да, сварочный аппарат будет очень кстати. Но надо подключить его к розетке... и найти какой-нибудь материал, чтобы заделать трещину.
+@crack_inside_fixed=Я надеюсь, что выдержит. Она обязана выдержать.
+@crack_outside_fixed=С аеродинамической точки зрения - не идеально, но сойдёт.
+@welder_no_need=Она уже приварена. Больше ничего делать не нужно.
+@welder_metal=Она отлично подойдёт. Надо поместить пластину на поверхность, которую я хочу залатать.
+@calibrator_already_in=Калибратор уже установлен.
+@lioh_already_in=LiOH-фильтр уже установлен.
+@nav_already_in=Навигационный чип уже установлен.
+@air_already_in=Воздушные баллоны уже установлены.
+@belt_with_tool=Приводной ремень можно снять с помощью подходящего инструмента.
+@belt_engine_with_tool=Этот массивный двигатель явно управляет чем-то большим, однако сейчас он не работает. С помощью подходящего инструмента можно снять приводной ремень.
+@elevator_no_belt=Без приводного ремня этот двигатель - бесполезен...
+@elevator_not_working=Хм-м... Судя по звуку, двигатель работает, но лифт, кажется, не двигается.
 
-@catalyst_added=I've poured the catalyst into the injector.
-@catalyst_already_used=The catalyst is already injected into the ship's fuel.
-@outpost_injector=This console has an inlet for catalyst fluid that will be injected into the fuel tank.
+@catalyst_added=Я залил катализатор в инъектор.
+@catalyst_already_used=Катализатор уже введен в топливный бак корабля.
+@outpost_injector=На этой консоли есть заливное отверстие для катализатора, который будет введён в топливный бак.
 
-@outpost_big_computer=Hmm ... there is a part at the bottom that seems to be open.
-@outpost_dead_man=This man looks like he's been burnt. The corpse looks melted, and the sand around it turned into glass shards.
+@outpost_big_computer=Хм-м... кажется, снизу находится открытое отверстие.
+@outpost_dead_man=Кажется, этот парень сгорел. Тело расплавилось, а песок вокруг него превратился в стекло.
 
-@outpost_big_computer_part=A part came loose. I'll take it. I hope it wasn't important.
-@outpost_big_computer_empty=I took a part out of it already. I don't want to mess with it more.
-@outpost_big_computer_nah=Nah. It seems to be working just fine without it!
+@outpost_big_computer_part=Деталь оторвалась. Возьму-ка я её. Надеюсь, это не что-то важное.
+@outpost_big_computer_empty=Я итак забрал одну деталь. Не хочу больше там ковыряться.
+@outpost_big_computer_nah=Да не. Он и без неё прекрасно работает!
 
-@crate_enough_1=One navigation chip should be enough.
-@crate_enough_2=I already took some tanks. The ship has limited capacity for those anyway.
-@crate_enough_3=One voltmeter is good; two is too much.
-@crate_enough_4=Not really. The ship won't take off if we eat too many of those.
-@crate_enough_5=I don't really know why I need those anyway.
-@crate_enough_6=I don't need any more.
-@crate_enough_7=I took enough already.
+@crate_enough_1=Одного навигационного чипа, думаю, хватит.
+@crate_enough_2=Я уже взял пару баллонов. В корабле для них итак мало места.
+@crate_enough_3=Один вольтметр - хорошо, а два - лучше.
+@crate_enough_4=Не стоит. Корабль не взлетит, если мы съедим слишком много.
+@crate_enough_5=Вообще, я даже не знаю, зачем они мне.
+@crate_enough_6=Больше мне не нужно.
+@crate_enough_7=Я итак взял достаточно.
 
-@crate_opened_1=Let's see what's inside...
-@crate_opened_2=I've opened another crate.
-@crate_opened_3=Another crate is now open. I hope I'm not wasting too much time on that.
-@crate_opened_4=Maybe this crate will be more interesting...
-@crate_opened_5=I must admit, this is getting addictive. I already wonder what's in the sixth one.
-@crate_opened_6=Huh. Maybe one more?
-@crate_opened_7=Looks like I'm out of crates to open.
-@crate_locked=This crate is sealed shut. I won't be able to open it with my bare hands.
+@crate_opened_1=Посмотрим, что там внутри...
+@crate_opened_2=Я открыл ещё один ящик.
+@crate_opened_3=Теперь ящик открыт. Надеюсь, я не трачу время впустую.
+@crate_opened_4=Возможно, в этом ящике есть что-нибудь интересное...
+@crate_opened_5=Честно сказать, я на это подсаживаюсь. Мне теперь даже интересно, что в шестом.
+@crate_opened_6=Э-э. А может, ещё один?
+@crate_opened_7=Похоже, теперь все ящики открыты.
+@crate_locked=Ящик запечатан. Я не смогу открыть его голыми руками.
 
-@crate_take_1=What's this? A heap of electronic chips.
-@crate_take_2=Air tanks. Not many of them, but they seem large and quite heavy.
-@crate_take_3=A whole lot of voltmeters.
-@crate_take_4=A lot of instant noodles...
-@crate_take_4_cody=Food! Yay!
-@crate_take_5=Enormous amount of pipe gaskets.
-@crate_take_6=Nuts and bolts. I'll take a handful.
-@crate_take_7=Copper wires. I'll take some.
+@crate_take_1=Что здесь у нас? Куча электронных чипов.
+@crate_take_2=Воздушные баллоны. Их немного, но на вид они большие и тяжёлые.
+@crate_take_3=Полным-полно вольтметров.
+@crate_take_4=Уйма лапши быстрого приготовления...
+@crate_take_4_cody=Еда! Ура!
+@crate_take_5=Огромное количество прокладок для труб.
+@crate_take_6=Гайки и болты. Возьму горстку.
+@crate_take_7=Медные провода. Возьму парочку.
 
-@transponder_disabled1=That thing flashed for long enough.
-@transponder_disabled2=The transponder is already disabled.
-@airplane_manifest_picked=Just a piece of paper. Cargo manifest. Let's take a look.
-@airplane_pilot_dead=This poor guy can't help me in any other way.
+@transponder_disabled1=Эта штука уже достаточно намигалась.
+@transponder_disabled2=Радиоответчик отключён.
+@airplane_manifest_picked=Просто клочок бумаги. Список грузов. Ну-ка, посмотрим.
+@airplane_pilot_dead=Больше этот парень мне ничем не сможет помочь.
 
-@crowbar_too_brute=The plate seems too strong to break. It has some screws though...
-@radar_locked=A metal plate is held by some screws.
-@radar_broken=One of the parts looks burned. It says "duplexer" on it.
-@radar_repaired=It seems to be working fine now.
-@outside_radar_working=I've fixed it.
-@outside_radar_broken=I think it's supposed to be rotating. I guess it's broken.
+@crowbar_too_brute=Пластина, похоже, прочная - не сломается. Но она прикручена шурупами...
+@radar_locked=Металлическая пластина прикручена шурупами.
+@radar_broken=Одна деталь, кажется, сгорела. Написано "дуплексер".
+@radar_repaired=Думаю, теперь он работает исправно.
+@outside_radar_working=Починил.
+@outside_radar_broken=По идее, он должен крутиться. Похоже, радар сломан.
 
-@outpost_hatch_open=The ship is down there waiting for launch.
-@outpost_hatch_closed=This thing weighs much more than I'll ever be able to lift.
-@outpost_hatch_opened=The hatch is already open.
-@outpost_hatch_engine_broken=<SYSTEM FAILURE>
-@outpost_hatch_opening=<OPERATION COMPLETE>
+@outpost_hatch_open=Корабль там, внизу, ждёт запуска.
+@outpost_hatch_closed=Эта штуковина весит гораздо больше, чем я когда-либо смогу поднять.
+@outpost_hatch_opened=Люк уже открыт.
+@outpost_hatch_engine_broken=<СИСТЕМНЫЙ СБОЙ>
+@outpost_hatch_opening=<ОПЕРАЦИЯ ЗАВЕРШЕНА>
 
-@dream4_window=A cold night outside...
-@dream4_ended_multi=Where is everybody?
-@dream4_ended_cate=Cate? Where are you?
-@day4_start_stairs_no=I'd better check this floor first.
+@dream4_window=За окном холодная ночь...
+@dream4_ended_multi=Где все?
+@dream4_ended_cate=Кейт? Где ты?
+@day4_start_stairs_no=Я лучше сначала проверю этот этаж.
 
-@gloves_taken=There is a pair of gloves in the bag.
-@gloves_taken2=There's nothing more in the bag.
+@gloves_taken=В мешке лежит пара перчаток.
+@gloves_taken2=Больше в мешке ничего нет.
 
-@day4_no_clock=This time waiting for the evening is not a good idea. I have to find a ship and launch it before it's too late.
+@day4_no_clock=В этот раз дожидаться захода солнца - плохая идея. Я должен найти и запустить космический корабль, пока не поздно.
 
-@heap_of_thugs=No time to bury them. I can't believe we killed them all...
-@card_needed=There's a slot for an access card.
-@outpost_cabinet_open=Space suits are staying here. We might need them.
+@heap_of_thugs=Нет времени их хоронить. Поверить не могу, что мы их всех убили...
+@card_needed=Здесь прорезь для карты доступа.
+@outpost_cabinet_open=Я оставлю скафандры здесь. Они нам, возможно, ещё понадобятся.
 
-@ammo_day4=I don't need anything from this.
-@food_day4=I don't need to do anything with it.
+@ammo_day4=Мне ничего отсюда не нужно.
+@food_day4=Мне незачем что-то с этим делать.
 
-@ship_exit_not_yet_cate=I should check up with Cate before I start doing anything else.
-@ship_exit_not_yet_others=I should check up with everyone before I start doing anything else.
-@ship_exit_not_yet_suits=It'd be a good idea to wear a space suit before opening this door.
+@ship_exit_not_yet_cate=Прежде чем что-то предпринимать, надо проверить, как там Кейт.
+@ship_exit_not_yet_others=Прежде чем что-то предпринимать, надо проверить, как там мои друзья.
+@ship_exit_not_yet_suits=Неплохо было бы надеть скафандр перед тем, как открыть шлюз.
 
-@ship_exit_1=<Initiating decompression procedure...>
-@ship_exit_2=<Decompression complete>
-@ship_closet=I've already taken everything I needed from there.
-@no_point_going_back=There's no point going back there...
-@already_suited_up=I already have a space suit.
-@already_airlock=The airlock is already open.
-@airlock_locked=I have to find a way to open this door.
+@ship_exit_1=<Запуск процесса разгерметизации...>
+@ship_exit_2=<Разгерметизация завершена>
+@ship_closet=Я уже забрал оттуда всё нужное.
+@no_point_going_back=Нет смысла туда возвращаться...
+@already_suited_up=Я уже надел скафандр.
+@already_airlock=Шлюз уже открыт.
+@airlock_locked=Надо найти способ открыть шлюз.
 
-@moonbase_pod_closed=This pod is empty ... but closed.
-@moonbase_pod_cody=Sleep well, little prince.
-@moonbase_pod_barry=You've earned some rest, buddy.
-@moonbase_pod_cate=You are where you wanted, Cate. Let's hope you were right about all of this.
-@moonbase_pod_wait_cate=I think I should ask Cate if she wants to go first.
-@moonbase_pod_wait_barry=I think I should ask Barry if he wants to go first.
-@moonbase_pod_wait_cody=I think I should ask Cody to go first.
-@moonbase_pod_wait_others=I think I should ask others if they want to go first.
-@moonbase_pod_me1=I guess this is it then.
-@moonbase_pod_me2=This whole station will fall apart in a moment.
-@moonbase_pod_me3=It's now or never.
-@moon_power_failure_1=What the...?
-@moon_power_failure_2=<ERROR: MAIN POWER IS OFFLINE. UNABLE TO INITIATE THE SLEEPER POD>
-@moon_computer_all=I've done all I had to do here. Time to move.
+@moonbase_pod_closed=Эта капсула - пустая... однако она закрыта.
+@moonbase_pod_cody=Сладких снов, маленький принц.
+@moonbase_pod_barry=Ты заслужил немного отдыха, приятель.
+@moonbase_pod_cate=Теперь ты там, куда ты и хотела попасть, Кейт. Надеюсь, ты была права насчёт всего.
+@moonbase_pod_wait_cate=Думаю, стоит спросить Кейт, хочет ли она уснуть первой.
+@moonbase_pod_wait_barry=Думаю, стоит спросить Барри, хочет ли он уснуть первым.
+@moonbase_pod_wait_cody=Думаю, стоит спросить Коди, хочет ли он уснуть первым.
+@moonbase_pod_wait_others=Думаю, стоит спросить ребят, хотят ли они уснуть первыми.
+@moonbase_pod_me1=Ну, что ж, вот и всё.
+@moonbase_pod_me2=Станция разлетится на куски в считанные секунды.
+@moonbase_pod_me3=Сейчас или никогда.
+@moon_power_failure_1=Какого...?
+@moon_power_failure_2=<ОШИБКА: ОСНОВНОЙ ИСТОЧНИК ПИТАНИЯ ОТКЛЮЧЁН. НЕ УДАЛОСЬ ЗАПУСТИТЬ КАПСУЛУ СНА>
+@moon_computer_all=Я сделал здесь всё, что мог. Пора уходить.
 
-@moon_computer_1=<ACCESS DENIED>
-@moon_computer_2=<SLEEPER POD CONTROL UNLOCKED>
-@moon_computer_3=<ACCESS GRANTED>
+@moon_computer_1=<ДОСТУП ЗАПРЕЩЁН>
+@moon_computer_2=<УПРАВЛЕНИЕ КАПСУЛАМИ СНА РАЗБЛОКИРОВАНО>
+@moon_computer_3=<ДОСТУП РАЗРЕШЁН>
 
-@moon_computer_4=<RE-ROUTING POWER RESERVES>
-@moon_computer_5=<MAIN POWER RESTORED>
+@moon_computer_4=<ПЕРЕРАСПРЕДЕЛЕНИЕ ЗАПАСОВ ЭЛЕКТРОЭНЕРГИИ>
+@moon_computer_5=<ОСНОВНОЙ ИСТОЧНИК ПИТАНИЯ ВОССТАНОВЛЕН>
 
-@moon_window_broken=The blast door has sealed that part of the station.
-@moon_dead_cate=I'm sorry, Cate...
+@moon_window_broken=Взрывозащитная дверь закрыла проход в ту часть станции.
+@moon_dead_cate=Прости меня, Кейт...
 
-@gluegun_powered=The glue gun now has working batteries. They won't last for too many uses, though...
+@gluegun_powered=Я вставил новые батарейки в клеевой пистолет. Правда слишком долго они не прослужат...
 
-@sidereal_no_crowbar=It's shut tight. Nowhere to fit the crowbar.
-@sidereal_no_id_card=This door doesn't have an ID card reader.
-@pick_up_backpack=I'm not going anywhere without my trusty backpack.
+@sidereal_no_crowbar=Дверь задраена, монтировкой вскрыть не получится.
+@sidereal_no_id_card=У этой двери нет сканера пропусков.
+@pick_up_backpack=Я без своего верного рюкзака - никуда.
 
-@plug_not_needed=I don't see a reason to plug it in here.
-@plug_dont_unplug=Actually, I don't think I'm going to need this anywhere else at this point.
-@lodge_window=I can see the back of the lodge from here.
-@lodge_tree_stormcatcher_placed=It's plugged in and working ... or at least it's glowing.
-@stormcatcher_wrong=It should be plugged in somewhere high.
-@lodge_tree_stormcatcher_no_power=Hmm ... it seems there is no power.
+@plug_not_needed=Не вижу причин подключать его сюда.
+@plug_dont_unplug=Собственно, пока я не думаю, что он мне понадобится где-то ещё.
+@lodge_window=Отсюда видно заднюю часть дома.
+@lodge_tree_stormcatcher_placed=Он подключён и работает... ну, по крайней мере, он светится.
+@stormcatcher_wrong=Его надо подключить где-нибудь повыше.
+@lodge_tree_stormcatcher_no_power=Хм-м... похоже, нет электричества.
 
-@lodge_roof_clean=Since the leaves are gone, the solar panels receive all the light they can get.
-@reel_blocked=It's stuck under that large heap of concrete.
-@crane_collision=The system has detected a collision.
-@crane_lifted=I've already lifted what I wanted. I'm done here.
-@cs_leaver_no_power=Nothing happens. No power?
-@stormcatcher_already=There's a Storm Catcher device placed here already.
-@cs_cables_open=I should open it first.
-@cs_cables_sparks=Whoa ... ouch!
+@lodge_roof_clean=Так как я убрал листья, солнечные панели теперь поглощают весь падающий на них свет.
+@reel_blocked=Она застряла под огромной кучей бетона.
+@crane_collision=Система обнаружила столкновение.
+@crane_lifted=Я уже поднял всё, что нужно. Здесь работа закончена.
+@cs_leaver_no_power=Ничего не произошло. Нет электричества?
+@stormcatcher_already=Я уже подключил сюда Ловец Молний.
+@cs_cables_open=Сначала надо его открыть.
+@cs_cables_sparks=Воу... ай!
 
-@tutorial_wall_fail=Well, that did nothing.
-@tutorial_wall_head=I need to fix that hammer first.
+@tutorial_wall_fail=Ну, что ж... не сработало.
+@tutorial_wall_head=Сначала надо починить этот молот.
 
-@tutorial_wall_encounter1=I don't have time to walk around this wall.
-@tutorial_wall_encounter2=There's gotta be a faster way to get to the other side.
-@clock_not_yet=I should find a good place to fortify before I wait for the night.
+@tutorial_wall_encounter1=Нет времени обходить эту стену.
+@tutorial_wall_encounter2=Должен быть другой способ попасть на ту сторону.
+@clock_not_yet=Прежде чем дожидаться ночи, надо найти подходящее убежище.
 
-@pick_disc1=A floppy disk labeled "MEM BOOST". I have a strange feeling like ... déjà-vu? Like ... it's really important for some reason. I think I should keep that disk.
-@pick_disc2=A floppy disk labeled "PHASE CTRL LITE". I have no idea what it is ... yet, I feel it's really important. I definitely don't want to leave this thing behind... 
+@pick_disc1=Дискета с надписью "УСИЛИТЕЛЬ ПАМЯТИ". Странное ощущение, совсем как... дежавю? Почему-то... мне кажется, что она очень важна. Думаю, стоит взять её с собой.
+@pick_disc2=Дискета с надписью "МАЛЫЙ ФАЗОВЫЙ КОНТРОЛЬ". Понятия не имею, что это... пока что. Но я чувствую, что она очень важна. Уверен, её не стоит здесь оставлять... 
 
-@fan_broken_pick=Hmm ... something rustles inside this fan, like a bunch of loose screws or something. I think it's broken.
-@heater_broken_pick=Hmm ... something rustles inside this heater, like a bunch of loose screws or something. I think it's broken.
+@fan_broken_pick=Хм-м... что-то щёлкает внутри вентилятора, как будто у него внутри расшатались шурупы. Похоже, он сломан.
+@heater_broken_pick=Хм-м... что-то щёлкает внутри обогревателя, как будто у него внутри расшатались шурупы. Похоже, он сломан.
 
-@fan_broken=I don't want to plug it in. It's clearly in bad condition, and I don't want to get electrocuted. I should find a way to open it and see if it requires any repair.
-@heater_broken=I don't want to plug it in. It's clearly in bad condition, and I don't want to get electrocuted. I should find a way to open it and see if it requires any repair.
-@window_watersprayer=This is too flimsy to break the glass.
-@pipe_door=This is too wide to wedge between the door and the frame.
-@crowbar_door=I'd rather not destroy this door...
-@key_pesttruck=These house keys won't fit. I'll need to break it open.
-@key_lockers=These house keys won't fit here. I'll need to break it open.
-@foil_pipe=This won't make a tight enough seal.
-@pest_flamethrower=No, this would need a different type of fuel now.
-@pest2_flamethrower=Interesting idea, but I should find a way to spray this thing a lot more.
-@hammer_nails=I don't need to combine these. I'll just use both when the time comes.
-@cody_water_not_joined=He wants food, not water.
-@cody_coat_not_joined=He wants food, not fancy outfits.
-@cody_water_coat_unknown=I should talk to him and see what he's after first.
-@cody_intro_threat=I'm not going to threaten a kid. Maybe I can find a way around him.
-@foodcan_smash=That's going to crush it, not open it.
-@foodcan_crowbar=Alright, I know crowbars open a lot of things. But not this time.
-@foodcan_shovel=There's gotta be a better tool for that, seriously.
-@foodcan_key=Weird, this food can has no keyhole. ^I'm being sarcastic. It's not weird at all.
-@barry_threaten=He's deep in grief. What's the point in threatening him? I need to find something to make him want to carry on.
-@cody_give_rifle=Uh, no. Defending is one thing, but firing that gun would tear off his thin arms. Maybe if I find some other, smaller weapon...
-@barry_give_rifle=I think I need it more than he does. Maybe if I find some other weapon...
-@cord_plug_first=I should find somewhere to plug this extension cord in first before I hook it up.
-@dont_attack_spider=That would be a crazy thing to do. I see a rifle on the floor, but I won't be able to pick it up while that spider is in here...
-@restaurant_rope_pipe=I should use it with the clamp instead.
-@restaurant_rope_knife=I don't want to cut it up. What if I need a lot of it later?
-@barry_house_shovel=There's no point. The rest of the house is so destroyed. Anything beneath that was crushed.
-@window_jacket=This is too small to cover it. I need something bigger.
-@grave_cody=I'm sorry Cody. I'm so sorry.
-@grave_barry=I hope you're with your wife now...
+@fan_broken=Я не хочу его подключать. Он явно в плохом состоянии, а я не хочу, чтобы меня ударило током. Надо разобрать его и посмотреть, можно ли его починить.
+@heater_broken=Я не хочу его подключать. Он явно в плохом состоянии, а я не хочу, чтобы меня ударило током. Надо разобрать его и посмотреть, можно ли его починить.
+@window_watersprayer=Он слишком хлипкий, чтобы разбить стекло.
+@pipe_door=Её не получится просунуть в щель, она слишком широкая.
+@crowbar_door=Лучше не стоит ломать эту дверь...
+@key_pesttruck=Ключи от дома не подойдут. Надо вскрыть эти двери.
+@key_lockers=Ключи от дома не подойдут. Надо его вскрыть.
+@foil_pipe=Уплотнение будет недостаточно плотным.
+@pest_flamethrower=Нет, здесь понадобится другой вид топлива.
+@pest2_flamethrower=Любопытная мысль, но стоит найти метод распыления помощнее.
+@hammer_nails=Необязательно их объединять. Когда придёт время, я просто использую оба этих предмета.
+@cody_water_not_joined=Ему нужна еда, а не вода.
+@cody_coat_not_joined=Ему нужна еда, а не модные наряды.
+@cody_water_coat_unknown=Сначала надо поговорить с ним и узнать, что ему нужно.
+@cody_intro_threat=Я не стану угрожать ребёнку. Может, мне удастся обойти его.
+@foodcan_smash=Так я её только раздавлю, а не открою.
+@foodcan_crowbar=Так, ладно, знаю, что монтировкой можно много чего открыть. Но не в этот раз.
+@foodcan_shovel=Есть более подходящие для таких случаев инструменты, серьёзно.
+@foodcan_key=В консервах нету замочной скважины. Странно, правда? ^Это был сарказм. Вовсе не странно.
+@barry_threaten=У него большое горе. Какой смысл ему угрожать? Надо каким-то образом поставить его на ноги.
+@cody_give_rifle=Э-э, нет. Самозащита - это хорошо, но, выстрелив из винтовки, он оторвёт свои тонкие ручки. Но, может, мне удастся найти другое оружие, поменьше...?
+@barry_give_rifle=Думаю, мне оно нужно больше, чем ему. Но, может, мне удастся найти другое оружие...?
+@cord_plug_first=Прежде чем использовать удлинитель, надо его куда-нибудь подключить.
+@dont_attack_spider=Это было бы безумием. Там на полу лежит винтовка, но я не успею её подобрать, пока паук ещё там...
+@restaurant_rope_pipe=Лучше ослабить зажим с её помощью.
+@restaurant_rope_knife=Не стоит её разрезать. Что, если потом она мне понадобится целой?
+@barry_house_shovel=Это бессмысленно. Большая часть дома обрушилась, а вместе с ней всё остальное.
+@window_jacket=Куртка - слишком маленькая. Нужно найти что-нибудь побольше.
+@grave_cody=Прости меня, Коди. Прости меня.
+@grave_barry=Надеюсь, ты теперь со своей женой...
 
-@tiger_run=Run! Run away!
-@maggie_run=Run! Save yourself!
+@tiger_run=Беги! Скорей!
+@maggie_run=Убегай! Спасайся!
 
-@not_going_back=I'm not going back there...
-@house_lucid_book=It's a book titled "The Mysticism of Dreams".
+@not_going_back=Я туда не вернусь...
+@house_lucid_book=Книга под названием "Мистика Сновидений".
 
-@finger_start_cut=Well, maybe I'll take a finger for, err, for good luck? Or a fingerprint reader...?
-@finger_done_cut=It wasn't that bad. The body is pretty much mummified. Nevertheless, I don't want to do this ever again.
-@finger_why_cut=Why would I do that?
-@finger_already_cut=No.
+@finger_start_cut=Ну, может, взять палец... э-э... на счастье? Или, чтобы прислонить его к сканеру...?
+@finger_done_cut=Всё не так уж и плохо. Тело уже достаточно мумифицировалось. Тем не менее, больше я не хочу это повторять.
+@finger_why_cut=Зачем я это сделал?
+@finger_already_cut=Нет.
 
-@moon_console_disk1_inserted=I've inserted the "MEM BOOST" disk into Drive A. The computer reads it...
-@moon_console_disk2_inserted=I've inserted the "PHASE CTRL LITE" disk into Drive B. The computer reads it...
-@moon_console_disk_inserted=I hope this is going to make things better...
-@moon_console_disks_inserted=I have a memory of inserting a single disk into this console in a previous life. Maybe now ... with both disks in place ... things are going to be okay...?
-@moon_console_disk_locked=The console seems to be locked.
-@moon_console_disk_checked=Let me check the status before I start loading software into this.
-@moon_console_disk_no_power=I should restore the power first.
+@moon_console_disk1_inserted=Я вставил дискету "УСИЛИТЕЛЬ ПАМЯТИ" в Дисковод "A". Компьютер её считывает...
+@moon_console_disk2_inserted=Я вставил дискету "МАЛЫЙ ФАЗОВЫЙ КОНТРОЛЬ" в Дисковод "B". Компьютер её считывает...
+@moon_console_disk_inserted=Надеюсь, это хоть что-то исправит...
+@moon_console_disks_inserted=Я помню, как вставлял одну дискету в эту консоль в прошлой жизни. Может, теперь... раз уж я вставил оба диска... всё будет хорошо...?
+@moon_console_disk_locked=Консоль, похоже, заблокирована.
+@moon_console_disk_checked=Прежде чем загружать программное обеспечение в систему, надо проверить её состояние.
+@moon_console_disk_no_power=Сначала надо восстановить подачу электроэнергии.
 
-@too_dark=It's too dark to see anything...
-@find_base_first=Good idea. Digging ditches would help with the large amount of water pouring down from the sky, but first we have to go to the Sidereal Plexus office and locate the Outpost.
-@base_outside_could_dig=I could dig some ditches here to prepare for the incoming storm.
-@base_outside_already_dug=I've already dug the ditches.
-@base_outside_ditches=Ditches await the storm water.
-@after_rain_thing=This was really usefull during last night's storm.
+@too_dark=Слишком темно, ничего не видно...
+@find_base_first=Хорошая идея. Если вырыть канавы, они помогут нам избавиться от большого количества дождевой воды, но сначала надо попасть в офис "Сайдреал Плексус" и отыскать местоположение аванпоста.
+@base_outside_could_dig=Можно вырыть канавы, чтобы подготовиться к надвигающейся буре.
+@base_outside_already_dug=Я уже вырыл канавы.
+@base_outside_ditches=Канавы в ожидании воды.
+@after_rain_thing=Они нам очень помогли во время бури.
 
-@impregnator=The liquid in this can is dry and useless. Something has been covered with it though, as the lid was left open.
+@impregnator=Краска в банке давно высохла и никуда не годится. Хотя кто-то ею уже пользовался, но забыл надеть крышку.
 
-@ac_wrong_window=I'd better put it on the ground floor window.
-@lighting_rod_installed=I've installed a lighting rod.
-@lighting_rod_installed_already=I hope this lightning rod will protect us from the thunderstorm.
-@good_spot_for_a_lighting_rod=That would be a good spot to put a lighting rod, if I had one.
-@cover_too_small=It's too small to cover the helicopter...
-@helicopter_covered=I've put the tarp over the helicopter. It covers most of the hole.
-@helicopter_covered_already=The tarp covers most of the hole.
-@helicopter_duct_tape=I mean, I know this duct tape seems to be endless, but come on. I can't cover the entire hole with it.
-@helicopter_covered_taped=Now the tarp is held in place nicely.
-@helicopter_covered_taped_already=The tarp covers most of the hole. It is held by the duct tape.
-@heli_wrong_side=I should try to cover it from the outside.
-@heli_cant_fix_tape=There used to be this TV show where the guy could basically repair a helicopter with just some duct tape. I miss that show.
+@ac_wrong_window=Лучше установить его в окно на нижнем этаже.
+@lighting_rod_installed=Я установил громоотвод.
+@lighting_rod_installed_already=Надеюсь, этот громоотвод защитит нас от молний.
+@good_spot_for_a_lighting_rod=Неплохое место, чтобы установить громоотвод, если бы он у меня был.
+@cover_too_small=Не получится, покрытие слишком маленькое...
+@helicopter_covered=Я накрыл вертолёт брезентом. Большая часть дыры закрыта.
+@helicopter_covered_already=Брезент закрывает большую часть дыры.
+@helicopter_duct_tape=Серьёзно? Конечно, я понимаю, кажется, что скотч бесконечный, но... Я не смогу заклеить с его помощью всю дыру.
+@helicopter_covered_taped=Теперь брезент крепко держится.
+@helicopter_covered_taped_already=Брезент закрывает большую часть дыры. И он держится на скотче.
+@heli_wrong_side=Лучше попробовать накрыть его снаружи.
+@heli_cant_fix_tape=Помню было такое телешоу, где мужик фактически мог одним лишь скотчем починить вертолёт. Как же я скучаю по этому шоу.
 
-@day3_dream_stairs=Stairs...? This is new.
+@day3_dream_stairs=Лестница...? Что-то новенькое.
 
-@gun_cody_storm=No way.
-@gun_barry_storm=There's no need for that.
+@gun_cody_storm=Ни за что.
+@gun_barry_storm=В этом нет необходимости.
 
-@cs_pack=It's big and heavy ... and it's in the way.
-@cs_stormcatcher_installed=A Storm Catcher device is installed here.
-@cs_cable_box_open=Some electrical cables inside.
-@stormcatcher_already=I've already installed a Storm Catcher here.
-@cs_stormcatcher_placed=I've installed the Storm Catcher.
+@cs_pack=Большой, тяжёлый... и он мешает мне пройти.
+@cs_stormcatcher_installed=Здесь установлено устройство "Ловец Молний".
+@cs_cable_box_open=Внутри электрические кабели.
+@stormcatcher_already=Я уже установил здесь Ловец Молний.
+@cs_stormcatcher_placed=Я установил Ловец Молний.
 
-@no_roof=The roof is gone.
+@no_roof=Крыши больше нет.
 
-@crowbar_hatch=I wouldn't be able to pry it open anyway. I should just leave it for now.
-@key_hatch=There is no lock in that hatch. I think it might be jammed rather than locked. Nothing I can do about it for now.
-@paperclip_hatch=There is no lock to pick there. I think I should just leave it for now.
-@wrench_hatch=I wouldn't be able to smash it open anyway. I should just leave it for now.
-@outpost_hatch_shovel=It's a huge metal cover. Sand covering it is the least of my problems.
-@restaurant_trash_crowbar=This won't help me with pulling the container. I'm still not able to do it on my own.
-@ship_socket_power=This is a high-voltage socket. It's used for industrial tools only.
-@plates_throw=I need something that is smaller and easier to throw.
+@crowbar_hatch=Как ни крути, я не смогу его вскрыть. Оставлю-ка я его пока в покое.
+@key_hatch=На люке нет замка. Скорее всего, он не заперт, а просто застрял. Пока что я ничего не смогу сделать.
+@paperclip_hatch=Здесь нечего взламывать. Оставлю-ка я его пока в покое.
+@wrench_hatch=Как ни крути, я не смогу его пробить. Оставлю-ка я его пока в покое.
+@outpost_hatch_shovel=Это огромный металлический люк. Песок, под которым он находится, - меньшее из моих проблем.
+@restaurant_trash_crowbar=Это не поможет мне перетащить контейнер. И сам я всё ещё не справлюсь.
+@ship_socket_power=Это высоковольтная розетка. В неё подключают только промышленное оборудование.
+@plates_throw=Мне нужно что-то более миниатюрное и удобное для броска.
 
-@poision_watersprayer=Poison-sprayer would be the least effective weapon I could think of.
-@poision_whiskey=Wouldn't that be a crime? For all I know this could be the last bottle of whiskey on Earth.
-@poision_food=It's my food. Why would I poison it?
+@poision_watersprayer=Разбрызгиватель яда - самое неэффективное оружие, какое только можно себе представить.
+@poision_whiskey=Я так понимаю, это, возможно, последняя бутылка виски на Земле. Это же преступление.
+@poision_food=Это моя еда. Зачем мне её отравлять?
 
-@knife_dont_cut_it=I don't want to cut it.
-@drone_smash_it=The drone is already busted. No reason to further damage it.
-@not_broken=There is nothing wrong with it.
-@broken_hammer_pipe=It doesn't fit.
-@broken_hammer_tape=That won't work. I need a new handle for this hammer.
-@watersprayer_chem=I have to be able to spray much, much more than this would let me.
+@knife_dont_cut_it=Я не стану это разрезать.
+@drone_smash_it=Дрону итак крышка. Нет смысла его доламывать.
+@not_broken=Здесь всё в порядке.
+@broken_hammer_pipe=Не влезает.
+@broken_hammer_tape=Не сработает. Нужна новая рукоятка для этого молотка.
+@watersprayer_chem=Мне нужно быть распылить намного больше пестицидов, чем поместится в эту штуку.
 
-@dont_blow_up=Not really a fan of blowing myself up.
-@gasheater_fuel=This heater uses a propane tank, not liquid fuel...
-@no_molotov=Molotov cocktail? Maybe not? Knowing my luck I would blow myself up.
-@rather_door=I'd rather just use the front door this time.
+@dont_blow_up=Я не горю желанием себя подорвать.
+@gasheater_fuel=Этот обогреватель работает на пропане, не на жидком топливе...
+@no_molotov=Коктейль Молотова? А может, не надо? Зная, насколько я везуч, я скорее сам себя подорву.
+@rather_door=В этот раз я лучше просто воспользуюсь входной дверью.
