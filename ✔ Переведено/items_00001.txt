@@ -853,10 +853,10 @@
 @heater_broken_long=Устройство, которое выдувает горячий воздух при подключении к сети. Что-то гремит внутри. Возможно, устройство сломано.
 @heater_broken_prefix=
 
-@ext_cord_place_short=Гнездо удлинителя
+@ext_cord_place_short=Конец удлинителя
 @ext_cord_place_short_instrumental=
-@ext_cord_place_short_accusative=гнездо удлинителя
-@ext_cord_place_short_dative=гнезду удлинителя
+@ext_cord_place_short_accusative=конец удлинителя
+@ext_cord_place_short_dative=розетке удлинителя
 @ext_cord_place_long=Это розетка на конце удлинителя. Я могу подключить к ней какое-то электрическое устройство.
 @ext_cord_place_prefix=
 
@@ -951,11 +951,11 @@
 @puzzle_cable_long=Соединительный кабель.
 @puzzle_cable_prefix=
 
-@fire_hose_short=Короткий резиновый шланг
+@fire_hose_short=Пожарный шланг
 @fire_hose_short_instrumental=
-@fire_hose_short_accusative=короткий резиновый шланг
-@fire_hose_short_dative=короткому резиновому шлангу
-@fire_hose_long=Короткий резиновый шланг.
+@fire_hose_short_accusative=пожарный шланг
+@fire_hose_short_dative=пожарному шлангу
+@fire_hose_long=Пожарный шланг.
 @fire_hose_prefix=
 
 @sidereal_docs_short=Документ из факса
