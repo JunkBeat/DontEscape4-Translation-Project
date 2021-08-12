@@ -9,7 +9,7 @@
 * objects
 
 Переводятся:
-* actions
+* actions (Редактируется) 
 * dialogues
 * results
 
