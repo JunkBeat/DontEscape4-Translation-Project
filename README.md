@@ -6,10 +6,10 @@
 * world labels
 * journal
 * items
+* objects
 
 Переводятся:
 * actions
-* dialogues (Редактируется)
-* objects
+* dialogues
 * results
 
