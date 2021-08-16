@@ -257,10 +257,10 @@
 @charcoal_long=Мешок, полный угля.
 @charcoal_prefix=
 
-@charcoal_empty_short=Пустой мешок угля
+@charcoal_empty_short=Пустой бумажный мешок
 @charcoal_empty_short_instrumental=
-@charcoal_empty_short_accusative=пустой мешок угля
-@charcoal_empty_short_dative=пустому мешку угля
+@charcoal_empty_short_accusative=пустой бумажный мешок
+@charcoal_empty_short_dative=пустому бумажному мешку
 @charcoal_empty_long=До недавнего времени это был мешок с углём, но теперь кроме пыли и трухи в нём ничего не осталось.
 @charcoal_empty_prefix=
 
@@ -853,9 +853,9 @@
 @heater_broken_long=Устройство, которое выдувает горячий воздух при подключении к сети. Что-то гремит внутри. Возможно, устройство сломано.
 @heater_broken_prefix=
 
-@ext_cord_place_short=Конец удлинителя
+@ext_cord_place_short=Розеточный блок удлинителя
 @ext_cord_place_short_instrumental=
-@ext_cord_place_short_accusative=конец удлинителя
+@ext_cord_place_short_accusative=розеточный блок удлинителя
 @ext_cord_place_short_dative=розетке удлинителя
 @ext_cord_place_long=Это розетка на конце удлинителя. Я могу подключить к ней какое-то электрическое устройство.
 @ext_cord_place_prefix=

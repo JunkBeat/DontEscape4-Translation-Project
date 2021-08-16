@@ -73,8 +73,8 @@
 @up=+
 @down=-
 @percent=%
-@music=Музыка
-@sound=Звуки
+@music=Громкость музыки
+@sound=Громкость звуков
 @static=Эффект шума
 @text_speed=Скорость текста
 @close=Закрыть
@@ -142,7 +142,7 @@
 @credits_3=^^^^^^^^музыка^CHRIS CARLO“E
 @credits_4=^^^^^^^^издатель^ARMOR GAMES STUDIOS
 @credits_5=^^^^^^^^особенная благодарность ^ всем нашим друзьям и семьям ^ а также ^MARTA SAIFI
-@credits_6=^^^^ авторы русской локализации:^^перевод и тестирование^НUМА“ОID Е“ТIТ–^ARTIE BOW^^техническая часть^ARTIE BOW^^утилиты^DRAGO“#H
+@credits_6=^^^ авторы русской локализации:^^перевод и тестирование^НUМА“ОID Е“ТIТ–^ARTIE BOW^CallMeMike^^техническая часть^ARTIE BOW^^ утилиты^DRAGO“#H
 @credits_7=^^^^^^^^^Спасибо вам за игру!
 @credits_8=
 @credits_9=
