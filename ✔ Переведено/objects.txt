@@ -576,83 +576,112 @@
 @base_bathroom_exit_prefix=
 
 @base_chimney__short=Камин
+@base_chimney__short_accusative=камин
 @base_chimney__short_for_ext_cord_place=
 @base_chimney__short_dative=камину
 @base_chimney__long=Камин пустой и холодный.
 @base_chimney__prefix=
 
 @base_chimney_1_short=Камин
+@base_chimney_1_short_accusative=камин
 @base_chimney_1_short_for_ext_cord_place=
 @base_chimney_1_short_dative=камину
 @base_chimney_1_long=Камин с клочком бумаги внутри.
 @base_chimney_1_prefix=
+
 @base_chimney_2_short=Камин
+@base_chimney_2_short_accusative=камин
 @base_chimney_2_short_for_ext_cord_place=
 @base_chimney_2_short_dative=камину
 @base_chimney_2_long=Камин с пачкой наличных.
 @base_chimney_2_prefix=
+
 @base_chimney_3_short=Камин
+@base_chimney_3_short_accusative=камин
 @base_chimney_3_short_for_ext_cord_place=
 @base_chimney_3_short_dative=камину
 @base_chimney_3_long=Камин с кучей документов.
 @base_chimney_3_prefix=
+
 @base_chimney_4_short=Камин
+@base_chimney_4_short_accusative=камин
 @base_chimney_4_short_for_ext_cord_place=
 @base_chimney_4_short_dative=камину
 @base_chimney_4_long=Камин с пустым мешком угля.
 @base_chimney_4_prefix=
+
 @base_chimney_A_short=Камин
+@base_chimney_A_short_accusative=камин
 @base_chimney_A_short_for_ext_cord_place=
 @base_chimney_A_short_dative=камину
 @base_chimney_A_long=Камин с углём.
 @base_chimney_A_prefix=
+
 @base_chimney_B_short=Камин
+@base_chimney_B_short_accusative=камин
 @base_chimney_B_short_for_ext_cord_place=
 @base_chimney_B_short_dative=камину
 @base_chimney_B_long=Камин с деревянными досками.
 @base_chimney_B_prefix=
+
 @base_chimney_1A_short=Камин
+@base_chimney_1A_short_accusative=камин
 @base_chimney_1A_short_for_ext_cord_place=
 @base_chimney_1A_short_dative=камину
 @base_chimney_1A_long=Камин с углём и старой заметкой.
 @base_chimney_1A_prefix=
+
 @base_chimney_2A_short=Камин
+@base_chimney_2A_short_accusative=камин
 @base_chimney_2A_short_for_ext_cord_place=
 @base_chimney_2A_short_dative=камину
 @base_chimney_2A_long=Камин с углём и пачкой наличных.
 @base_chimney_2A_prefix=
+
 @base_chimney_3A_short=Камин
+@base_chimney_3A_short_accusative=камин
 @base_chimney_3A_short_for_ext_cord_place=
 @base_chimney_3A_short_dative=камину
 @base_chimney_3A_long=Камин с углём и стопкой документов.
 @base_chimney_3A_prefix=
+
 @base_chimney_4A_short=Камин
+@base_chimney_4A_short_accusative=камин
 @base_chimney_4A_short_for_ext_cord_place=
 @base_chimney_4A_short_dative=камину
 @base_chimney_4A_long=Камин с углём и пустым мешком угля.
 @base_chimney_4A_prefix=
+
 @base_chimney_1B_short=Камин
+@base_chimney_1B_short_accusative=камин
 @base_chimney_1B_short_for_ext_cord_place=
 @base_chimney_1B_short_dative=камину
 @base_chimney_1B_long=Камин с деревянными досками и старой заметкой.
 @base_chimney_1B_prefix=
+
 @base_chimney_2B_short=Камин
+@base_chimney_2B_short_accusative=камин
 @base_chimney_2B_short_for_ext_cord_place=
 @base_chimney_2B_short_dative=камину
 @base_chimney_2B_long=Камин с деревянными досками и пачкой наличных.
 @base_chimney_2B_prefix=
+
 @base_chimney_3B_short=Камин
+@base_chimney_3B_short_accusative=камин
 @base_chimney_3B_short_for_ext_cord_place=
 @base_chimney_3B_short_dative=камину
 @base_chimney_3B_long=Камин с деревянными досками и стопкой документов.
 @base_chimney_3B_prefix=
+
 @base_chimney_4B_short=Камин
+@base_chimney_4B_short_accusative=камин
 @base_chimney_4B_short_for_ext_cord_place=
 @base_chimney_4B_short_dative=камину
 @base_chimney_4B_long=Камин с деревянными досками и пустым мешком угля.
 @base_chimney_4B_prefix=
 
 @base_chimney_lit_short=Горящий камин
+@base_chimney_lit_short_accusative=горящий камин
 @base_chimney_lit_short_for_ext_cord_place=
 @base_chimney_lit_short_dative=горящему камину
 @base_chimney_lit_long=Яркое пламя весело танцует в камине. Тепло и приятно.
@@ -3061,13 +3090,13 @@
 @outpost_ship_air0_short=Круглые отверстия
 @outpost_ship_air0_short_for_ext_cord_place=
 @outpost_ship_air0_short_dative=круглым отверстиям
-@outpost_ship_air0_long=Круглые отверстия, подписанные как "Запасной воздух".
+@outpost_ship_air0_long=Круглые отверстия, подписанные как "Запасные воздушные баллоны".
 
 @outpost_ship_air1_prefix=
 @outpost_ship_air1_short=Установленные баллоны с воздухом
 @outpost_ship_air1_short_for_ext_cord_place=
 @outpost_ship_air1_short_dative=установленным баллонам с воздухом
-@outpost_ship_air1_long=Баллоны вставлены в отверстия, подписанные как "Запасной воздух".
+@outpost_ship_air1_long=Баллоны вставлены в отверстия, подписанные как "Запасные воздушные баллоны".
 
 @outpost_ship_calib0_prefix=
 @outpost_ship_calib0_short=Отсутствующая система
