@@ -26,8 +26,8 @@
 @map_rv_long=Машина для кемпинга, припаркованная в пустыне.
 @map_rv_prefix=
 
-@map_sidereal_short=Город - офис Sidereal Plexus
-@map_sidereal_long=Офисное здание корпорации Sidereal Plexus, размещённое среди руин некогда прекрасного города.
+@map_sidereal_short=Город - офис Сайдириал Плексус
+@map_sidereal_long=Офисное здание корпорации Сайдириал Плексус, размещённое среди руин некогда прекрасного города.
 @map_sidereal_prefix=
 
 @map_construction_short=Строительная площадка
@@ -39,11 +39,11 @@
 @map_hunters_prefix=
 
 @map_outpost_short=Космический форпост
-@map_outpost_long=Форпост Sidereal Plexus со стартовой площадкой для космического корабля...
+@map_outpost_long=Форпост Сайдириал Плексус со стартовой площадкой для космического корабля...
 @map_outpost_prefix=
 
 @map_bus_short=Разбитый автобус
-@map_bus_long=Автобус Sidereal Plexus.
+@map_bus_long=Автобус Сайдириал Плексус.
 @map_bus_prefix=
 
 @map_airplane_short=Самолёт

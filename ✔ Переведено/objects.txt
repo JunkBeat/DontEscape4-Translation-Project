@@ -2289,7 +2289,7 @@
 @sidereal_logo_short=Логотип
 @sidereal_logo_short_for_ext_cord_place=
 @sidereal_logo_short_dative=логотипу
-@sidereal_logo_long=Логотип Sidereal Plexus.
+@sidereal_logo_long=Логотип Сайдириал Плексус.
 @sidereal_logo_prefix=
 
 @sidereal_outside_back_short=Вернуться назад
@@ -2343,12 +2343,12 @@
 @sidereal_outside_door2_short=Проход
 @sidereal_outside_door2_short_for_ext_cord_place=
 @sidereal_outside_door2_short_dative=проходу в офис
-@sidereal_outside_door2_long=Проход в тёмные недры офисного здания Sidereal Plexus.
+@sidereal_outside_door2_long=Проход в тёмные недры офисного здания Сайдириал Плексус.
 @sidereal_outside_door2_prefix=
 
-@sidereal_outside_front_short=Офисное здание Sidereal Plexus
+@sidereal_outside_front_short=Офисное здание Сайдириал Плексус
 @sidereal_outside_front_short_for_ext_cord_place=
-@sidereal_outside_front_short_dative=офисному зданию Sidereal Plexus
+@sidereal_outside_front_short_dative=офисному зданию Сайдириал Плексус
 @sidereal_outside_front_long=Дорога к офисному зданию.
 @sidereal_outside_front_prefix=
 
@@ -3534,7 +3534,7 @@
 @moonbase1_short=Лунная база
 @moonbase1_short_for_ext_cord_place=
 @moonbase1_short_dative=лунной базе
-@moonbase1_long=Лунная база, собственность корпорации Sidereal Plexus.
+@moonbase1_long=Лунная база, собственность корпорации Сайдириал Плексус.
 
 @moon_airlock_control_prefix=
 @moon_airlock_control_short=Механизм управления шлюзом

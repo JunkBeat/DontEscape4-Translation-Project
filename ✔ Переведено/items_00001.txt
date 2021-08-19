@@ -962,35 +962,35 @@
 @sidereal_docs_short_instrumental=
 @sidereal_docs_short_accusative=документ
 @sidereal_docs_short_dative=документу
-@sidereal_docs_long=Бумаги, найденные в факсе в офисе Sidereal Plexus.
+@sidereal_docs_long=Бумаги, найденные в факсе в офисе Сайдириал Плексус.
 @sidereal_docs_prefix=
 
 @sidereal_xero_short=Документ из копировального аппарата
 @sidereal_xero_short_instrumental=
 @sidereal_xero_short_accusative=документ
 @sidereal_xero_short_dative=документу
-@sidereal_xero_long=Бумаги, найденные в копировальном аппарате в офисе Sidereal Plexus.
+@sidereal_xero_long=Бумаги, найденные в копировальном аппарате в офисе Сайдириал Плексус.
 @sidereal_xero_prefix=
 
 @sidereal_secrets_short=Конфиденциальный документ
 @sidereal_secrets_short_instrumental=
 @sidereal_secrets_short_accusative=конфиденциальный документ
 @sidereal_secrets_short_dative=конфиденциальному документу
-@sidereal_secrets_long=Бумаги, найденные в комнате за перекрытой дверью в офисе Sidereal office.
+@sidereal_secrets_long=Бумаги, найденные в комнате за перекрытой дверью в офисе Сайдириал.
 @sidereal_secrets_prefix=
 
 @sidereal_id_short=ID-карта
 @sidereal_id_short_instrumental=
 @sidereal_id_short_accusative=ID-карту
 @sidereal_id_short_dative=ID-карте
-@sidereal_id_long=ID-карта сотрудника Sidereal Plexus.
+@sidereal_id_long=ID-карта сотрудника Сайдириал Плексус.
 @sidereal_id_prefix=
 
 @sidereal_id_key_short=ID-карта
 @sidereal_id_key_short_instrumental=
 @sidereal_id_key_short_accusative=ID-карту
 @sidereal_id_key_short_dative=ID-карте
-@sidereal_id_key_long=ID-карта сотрудника Sidereal Plexus. Возможно, мне стоит взглянуть поближе?...
+@sidereal_id_key_long=ID-карта сотрудника Сайдириал Плексус. Возможно, мне стоит взглянуть поближе?...
 @sidereal_id_key_prefix=
 
 @revolver_0_short=Револьвер
@@ -1320,7 +1320,7 @@
 @fingerprint_short_instrumental=
 @fingerprint_short_accusative=отпечаток пальца
 @fingerprint_short_dative=отпечатку пальца
-@fingerprint_long=Отпечаток пальца одного из сотрудников Sidereal Plexus, сформированный на куске засохшего клея.
+@fingerprint_long=Отпечаток пальца одного из сотрудников Сайдириал Плексус, сформированный на куске засохшего клея.
 
 @key3_prefix=
 @key3_short=Ключ с ярлыком
