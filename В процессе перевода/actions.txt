@@ -791,7 +791,7 @@
 @crane_collision=Система обнаружила столкновение.
 @crane_lifted=Я уже поднял всё, что нужно. Здесь работа закончена.
 @cs_leaver_no_power=Ничего не произошло. Нет электричества?
-@stormcatcher_already=Я уже подключил сюда ловец бурь.
+@stormcatcher_already=Я уже подключил сюда ловец гроз.
 @cs_cables_open=Сначала надо его открыть.
 @cs_cables_sparks=Воу... ай!
 
@@ -886,10 +886,10 @@
 @gun_barry_storm=В этом нет необходимости.
 
 @cs_pack=Большой, тяжёлый... и он мешает мне пройти.
-@cs_stormcatcher_installed=Здесь установлено устройство "Ловец бурь".
+@cs_stormcatcher_installed=Здесь установлено устройство "Ловец гроз".
 @cs_cable_box_open=Внутри электрические кабели.
-@stormcatcher_already=Я уже установил здесь ловец бурь.
-@cs_stormcatcher_placed=Я установил ловец бурь.
+@stormcatcher_already=Я уже установил здесь ловец гроз.
+@cs_stormcatcher_placed=Я установил ловец гроз.
 
 @no_roof=Крыши больше нет.
 
