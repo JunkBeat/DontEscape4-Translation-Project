@@ -7,9 +7,9 @@
 * journal
 * items
 * objects
+* actions
 
-Переводятся:
-* actions (Редактируется) 
+Переводятся: 
 * dialogues
 * results
 
