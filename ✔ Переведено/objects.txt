@@ -144,7 +144,7 @@
 
 @tutorial_wall1_short=Дыра в стене
 @tutorial_wall1_short_for_ext_cord_place=
-@tutorial_wall1_short_dative=дыре в стене
+@tutorial_wall1_short_dative=стене
 @tutorial_wall1_long=Будь она побольше, я смог бы перебраться на другую сторону.
 @tutorial_wall1_prefix=
 
@@ -156,13 +156,13 @@
 
 @house_front_short=Левая сторона дома
 @house_front_short_for_ext_cord_place=
-@house_front_short_dative=левой стороне дома
+@house_front_short_dative=дороге, ведущей к левой стороне дома
 @house_front_long=Обойти дом слева.
 @house_front_prefix=
 
 @house_back_short=Правая сторона дома
 @house_back_short_for_ext_cord_place=
-@house_back_short_dative=правой стороне дома
+@house_back_short_dative=дороге, ведущей к правой стороне дома
 @house_back_long=Обойти дом справа.
 @house_back_prefix=
 
@@ -908,13 +908,13 @@
 @gas_truck_locked_prefix=
 @gas_truck_locked_short=Служба реагирования в чрезвычайных ситуациях
 @gas_truck_locked_short_for_ext_cord_place=
-@gas_truck_locked_short_dative=службе реагирования в чрезвычайных ситуациях
+@gas_truck_locked_short_dative=задним дверям грузовика
 @gas_truck_locked_long=Их грузовик явно не подлежит ремонту. И ещё, судя по виду, у него заперты задние двери.
 
 @pest_truck_locked_prefix=
 @pest_truck_locked_short=Служба по борьбе с вредителями
 @pest_truck_locked_short_for_ext_cord_place=
-@pest_truck_locked_short_dative=службе по борьбе с вредителями
+@pest_truck_locked_short_dative=задним дверям грузовика
 @pest_truck_locked_long=Их грузовик явно не подлежит ремонту. И ещё, судя по виду, у него заперты задние двери.
 
 @pesttruck_chem_1_prefix=
@@ -1026,16 +1026,16 @@
 @crashsite_bug_long=В отличие от других насекомых, это почти полностью уцелело.
 
 @crashsite_wrench_bugs_prefix=
-@crashsite_wrench_bugs_short=Разводной гаечный ключ
+@crashsite_wrench_bugs_short=Разводной ключ
 @crashsite_wrench_bugs_short_for_ext_cord_place=
-@crashsite_wrench_bugs_short_dative=разводному гаечному ключу
-@crashsite_wrench_bugs_long=С помощью этого ключа уничтожено много насекомых.
+@crashsite_wrench_bugs_short_dative=разводному ключу
+@crashsite_wrench_bugs_long=С помощью этого разводного ключа уничтожено много насекомых.
 
 @crashsite_wrench_spiders_prefix=
-@crashsite_wrench_spiders_short=Разводной гаечный ключ
+@crashsite_wrench_spiders_short=Разводной ключ
 @crashsite_wrench_spiders_short_for_ext_cord_place=
-@crashsite_wrench_spiders_short_dative=разводному гаечному ключу
-@crashsite_wrench_spiders_long=Этим ключом пытались убить пауков... но безуспешно.
+@crashsite_wrench_spiders_short_dative=разводному ключу
+@crashsite_wrench_spiders_long=Этим разводным ключом пытались убить пауков... но безуспешно.
 
 @crashsite_car_unexamined_short=Машина
 @crashsite_car_unexamined_short_for_ext_cord_place=
@@ -1074,9 +1074,9 @@
 @crashsite_body2_gas_long=В одном из карманов костюма лежит небольшая бумажка.
 
 @crashsite_wrench_gas_prefix=
-@crashsite_wrench_gas_short=Разводной гаечный ключ
+@crashsite_wrench_gas_short=Разводной ключ
 @crashsite_wrench_gas_short_for_ext_cord_place=
-@crashsite_wrench_gas_short_dative=разводному гаечному ключу
+@crashsite_wrench_gas_short_dative=разводному ключу
 @crashsite_wrench_gas_long=У разводного ключа много предназначений, но он оказался бессилен против смертоносного газового облака.
 
 @barn_console_stnd_by_prefix=
@@ -2294,7 +2294,7 @@
 
 @sidereal_outside_back_short=Вернуться назад
 @sidereal_outside_back_short_for_ext_cord_place=
-@sidereal_outside_back_short_dative=дороге назад
+@sidereal_outside_back_short_dative=дороге, ведущей назад
 @sidereal_outside_back_long=Вернуться назад.
 @sidereal_outside_back_prefix=
 
@@ -2330,7 +2330,7 @@
 
 @sidereal_dune2_short=Вернуться назад
 @sidereal_dune2_short_for_ext_cord_place=
-@sidereal_dune2_short_dative=дороге назад
+@sidereal_dune2_short_dative=дороге, ведущей назад
 @sidereal_dune2_long=Вернуться к лицевой стороне здания.
 @sidereal_dune2_prefix=
 
@@ -3011,14 +3011,14 @@
 @exit_wasteland_prefix=
 @exit_wasteland_short=Вернуться в пустыню
 @exit_wasteland_short_for_ext_cord_place=
-@exit_wasteland_short_dative=дороге назад
+@exit_wasteland_short_dative=дороге, ведущей назад
 @exit_wasteland_long=Вернуться в пустыню.
 
 @outpost_silo_far_prefix=
-@outpost_silo_far_short=Стартовая шахта
+@outpost_silo_far_short=Бункер
 @outpost_silo_far_short_for_ext_cord_place=
-@outpost_silo_far_short_dative=стартовой шахте
-@outpost_silo_far_long=Выглядит как стартовая шахта.
+@outpost_silo_far_short_dative=бункеру
+@outpost_silo_far_long=Выглядит как бункер.
 
 @outpost_base_far_prefix=
 @outpost_base_far_short=Форпост
