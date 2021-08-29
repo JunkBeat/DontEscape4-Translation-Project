@@ -944,7 +944,7 @@
 @pest_truck_prefix=
 @pest_truck_short=Служба по борьбе с вредителями
 @pest_truck_short_for_ext_cord_place=
-@pest_truck_short_dative=службе по борьбе с вредителями
+@pest_truck_short_dative=грузовику службы по борьбе с вредителями
 @pest_truck_long=Их грузовик явно не подлежит ремонту. Задние двери открыты.
 
 @pest_truck_spider_pest1_prefix=
@@ -974,7 +974,7 @@
 @gas_truck_prefix=
 @gas_truck_short=Служба реагирования в чрезвычайных ситуациях
 @gas_truck_short_for_ext_cord_place=
-@gas_truck_short_dative=службе реагирования в чрезвычайных ситуациях
+@gas_truck_short_dative=грузовику службы реагирования в чрезвычайных ситуациях
 @gas_truck_long=Их грузовик явно не подлежит ремонту. Задние двери открыты.
 
 @crashsite_tracks_prefix=
