@@ -403,6 +403,7 @@
 @lighter_short_instrumental=
 @lighter_short_accusative=зажигалку
 @lighter_short_dative=зажигалке
+@lighter_short_genitive=зажигалки
 @lighter_long=Она всё ещё работает.
 
 @chem_glass_prefix=
@@ -487,6 +488,7 @@
 @flamethrower_empty_short_instrumental=
 @flamethrower_empty_short_accusative=пустой огнемёт
 @flamethrower_empty_short_dative=пустому огнемёту
+@flamethrower_empty_short_genitive=пустого огнемёта
 @flamethrower_empty_long=Распылитель превратился в огнемёт. Не хватает лишь топлива.
 
 @flamethrower_prefix=
@@ -494,6 +496,7 @@
 @flamethrower_short_instrumental=огнемётом
 @flamethrower_short_accusative=огнемёт
 @flamethrower_short_dative=огнемёту
+@flamethrower_short_genitive=огнемёта
 @flamethrower_long=Распылитель превратился в огнемёт. Его можно использовать в качестве оружия. Лучше держать это при себе.
 
 @wad_of_cash_prefix=

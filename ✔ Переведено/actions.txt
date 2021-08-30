@@ -245,6 +245,8 @@
 @chimney_flamethrower_1=Зажигать камин огнемётом так весело.
 @chimney_flamethrower_2=Несмотря на то, что в нём нет топлива, зажигалка ещё работает.
 
+@put_charcoal=Я высыпал уголь
+
 @base_chimney_basket_plank=стопка сломанных деревянных досок
 @base_chimney_basket_planks=стопки сломанных деревянных досок
 
