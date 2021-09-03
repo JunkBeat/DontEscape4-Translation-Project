@@ -380,19 +380,19 @@
 @base_window_net_taped_short=Окно с приклеенной сеткой
 @base_window_net_taped_short_for_ext_cord_place=
 @base_window_net_taped_short_dative=окну с приклеенной сеткой
-@base_window_net_taped_long=Окно с сеткой, приклеенной скотчем к оконной раме. Честно говоря, конструкция очень непрочная.
+@base_window_net_taped_long=Окно с сеткой, прикреплённой скотчем к оконной раме. Честно говоря, конструкция очень непрочная.
 @base_window_net_taped_prefix=
 
 @base_window_foil_taped_short=Окно с приклеенной полиэтиленовой плёнкой
 @base_window_foil_taped_short_for_ext_cord_place=
 @base_window_foil_taped_short_dative=окну с приклеенной полиэтиленовой плёнкой
-@base_window_foil_taped_long=Окно с полиэтиленовой плёнкой, приклеенной скотчем к оконной раме. Выглядит более-менее герметично.
+@base_window_foil_taped_long=Окно с полиэтиленовой плёнкой, прикреплённой скотчем к оконной раме. Выглядит более-менее герметично.
 @base_window_foil_taped_prefix=
 
 @base_window_bars_taped_short=Окно с приклеенной металлической решёткой
 @base_window_bars_taped_short_for_ext_cord_place=
 @base_window_bars_taped_short_dative=окну с приклеенной металлической решёткой
-@base_window_bars_taped_long=Окно с металлической решёткой, приклеенной скотчем к оконной раме. Решётка довольно тяжёлая. Может быть, скотч - не лучшая идея...?
+@base_window_bars_taped_long=Окно с металлической решёткой, прикреплённой скотчем к оконной раме. Решётка довольно тяжёлая. Может быть, скотч - не лучшая идея...?
 @base_window_bars_taped_prefix=
 
 @base_window_net_nailed_short=Окно с прибитой сеткой
@@ -446,7 +446,7 @@
 @base_window_therm_taped_short=Окно с приклеенным термоодеялом
 @base_window_therm_taped_short_for_ext_cord_place=
 @base_window_therm_taped_short_dative=окну с приклеенным термоодеялом
-@base_window_therm_taped_long=Окно с термоодеялом, приклеенным скотчем к стене.
+@base_window_therm_taped_long=Окно с термоодеялом, прикреплённым скотчем к стене.
 @base_window_therm_taped_prefix=
 
 @base_window_therm_nailed_short=Окно с прибитым термоодеялом
@@ -470,7 +470,7 @@
 @base_window_blanket_taped_short=Окно с приклеенным одеялом
 @base_window_blanket_taped_short_for_ext_cord_place=
 @base_window_blanket_taped_short_dative=окну с приклеенным одеялом
-@base_window_blanket_taped_long=Окно с одеялом, приклеенным скотчем к стене.
+@base_window_blanket_taped_long=Окно с одеялом, прикреплённым скотчем к стене.
 @base_window_blanket_taped_prefix=
 
 @base_window_blanket_nailed_short=Окно с прибитым одеялом
@@ -494,7 +494,7 @@
 @base_window_blanketb_taped_short=Окно с приклеенным одеялом
 @base_window_blanketb_taped_short_for_ext_cord_place=
 @base_window_blanketb_taped_short_dative=окну с приклеенным одеялом
-@base_window_blanketb_taped_long=Окно с одеялом, приклеенным скотчем к стене.
+@base_window_blanketb_taped_long=Окно с одеялом, прикреплённым скотчем к стене.
 @base_window_blanketb_taped_prefix=
 
 @base_window_blanketb_nailed_short=Окно с прибитым одеялом
@@ -518,7 +518,7 @@
 @base_window_flag_taped_short=Окно с приклеенным флагом
 @base_window_flag_taped_short_for_ext_cord_place=
 @base_window_flag_taped_short_dative=окну с приклеенным флагом
-@base_window_flag_taped_long=Окно с флагом, приклеенным скотчем к стене.
+@base_window_flag_taped_long=Окно с флагом, прикреплённым скотчем к стене.
 @base_window_flag_taped_prefix=
 
 @base_window_flag_nailed_short=Окно с прибитым флагом
@@ -542,7 +542,7 @@
 @base_window_board_taped_short=Окно с приклеенной фанерой
 @base_window_board_taped_short_for_ext_cord_place=
 @base_window_board_taped_short_dative=окну с приклеенной фанерой
-@base_window_board_taped_long=Окно с фанерой, приклеенной скотчем к стене.
+@base_window_board_taped_long=Окно с фанерой, прикреплённой скотчем к стене.
 @base_window_board_taped_prefix=
 
 @base_window_board_nailed_short=Окно с прибитой фанерой
@@ -1236,7 +1236,7 @@
 @gasstation_cash_long=Кто-то украл деньги из кассы, выронив несколько банкнот.
 
 @gasstation_crowbar_prefix=
-@gasstation_crowbar_short=Лом застрял в кассовом аппарате
+@gasstation_crowbar_short=Лом, застрявший в кассовом аппарате
 @gasstation_crowbar_short_for_ext_cord_place=
 @gasstation_crowbar_short_dative=лому, застрявшему в кассовом аппарате
 @gasstation_crowbar_long=Кто-то разломал кассовый аппарат при помощи лома. Похоже, лом застрял в трещине.
