@@ -1,129 +1,129 @@
-@bugs_intro=Вечернее небо потемнело с появлением чёрного роя насекомых...
-@bugs_house=Вы спрятались в заброшенном фермерском доме..
-@bugs_no_house=Не найдя хорошего убежища, вы не смогли пережить эту атаку.
+@bugs_intro=The evening sky darkened as a black cloud of the swarm arrived...
+@bugs_house=You found a hiding place in an abandoned farm house..
+@bugs_no_house=They caught you in the middle of nowhere. There was no chance to survive that.
 
-@bugs_sufix=насекомых
+@bugs_sufix=insects
 
-@bugs_sprinklers_on=Автоматическая система орошения пришла в действие с приближением роя.
+@bugs_sprinklers_on=An automated sprinkler system kicked in as the swarm was getting near.
 
-@sprinklers_0%=Но что-то пошло не так...Вода совсем не распылялась.
-@sprinklers_25%=Она сработала не так, как ожидалось. Всего лишь несколько капель наполнили воздух.
-@sprinklers_50%=Не самое эффективное решение, но хотя бы половина разбрызгивателей сработала.
-@sprinklers_75%=Она работала на удивление неплохо. Большинство разбрызгивателей заполнили вечернее небо водой.
-@sprinklers_100%=Несмотря на все неисправности, разбрызгиватели сработали превосходно, полностью заполняя воздух над полями плотным туманом.
+@sprinklers_0%=Something was wrong though ... No water sprayed into the air.
+@sprinklers_25%=It didn't work very well. Only a little water sprayed into the air.
+@sprinklers_50%=It wasn't very efficient, but at least half of the sprinklers sprayed the evening sky with water.
+@sprinklers_75%=It was working surprisingly well. Most of the sprinklers sprayed water into the air.
+@sprinklers_100%=Despite being old and faulty, the sprinklers worked perfectly, fully covering the air above the fields with a dense mist.
 
-@bugs_sprinklers_pest1=В поступающую воду был добавлен сильный пестицид, делая водную преграду ещё более опасной для надвигающегося роя.
-@bugs_sprinklers_pest2=Вода была наполнена сильным пестицидом. Для надвигающегося роя ядовитый туман представлял смертельную преграду.
-@bugs_sprinklers_result1=Как результат,
-@bugs_sprinklers_result2=насекомых было остановлено разбрызгивателями.
-@bugs_sprinklers_result1b=Пестицид убил
-@bugs_sprinklers_result2b=насекомых.
+@bugs_sprinklers_pest1=There was a strong pesticide mixed with the water, making this wall of water more dangerous to the incoming swarm.
+@bugs_sprinklers_pest2=The water was saturated with strong pesticide. For the incoming swarm it was a deadly wall of poisonous mist.
+@bugs_sprinklers_result1=As a result,
+@bugs_sprinklers_result2=insects were stopped by the sprinklers.
+@bugs_sprinklers_result1b=The pesticide has killed
+@bugs_sprinklers_result2b=insects.
 
-@bugs_sonic_on=Вы установили ультразвуковое поражающее устройство, чтобы отогнать насекомых.
-@bugs_sonic_location_OK=Сигнал был сильным, поскольку устройство находилось вблизи вашего убежища.
-@bugs_sonic_location_wrong=Однако вы разместили его слишком далеко от убежища, поэтому он не повлиял на ход событий.
-@bugs_sonic_location_inside=Вы разместили его в своём убежище. Стены, вероятно, ослабили сигнал.
-@bugs_sonic_frequency_wrong1=Устройство было установлено на неправильную частоту, только
-@bugs_sonic_frequency_wrong2=насекомых было отпугнуто.
-@bugs_sonic_result1=Устройство было установлено на правильную частоту, успешно отпугнув
-@bugs_sonic_result2=насекомых.
+@bugs_sonic_on=You deployed the Sonic Repellent Device to fend off some of the insects.
+@bugs_sonic_location_OK=It was placed near your hideout, so the signal was strong.
+@bugs_sonic_location_wrong=However, it was placed too far from the hideout, having no effect at all.
+@bugs_sonic_location_inside=It was placed inside the hideout. The walls probably weakened the signal.
+@bugs_sonic_frequency_wrong1=The device seemed to be set to the wrong frequency, only
+@bugs_sonic_frequency_wrong2=insects were scared off.
+@bugs_sonic_result1=The device seemed to be set to the correct frequency, fending off
+@bugs_sonic_result2=insects.
 
-@bugs_door1_closed1=Входная дверь была закрыта, не давая
-@bugs_door1_closed2=насекомым попасть внутрь.
-@bugs_door1_open=Входная дверь была открыта, и часть насекомых пробралась внутрь...
+@bugs_door1_closed1=The front door was closed, keeping away all of the
+@bugs_door1_closed2=locusts that would have entered through it.
+@bugs_door1_open=The front door was wide open, letting some insects in...
 
-@bugs_door2_closed1=Задняя дверь была закрыта, не давая
-@bugs_door2_closed2=насекомым попасть внутрь.
-@bugs_door2_open=Задняя дверь была открыта, и часть насекомых пробралась внутрь...
+@bugs_door2_closed1=The back door was closed, keeping away all of the
+@bugs_door2_closed2=locusts that would have entered through it.
+@bugs_door2_open=The back door was wide open, letting some insects in...
 
-@window1_open=Окно на первом этаже было никак не забаррикадировано.
-@window1_bars=Окно на первом этаже было укреплено металлическими прутьями.
-@window1_foil=Окно на первом этаже было накрыто пластиковой пленкой.
-@window1_net=Окно на первом этаже было накрыто прочной сеткой.
-@window1_board=Окно на первом этаже было забаррикадировано фанерой.
+@window1_open=The window on the ground floor was not blocked at all.
+@window1_bars=The window on the ground floor was reinforced with metal bars.
+@window1_foil=The window on the ground floor was covered with plastic wrap.
+@window1_net=The window on the ground floor was covered with a strong net.
+@window1_board=The window on the ground floor was covered with a sealed board.
 
-@window2_open=Окно на верхнем этаже было никак не забаррикадировано.
-@window2_bars=Окно на верхнем этаже было укреплено металлическими прутьями.
-@window2_foil=Окно на верхнем этаже было накрыто пластиковой пленкой.
-@window2_net=Окно на верхнем этаже было накрыто прочной сеткой.
-@window2_board=Окно на верхнем этаже было забаррикадировано фанерой.
+@window2_open=The window on the upper floor was not blocked at all.
+@window2_bars=The window on the upper floor was reinforced with metal bars
+@window2_foil=The window on the upper floor was covered with plastic wrap.
+@window2_net=The window on the upper floor was covered with a strong net.
+@window2_board=The window on the upper floor was covered with a sealed board.
 
-@window3_open=Окно в ванной было никак не забаррикадировано.
-@window3_bars=Окно в ванной было укреплено металлическими прутьями.
-@window3_foil=Окно в ванной было накрыто пластиковой пленкой.
-@window3_net=Окно в ванной было накрыто прочной сеткой.
-@window3_board=Окно в ванной было забаррикадировано фанерой.
+@window3_open=The bathroom window was not blocked at all.
+@window3_bars=The bathroom window was reinforced with metal bars
+@window3_foil=The bathroom window was covered with plastic wrap.
+@window3_net=The bathroom window was covered with a strong net.
+@window3_board=The bathroom window was covered with a sealed board.
 
-@window_broken_barricade=Остатки прошлой баррикады ничем не помогли.
-@bars_none=Однако металлические прутья были ничем не закреплены.
-@bars_taped=Металлические прутья были закреплены с помощью большого количества скотча.
-@bars_nailed=Металлические прутья были закреплены с помощью гвоздей.
-@bars_taped_nailed=Металлические прутья были закреплены с помощью большого количества скотча и гвоздей.
+@window_broken_barricade=The remains of a previous barricade didn't help at all.
+@bars_none=The bars, however, were not attached to the frame in any way.
+@bars_taped=The bars were attached to the frame with a lot of duct tape.
+@bars_nailed=The bars were nailed to the frame.
+@bars_taped_nailed=The bars were attached to the frame with a lot of duct tape and nails.
 
-@board_none=Однако листы фанеры были ничем не закреплены.
-@board_taped=Листы фанеры были закреплены с помощью большого количества скотча.
-@board_nailed=Листы фанеры были закреплены с помощью гвоздей.
-@board_taped_nailed=Листы фанеры были закреплены с помощью большого количества скотча и гвоздей.
+@board_none=The board, however, was not attached to the frame in any way.
+@board_taped=The board was attached to the frame with a lot of duct tape.
+@board_nailed=The board was nailed to the frame.
+@board_taped_nailed=The board was attached to the frame with a lot of duct tape and nails.
 
-@net_none=Однако сетка была ничем не закреплена.
-@net_taped=Сетка была прикреплена к окну с помощью большого количества скотча.
-@net_nailed=Сетка была прикреплена к окну с помощью гвоздей.
-@net_taped_nailed=Сетка была прикреплена к окну с помощью большого количества скотча и гвоздей.
+@net_none=The net, however, was not attached to the frame in any way.
+@net_taped=The net was attached to the frame with a lot of duct tape.
+@net_nailed=The net was nailed to the frame.
+@net_taped_nailed=The net was attached to the frame with a lot of duct tape and nails.
 
-@foil_none=Однако, плёнка была ничем не закреплена.
-@foil_taped=Плёнка была прикреплена к окну с помощью большого количества скотча.
-@foil_nailed=Плёнка была прикреплена к окну с помощью гвоздей.
-@foil_taped_nailed=Плёнка была прикреплена к окну с помощью большого количества скотча и гвоздей.
+@foil_none=The foil, however, was not attached to the frame in any way.
+@foil_taped=The foil was attached to the frame with a lot of duct tape.
+@foil_nailed=The foil was nailed to the frame.
+@foil_taped_nailed=The foil was attached to the frame with a lot of duct tape and nails.
 
-@bugs_window_result1=Из 
-@bugs_window_result2=насекомых, что пытались попасть в дом через окно,
-@bugs_window_result3=было остановлено.
+@bugs_window_result1=Out of
+@bugs_window_result2=insects that tried to enter the house through that window,
+@bugs_window_result3=were stopped.
 
-@bugs_enter1=Они попали внутрь...
-@bugs_enter2=насекомых пробралось в дом.
+@bugs_enter1=They got in...
+@bugs_enter2=insects entered the house.
 
-@bugs_flamethrower1=При себе у тебя был твой самодельный огнемёт, готовый к нашествию роя. Саранча загорелась и
-@bugs_flamethrower2=насекомых погибло.
+@bugs_flamethrower1=You had your homemade flamethrower ready as the swarm entered your room. Flames burst out at the locust, frying
+@bugs_flamethrower2=insects.
 
-@bugs_spray1=При себе у тебя был спрей от насекомых. Удивительно, но он сработал. Некоторые насекомые погибли при контакте со смертельной жидкостью. Погибло
-@bugs_spray2=насекомых.
+@bugs_spray1=You had bug spray to defend yourself. Surprisingly, it worked. Some of the incoming insects died from direct contact with the fluid. It killed
+@bugs_spray2=insects.
 
-@bugs_bath1=Ты прятался в ванной, полной воды, ожидая, и дыша через маленькую трубочку. Насекомые пытались добраться до тебя, падая в воду.
-@bugs_bath2=насекомых успели утонуть прежде чем заполнить всю ванную, и тебе пришлось отступить.
+@bugs_bath1=You were hiding in the bathtub filled with water, waiting, breathing through a tiny straw. Insects were persistent on getting you, falling into the water.
+@bugs_bath2=of them drowned before the bathtub was completely filled with them, forcing you out.
 
-@bugs_fight_fists1=Твои кулаки были последней линией обороны. Тебе удалось расплющить
-@bugs_fight_fists2=насекомых своими голыми руками.
+@bugs_fight_fists1=Your fists were your last line of defense. You managed to knock down
+@bugs_fight_fists2=insects with your bare hands.
 
-@bugs_fight_wrench1=Разводной ключ стал последней линией обороны. Тебе удалось расплющить
-@bugs_fight_wrench2=насекомых с его помощью.
+@bugs_fight_wrench1=A wrench was your last line of defense. You managed to knock down
+@bugs_fight_wrench2=insects with it.
 
-@bugs_fight_crowbar1=Монтировка стала последней линией обороны. Тебе удалось расплющить
-@bugs_fight_crowbar2=насекомых.
+@bugs_fight_crowbar1=A crowbar was your last line of defense. You managed to knock down
+@bugs_fight_crowbar2=insects with it.
 
-@bugs_fight_pipe1=Короткая металлическая труба стала последней линией обороны. Тебе удалось расплющить
-@bugs_fight_pipe2=насекомых.
+@bugs_fight_pipe1=A short metal pipe was your last line of defense. You managed to knock down
+@bugs_fight_pipe2=insects with it.
 
-@bugs_fight_rifle1=Винтовка стала последней последней линией обороны. Большая часть выстрелов прошли мимо, но после использования винтовки в качестве дубинки, тебе удалось расплющить
-@bugs_fight_rifle2=насекомых.
+@bugs_fight_rifle1=A loaded rifle was your last line of defense. You missed most of the shots, but after using the weapon as a mace, you managed to knock down
+@bugs_fight_rifle2=insects with it.
 
-@gas_intro=Вечернее небо затмило надвигающееся облако смертельного газа...
-@gas_house=Ты нашёл убежище в заброшенном доме на ферме...
-@gas_no_house=Он застал тебя врасплох. Шансов выжить у тебя не было...
+@gas_intro=The evening sky darkened when the toxic cloud of deadly gas arrived...
+@gas_house=You found a hiding place in an abandoned farmhouse..
+@gas_no_house=It caught you in the middle of nowhere. There was no chance to survive.
 
 @gas_sufix=%
 
-@gas_sprinklers_on=Автоматические распрыскиватели включились как только облако стало приближаться.
-@gas_sprinklers_chem_good=Вода, смешанная с сильным нейтрализатором, кажется подействовала...
-@gas_sprinklers_chem_bad=В воде был сильный химический раствор, но, похоже, он ничем не помог...
-@gas_sprinklers_result1=Вода стала преградой, остановив
-@gas_sprinklers_result2=% газа.
-@gas_sprinklers_result1b=Нейтрализующий раствор остановил
-@gas_sprinklers_result2b=% chmury toksyn.
+@gas_sprinklers_on=An automated sprinkler system kicked in as the cloud was getting near.
+@gas_sprinklers_chem_good=There was a strong neutralizer mixed with the water, and it seemed to be working...
+@gas_sprinklers_chem_bad=There was a strong chemical solution mixed with the water, but it didn't seem to be doing anything...
+@gas_sprinklers_result1=The water acted as a natural wall, stopping
+@gas_sprinklers_result2=% of the gas.
+@gas_sprinklers_result1b=The neutralizing solution stopped
+@gas_sprinklers_result2b=% of the initial cloud.
 
-@gas_door1_closed1=Входная дверь была закрыта, однако не полностью воздухонепроницаема. Она остановила
-@gas_door1_closed2=% газа.
-@gas_door1_closed1T=Входная дверь была закрыта, и щель под ней была заткнута полотенцем, останавливая
-@gas_door1_closed2T=% газа
+@gas_door1_closed1=The front door was closed, however it was not airtight. It stopped
+@gas_door1_closed2=% of the cloud.
+@gas_door1_closed1T=The front door was closed, and the crack under it was covered with a towel, stopping
+@gas_door1_closed2T=% of the cloud.
 @gas_door1_open=The front door was wide open, letting the gas in...
 
 @gas_door2_closed1=The back door was closed, however it was not airtight. It stopped
@@ -821,15 +821,15 @@
 @r_d4_no_fuel_bad=An explosion lit up the sky, only to quickly disappear. Soon there were much bigger explosions all around the globe.
 @r_d4_no_air_bad=There just wasn't enough air on board...
 
-@r_d4_no_fuel1="Чёрт. Дела плохи," сказала Кейт.
-@r_d4_no_fuel2="Топливо на исходе, а нам ещё нужно совершить посадку."
-@r_d4_no_fuel3="А этого не хватит?" вы спросили, указывая на один из индикаторов.
-@r_d4_no_fuel4="Это для снижения скорости во время посадки," объяснила она.
-@r_d4_no_fuel5="Но я не думаю, что у нас есть выбор. Придётся садиться на высоких скоростях."
-@r_d4_no_fuel6="Держитесь."
+@r_d4_no_fuel1="Damn. It's not looking good," said Cate.
+@r_d4_no_fuel2="We're almost out of fuel, and we still have to maneuver to land."
+@r_d4_no_fuel3="What's this reserve?" you asked, pointing at one of the gauges.
+@r_d4_no_fuel4="It's for slowing down before the descent," she explained.
+@r_d4_no_fuel5="But I don't think we have another option. We'll be going in too fast."
+@r_d4_no_fuel6="So hang on to something."
 
-@day4_normal=Вы долетели до орбиты, а оттуда до Луны оставалось всего ничего. ^Кейт направила корабль к лунной базе...
-@day4_penalty=Вы долетели до орбиты, а оттуда до Луны оставалось всего ничего. ^Однако Кейт пришлось управлять кораблём на слишком высоких скоростях. ^Посадка будет не из приятных...
-@day4_death=По крайней мере, смерть оказалась быстрой. ^Возможно, что-то могло бы предотвратить такой исход...?
+@day4_normal=You made it to orbit and, from there, it was surprisingly a short way to the Moon. ^Cate flew the ship towards the lunar base...
+@day4_penalty=You made it to orbit and, from there, it was surprisingly a short way to the Moon. ^However, Cate had to fly the ship much faster than expected. ^You were coming in too fast...
+@day4_death=At least the death was swift. ^Maybe there was something that could have been done to prevent it...?
 
-@results_end=Нажмите, чтобы узнать итоги...
+@results_end=Click to view the summary...
