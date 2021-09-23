@@ -1212,9 +1212,9 @@
 @gasstation_bars_long=Тяжёлая решётчатая рама.
 
 @gasstation_tank_canister_full_prefix=
-@gasstation_tank_canister_full_short=Топливные клапаны над полной канистрой
+@gasstation_tank_canister_full_short=Полная канистра
 @gasstation_tank_canister_full_short_for_ext_cord_place=
-@gasstation_tank_canister_full_short_dative=топливным клапанам над полной канистрой
+@gasstation_tank_canister_full_short_dative=полной канистре
 @gasstation_tank_canister_full_long=Канистра, полная топлива, находится прямо под топливными клапанами.
 
 @gasstation_tank_canister_prefix=
