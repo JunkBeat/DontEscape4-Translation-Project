@@ -30,8 +30,8 @@
 @ginger_intro_dejavu_2_b=Что? Нет. В смысле...
 @ginger_intro_dejavu_3_b=М-да, как-то неловко.
 @ginger_intro_dejavu_4_a=Ага.
-@ginger_intro_dejavu_5_b=Может, мы встречались в одном поезде или автобусе, в прежние времена?
-@ginger_intro_dejavu_6_b=Или около того.
+@ginger_intro_dejavu_5_b=Может, мы встречались в одном поезде или автобусе в прежние времена?
+@ginger_intro_dejavu_6_b=Или вроде того.
 @ginger_intro_dejavu_7_a=Нет, что-то другое...
 @ginger_intro_dejavu_8_b=Ну... ладно, проехали.
 
@@ -106,7 +106,7 @@
 
 @ginger_spaceship_caption=Корабль
 @ginger_spaceship_1_a=Что это за корабль такой?
-@ginger_spaceship_2_a=Типа, он как огромная межзвёздная тарелка? Как в фильмах?
+@ginger_spaceship_2_a=Типа, огромная межзвёздная тарелка? Как в фильмах?
 @ginger_spaceship_3_b=Ничего подобного.
 @ginger_spaceship_4_b=Это небольшой корабль, способный лишь выйти на Земную орбиту.
 @ginger_spaceship_5_b=Но большего нам и не требуется.
@@ -995,7 +995,7 @@
 @npc3_give_gun_6_a=Он должен уметь обороняться, Кейт.
 @npc3_give_gun_7_c=Ну да...
 @npc3_give_gun_8_c=Но он хоть умеет им пользоваться?
-@npc3_give_gun_9_b=Я знаю, где находится курок. Видел в боевиках!
+@npc3_give_gun_9_b=Я знаю, где находится спусковой крючок. Видел в боевиках!
 @npc3_give_gun_10_a=Этого будет маловато для самообороны, Коди.
 @npc3_give_gun_11_a=Но я тебя научу.
 @npc3_give_gun_12_a=У тебя ещё есть та консервная банка, которую я дал тебе в ресторане?
@@ -4855,7 +4855,7 @@
 @dialogue_cody_killed_bandit_5_a=Наверное, это... напугало тебя.
 @dialogue_cody_killed_bandit_6_c=Я не хочу об этом говорить.
 @dialogue_cody_killed_bandit_7_c=Ты сам показал мне, как это сделать.
-@dialogue_cody_killed_bandit_8_c=Как жать на курок. Попутно сдерживая дыхание.
+@dialogue_cody_killed_bandit_8_c=Как жать на спусковой крючок. Попутно сдерживая дыхание.
 @dialogue_cody_killed_bandit_9_c=Вот я так и сделал.
 @dialogue_cody_killed_bandit_10_a=Да, именно. И ты молодец... ты помог нам.
 @dialogue_cody_killed_bandit_11_a=Прости меня. Не стоило мне требовать от тебя подобное.
