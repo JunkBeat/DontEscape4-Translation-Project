@@ -13,7 +13,7 @@
 @npc_cathy_short=Кэтрин
 @npc_cathy_short_for_ext_cord_place=
 @npc_cathy_short_dative=Кэтрин
-@npc_cathy_long=Кэтрин. Но если коротко - Кейт.
+@npc_cathy_long=Кэтрин. Но если коротко — Кейт.
 @npc_cathy_prefix=
 
 @npc_mourning_short=Поникший мужчина
@@ -392,7 +392,7 @@
 @base_window_bars_taped_short=Окно с приклеенной металлической решёткой
 @base_window_bars_taped_short_for_ext_cord_place=
 @base_window_bars_taped_short_dative=окну с приклеенной металлической решёткой
-@base_window_bars_taped_long=Окно с металлической решёткой, прикреплённой скотчем к оконной раме. Решётка довольно тяжёлая. Может быть, скотч - не лучшая идея...?
+@base_window_bars_taped_long=Окно с металлической решёткой, прикреплённой скотчем к оконной раме. Решётка довольно тяжёлая. Может быть, скотч — не лучшая идея...?
 @base_window_bars_taped_prefix=
 
 @base_window_net_nailed_short=Окно с прибитой сеткой
@@ -1155,13 +1155,13 @@
 @bridge_carwreck_wheel_short=Перевёрнутый автомобиль
 @bridge_carwreck_wheel_short_for_ext_cord_place=
 @bridge_carwreck_wheel_short_dative=перевёрнутому автомобилю
-@bridge_carwreck_wheel_long=Эта машина определённо знавала деньки и получше. Единственное, что я могу вытащить из неё - это колесо.
+@bridge_carwreck_wheel_long=Эта машина определённо знавала деньки и получше. Единственное, что я могу вытащить из неё — это колесо.
 
 @bridge_planks_prefix=
 @bridge_planks_short=Куча досок
 @bridge_planks_short_for_ext_cord_place=
 @bridge_planks_short_dative=куче досок
-@bridge_planks_long=Эти доски могут оказаться полезными, но, к сожалению, они слишком большие и тяжёлые, так что у меня не получится унести их отсюда. Единственное, что я могу с ними сделать - это применить поблизости.
+@bridge_planks_long=Эти доски могут оказаться полезными, но, к сожалению, они слишком большие и тяжёлые, так что у меня не получится унести их отсюда. Единственное, что я могу с ними сделать — это применить поблизости.
 
 @bridge_ravine_prefix=
 @bridge_ravine_short=Овраг
@@ -3126,7 +3126,7 @@
 @outpost_ship_crack_in_short=Опасная трещина
 @outpost_ship_crack_in_short_for_ext_cord_place=
 @outpost_ship_crack_in_short_dative=опасной трещине
-@outpost_ship_crack_in_long=Трещина - это серьёзный повод для беспокойства, особенно если это трещина в корпусе космического корабля.
+@outpost_ship_crack_in_long=Трещина — это серьёзный повод для беспокойства, особенно если это трещина в корпусе космического корабля.
 
 @outpost_ship_crack_in_welded_prefix=
 @outpost_ship_crack_in_welded_short=Металлическая пластина, приваренная к корпусу корабля
