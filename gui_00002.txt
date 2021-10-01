@@ -81,7 +81,7 @@
 @text_speed=Скорость текста
 @close=Закрыть
 @intro_1=ARMOR GAMES STUDIOS^представляет
-@intro_2=игра авторства^MATEUS# "SCRIPTWELDER" SO’ALS#C#U’
+@intro_2=игра авторства^MATEUS# “SCRIPTWELDER” SO’ALS#C#U’
 @intro_4=музыка^CHRIS CARLO“E
 @intro_3=дополнительный сценарий^и оформление^GR#EGOR# GRABS’I
 @drop_long=Вы можете выложить любой предмет из инвентаря, переместив его сюда.
@@ -139,7 +139,7 @@
 @fuel_used2=топлива
 @not_enough_fuel=Не хватает топлива!
 
-@credits_1=^^^^^^^^создатель игры^MATEUS# "SCRIPTWELDER" SO’ALS#C#U’
+@credits_1=^^^^^^^^создатель игры^MATEUS# “SCRIPTWELDER” SO’ALS#C#U’
 @credits_2=^^^^^^^^дополнительный сценарий^и оформление^GR#EGOR# GRABS’I
 @credits_3=^^^^^^^^музыка^CHRIS CARLO“E
 @credits_4=^^^^^^^^издатель^ARMOR GAMES STUDIOS
