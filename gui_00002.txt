@@ -81,9 +81,9 @@
 @text_speed=Скорость текста
 @close=Закрыть
 @intro_1=ARMOR GAMES STUDIOS^представляет
-@intro_2=игра авторства^MATEUS# “SCRIPTWELDER” SO’ALS#C#U’
-@intro_4=музыка^CHRIS CARLO“E
-@intro_3=дополнительный сценарий^и оформление^GR#EGOR# GRABS’I
+@intro_2=игра авторства^MATEUSZ «SCRIPTWELDER» SOKALSZCZUK
+@intro_4=музыка^CHRIS CARLONE
+@intro_3=дополнительный сценарий^и оформление^GRZEGORZ GRABSKI
 @drop_long=Вы можете выложить любой предмет из инвентаря, переместив его сюда.
 @skip=Пропустить
 @right_click_to_view=^[Щёлкните правой кнопкой мыши, чтобы рассмотреть]
@@ -109,7 +109,7 @@
 @slot_name=Сохранение
 @autosave_name=Автосохр.
 @autosave_chapter_name1=Конец
-@autosave_chapter_name2=-го дня
+@autosave_chapter_name2= дня
 @loadGame=Загрузить игру
 @load_select=Загрузить игру:
 @save_overwrite_warning=Вы действительно хотите перезаписать предыдущее сохранение?
@@ -139,12 +139,12 @@
 @fuel_used2=топлива
 @not_enough_fuel=Не хватает топлива!
 
-@credits_1=^^^^^^^^создатель игры^MATEUS# “SCRIPTWELDER” SO’ALS#C#U’
-@credits_2=^^^^^^^^дополнительный сценарий^и оформление^GR#EGOR# GRABS’I
-@credits_3=^^^^^^^^музыка^CHRIS CARLO“E
+@credits_1=^^^^^^^^создатель игры^MATEUSZ «SCRIPTWELDER» SOKALSZCZUK
+@credits_2=^^^^^^^^дополнительный сценарий^и оформление^GRZEGORZ GRABSKI
+@credits_3=^^^^^^^^музыка^CHRIS CARLONE
 @credits_4=^^^^^^^^издатель^ARMOR GAMES STUDIOS
 @credits_5=^^^^^^^^особенная благодарность ^ всем нашим друзьям и семьям ^ а также ^MARTA SAIFI
-@credits_6=^^^^ авторы русской локализации:^^перевод и тестирование^НUМА“ОID Е“ТIТ–^ARTIE BOW^CallMeMike^^техническая часть^ARTIE BOW
+@credits_6=^^^^ авторы русской локализации:^^перевод и тестирование^НUМАNОID ЕNТIТY^ARTIE BOW^CallMeMike^^техническая часть^ARTIE BOW
 @credits_7=^^^^^^^^^Спасибо вам за игру!
 @credits_8=
 @credits_9=

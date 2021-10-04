@@ -902,7 +902,7 @@
 @sonic_short=Странное устройство
 @sonic_short_for_ext_cord_place=
 @sonic_short_dative=странному устройству
-@sonic_long=Надпись гласит: “Ультразвуковой отпугиватель насекомых”. Скорее всего оно предназначено для борьбы с жуками и насекомыми.
+@sonic_long=Надпись гласит: «Ультразвуковой отпугиватель насекомых». Скорее всего оно предназначено для борьбы с жуками и насекомыми.
 @sonic_prefix=
 
 @gas_truck_locked_prefix=
@@ -918,21 +918,21 @@
 @pest_truck_locked_long=Их грузовик явно не подлежит ремонту. И ещё, судя по виду, у него заперты задние двери.
 
 @pesttruck_chem_1_prefix=
-@pesttruck_chem_1_short=Клапан, помеченный буквой “A”
+@pesttruck_chem_1_short=Клапан, помеченный буквой «A»
 @pesttruck_chem_1_short_for_ext_cord_place=
-@pesttruck_chem_1_short_dative=клапану, помеченному буквой “A”
+@pesttruck_chem_1_short_dative=клапану, помеченному буквой «A»
 @pesttruck_chem_1_long=Будь у меня подходящий сосуд, я бы мог раздобыть немного этого вещества.
 
 @pesttruck_chem_2_prefix=
-@pesttruck_chem_2_short=Клапан, помеченный буквой “B”
+@pesttruck_chem_2_short=Клапан, помеченный буквой «B»
 @pesttruck_chem_2_short_for_ext_cord_place=
-@pesttruck_chem_2_short_dative=клапану, помеченному буквой “В”
+@pesttruck_chem_2_short_dative=клапану, помеченному буквой «В»
 @pesttruck_chem_2_long=Будь у меня подходящий сосуд, я бы мог раздобыть немного этого вещества.
 
 @pesttruck_chem_3_prefix=
-@pesttruck_chem_3_short=Клапан, помеченный буквой “C”
+@pesttruck_chem_3_short=Клапан, помеченный буквой «C»
 @pesttruck_chem_3_short_for_ext_cord_place=
-@pesttruck_chem_3_short_dative=клапану, помеченному буквой “С”
+@pesttruck_chem_3_short_dative=клапану, помеченному буквой «С»
 @pesttruck_chem_3_long=Будь у меня подходящий сосуд, я бы мог раздобыть немного этого вещества.
 
 @pesttruck_chem_disp_prefix=
@@ -948,27 +948,27 @@
 @pest_truck_long=Их грузовик явно не подлежит ремонту. Задние двери открыты.
 
 @pest_truck_spider_pest1_prefix=
-@pest_truck_spider_pest1_short=Банка с пометкой “A-13”
+@pest_truck_spider_pest1_short=Банка с пометкой «A-13»
 @pest_truck_spider_pest1_short_for_ext_cord_place=
-@pest_truck_spider_pest1_short_dative=банке с пометкой “A-13”
+@pest_truck_spider_pest1_short_dative=банке с пометкой «A-13»
 @pest_truck_spider_pest1_long=Кажется, это какой-то сильно пахнущий репеллент.
 
 @pest_truck_spider_pest2_prefix=
-@pest_truck_spider_pest2_short=Банка с пометкой “B-11”
+@pest_truck_spider_pest2_short=Банка с пометкой «B-11»
 @pest_truck_spider_pest2_short_for_ext_cord_place=
-@pest_truck_spider_pest2_short_dative=банке с пометкой “B-11”
+@pest_truck_spider_pest2_short_dative=банке с пометкой «B-11»
 @pest_truck_spider_pest2_long=Кажется, это какой-то сильно пахнущий репеллент.
 
 @pest_truck_spider_pest3_prefix=
-@pest_truck_spider_pest3_short=Банка с пометкой “A-18”
+@pest_truck_spider_pest3_short=Банка с пометкой «A-18»
 @pest_truck_spider_pest3_short_for_ext_cord_place=
-@pest_truck_spider_pest3_short_dative=банке с пометкой “A-18”
+@pest_truck_spider_pest3_short_dative=банке с пометкой «A-18»
 @pest_truck_spider_pest3_long=Кажется, это какой-то сильно пахнущий репеллент.
 
 @pest_truck_spider_pest4_prefix=
-@pest_truck_spider_pest4_short=Банка с пометкой “B-36”
+@pest_truck_spider_pest4_short=Банка с пометкой «B-36»
 @pest_truck_spider_pest4_short_for_ext_cord_place=
-@pest_truck_spider_pest4_short_dative=банке с пометкой “B-36”
+@pest_truck_spider_pest4_short_dative=банке с пометкой «B-36»
 @pest_truck_spider_pest4_long=Кажется, это какой-то сильно пахнущий репеллент.
 
 @gas_truck_prefix=
@@ -1080,19 +1080,19 @@
 @crashsite_wrench_gas_long=У разводного ключа много предназначений, но он оказался бессилен против смертоносного газового облака.
 
 @barn_console_stnd_by_prefix=
-@barn_console_stnd_by_short=Кнопка “Режим ожидания”
+@barn_console_stnd_by_short=Кнопка «Режим ожидания»
 @barn_console_stnd_by_short_for_ext_cord_place=
 @barn_console_stnd_by_short_dative=
 @barn_console_stnd_by_long=Нажатие этой кнопки переведёт оросительную систему в режим ожидания.
 
 @barn_console_ground_prefix=
-@barn_console_ground_short=Кнопка “Полив почвы”
+@barn_console_ground_short=Кнопка «Полив почвы»
 @barn_console_ground_short_for_ext_cord_place=
 @barn_console_ground_short_dative=
 @barn_console_ground_long=Нажатие этой кнопки приведёт к разбрызгиванию воды на почву.
 
 @barn_console_air_prefix=
-@barn_console_air_short=Кнопка “Ночное увлажнение воздуха”
+@barn_console_air_short=Кнопка «Ночное увлажнение воздуха»
 @barn_console_air_short_for_ext_cord_place=
 @barn_console_air_short_dative=
 @barn_console_air_long=Нажатие этой кнопки приведёт к распылению воды, что будет выглядеть как слой густого тумана. Включение запланировано на ночь.
@@ -1334,7 +1334,7 @@
 @helicopter_short=Разбившийся вертолёт
 @helicopter_short_for_ext_cord_place=
 @helicopter_short_dative=разбившемуся вертолёту
-@helicopter_long=Этот вертолёт довольно жёстко приземлился. Или, правильнее сказать, “врезался”.
+@helicopter_long=Этот вертолёт довольно жёстко приземлился. Или, правильнее сказать, «врезался».
 @helicopter_prefix=
 
 @roof_other_part_short=Вторая часть крыши
@@ -2138,7 +2138,7 @@
 @sidereal_alarm1_short=Кнопка пожарной тревоги
 @sidereal_alarm1_short_for_ext_cord_place=
 @sidereal_alarm1_short_dative=крышке пожарной тревоги
-@sidereal_alarm1_long=“При пожаре РАЗБЕЙТЕ стекло и НАЖМИТЕ кнопку”.
+@sidereal_alarm1_long=«При пожаре РАЗБЕЙТЕ стекло и НАЖМИТЕ кнопку».
 @sidereal_alarm1_prefix=
 
 @sidereal_chart_short=Диаграмма
@@ -2609,7 +2609,7 @@
 @cs_ammobox_short=Ящики с боеприпасами
 @cs_ammobox_short_for_ext_cord_place=
 @cs_ammobox_short_dative=ящикам с боеприпасами
-@cs_ammobox_long=Ящики, полные боеприпасов. Надпись гласит: “Собственность правительства США. Держать вдали от огня и влаги”.
+@cs_ammobox_long=Ящики, полные боеприпасов. Надпись гласит: «Собственность правительства США. Держать вдали от огня и влаги».
 @cs_ammobox_prefix=
 
 @cs_shelf_short=Погнутая часть забора
@@ -3047,8 +3047,8 @@
 @outpost_bars_button_prefix=
 @outpost_bars_button_short=Кнопка
 @outpost_bars_button_short_for_ext_cord_place=
-@outpost_bars_button_short_dative=кнопке со знаком “+”
-@outpost_bars_button_long=Кнопка со знаком “+”.
+@outpost_bars_button_short_dative=кнопке со знаком «+»
+@outpost_bars_button_long=Кнопка со знаком «+».
 
 @outpost_computer_bars1_prefix=
 @outpost_computer_bars1_short=Контроль топливной смеси
@@ -3066,13 +3066,13 @@
 @outpost_ship_lioh0_short=Слот для воздушного фильтра
 @outpost_ship_lioh0_short_for_ext_cord_place=
 @outpost_ship_lioh0_short_dative=слоту для воздушного фильтра
-@outpost_ship_lioh0_long=Слот, подписанный как “Фильтр LiOH”.
+@outpost_ship_lioh0_long=Слот, подписанный как «Фильтр LiOH».
 
 @outpost_ship_lioh1_prefix=
 @outpost_ship_lioh1_short=Установленный воздушный фильтр
 @outpost_ship_lioh1_short_for_ext_cord_place=
 @outpost_ship_lioh1_short_dative=установленному воздушному фильтру
-@outpost_ship_lioh1_long=Воздушный фильтр установлен в слот, подписанный как “Фильтр LiOH”.
+@outpost_ship_lioh1_long=Воздушный фильтр установлен в слот, подписанный как «Фильтр LiOH».
 
 @outpost_ship_nav0_prefix=
 @outpost_ship_nav0_short=Набор чипов
@@ -3090,25 +3090,25 @@
 @outpost_ship_air0_short=Круглые отверстия
 @outpost_ship_air0_short_for_ext_cord_place=
 @outpost_ship_air0_short_dative=круглым отверстиям
-@outpost_ship_air0_long=Круглые отверстия, подписанные как “Запасные воздушные баллоны”.
+@outpost_ship_air0_long=Круглые отверстия, подписанные как «Запасные воздушные баллоны».
 
 @outpost_ship_air1_prefix=
 @outpost_ship_air1_short=Установленные баллоны с воздухом
 @outpost_ship_air1_short_for_ext_cord_place=
 @outpost_ship_air1_short_dative=установленным баллонам с воздухом
-@outpost_ship_air1_long=Баллоны вставлены в отверстия, подписанные как “Запасные воздушные баллоны”.
+@outpost_ship_air1_long=Баллоны вставлены в отверстия, подписанные как «Запасные воздушные баллоны».
 
 @outpost_ship_calib0_prefix=
 @outpost_ship_calib0_short=Отсутствующая система
 @outpost_ship_calib0_short_for_ext_cord_place=
 @outpost_ship_calib0_short_dative=отсутствующей системе
-@outpost_ship_calib0_long=Кабели свисают из большой дыры. Надпись гласит: “Калибратор двигателя”.
+@outpost_ship_calib0_long=Кабели свисают из большой дыры. Надпись гласит: «Калибратор двигателя».
 
 @outpost_ship_calib1_prefix=
 @outpost_ship_calib1_short=Калибратор
 @outpost_ship_calib1_short_for_ext_cord_place=
 @outpost_ship_calib1_short_dative=калибратору
-@outpost_ship_calib1_long=Система, подписанная как “Калибратор двигателя”.
+@outpost_ship_calib1_long=Система, подписанная как «Калибратор двигателя».
 
 @outpost_ship_socket_prefix=
 @outpost_ship_socket_short=Розетка
@@ -3159,15 +3159,15 @@
 @outpost_ship_elevator_fixed_long=Двигатель с установленным приводным ремнём.
 
 @outpost_elev_up_prefix=
-@outpost_elev_up_short=Кнопка “Вверх”
+@outpost_elev_up_short=Кнопка «Вверх»
 @outpost_elev_up_short_for_ext_cord_place=
-@outpost_elev_up_short_dative=кнопке “Вверх”
+@outpost_elev_up_short_dative=кнопке «Вверх»
 @outpost_elev_up_long=Кнопка со стрелкой, указывающей вверх.
 
 @outpost_elev_down_prefix=
-@outpost_elev_down_short=Кнопка “Вниз”
+@outpost_elev_down_short=Кнопка «Вниз»
 @outpost_elev_down_short_for_ext_cord_place=
-@outpost_elev_down_short_dative=кнопке “Вниз”
+@outpost_elev_down_short_dative=кнопке «Вниз»
 @outpost_elev_down_long=Кнопка со стрелкой, указывающей вниз.
 
 @outpost_big_computer_prefix=
@@ -3192,43 +3192,43 @@
 @airplane_crate_1_short=Ящик, помеченный цифрой 1
 @airplane_crate_1_short_for_ext_cord_place=
 @airplane_crate_1_short_dative=ящику, помеченному цифрой 1
-@airplane_crate_1_long=Запечатанный деревянный ящик, на котором написано “1”.
+@airplane_crate_1_long=Запечатанный деревянный ящик, на котором написано «1».
 
 @airplane_crate_2_prefix=
 @airplane_crate_2_short=Ящик, помеченный цифрой 2
 @airplane_crate_2_short_for_ext_cord_place=
 @airplane_crate_2_short_dative=ящику, помеченному цифрой 2
-@airplane_crate_2_long=Запечатанный деревянный ящик, на котором написано “2”.
+@airplane_crate_2_long=Запечатанный деревянный ящик, на котором написано «2».
 
 @airplane_crate_3_prefix=
 @airplane_crate_3_short=Ящик, помеченный цифрой 3
 @airplane_crate_3_short_for_ext_cord_place=
 @airplane_crate_3_short_dative=ящику, помеченному цифрой 3
-@airplane_crate_3_long=Запечатанный деревянный ящик, на котором написано “3”.
+@airplane_crate_3_long=Запечатанный деревянный ящик, на котором написано «3».
 
 @airplane_crate_4_prefix=
 @airplane_crate_4_short=Ящик, помеченный цифрой 4
 @airplane_crate_4_short_for_ext_cord_place=
 @airplane_crate_4_short_dative=ящику, помеченному цифрой 4
-@airplane_crate_4_long=Запечатанный деревянный ящик, на котором написано “4”.
+@airplane_crate_4_long=Запечатанный деревянный ящик, на котором написано «4».
 
 @airplane_crate_5_prefix=
 @airplane_crate_5_short=Ящик, помеченный цифрой 5
 @airplane_crate_5_short_for_ext_cord_place=
 @airplane_crate_5_short_dative=ящику, помеченному цифрой 5
-@airplane_crate_5_long=Запечатанный деревянный ящик, на котором написано “5”.
+@airplane_crate_5_long=Запечатанный деревянный ящик, на котором написано «5».
 
 @airplane_crate_6_prefix=
 @airplane_crate_6_short=Ящик, помеченный цифрой 6
 @airplane_crate_6_short_for_ext_cord_place=
 @airplane_crate_6_short_dative=ящику, помеченному цифрой 6
-@airplane_crate_6_long=Запечатанный деревянный ящик, на котором написано “6”.
+@airplane_crate_6_long=Запечатанный деревянный ящик, на котором написано «6».
 
 @airplane_crate_7_prefix=
 @airplane_crate_7_short=Ящик, помеченный цифрой 7
 @airplane_crate_7_short_for_ext_cord_place=
 @airplane_crate_7_short_dative=ящику, помеченному цифрой 7
-@airplane_crate_7_long=Запечатанный деревянный ящик, на котором написано “7”.
+@airplane_crate_7_long=Запечатанный деревянный ящик, на котором написано «7».
 
 @airplane_crate_revealed_1_prefix=
 @airplane_crate_revealed_1_short=Ящик с навигационными чипами
@@ -3751,13 +3751,13 @@
 @restaurant_conspiracy_short=Журнал
 @restaurant_conspiracy_short_for_ext_cord_place=
 @restaurant_conspiracy_short_dative=журналу
-@restaurant_conspiracy_long=Номер журнала “Еженедельный заговор”. Даже не знаю, что грязнее, пол в уборной или этот журнал.
+@restaurant_conspiracy_long=Номер журнала «Еженедельный заговор». Даже не знаю, что грязнее, пол в уборной или этот журнал.
 
 @construction_conspiracy_prefix=
 @construction_conspiracy_short=Журнал
 @construction_conspiracy_short_for_ext_cord_place=
 @construction_conspiracy_short_dative=журналу
-@construction_conspiracy_long=Номер журнала “Еженедельный заговор”. Думаю, тут ему самое место.
+@construction_conspiracy_long=Номер журнала «Еженедельный заговор». Думаю, тут ему самое место.
 
 @outpost_faq_prefix=
 @outpost_faq_short=Презентационные материалы
@@ -3781,13 +3781,13 @@
 @disc1_short=Дискета
 @disc1_short_for_ext_cord_place=
 @disc1_short_dative=дискете
-@disc1_long=На дискете написано “УСИЛИТЕЛЬ ПАМЯТИ”. Кажется, я уже видел её раньше.
+@disc1_long=На дискете написано «УСИЛИТЕЛЬ ПАМЯТИ». Кажется, я уже видел её раньше.
 
 @disc2_prefix=
 @disc2_short=Дискета
 @disc2_short_for_ext_cord_place=
 @disc2_short_dative=дискете
-@disc2_long=На дискете написано “МАЛЫЙ ФАЗОВЫЙ КОНТРОЛЛЕР”. Что это значит? И почему меня не покидает чувство, что я видел эту дискету раньше?
+@disc2_long=На дискете написано «МАЛЫЙ ФАЗОВЫЙ КОНТРОЛЛЕР». Что это значит? И почему меня не покидает чувство, что я видел эту дискету раньше?
 
 @sidereal_darkness_prefix=
 @sidereal_darkness_short=Темнота

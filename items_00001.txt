@@ -30,7 +30,7 @@
 @sonic_short_instrumental=
 @sonic_short_accusative=Ультразвуковой отпугиватель насекомых (ТМ)
 @sonic_short_dative=Ультразвуковому отпугивателю насекомых (ТМ)
-@sonic_long=Надпись гласит: “Ультразвуковой отпугиватель насекомых”. Скорее всего оно предназначено для борьбы с жуками и насекомыми.
+@sonic_long=Надпись гласит: «Ультразвуковой отпугиватель насекомых». Скорее всего оно предназначено для борьбы с жуками и насекомыми.
 @sonic_prefix=
 
 @sonic2_short=Ультразвуковой отпугиватель насекомых (ТМ)
@@ -44,7 +44,7 @@
 @sonic_remote_short_instrumental=
 @sonic_remote_short_accusative=пульт дистанционного управления
 @sonic_remote_short_dative=пульту дистанционного управления
-@sonic_remote_long=Надпись гласит: “Пульт для управления ультразвуковым поражающим устройством”
+@sonic_remote_long=Надпись гласит: «Пульт для управления ультразвуковым поражающим устройством»
 @sonic_remote_prefix=
 
 @pest_note_short=Стикер из грузовика
@@ -414,45 +414,45 @@
 @chem_glass_long=Предназначена для кратковременного хранения химических веществ.
 
 @chem_glass_1_prefix=
-@chem_glass_1_short=Колба, наполовину заполненная жидкостью “А”
+@chem_glass_1_short=Колба, наполовину заполненная жидкостью «А»
 @chem_glass_1_short_instrumental=
-@chem_glass_1_short_accusative=колбу, наполовину заполненную жидкостью “А”
-@chem_glass_1_short_dative=колбе, наполовину заполненной жидкостью “А”
+@chem_glass_1_short_accusative=колбу, наполовину заполненную жидкостью «А»
+@chem_glass_1_short_dative=колбе, наполовину заполненной жидкостью «А»
 @chem_glass_1_long=Наполовину полная или наполовину пустая? Хм...
 
 @chem_glass_2_prefix=
-@chem_glass_2_short=Колба, наполовину заполненная жидкостью “В”
+@chem_glass_2_short=Колба, наполовину заполненная жидкостью «В»
 @chem_glass_2_short_instrumental=
-@chem_glass_2_short_accusative=колбу, наполовину заполненную жидкостью “В”
-@chem_glass_2_short_dative=колбе, наполовину заполненной жидкостью “В”
+@chem_glass_2_short_accusative=колбу, наполовину заполненную жидкостью «В»
+@chem_glass_2_short_dative=колбе, наполовину заполненной жидкостью «В»
 @chem_glass_2_long=Наполовину полная или наполовину пустая? Хм...
 
 @chem_glass_3_prefix=
-@chem_glass_3_short=Колба, наполовину заполненная жидкостью “С”
+@chem_glass_3_short=Колба, наполовину заполненная жидкостью «С»
 @chem_glass_3_short_instrumental=
-@chem_glass_3_short_accusative=колбу, наполовину заполненную жидкостью “С”
-@chem_glass_3_short_dative=колбе, наполовину заполненной жидкостью “С”
+@chem_glass_3_short_accusative=колбу, наполовину заполненную жидкостью «С»
+@chem_glass_3_short_dative=колбе, наполовину заполненной жидкостью «С»
 @chem_glass_3_long=Наполовину полная или наполовину пустая? Хм...
 
 @chem_glass_12_prefix=
-@chem_glass_12_short=Колба, наполненная жидкостями “A” и “B”
+@chem_glass_12_short=Колба, наполненная жидкостями «A» и «B»
 @chem_glass_12_short_instrumental=
-@chem_glass_12_short_accusative=колбу, наполовину заполненную жидкостями “A” и “B”
-@chem_glass_12_short_dative=колбе, наполовину заполненной жидкостями “A” и “B”
+@chem_glass_12_short_accusative=колбу, наполовину заполненную жидкостями «A» и «B»
+@chem_glass_12_short_dative=колбе, наполовину заполненной жидкостями «A» и «B»
 @chem_glass_12_long=У жидкости странный цвет и неприятный запах.
 
 @chem_glass_23_prefix=
-@chem_glass_23_short=Колба, наполненная жидкостями “B” и “C”
+@chem_glass_23_short=Колба, наполненная жидкостями «B» и «C»
 @chem_glass_23_short_instrumental=
-@chem_glass_23_short_accusative=колбу, наполовину заполненную жидкостями “B” и “C”
-@chem_glass_23_short_dative=колбе, наполовину заполненной жидкостями “B” и “C”
+@chem_glass_23_short_accusative=колбу, наполовину заполненную жидкостями «B» и «C»
+@chem_glass_23_short_dative=колбе, наполовину заполненной жидкостями «B» и «C»
 @chem_glass_23_long=У жидкости странный цвет и неприятный запах.
 
 @chem_glass_13_prefix=
-@chem_glass_13_short=Колба, наполненная жидкостями “A” и “C”
+@chem_glass_13_short=Колба, наполненная жидкостями «A» и «C»
 @chem_glass_13_short_instrumental=
-@chem_glass_13_short_accusative=колбу, наполовину заполненную жидкостями “A” и “C”
-@chem_glass_13_short_dative=колбе, наполовину заполненной жидкостями “A” и “C”
+@chem_glass_13_short_accusative=колбу, наполовину заполненную жидкостями «A» и «C»
+@chem_glass_13_short_dative=колбе, наполовину заполненной жидкостями «A» и «C»
 @chem_glass_13_long=У жидкости странный цвет и неприятный запах.
 
 @wrench_prefix=
@@ -535,31 +535,31 @@
 @ignitioncoil_long=Катушка зажигания — необходимая деталь для запуска двигателя автомобиля.
 
 @spiderpest1_prefix=
-@spiderpest1_short=Банка с пометкой “A-13”
+@spiderpest1_short=Банка с пометкой «A-13»
 @spiderpest1_short_instrumental=
-@spiderpest1_short_accusative=банку с пометкой “A-13”
-@spiderpest1_short_dative=банке с пометкой “A-13”
+@spiderpest1_short_accusative=банку с пометкой «A-13»
+@spiderpest1_short_dative=банке с пометкой «A-13»
 @spiderpest1_long=Кажется, это какой-то сильно пахнущий репеллент.
 
 @spiderpest2_prefix=
-@spiderpest2_short=Банка с пометкой “B-11”
+@spiderpest2_short=Банка с пометкой «B-11»
 @spiderpest2_short_instrumental=
-@spiderpest2_short_accusative=банку с пометкой “B-11”
-@spiderpest2_short_dative=банке с пометкой “B-11”
+@spiderpest2_short_accusative=банку с пометкой «B-11»
+@spiderpest2_short_dative=банке с пометкой «B-11»
 @spiderpest2_long=Кажется, это какой-то сильно пахнущий репеллент.
 
 @spiderpest3_prefix=
-@spiderpest3_short=Банка с пометкой “А-18”
+@spiderpest3_short=Банка с пометкой «А-18»
 @spiderpest3_short_instrumental=
-@spiderpest3_short_accusative=банку с пометкой “А-18”
-@spiderpest3_short_dative=банке с пометкой “А-18”
+@spiderpest3_short_accusative=банку с пометкой «А-18»
+@spiderpest3_short_dative=банке с пометкой «А-18»
 @spiderpest3_long=Кажется, это какой-то сильно пахнущий репеллент.
 
 @spiderpest4_prefix=
-@spiderpest4_short=Банка с пометкой “B-36”
+@spiderpest4_short=Банка с пометкой «B-36»
 @spiderpest4_short_instrumental=
-@spiderpest4_short_accusative=банку с пометкой “B-36”
-@spiderpest4_short_dative=банке с пометкой “B-36”
+@spiderpest4_short_accusative=банку с пометкой «B-36»
+@spiderpest4_short_dative=банке с пометкой «B-36»
 @spiderpest4_long=Кажется, это какой-то сильно пахнущий репеллент.
 
 @bear_trap_1_prefix=
@@ -1330,7 +1330,7 @@
 @key3_short_instrumental=
 @key3_short_accusative=ключ с ярлыком
 @key3_short_dative=ключу с ярлыком
-@key3_long=На ярлыке написано “Лаборатория 13”.
+@key3_long=На ярлыке написано «Лаборатория 13».
 
 @vials1_prefix=
 @vials1_short=Набор пробирок
@@ -1379,7 +1379,7 @@
 @nav_chip_short_instrumental=
 @nav_chip_short_accusative=электронный чип
 @nav_chip_short_dative=электронному чипу
-@nav_chip_long=На нём написано “Навигационный чип”.
+@nav_chip_long=На нём написано «Навигационный чип».
 
 @lioh_filter_prefix=
 @lioh_filter_short=LiOH фильтр
@@ -1515,17 +1515,17 @@
 @finger_prefix=
 
 @disc1_prefix=
-@disc1_short=Дискета с надписью “УСИЛИТЕЛЬ ПАМЯТИ”
+@disc1_short=Дискета с надписью «УСИЛИТЕЛЬ ПАМЯТИ»
 @disc1_short_instrumental=
-@disc1_short_accusative=дискету с надписью “УСИЛИТЕЛЬ ПАМЯТИ”
-@disc1_short_dative=дискете с надписью “УСИЛИТЕЛЬ ПАМЯТИ”
+@disc1_short_accusative=дискету с надписью «УСИЛИТЕЛЬ ПАМЯТИ»
+@disc1_short_dative=дискете с надписью «УСИЛИТЕЛЬ ПАМЯТИ»
 @disc1_long=Почему эта дискета кажется мне одновременно такой знакомой и значимой? Почему? Лучше носить её с собой. Кто знает, когда она может мне пригодиться.
 
 @disc2_prefix=
-@disc2_short=Дискета с надписью “МАЛЫЙ ФАЗОВЫЙ КОНТРОЛЛЕР”
+@disc2_short=Дискета с надписью «МАЛЫЙ ФАЗОВЫЙ КОНТРОЛЛЕР»
 @disc2_short_instrumental=
-@disc2_short_accusative=дискету с надписью “МАЛЫЙ ФАЗОВЫЙ КОНТРОЛЛЕР”
-@disc2_short_dative=дискете с надписью “МАЛЫЙ ФАЗОВЫЙ КОНТРОЛЛЕР”
+@disc2_short_accusative=дискету с надписью «МАЛЫЙ ФАЗОВЫЙ КОНТРОЛЛЕР»
+@disc2_short_dative=дискете с надписью «МАЛЫЙ ФАЗОВЫЙ КОНТРОЛЛЕР»
 @disc2_long=Не знаю почему, но меня не покидает чувство, что я уже видел эту дискету раньше. И похоже, она является чем-то очень важным. Я обязан носить её с собой несмотря ни на что.
 
 @cate_note_prefix=
