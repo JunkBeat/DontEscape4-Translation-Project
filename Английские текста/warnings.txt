@@ -1,0 +1,161 @@
+@reset_chapter=^ ^ ^ Are you sure you want to reset the current chapter?^ ^ ^
+@reset_game=^ ^ ^ Are you sure you want to reset the whole game?^ ^ ^
+@quit_game=^ ^ ^ Are you sure you want to quit the game?^ ^ ^
+
+@clear_data1=Are you sure? This does not delete saved games, but it will reset the list of threats to encounter.
+@clear_data2=^You will no longer be able to start a new game in Awakening Mode until you unlock it again.
+
+@gasstation_travel=You see a building in the distance, almost on the horizon. Walking there will take some of your precious time...
+@time_proceed=Do you want to proceed?
+@time_action_will_take=This action will take
+@time_action_would_take=This action would take
+@time_hours=hours
+@time_minutes=minutes
+@time_however=However ... you are not alone.
+@time_help1_old=Cate will help you, saving
+@time_help2_old=Barry's help will save you
+@time_help3_old=Cody's efforts will reduce that time by
+@time_help1=Cate's help: -
+@time_help2=Barry's help: -
+@time_help3=Cody's help: -
+@time_summary=Because of that, this action will only take
+
+@reset_trap=Do you want to prepare the trap by stretching the spring?
+
+@pesttruck_locker=You could try to pick the lock with the paper clip...
+@barn_pipe_broken=Do you want to use the duct tape to fix the pipe?
+@greenhouse_nails=Do you want to remove some nails with the crowbar? It's a perfect tool for this task.
+@greenhouse_hammer=You could try to pry some nails off with the narrow part of the hammer.
+@bridge_planks1=Do you want to use the hammer and nails to build a makeshift bridge? This will require one handful of nails, but it will allow you to travel through the ravine without any delays. However, you will still have to stop your vehicle here, if you have one.
+@bridge_planks2=Do you want to use the hammer and nails to improve your makeshift bridge? This will require one handful of nails, but it will allow you to travel through the ravine with a vehicle, if you have one.
+@bridge_ravine1=Do you want to cross the ravine?
+@bridge_ravine2=You carry
+@bridge_ravine3=of stuff in your backpack, which might impact your climbing speed.
+
+@bridge_wheel=You could try to remove the wheel from the car wreck. Its current position makes it a bit tricky. Even with a wrench it will take some time. Proceed anyway?
+
+@window_use_hammer_net=Do you want to use the hammer and nails to attach the net to the window frame?
+@window_use_hammer_foil=Do you want to use the hammer and nails to attach the plastic wrap to the window frame?
+@window_use_hammer_bars=Do you want to use the hammer and nails to attach the metal bars to the window frame?
+@window_use_tape_net=Do you want to use duct tape to affix the net to the window frame?
+@window_use_tape_foil=Do you want to use duct tape to affix the plastic wrap to the window frame?
+@window_use_tape_bars=Do you want to use duct tape to affix the metal bars to the window frame?
+
+@window_use_tape_blanket=Do you want to use duct tape to affix the blanket to the window frame?
+@window_use_tape_flag=Do you want to use duct tape to affix the flag to the window frame?
+@window_use_tape_therm=Do you want to use duct tape to affix the thermal blanket to the window frame?
+
+@window_use_hammer_blanket=Do you want to use the hammer to attach the blanket to the window frame?
+@window_use_hammer_flag=Do you want to use the hammer to attach the flag to the window frame?
+@window_use_hammer_therm=Do you want to use the hammer to attach the thermal blanket to the window frame?
+@window_use_hammer_board=Do you want to use the hammer to attach the board to window's frame?
+@window_use_tape_board=Do you want to use duct tape to attach the board to window's frame?
+
+@window_undo=Do you want to remove the reinforcement from this window?
+
+@barrys_wife_grave=Do you want to dig a grave for Barry's wife?
+
+@gasstation_force_crowbar=Do you want to free the crowbar using brute force? The crowbar seems to really be stuck there. It might not be easy to get it out with your bare hands.
+@gasstation_hammer_crowbar=Do you want to free the crowbar using brute force and the help of a hammer? It seems to really be stuck there, but with a couple of strong hits it should give in.
+
+@clock_click=So, you think you're ready? ^^Pick one item from your inventory that you would like to equip during the night - or cancel if you don't want to finish the day just yet.
+
+@barn_car_examine=This car seems to be in bad shape. Without taking a moment to inspect it, you can't be sure what needs to be done (apart from finding a spare wheel, of course). Checking it will take some time. Do you want to do this?
+@barn_car_part=Installing this part will take some time. Do you want to do this?
+@barn_car_refuel=Do you want to pour the fuel into the car's gas tank?
+
+@crashsite_car_examine=Do you want to inspect the car? Checking everything, including the engine, will take some time. Do you want to do this?
+@crashsite_car_harvest=Do you want to remove the ignition coil from the car?
+
+@can_open_knife=Do you want to open the can with a knife?
+@can_open_screwdriver=Do you want to open the can with a screwdriver? It's not the best tool for this job, but it will do.
+@restaurant_fridge_open=Do you want to break open the fridge with a crowbar? It's faster than breaking the shatterproof glass..
+@restaurant_fridge_break=Do you want to break the shatterproof glass?
+
+@car_travel_bridge=This place can't be reached by car. There is a broken bridge in the way.^ ^Do you want to travel to the bridge instead?
+@car_travel_sidereal=Your destination can't be reached by car. There is a broken bridge in the way.^ ^You have to leave the car there and travel on foot.
+
+@rv_inspect=Do you want to inspect the RV's engine? This will take some time. Do you want to do this?
+@unequipped1=Before you wait for nightfall, you should prepare some gear (like
+@unequipped2=) or any other item that you think might come in handy. ^You can do this by placing that item in a special "equip" slot in your inventory.
+
+@cave_remove_blanket1=Are you sure you want to remove the
+@cave_remove_blanket2=from the cave's entrance?
+
+@cave_put_blanket1=You could cover the cave's hole with the
+@cave_put_blanket2=and secure it in place using some dirt and rocks, but it's going to take some time. Proceed?
+
+@lodge_back_corpse_clear=Do you want to remove the corpse and prepare the trap for another use?
+@lodge_back_hatch_force=Do you want to pry open the safe?
+
+@poision_food=After you poison the food it will no longer be safe to eat. Looking at the warning on the poison label, some thugs might expect nausea, internal bleeding, liver failure or death. ^You cannot undo this action. Sometimes you have to do what you have to do to survive. On the other hand ... are you this kind of person?
+@shoot_sarge=Are you sure you want to pull the trigger and shoot Sarge?
+
+@save_cody=Are you sure you want to save Cody? You might not have enough time to save both of your friends...
+@save_barry=Are you sure you want to save Barry? You might not have enough time to save both of your friends...
+
+@install_silencer=You could spend some time upgrading your rifle. Adding a silencer would make it possible to shoot without drawing a lot of attention.
+@install_scope=You could spend some time upgrading your rifle. Adding a scope would make the gun more accurate, allowing you to shoot more ... efficiently.
+
+@cody_gun=Do you want to teach Cody how to use a revolver?
+
+@map_gasstation_thugs=While you were traveling past the gas station, you saw some movement around that area from a distance. Do you want to investigate?
+@map_gasstation_soliders=While you were traveling to the gas station, you noticed some fresh tracks on the ground that weren't there before. They seem to lead to the restaurant.
+
+@mixer=Are you sure you want to mix the selected components? This will take a while.
+
+@plane_undig_no_shovel=Are you sure you want to dig with your bare hands?
+@plane_undig_shovel=Do you want to use a shovel to dig?
+@weld_ship_inside=Do you want to weld the alloy plate to the wall to fix the cracked surface?
+@weld_ship_outside=Do you want to weld the alloy plate to the fin and attempt to fix the cracked surface?
+
+@belt_take_elevator=Do you want to remove the transmission belt from the elevator engine? It will no longer work unless you reinstall it.
+@belt_give_elevator=Do you want to put a transmission belt on the elevator engine?
+
+@belt_take_engine=Do you want to remove the transmission belt from this device? It will no longer work unless you reinstall it.
+@belt_give_engine=Do you want to put a transmission belt on the engine?
+
+@airplane_crate_1=The crate is sealed shut and won't open easily. It has a number
+@airplane_crate_2=on the label. Do you want to open it?
+
+@search_body_plane=You look at the mummified corpse. Are you sure you want to touch it and search for anything useful?
+@search_body_plane_no=Wait ... what if Cody is right?
+
+@outpost_hatch_open=This computer controls the hatch mechanism. Do you want to open the silo's hatch?
+@map_bus_investigate=On your way to the outpost you encountered an abandoned bus. Do you want to investigate?
+
+@launch_ship=Ready to launch? Are you sure you're ready to launch? If so, is there any item you'd like to use?
+
+@travel_no_fuel=Your car doesn't have enough fuel to reach this destination...
+
+@moon_use_pod=Are you sure you want to hit the "Initiate Induced Sleep" button and get into the Sleeper Pod?
+
+@climb_tree=Do you want to climb this tree?
+@climb_tree_down=Do you want to climb down?
+@climb_tree_cord=Do you want to climb this tree with an extension cord in your hand?
+@lodge_swipe_roof=Do you want to sweep the leaves off the roof with a broom?
+
+@climb_up_crane=Do you want to climb up this construction crane?
+@climb_down_crane=Do you want to climb down?
+
+@tutorial_time_question=Some actions will require time to be completed. ^^For instance, this wooden pole in the ground seems to be stuck. Pulling it out will be difficult, but with some effort you should be able to get it out...
+
+@fan_fix=As you thought, the inside of the fan has some loose wires and screws. Getting this thing to work won't be easy.
+@heater_fix=As you thought, the inside of the heater has some loose wires and screws. Getting this thing to work won't be easy.
+
+@intro_travel=A vast desert lies ahead. It's a long walk, though you have no other way but to traverse it.
+@worn_window=Because the window frame is rather worn out by now, it's going to take a bit more time.
+
+@sidereal_climbing_up=Do you want to climb up the sand dune?
+@sidereal_climbing_down=Do you want to climb down the sand dune?
+@sidereal_elevator_up=Do you want to climb up the elevator shaft?
+@sidereal_elevator_down=Do you want to climb down the elevator shaft?
+
+@base_dig=Do you want to dig ditches around the house? It will help with all the water that will pour down from the sky during the incoming storm.
+@helicopter_cover=Do you want to cover the helicopter and the hole in the wall with a tarp?
+@helicopter_cover_tape=Do you want to affix the tarp to the roof with the duct tape?
+@install_lighting_rod=Do you want to install the wire on the chimney and lead it down to the ground?
+
+@barry_upgrade_car=Barry can point out some ways to improve your car's gas mileage. You'll be able to reduce fuel consumption.
+
+@sidereal_burial=If you want, you could save some time and build a simple grave for your friend.

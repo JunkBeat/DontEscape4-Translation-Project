@@ -1,0 +1,901 @@
+@key1_short=key
+@key1_long=A simple, metal key.
+@key1_prefix=a
+
+@key4_short=key
+@key4_long=A simple, metal key.
+@key4_prefix=a
+
+@key2_short=house keys
+@key2_long=A set of house keys, for both front and back doors.
+@key2_prefix=
+
+@pipe_short=short pipe
+@pipe_long=A short, metal pipe.
+@pipe_prefix=a
+
+@sonic_short=sonic repellent device
+@sonic_long=The label says "Sonic Repellent Device". This device is supposedly used to fend off bugs and insects.
+@sonic_prefix=a
+
+@sonic2_short=sonic repellent device
+@sonic2_long=The lights are not blinking anymore. I think it stopped working. I don't need it anyway.
+@sonic2_prefix=a
+
+@sonic_remote_short=remote controller
+@sonic_remote_long=The label says "Sonic Repellent Device RC".
+@sonic_remote_prefix=a
+
+@pest_note_short=pest control truck sticky note
+@pest_note_long=There are some bug pictures and labels on it. Maybe I should pick it up and take a closer look...
+@pest_note_prefix=a
+
+@gas_note_short=chemical emergency response truck sticky note
+@gas_note_long=There is something written on it. Maybe I should pick it up and take a closer look...
+@gas_note_prefix=a
+
+@spider_note_short=pest control truck sticky note
+@spider_note_long=There is something written on it, with some pictures below. Maybe I should pick it up and take a closer look...
+@spider_note_prefix=a
+
+@generic_note_short=sticky note
+@generic_note_long=A sticky note
+@generic_note_prefix=a
+
+@paperclip_short=paperclip
+@paperclip_long=It looks really useful. I'm sure it would be helpful if I was writing a letter.
+@paperclip_prefix=a
+
+@invoices_short=stack of documents
+@invoices_long=Some financial documents, invoices and bills, mostly for farming equipment.
+@invoices_prefix=a
+
+@crowbar_short=crowbar
+@crowbar_long=A sturdy, handy tool that can be used to break things.
+@crowbar_prefix=a
+
+@pest1_short=can of pesticide
+@pest1_long=The label says it's a strong pesticide that is harmful to all bugs and insects. And life in general, I guess. It should be used after mixing with water.
+@pest1_prefix=a
+
+@pest2_short=can of pesticide
+@pest2_long=The label says it's a strong pesticide that is harmful to all bugs and insects. And life in general, I guess. It should be used after mixing with water.
+@pest2_prefix=a
+
+@straw_short=straw
+@straw_long=A short straw that used to lie around in dusty plastic cup. Drinking through it can't be too hygienic.
+@straw_prefix=a
+
+@screwdriver_short=screwdriver
+@screwdriver_long=A handy tool.
+@screwdriver_prefix=a
+
+@hook_short=hook
+@hook_long=A big, metal hook.
+@hook_prefix=a
+
+@rope_short=rope
+@rope_long=A few meters of strong rope.
+@rope_prefix=a
+
+@ropehook_short=rope with a hook
+@ropehook_long=A few meters of strong rope with a hook attached to one end.
+@ropehook_prefix=a
+
+@deadbird_short=dead bird
+@deadbird_long=Mummified carcass of a bird. I don't see a reason to carry this around...
+@deadbird_prefix=a
+
+@hammer_short=hammer
+@hammer_long=Small, robust and almost completely useless without nails.
+@hammer_prefix=a
+
+@drone_short=weather drone
+@drone_prefix=a
+@drone_long=An automated drone used to measure weather conditions. Looks like it's too damaged to ever fly again.
+
+@mask_filter_short=air filter
+@mask_filter_prefix=an
+@mask_filter_long=A spare air filter for a gas mask.
+
+@towel_1_short=kitchen towel
+@towel_1_long=An old kitchen towel. It's always good to have a towel.
+@towel_1_prefix=a
+
+@towel_2_short=bathroom towel
+@towel_2_long=It's an old bathroom towel. It's always good to have a towel.
+@towel_2_prefix=a
+
+@chemsuit_dmg_dmg_short=hazard suit
+@chemsuit_dmg_dmg_long=Upon closer inspection the suit turns out to have a big hole. Also, the gas mask filter seems to be faulty.
+@chemsuit_dmg_dmg_prefix=a
+
+@chemsuit_rep_dmg_short=hazard suit
+@chemsuit_rep_dmg_long=Upon closer inspection the gas mask filter seems to be faulty. At least the hole is fixed with some duct tape.
+@chemsuit_rep_dmg_prefix=a
+
+@chemsuit_dmg_rep_short=hazard suit
+@chemsuit_dmg_rep_long=Upon closer inspection the suit turns out to have a big hole. At least the air filter has been replaced.
+@chemsuit_dmg_rep_prefix=a
+
+@chemsuit_rep_rep_short=hazard suit
+@chemsuit_rep_rep_long=With the air filter replaced and the hole fixed with some duct tape, this suit might be able to help me.
+@chemsuit_rep_rep_prefix=a
+
+@ducttape_short=duct tape
+@ducttape_long=Water resistant, strong and durable. They say there isn't a thing that can't be repaired by using a lot of duct tape. If it can't be repaired you're probably not using enough duct tape.
+@ducttape_prefix=
+
+@canister_full_short=full gas canister
+@canister_full_long=A canister full of fuel.
+@canister_full_prefix=a
+
+@canister_empty_short=empty gas canister
+@canister_empty_long=An empty canister.
+@canister_empty_prefix=an
+
+@canister2_full_short=full gas canister
+@canister2_full_long=A canister full of fuel.
+@canister2_full_prefix=a
+
+@canister2_empty_short=empty gas canister
+@canister2_empty_long=An empty canister.
+@canister2_empty_prefix=an
+
+@charcoal_short=bag of charcoal
+@charcoal_long=A bag full of barbecue charcoal.
+@charcoal_prefix=a
+
+@charcoal_empty_short=empty bag of charcoal
+@charcoal_empty_long=This was a bag of charcoal, now only filled with some small coal bits and dust.
+@charcoal_empty_prefix=an
+
+@bug_short=huge dead insect
+@bug_long=A dead insect. It's huge and nasty. I could pick it up to have a closer look...
+@bug_prefix=a
+
+@nails1_short=handful of nails
+@nails1_long=Some are bent, some are rusty, but probably could be used to, well, nail stuff.
+@nails1_prefix=a
+
+@nails2_short=handful of nails
+@nails2_long=Some are bent, some are rusty, but probably could be used to, well, nail stuff.
+@nails2_prefix=a
+
+@nails3_short=handful of nails
+@nails3_long=Some are bent, some are rusty, but probably could be used to, well, nail stuff.
+@nails3_prefix=a
+
+@nails4_short=handful of nails
+@nails4_long=Some are bent, some are rusty, but probably could be used to, well, nail stuff.
+@nails4_prefix=a
+
+@nails5_short=handful of nails
+@nails5_long=Some are bent, some are rusty, but probably could be used to, well, nail stuff.
+@nails5_prefix=a
+
+@planks1_short=broken planks
+@planks1_long=A stack of broken planks. Withered and rotten, they don't make for good building material.
+@planks1_prefix=
+
+@planks2_short=broken planks
+@planks2_long=A stack of broken planks. Withered and rotten, they don't make for good building material.
+@planks2_prefix=
+
+@planks3_short=broken planks
+@planks3_long=A stack of broken planks. Withered and rotten, they don't make for good building material.
+@planks3_prefix=
+
+@planks4_short=broken planks
+@planks4_long=A stack of broken planks. Withered and rotten, they don't make for good building material.
+@planks4_prefix=
+
+@planks5_short=broken planks
+@planks5_long=A stack of broken planks. Withered and rotten, they don't make for good building material.
+@planks5_prefix=
+
+@window_bars1_prefix=
+@window_bars1_short=metal bars
+@window_bars1_long=A set of strong metal bars. The gaps between the bars are quite large.
+@window_bars2_prefix=
+@window_bars2_short=metal bars
+@window_bars2_long=A set of strong metal bars. The gaps between the bars are quite large.
+@window_bars3_prefix=
+@window_bars3_short=metal bars
+@window_bars3_long=A set of strong metal bars. The gaps between the bars are quite large.
+
+@window_net1_prefix=a
+@window_net1_short=window net
+@window_net1_long=A strong and durable window net.
+@window_net2_prefix=a
+@window_net2_short=window net
+@window_net2_long=A strong and durable window net.
+@window_net3_prefix=a
+@window_net3_short=window net
+@window_net3_long=A strong and durable window net.
+
+@window_foil1_prefix=a
+@window_foil1_short=plastic wrap
+@window_foil1_long=A roll of plastic wrap.
+@window_foil2_prefix=a
+@window_foil2_short=plastic wrap
+@window_foil2_long=A roll of plastic wrap.
+@window_foil3_prefix=a
+@window_foil3_short=plastic wrap
+@window_foil3_long=A roll of plastic wrap.
+
+@lighter_prefix=a
+@lighter_short=lighter
+@lighter_long=It's still working.
+
+@chem_glass_prefix=an
+@chem_glass_short=empty chemistry flask
+@chem_glass_long=A glass intended for short-term storage of chemical substances.
+
+@chem_glass_1_prefix=a
+@chem_glass_1_short=glass half-full of the "A" liquid
+@chem_glass_1_long=Half-full or maybe half-empty? Hmm...
+
+@chem_glass_2_prefix=a
+@chem_glass_2_short=glass half-full of the "B" liquid
+@chem_glass_2_long=Half-full or maybe half-empty? Hmm...
+
+@chem_glass_3_prefix=a
+@chem_glass_3_short=glass half-full of the "C" liquid
+@chem_glass_3_long=Half-full or maybe half-empty? Hmm...
+
+@chem_glass_12_prefix=a
+@chem_glass_12_short=glass full of the mix of "A" "B" liquids
+@chem_glass_12_long=It has a strange color and an awful smell.
+
+@chem_glass_23_prefix=a
+@chem_glass_23_short=glass full of the mix of "B" "C" liquids
+@chem_glass_23_long=It has a strange color and an awful smell.
+
+@chem_glass_13_prefix=a
+@chem_glass_13_short=glass full of the mix of "A" "C" liquids
+@chem_glass_13_long=It has a strange color and an awful smell.
+
+@wrench_prefix=a
+@wrench_short=wrench
+@wrench_long=A heavy but handy tool.
+
+@watersprayer_prefix=a
+@watersprayer_short=water sprayer
+@watersprayer_long=It could be used to spray plants with water, if I didn't have better things to do. And if I had any plants.
+
+@pestsprayer_prefix=a
+@pestsprayer_short=pesticide sprayer
+@pestsprayer_long=A pesticide spray could be used as a weapon against insects. I better hold on to it.
+
+@fuelsprayer_prefix=a
+@fuelsprayer_short=sprayer filled with fuel
+@fuelsprayer_long=It could be used to spray things with fuel, I guess...
+
+@flamethrower_empty_prefix=an
+@flamethrower_empty_short=empty flamethrower
+@flamethrower_empty_long=A water sprayer turned into a flamethrower. It just lacks fuel.
+
+@flamethrower_prefix=a
+@flamethrower_short=flamethrower
+@flamethrower_long=A water sprayer turned into a flamethrower. It could be used as a weapon. I'd better hold on to it.
+
+@wad_of_cash_prefix=a
+@wad_of_cash_short=wad of cash
+@wad_of_cash_long=A wad of pretty much useless pieces of paper.
+
+@broken_hammer_prefix=a
+@broken_hammer_short=hammer with a broken handle
+@broken_hammer_long=It's useless until I fix it somehow. World seems to be full of broken hammers.
+
+@hammer_handle_prefix=a
+@hammer_handle_short=wooden handle
+@hammer_handle_long=It's a small wooden handle.
+
+@rock_prefix=a
+@rock_short=small rock
+@rock_long=A small, round rock.
+
+@ignitioncoil_prefix=an
+@ignitioncoil_short=ignition coil
+@ignitioncoil_long=An ignition coil, crucial to start a car's engine.
+
+@spiderpest1_prefix=a
+@spiderpest1_short=can labeled "A-13"
+@spiderpest1_long=It seems to be some sort of aromatic repellent.
+
+@spiderpest2_prefix=a
+@spiderpest2_short=can labeled "B-11"
+@spiderpest2_long=It seems to be some sort of aromatic repellent.
+
+@spiderpest3_prefix=a
+@spiderpest3_short=can labeled "A-18"
+@spiderpest3_long=It seems to be some sort of aromatic repellent.
+
+@spiderpest4_prefix=a
+@spiderpest4_short=can labeled "B-36"
+@spiderpest4_long=It seems to be some sort of aromatic repellent.
+
+@bear_trap_1_prefix=a
+@bear_trap_1_short=bear trap
+@bear_trap_1_long=It looks dangerous.
+
+@bear_trap_2_prefix=a
+@bear_trap_2_short=bear trap
+@bear_trap_2_long=It looks dangerous.
+
+@bear_trap_1b_prefix=a
+@bear_trap_1b_short=trap with a killed spider
+@bear_trap_1b_long=There is a spider smashed in the trap.
+
+@bear_trap_2b_prefix=a
+@bear_trap_2b_short=trap with a killed spider
+@bear_trap_2b_long=There is a spider smashed in the trap.
+
+@whiskey_prefix=a
+@whiskey_short=bottle of whiskey
+@whiskey_long=A big bottle of strong whiskey.
+
+@bear_trap_3_prefix=a
+@bear_trap_3_short=bear trap
+@bear_trap_3_long=It looks dangerous.
+
+@bear_trap_4_prefix=a
+@bear_trap_4_short=bear trap
+@bear_trap_4_long=It looks dangerous.
+
+@rifle_6_prefix=a
+@rifle_6_short=rifle
+@rifle_6_long=A hunting rifle. It has 6 bullets.
+
+@rifle_5_prefix=a
+@rifle_5_short=rifle
+@rifle_5_long=A hunting rifle. It has 5 bullets.
+
+@rifle_4_prefix=a
+@rifle_4_short=rifle
+@rifle_4_long=A hunting rifle. It has 4 bullets.
+
+@rifle_3_prefix=a
+@rifle_3_short=rifle
+@rifle_3_long=A hunting rifle. It has 3 bullets.
+
+@rifle_2_prefix=a
+@rifle_2_short=rifle
+@rifle_2_long=A hunting rifle with two bullets remaining.
+
+@rifle_1_prefix=a
+@rifle_1_short=rifle
+@rifle_1_long=A hunting rifle. It has a single bullet left.
+
+@rifle_0_prefix=a
+@rifle_0_short=rifle
+@rifle_0_long=A hunting rifle. It has no ammunition.
+
+@sheet_prefix=a
+@sheet_short=bed sheet
+@sheet_long=A thin white bed sheet. I can still smell flower fabric softener.
+
+@coat1_prefix=a
+@coat1_short=warm coat
+@coat1_long=Not really my color, but it's thick and warm.
+
+@coat2_prefix=a
+@coat2_short=warm coat
+@coat2_long=It's a bit large, but it's thick and warm.
+
+@coat3_prefix=a
+@coat3_short=warm jacket
+@coat3_long=A bit small, but it's thick and warm.
+
+@coat4_prefix=a
+@coat4_short=warm jacket
+@coat4_long=Smells a bit odd, but it's thick and warm.
+
+@shovel_prefix=a
+@shovel_short=shovel
+@shovel_long=A shovel. Good for digging.
+
+@gas_tank_prefix=a
+@gas_tank_short=propane tank
+@gas_tank_long=A tank filled with propane.
+
+@hose_prefix=a
+@hose_short=short hose
+@hose_long=A short rubber hose with screwable valves. Good for transmitting gas or liquids.
+
+@locket_prefix=a
+@locket_short=golden locket
+@locket_long=A golden locket I took from Barry's wife.
+
+@foodcan_short=can of meat
+@foodcan_long=The label claims it contains delicious canned meat, expiring in two weeks. Luckily we won't be around to see this.
+@foodcan_prefix=a
+
+@foodcanopen_short=opened can of meat
+@foodcanopen_long=Yuck. Looks and smells like dog food.
+@foodcanopen_prefix=an
+
+@knife_short=kitchen knife
+@knife_long=A rather blunt kitchen knife.
+@knife_prefix=a
+
+@flag_short=restaurant flag
+@flag_long=A big and thick sheet of red fabric with a picture of a tasty hamburger. I miss hamburgers.
+@flag_prefix=a
+
+@hook_short=hook
+@hook_long=A towing hook once attached to an RV.
+@hook_prefix=a
+
+@blanket_short=green blanket
+@blanket_long=It's thick, heavy, and also stained with what I hope was tea.
+@blanket_prefix=a
+
+@blanketb_short=blue blanket
+@blanketb_long=It's thick and heavy. It's also a bit dusty and hasn't been washed for quite some time.
+@blanketb_prefix=a
+
+@thermalb_short=thermal blanket
+@thermalb_long=Low-weight, low-bulk blanket made of heat-reflective thin silvery sheeting.
+@thermalb_prefix=a
+
+@generator_short=unfueled portable generator
+@generator_long=Well ... it's portable but still really heavy. And it doesn't seem to have any fuel in its tank.
+@generator_prefix=an
+
+@generator2_short=portable generator
+@generator2_long=With fuel in the tank this generator is heavier and even less portable.
+@generator2_prefix=a
+
+@gasheater_short=gas heater
+@gasheater_long=Loaded with a gas bottle, it can produce a lot of heat.
+@gasheater_prefix=a
+
+@gasheater_empty_short=empty gas heater
+@gasheater_empty_long=A gas-powered heater, heavy but still portable. Without a gas bottle it's not very useful, though.
+@gasheater_empty_prefix=an
+
+@wheel_short=car wheel
+@wheel_long=A car wheel taken from a wrecked pickup truck.
+@wheel_prefix=a
+
+@ext_cord_short=extension cord
+@ext_cord_long=A few meters of cord with an electrical socket at one end.
+@ext_cord_prefix=an
+
+@ac_short=portable air conditioner
+@ac_long=Big and heavy air-conditioning device with a exhaust pipe. It's portable but needs to be installed near an opening like a window, so the pipe can lead the hot air out.
+@ac_prefix=a
+
+@fan_short=fan
+@fan_long=An electrical fan.
+@fan_prefix=a
+
+@heater_short=electrical heater
+@heater_long=A device that blows hot air after plugging into electricity.
+@heater_prefix=an
+
+@fan_broken_short=broken fan
+@fan_broken_long=An electrical fan. Something rustles inside. The device is probably damaged somehow.
+@fan_broken_prefix=a
+
+@heater_broken_short=broken electrical heater
+@heater_broken_long=A device that blows hot air after plugging into electricity. Something rustles inside. The device is probably damaged somehow.
+@heater_broken_prefix=a
+
+@ext_cord_place_short=socket end of an extension cord
+@ext_cord_place_long=This is the end of an extension cord with sockets that I can plug things into.
+@ext_cord_place_prefix=the
+
+@ac_cord_short=air-conditioner power cord
+@ac_cord_long=An air-conditioner power cord.
+@ac_cord_prefix=an
+
+@heat_absorber1_short=Heat Absorber Tile (TM)
+@heat_absorber1_long=Not really sure what that's supposed to be. I should take a closer look...
+@heat_absorber1_prefix=a
+
+@heat_absorber2_short=Heat Absorber Tile (TM)
+@heat_absorber2_long=Not really sure what that's supposed to be. I should take a closer look...
+@heat_absorber2_prefix=a
+
+@heat_absorber3_short=Heat Absorber Tile (TM)
+@heat_absorber3_long=Not really sure what that's supposed to be. I should take a closer look...
+@heat_absorber3_prefix=a
+
+@heat_absorber1A_short=active Heat Absorber Tile (TM)
+@heat_absorber1A_long=Its surface is so cold! Seems like it's really absorbing the heat. I never knew this technology even existed.
+@heat_absorber1A_prefix=an
+
+@heat_absorber2A_short=active Heat Absorber Tile (TM)
+@heat_absorber2A_long=Its surface is so cold! Seems like it's really absorbing the heat. I never knew this technology even existed.
+@heat_absorber2A_prefix=an
+
+@heat_absorber3A_short=active Heat Absorber Tile (TM)
+@heat_absorber3A_long=Its surface is so cold! Seems like it's really absorbing the heat. I never knew this technology even existed.
+@heat_absorber3A_prefix=an
+
+@water1_short=bottle of water
+@water1_long=A small bottle of drinking water.
+@water1_prefix=a
+
+@water2_short=bottle of water
+@water2_long=A small bottle of drinking water.
+@water2_prefix=a
+
+@water3_short=bottle of water
+@water3_long=A small bottle of drinking water.
+@water3_prefix=a
+
+@water4_short=bottle of water
+@water4_long=A small bottle of drinking water.
+@water4_prefix=a
+
+@sledgehammer_short=sledgehammer
+@sledgehammer_long=A big, heavy hammer.
+@sledgehammer_prefix=a
+
+@puzzle_cable_short=connection wire
+@puzzle_cable_long=A connection wire.
+@puzzle_cable_prefix=a
+
+@fire_hose_short=fire hose
+@fire_hose_long=fire hose
+@fire_hose_prefix=a
+
+@sidereal_docs_short=fax document
+@sidereal_docs_long=A stack of papers I took from a fax machine in the Sidereal office.
+@sidereal_docs_prefix=
+
+@sidereal_xero_short=photocopier document
+@sidereal_xero_long=A stack of papers I took from a photocopier in the Sidereal office.
+@sidereal_xero_prefix=
+
+@sidereal_secrets_short=confidential document
+@sidereal_secrets_long=A stack of papers I took from a room behind a blocked door in the Sidereal office.
+@sidereal_secrets_prefix=
+
+@sidereal_id_short=ID badge
+@sidereal_id_long=An ID badge of a Sidereal Plexus worker
+@sidereal_id_prefix=an
+
+@sidereal_id_key_short=ID badge
+@sidereal_id_key_long=An ID badge of a Sidereal Plexus worker. I should take a closer look...
+@sidereal_id_key_prefix=an
+
+@revolver_0_short=revolver
+@revolver_0_long=A small handgun with a 6-cartridge cylinder. It's not loaded.
+@revolver_0_prefix=a
+
+@revolver_1_short=revolver
+@revolver_1_long=A small handgun with a 6-cartridge cylinder. It has 1 bullet.
+@revolver_1_prefix=a
+
+@revolver_2_short=revolver
+@revolver_2_long=A small handgun with a 6-cartridge cylinder. It has 2 bullets.
+@revolver_2_prefix=a
+
+@revolver_3_short=revolver
+@revolver_3_long=A small handgun with a 6-cartridge cylinder. It has 3 bullets.
+@revolver_3_prefix=a
+
+@revolver_4_short=revolver
+@revolver_4_long=A small handgun with a 6-cartridge cylinder. It has 4 bullets.
+@revolver_4_prefix=a
+
+@revolver_5_short=revolver
+@revolver_5_long=A small handgun with a 6-cartridge cylinder. It has 5 bullets.
+@revolver_5_prefix=a
+
+@revolver_6_short=revolver
+@revolver_6_long=A small handgun with a 6-cartridge cylinder. It's fully loaded with 6 bullets.
+@revolver_6_prefix=a
+
+@silencer_short=rifle silencer
+@silencer_long=It's a big silencer for rifles.
+@silencer_prefix=a
+
+@gun_ammo_short=box of revolver rounds
+@gun_ammo_long=A box full of revolver ammunition.
+@gun_ammo_prefix=a
+
+@rifle_ammo_short=box of rifle rounds
+@rifle_ammo_long=A box full of rifle ammunition.
+@rifle_ammo_prefix=a
+
+@scope_short=rifle scope
+@scope_long=It could be installed on a rifle, making it more accurate.
+@scope_prefix=a
+
+@rifle_so_6_prefix=a
+@rifle_so_6_short=silenced sniper rifle
+@rifle_so_6_long=A silenced sniper rifle. It has 6 bullets.
+
+@rifle_so_5_prefix=a
+@rifle_so_5_short=silenced sniper rifle
+@rifle_so_5_long=A silenced sniper rifle. It has 5 bullets.
+
+@rifle_so_4_prefix=a
+@rifle_so_4_short=silenced sniper rifle
+@rifle_so_4_long=A silenced sniper rifle. It has 4 bullets.
+
+@rifle_so_3_prefix=a
+@rifle_so_3_short=silenced sniper rifle
+@rifle_so_3_long=A silenced sniper rifle. It has 3 bullets.
+
+@rifle_so_2_prefix=a
+@rifle_so_2_short=silenced sniper rifle
+@rifle_so_2_long=A silenced sniper rifle with two bullets remaining.
+
+@rifle_so_1_prefix=a
+@rifle_so_1_short=silenced sniper rifle
+@rifle_so_1_long=A silenced sniper rifle. It has a single bullet left.
+
+@rifle_so_0_prefix=a
+@rifle_so_0_short=silenced sniper rifle
+@rifle_so_0_long=A silenced sniper rifle. It has no ammunition.
+
+@rifle_s_6_prefix=a
+@rifle_s_6_short=silenced rifle
+@rifle_s_6_long=A silenced rifle. It has 6 bullets.
+
+@rifle_s_5_prefix=a
+@rifle_s_5_short=silenced rifle
+@rifle_s_5_long=A silenced rifle. It has 5 bullets.
+
+@rifle_s_4_prefix=a
+@rifle_s_4_short=silenced rifle
+@rifle_s_4_long=A silenced rifle. It has 4 bullets.
+
+@rifle_s_3_prefix=a
+@rifle_s_3_short=silenced rifle
+@rifle_s_3_long=A silenced rifle. It has 3 bullets.
+
+@rifle_s_2_prefix=a
+@rifle_s_2_short=silenced rifle
+@rifle_s_2_long=A silenced rifle with two bullets remaining.
+
+@rifle_s_1_prefix=a
+@rifle_s_1_short=silenced rifle
+@rifle_s_1_long=A silenced rifle. It has a single bullet left.
+
+@rifle_s_0_prefix=a
+@rifle_s_0_short=silenced rifle
+@rifle_s_0_long=A silenced rifle. It has no ammunition.
+
+@rifle_o_6_prefix=a
+@rifle_o_6_short=sniper rifle
+@rifle_o_6_long=A sniper rifle. It has 6 bullets.
+
+@rifle_o_5_prefix=a
+@rifle_o_5_short=sniper rifle
+@rifle_o_5_long=A sniper rifle. It has 5 bullets.
+
+@rifle_o_4_prefix=a
+@rifle_o_4_short=sniper rifle
+@rifle_o_4_long=A sniper rifle. It has 4 bullets.
+
+@rifle_o_3_prefix=a
+@rifle_o_3_short=sniper rifle
+@rifle_o_3_long=A sniper rifle. It has 3 bullets.
+
+@rifle_o_2_prefix=a
+@rifle_o_2_short=sniper rifle
+@rifle_o_2_long=A sniper rifle with two bullets remaining.
+
+@rifle_o_1_prefix=a
+@rifle_o_1_short=sniper rifle
+@rifle_o_1_long=A sniper rifle. It has a single bullet left.
+
+@rifle_o_0_prefix=a
+@rifle_o_0_short=sniper rifle
+@rifle_o_0_long=A sniper rifle. It has no ammunition.
+
+@poison_prefix=a
+@poison_short=bottle of rat poison
+@poison_long=The label warning on the poison says that digesting it might cause nausea, internal bleeding, liver failure or even death. Jesus, were they trying to poison rats or elephants with this?
+
+@food_bag_prefix=a
+@food_bag_short=bag of food
+@food_bag_long=I took it from the thugs' camp at the construction site. It's just some wheat, but damn, it's better than nothing.
+
+@oil_prefix=a
+@oil_short=bottle of kitchen oil
+@oil_long=I doubt if I'll be making french fries with it but who knows. I'd better watch out where I spill it, because it won't just dry like water.
+
+@maggot_prefix=a
+@maggot_short=maggot
+@maggot_long=A disgusting maggot.
+
+@rock2_prefix=a
+@rock2_short=small rock
+@rock2_long=A small, round rock.
+
+@gloves_prefix=
+@gloves_short=protective gloves
+@gloves_long=A pair of leather biker gloves.
+
+@welder_prefix=a
+@welder_short=welding kit
+@welder_long=Welding equipment, together with a welder mask.
+
+@mixer_glass_prefix=a
+@mixer_glass_short=chemistry flask
+@mixer_glass_long=A chemistry flask.
+
+@pill_half_prefix=a
+@pill_half_short=pill casing
+@pill_half_long=A pill casing.
+
+@remote_prefix=a
+@remote_short=remote controller
+@remote_long=A slide projector remote.
+
+@outpost_card_prefix=an
+@outpost_card_short=access card
+@outpost_card_long=An access card. Looks super important.
+
+@batteries_prefix=
+@batteries_short=batteries
+@batteries_long=A handful of batteries.
+
+@gluegun_prefix=a
+@gluegun_short=glue gun with no batteries
+@gluegun_long=It's a battery-powered glue gun. While there is a tube of glue inside, there is no power to heat it and melt the glue.
+
+@gluegun_powered_prefix=a
+@gluegun_powered_short=glue gun
+@gluegun_powered_long=It works by melting the glue into sticky goo that quickly dries.
+
+@fingerprint_prefix=a
+@fingerprint_short=fingerprint impression
+@fingerprint_long=A fingerprint of a Sidereal Plexus researcher, molded on a piece of dried glue.
+
+@key3_prefix=a
+@key3_short=key with a label
+@key3_long=The label says "Lab 13"
+
+@vials1_prefix=a
+@vials1_short=set of vials
+@vials1_long=Each vial has a label with symbols.
+
+@vials2_prefix=a
+@vials2_short=set of vials
+@vials2_long=Each vial has a label with symbols.
+
+@metal_slab_prefix=a
+@metal_slab_short=metal plate
+@metal_slab_long=A flat piece of lightweight metal alloy.
+
+@duplexer_prefix=a
+@duplexer_short=duplexer
+@duplexer_long=An electronic device commonly found in radio and radar communications systems.
+
+@transmission_belt_prefix=a
+@transmission_belt_short=transmission belt
+@transmission_belt_long=A rubber belt that was used to connect two rotating parts of an engine.
+
+@air_tanks_prefix=
+@air_tanks_short=air tanks
+@air_tanks_long=They sure weigh a lot for just being air.
+
+@nav_chip_prefix=an
+@nav_chip_short=electronic chip
+@nav_chip_long=It says "Nav Chip" on the label.
+
+@lioh_filter_prefix=a
+@lioh_filter_short=LiOH filter
+@lioh_filter_long=A lithium hydroxide filter.
+
+@engine_calibrator_prefix=a
+@engine_calibrator_short=calibrator
+@engine_calibrator_long=A device used to calibrate engines so they give a steady, even thrust when fired.
+
+@manifest_prefix=a
+@manifest_short=cargo manifest
+@manifest_long=A manifest of items stored in crates carried by an unlucky cargo flight.
+
+@nuts_and_bolts_prefix=
+@nuts_and_bolts_short=nuts and bolts
+@nuts_and_bolts_long=A handful of nuts and bolts.
+
+@wires_prefix=
+@wires_short=wires
+@wires_long=A handful of copper wires.
+
+@voltmeter_prefix=a
+@voltmeter_short=voltmeter
+@voltmeter_long=This devices measures the voltage of electrical installations.
+
+@noodles_prefix=
+@noodles_short=instant noodles
+@noodles_long=A pack of instant noodles.
+
+@gasket_prefix=a
+@gasket_short=gasket
+@gasket_long=A flat rubber gasket to stop pipes from leaking.
+
+@mixer_pills_note_prefix=a
+@mixer_pills_note_short=chemical formula
+@mixer_pills_note_long=A note with a chemical formula on it.
+
+@mixer_catalyst_note_prefix=a
+@mixer_catalyst_note_short=chemical formula
+@mixer_catalyst_note_long=A note with a chemical formula on it.
+
+@pills_prefix=a
+@pills_short=handful of pills for lung efficiency
+@pills_long=A handful of pills that supposedly increase lung efficiency. I hope it's safe.
+
+@catalyst_prefix=a
+@catalyst_short=bottle of catalyst
+@catalyst_long=Chemical mixture that is supposed to increase fuel burning efficiency.
+
+@moon_card_prefix=an
+@moon_card_short=access card
+@moon_card_long=Looks super important.
+
+@broom_prefix=a
+@broom_short=broomstick
+@broom_long=An old wooden broomstick.
+
+@wire_prefix=a
+@wire_short=reel of wire
+@wire_long=A long reel of conductive wire.
+
+@bandage_prefix=a
+@bandage_short=bandage
+@bandage_long=A roll of clean bandage. I'd better keep this in case someone gets hurt.
+
+@sledge_handle_short=solid wooden pole
+@sledge_handle_long=Quite sturdy looking round pole.
+@sledge_handle_prefix=a
+
+@sledge_head_short=sledgehammer head
+@sledge_head_long=A heavy hammer head. Useless without a handle.
+@sledge_head_prefix=a
+
+@finger_short=human finger
+@finger_long=A mummified index finger. Why do I carry it around anyway...?
+@finger_prefix=a
+
+@disc1_prefix=a
+@disc1_short=floppy disk labeled "MEM BOOST"
+@disc1_long=Why does this feel so familiar and important at the same time? Why? I'd better carry it with me. Who knows when I might need it?
+
+@disc2_prefix=a
+@disc2_short=floppy disk labeled "PHASE CTRL LITE"
+@disc2_long=No idea why, but I feel like I've seen this thing before. It feels so important. I should keep it no matter what.
+
+@cate_note_prefix=a
+@cate_note_short=letter from Cate
+@cate_note_long=A blood-soaked letter from Cate. She slipped it in my pocket just before she died.
+
+@board1_prefix=a
+@board1_short=wooden board
+@board1_long=Wide wooden board, treated with some sort of sealer, judging by the smell.
+
+@board2_prefix=a
+@board2_short=wooden board
+@board2_long=Wide wooden board, treated with some sort of sealer, judging by the smell.
+
+@board3_prefix=a
+@board3_short=wooden board
+@board3_long=Wide wooden board, treated with some sort of sealer, judging by the smell.
+
+@stormcatcher1_prefix=a
+@stormcatcher1_short=Storm Catcher
+@stormcatcher1_long=This device supposedly repels thunderstorms, especially if three of them are installed in a triangle a few miles around the protected area.
+
+@stormcatcher2_prefix=a
+@stormcatcher2_short=Storm Catcher
+@stormcatcher2_long=This device supposedly repels thunderstorms, especially if three of them are installed in a triangle a few miles around the protected area.
+
+@stormcatcher3_prefix=a
+@stormcatcher3_short=Storm Catcher
+@stormcatcher3_long=This device supposedly repels thunderstorms, especially if three of them are installed in a triangle a few miles around the protected area.
+
+@tarpaulin_prefix=a
+@tarpaulin_short=folded sheet of tarp
+@tarpaulin_long=A big, folded sheet of thick tarp. It's heavier than it looks.

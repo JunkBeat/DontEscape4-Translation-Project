@@ -1,0 +1,51 @@
+@map_base_short=house on a hill
+@map_base_long=An abandoned house on a hill. Seems like a good place to stay.
+@map_base_prefix=the
+
+@map_gasstation_short=gas station
+@map_gasstation_long=Ruined gas station with some fuel still left in one tank.
+@map_gasstation_prefix=a
+
+@map_bridge_short=destroyed bridge
+@map_bridge_long=A collapsed bridge over a dry ravine.
+@map_bridge_prefix=a
+
+@map_cars_short=roadblock
+@map_cars_long=The road is blocked by wrecked cars.
+@map_cars_prefix=a
+
+@map_houseb_short=ruined house
+@map_houseb_long=This house has suffered a lot of damage.
+@map_houseb_prefix=a
+
+@map_restaurant_short=restaurant
+@map_restaurant_long=An old roadside burger joint.
+@map_restaurant_prefix=a
+
+@map_rv_short=RV
+@map_rv_long=A camping car parked in the middle of a desert.
+@map_rv_prefix=an
+
+@map_sidereal_short=City - Sidereal Plexus office
+@map_sidereal_long=The office building of the Sidereal Plexus corporation, located among the ruins of a once great city.
+@map_sidereal_prefix=
+
+@map_construction_short=construction site
+@map_construction_long=This was supposed to be a luxury settlement in the suburbs of the nearby city.
+@map_construction_prefix=a
+
+@map_hunters_short=hunter's lodge
+@map_hunters_long=A small hut in the middle of the forest.
+@map_hunters_prefix=a
+
+@map_outpost_short=spaceship outpost
+@map_outpost_long=Sidereal Plexus outpost with a spaceship launchpad...
+@map_outpost_prefix=a
+
+@map_bus_short=crashed bus
+@map_bus_long=Sidereal Plexus's bus.
+@map_bus_prefix=a
+
+@map_airplane_short=airplane
+@map_airplane_long=A crashed airplane in the middle of nowhere.
+@map_airplane_prefix=an

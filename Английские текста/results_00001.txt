@@ -1,0 +1,835 @@
+@bugs_intro=The evening sky darkened as a black cloud of the swarm arrived...
+@bugs_house=You found a hiding place in an abandoned farm house..
+@bugs_no_house=They caught you in the middle of nowhere. There was no chance to survive that.
+
+@bugs_sufix=insects
+
+@bugs_sprinklers_on=An automated sprinkler system kicked in as the swarm was getting near.
+
+@sprinklers_0%=Something was wrong though ... No water sprayed into the air.
+@sprinklers_25%=It didn't work very well. Only a little water sprayed into the air.
+@sprinklers_50%=It wasn't very efficient, but at least half of the sprinklers sprayed the evening sky with water.
+@sprinklers_75%=It was working surprisingly well. Most of the sprinklers sprayed water into the air.
+@sprinklers_100%=Despite being old and faulty, the sprinklers worked perfectly, fully covering the air above the fields with a dense mist.
+
+@bugs_sprinklers_pest1=There was a strong pesticide mixed with the water, making this wall of water more dangerous to the incoming swarm.
+@bugs_sprinklers_pest2=The water was saturated with strong pesticide. For the incoming swarm it was a deadly wall of poisonous mist.
+@bugs_sprinklers_result1=As a result,
+@bugs_sprinklers_result2=insects were stopped by the sprinklers.
+@bugs_sprinklers_result1b=The pesticide has killed
+@bugs_sprinklers_result2b=insects.
+
+@bugs_sonic_on=You deployed the Sonic Repellent Device to fend off some of the insects.
+@bugs_sonic_location_OK=It was placed near your hideout, so the signal was strong.
+@bugs_sonic_location_wrong=However, it was placed too far from the hideout, having no effect at all.
+@bugs_sonic_location_inside=It was placed inside the hideout. The walls probably weakened the signal.
+@bugs_sonic_frequency_wrong1=The device seemed to be set to the wrong frequency, only
+@bugs_sonic_frequency_wrong2=insects were scared off.
+@bugs_sonic_result1=The device seemed to be set to the correct frequency, fending off
+@bugs_sonic_result2=insects.
+
+@bugs_door1_closed1=The front door was closed, keeping away all of the
+@bugs_door1_closed2=locusts that would have entered through it.
+@bugs_door1_open=The front door was wide open, letting some insects in...
+
+@bugs_door2_closed1=The back door was closed, keeping away all of the
+@bugs_door2_closed2=locusts that would have entered through it.
+@bugs_door2_open=The back door was wide open, letting some insects in...
+
+@window1_open=The window on the ground floor was not blocked at all.
+@window1_bars=The window on the ground floor was reinforced with metal bars.
+@window1_foil=The window on the ground floor was covered with plastic wrap.
+@window1_net=The window on the ground floor was covered with a strong net.
+@window1_board=The window on the ground floor was covered with a sealed board.
+
+@window2_open=The window on the upper floor was not blocked at all.
+@window2_bars=The window on the upper floor was reinforced with metal bars
+@window2_foil=The window on the upper floor was covered with plastic wrap.
+@window2_net=The window on the upper floor was covered with a strong net.
+@window2_board=The window on the upper floor was covered with a sealed board.
+
+@window3_open=The bathroom window was not blocked at all.
+@window3_bars=The bathroom window was reinforced with metal bars
+@window3_foil=The bathroom window was covered with plastic wrap.
+@window3_net=The bathroom window was covered with a strong net.
+@window3_board=The bathroom window was covered with a sealed board.
+
+@window_broken_barricade=The remains of a previous barricade didn't help at all.
+@bars_none=The bars, however, were not attached to the frame in any way.
+@bars_taped=The bars were attached to the frame with a lot of duct tape.
+@bars_nailed=The bars were nailed to the frame.
+@bars_taped_nailed=The bars were attached to the frame with a lot of duct tape and nails.
+
+@board_none=The board, however, was not attached to the frame in any way.
+@board_taped=The board was attached to the frame with a lot of duct tape.
+@board_nailed=The board was nailed to the frame.
+@board_taped_nailed=The board was attached to the frame with a lot of duct tape and nails.
+
+@net_none=The net, however, was not attached to the frame in any way.
+@net_taped=The net was attached to the frame with a lot of duct tape.
+@net_nailed=The net was nailed to the frame.
+@net_taped_nailed=The net was attached to the frame with a lot of duct tape and nails.
+
+@foil_none=The foil, however, was not attached to the frame in any way.
+@foil_taped=The foil was attached to the frame with a lot of duct tape.
+@foil_nailed=The foil was nailed to the frame.
+@foil_taped_nailed=The foil was attached to the frame with a lot of duct tape and nails.
+
+@bugs_window_result1=Out of
+@bugs_window_result2=insects that tried to enter the house through that window,
+@bugs_window_result3=were stopped.
+
+@bugs_enter1=They got in...
+@bugs_enter2=insects entered the house.
+
+@bugs_flamethrower1=You had your homemade flamethrower ready as the swarm entered your room. Flames burst out at the locust, frying
+@bugs_flamethrower2=insects.
+
+@bugs_spray1=You had bug spray to defend yourself. Surprisingly, it worked. Some of the incoming insects died from direct contact with the fluid. It killed
+@bugs_spray2=insects.
+
+@bugs_bath1=You were hiding in the bathtub filled with water, waiting, breathing through a tiny straw. Insects were persistent on getting you, falling into the water.
+@bugs_bath2=of them drowned before the bathtub was completely filled with them, forcing you out.
+
+@bugs_fight_fists1=Your fists were your last line of defense. You managed to knock down
+@bugs_fight_fists2=insects with your bare hands.
+
+@bugs_fight_wrench1=A wrench was your last line of defense. You managed to knock down
+@bugs_fight_wrench2=insects with it.
+
+@bugs_fight_crowbar1=A crowbar was your last line of defense. You managed to knock down
+@bugs_fight_crowbar2=insects with it.
+
+@bugs_fight_pipe1=A short metal pipe was your last line of defense. You managed to knock down
+@bugs_fight_pipe2=insects with it.
+
+@bugs_fight_rifle1=A loaded rifle was your last line of defense. You missed most of the shots, but after using the weapon as a mace, you managed to knock down
+@bugs_fight_rifle2=insects with it.
+
+@gas_intro=The evening sky darkened when the toxic cloud of deadly gas arrived...
+@gas_house=You found a hiding place in an abandoned farmhouse..
+@gas_no_house=It caught you in the middle of nowhere. There was no chance to survive.
+
+@gas_sufix=%
+
+@gas_sprinklers_on=An automated sprinkler system kicked in as the cloud was getting near.
+@gas_sprinklers_chem_good=There was a strong neutralizer mixed with the water, and it seemed to be working...
+@gas_sprinklers_chem_bad=There was a strong chemical solution mixed with the water, but it didn't seem to be doing anything...
+@gas_sprinklers_result1=The water acted as a natural wall, stopping
+@gas_sprinklers_result2=% of the gas.
+@gas_sprinklers_result1b=The neutralizing solution stopped
+@gas_sprinklers_result2b=% of the initial cloud.
+
+@gas_door1_closed1=The front door was closed, however it was not airtight. It stopped
+@gas_door1_closed2=% of the cloud.
+@gas_door1_closed1T=The front door was closed, and the crack under it was covered with a towel, stopping
+@gas_door1_closed2T=% of the cloud.
+@gas_door1_open=The front door was wide open, letting the gas in...
+
+@gas_door2_closed1=The back door was closed, however it was not airtight. It stopped
+@gas_door2_closed2=% of the cloud.
+@gas_door2_closed1T=The back door was closed, and the crack under it was covered with a towel, stopping
+@gas_door2_closed2T=% of the cloud.
+@gas_door2_open=The back door was wide open, letting the gas in...
+
+@gas_window_result1=That window stopped
+@gas_window_result2=% of the incoming gas cloud.
+
+@gas_enter1=The deadly gas was inside...
+@gas_enter2=% of the initial cloud penetrated the hideout.
+
+@gas_groundfloor_wrong=You stayed on the ground floor. Unfortunately, the gas was denser than the air, so all of it went to the lower part of the house.
+@gas_groundfloor_good1=You stayed on the ground floor. The gas was lighter than the air, so some of it (
+@gas_groundfloor_good2=%) didn't affect you.
+
+@gas_firstfloor_wrong=You stayed on the upper floor. Unfortunately, the gas was lighter than the air, so all of it went the the upper part of the house.
+@gas_firstfloor_good1=You stayed on the upper floor. The gas was heavier than the air, so some of it (
+@gas_firstfloor_good2=%) didn't affect you.
+
+@gas_hazmat_dd_1=The hazmat suit was faulty. There was a hole in it, and the air filter was damaged, so it only stopped
+@gas_hazmat_dd_2=% of the gas cloud.
+
+@gas_hazmat_rd_1=The hazmat suit was faulty. The air filter was damaged, so the suit only stopped
+@gas_hazmat_rd_2=% of the gas cloud.
+
+@gas_hazmat_dr_1=The hazmat suit was faulty. There was a hole in it, so it only stopped
+@gas_hazmat_dr_2=% of the gas cloud.
+
+@gas_hazmat_rr_1=The hazmat suit was fully operational, and it stopped
+@gas_hazmat_rr_2=% of the gas cloud.
+
+@gas_hazmat_no=You were not protected against the gas in any other way...
+
+@spiders_sufix=spiders
+
+@spiders_intro=The evening sky darkened as a pack of huge spiders followed your scent...
+@spiders_house=You found a hiding place in an abandoned farmhouse..
+@spiders_no_house=They caught you in the middle of nowhere. There was no chance to survive.
+@spiders_sprinklers_on=An automated sprinkler system kicked in as the pack was getting near.
+@spiders_sprinklers_result=The spiders were not afraid of water at all...
+@spiders_sprinklers_pest1=However, there was a strong repellent mixed with the water.
+@spiders_sprinklers_result1b=It scared off
+@spiders_sprinklers_result2b=spiders.
+@spiders_sprinklers_result1fail=It didn't do too well. It probably wasn't matched to the correct species, so it only scared off one spider.
+
+@spiders_trap=You decided to set up some traps outside the house...
+@spiders_trap_b=You decided to set up some traps inside the house...
+@spiders_trap1a=You placed a trap outside your hideout. One of the spiders walked right into it.
+@spiders_trap2a=You placed two traps outside your hideout. Two of the spiders walked right into them.
+
+@spiders_trap1b=You placed a trap inside your hideout. One of the spiders walked right into it.
+@spiders_trap2b=You placed two traps inside your hideout. Two of the spiders walked right into them.
+
+@spiders_trap3=However, in the end no trap was placed anywhere near your hiding place.
+
+@spiders_door1_closed1=The front door was closed, keeping away all of the
+@spiders_door1_closed2=spiders that would have entered through it.
+@spiders_door1_open=The front door was wide open, letting some spiders in...
+
+@spiders_door2_closed1=The back door was closed, keeping away all of the
+@spiders_door2_closed2=spiders that would have entered through it.
+@spiders_door2_open=The back door was wide open, letting some spiders in...
+
+@spiders_window_result1=Out of
+@spiders_window_result2=spiders that tried to enter the house through that window,
+@spiders_window_result3=were stopped.
+@spiders_window_result_singular=was stopped.
+@spiders_window_break=The rest broke inside, destroying the blockade.
+@spiders_enter1=They got in...
+@spiders_enter2=giant spiders entered the house.
+
+@spiders_flamethrower1=You had your homemade flamethrower ready, as spiders entered your room. Flames burst at them, frying
+@spiders_flamethrower2=spiders.
+@spiders_rifle1=You had your rifle prepared to fire. It wasn't the best weapon to kill those fast-moving beasts, but somehow you managed to shoot
+@spiders_rifle2=of them.
+
+@spiders_fight_fists1=Your fists were your last line of defense. You managed to knock down
+@spiders_fight_fists2=spiders with your bare hands.
+
+@spiders_fight_wrench1=A wrench was your last line of defense. You managed to knock down
+@spiders_fight_wrench2=spiders with it.
+
+@spiders_fight_crowbar1=A crowbar was your last line of defense. You managed to knock down
+@spiders_fight_crowbar2=spiders with it.
+
+@spiders_fight_pipe1=A short metal pipe was your last line of defense. You managed to knock down
+@spiders_fight_pipe2=spiders with it.
+
+@day1_spiders_perfect=That's all of them. You fended off all of the spiders before they even entered the house.
+@day1_spiders_good=That's all of them. You fended off all of the spiders before they had a chance to hurt you.
+@day1_spiders_poor1=Despite your best efforts,
+@day1_spiders_poor2=of the spiders got through your defenses. Each bite of their sharp teeth pumped venom into your body. ^But it wasn't enough to kill you. Somehow you managed to put down each attacker.
+@day1_spiders_bad1=There were too many of them...
+@day1_spiders_bad2=spiders swarmed around you and despite your efforts to defend yourself, despite killing some of them, you were defeated... ^Paralyzed with venom, slowly digested from the inside, you witnessed your own demise in the worst possible way.
+
+@day1_bugs_perfect=That's all of them. You fended off all of the insects before they even entered the house.
+@day1_bugs_good=That's all of them. You fended off all of the insects before they had a chance to hurt you.
+@day1_bugs_poor1=Despite your best efforts,
+@day1_bugs_poor2=insects got through your defenses. Their bites were painful, as their tiny sharp teeth shredded your skin, leaving blood-soaked marks. But it wasn't enough to kill you. Somehow you managed to tear each attacker off your body and kill them in a chaotic, dirty fight.
+@day1_bugs_bad1=The swarm of
+@day1_bugs_bad2=covered your body, their sharp teeth taking chunks of your flesh off from each of the hundred bites. The death was painful and slow, not merciful at all.
+
+@day1_gas_perfect=That was amazing. By spraying chemicals, air-tightening the windows and staying on the right floor, you completely avoided all of the toxic clouds. You didn't even have to wear the hazmat suit.
+@day1_gas_good=Good thing you had that hazmat suit ready. Despite the toxic, corrosive cloud entering the room, you didn't feel a thing. You were safe.
+@day1_gas_poor1=Despite your efforts, you learned the smell and taste of toxins.
+@day1_gas_poor2=% of the cloud reached your body, burning it and making you vomit whatever you had in your stomach. ^Luckily it wasn't enough to kill you.
+@day1_gas_bad1=Right from the get-go it didn't look good. There was too much gas.
+@day1_gas_bad2=% of the cloud caused you to begin to choke. You experienced a burning sensation all over your skin as you began to bleed out with sizzling blood.
+
+@day1_bonus=You went to bed early and had a well-deserved rest, allowing you to regain some strength. ^^[+5 kg permanent carry weight bonus]
+@day1_normal=You survived to see another day...
+@day1_penalty=Exhausted and barely conscious, you were barely able to reach the bed. ^^[+1 hour penalty added to the next day clock]
+@day1_death=That was a painful death. Just like in your nightmare... ^Maybe there was something that could have been done to prevent it...?
+
+@day2_heat_perfect=It wasn't as bad as you thought it would be. Conditions outside were harsh, but in your hideout everything was absolutely fine. You didn't even sweat much.
+@day2_heat_good=It was hot, but not too hot. You prepared well.
+@day2_heat_poor=You survived the heat wave ... Barry wasn't that lucky.
+@day2_heat_bad=It was just too hot. You felt like your own blood was boiling ... and you weren't too far from the truth.
+
+@day2_cold_perfect=It wasn't as bad as you thought it would be. Conditions outside were harsh, but in your hideout everything was absolutely fine. It got a bit chilly, but you didn't even need to put the coat on.
+@day2_cold_good=It was cold - really cold - but it wasn't deadly. You were well prepared.
+@day2_cold_poor=You survived ... Cody wasn't that lucky.
+@day2_cold_bad=You gradually shut down, bit by bit, eventually unable to feel anything. Before doing so, the pain of your limbs turning to blocks of ice was almost unbearable.
+
+@day2_bonus=You were able to rest much more comfortably than you thought you would. ^^[+5 kg permanent carry weight bonus]
+@day2_normal=You survived to see another day...
+@day2_penalty=The remaining survivors gathered behind the house at dawn and started digging a grave for a fallen friend... ^^[+1 hour penalty added to the next day clock]
+@day2_death=That was a painful death. Just like in your nightmare... ^Maybe there was something that could have been done to prevent it...?
+
+@day3_thugs_perfect=You managed to repel the attackers before they even got into your house. That was a terrifying performance on your side. Who would have thought you're such an efficient killer?
+@day3_thugs_good=The fight was tough, but with the tactical advantage of your hideout and proper preparations you managed to defeat them all with just some minor wounds on your end.
+@day3_thugs_poor=The fight was tougher than you thought. You defeated them, but not without any losses on your end...
+@day3_thugs_bad=There were too many of them ... or you were not prepared well enough.
+
+@day3_storm_perfect=You managed to prepare for the storm perfectly. You ended up completely dry, not even shaken by the strong winds, untouched by the loud thunderstorms and burning acid. This meant some well-deserved sleep.
+@day3_storm_good=The roof was already leaking, but not much of the rain water managed to pour inside. You were safe.
+@day3_storm_poor=The acid rain was everywhere, pouring down the walls and under your soaked clothes. Somehow you managed to survive, but not everyone was that lucky.
+@day3_storm_bad=It was too much. As you were standing knee-deep in murky, acid rain, a nearby lightning strike turned out to be your demise.
+
+@day3_bonus=You prepared your hideout perfectly and it paid off. Not only did you survive, but you also had some good rest last night. ^^[+5 kg permanent carry weight bonus]
+@day3_normal=You survived to see another day...
+@day3_penalty1=You survived ... but not all of your friends were that lucky. The remaining survivors gathered at dawn behind the house and started digging a grave for a fallen friend... ^^[+1 hour penalty added to the next day clock]
+@day3_penalty2=You survived ... but your friends weren't that lucky. You and Cate went behind the house at dawn and started digging a grave for fallen friends... ^^[+2 hours penalty added to the next day clock]
+@day3_death=That was a painful death. Just like in your nightmare... ^Maybe there was something that could have been done to prevent it...?
+
+@hot_sufix=%
+@hot_intro1=The desert usually gets cold in the evening. Not this time.
+@hot_intro2=The heat surge was incredibly strong as the wave of boiling hot air moved through the land.
+@hot_house=You found shelter in a house, hoping it would save you from the deadly heat...
+@hot_cave=You found shelter in a cave underground, hoping it would save you from the deadly heat...
+@hot_cave_result1=The cave proved to be a good shelter, as it shielded
+@hot_cave_result2=% of the initial heat wave.
+
+@hot_door1_open=The front door was left open, letting a lot of hot air in.
+@hot_door1_closed1T=The front door was closed and kept air-tight with a towel placed under the crack. This weakened the wave of heat by
+@hot_door1_closed2T=% of its initial power.
+@hot_door1_closed1=The front door was closed. This weakened the wave of heat by
+@hot_door1_closed2=% of its initial power.
+@hot_door2_open=The back door was left open, letting a lot of hot air in.
+@hot_door2_closed1T=The back door was closed and kept air-tight with a towel placed under the crack. This weakened the wave of heat by
+@hot_door2_closed2T=% of its initial power.
+@hot_door2_closed1=The back door was closed. This weakened the wave of heat by
+@hot_door2_closed2=% of its initial power.
+@hot_window_result1=As a result, that window blocked
+@hot_window_result2=% of the initial heat wave.
+
+@cave_therm=The cave's entrance was covered with a thermal blanket, cutting off a lot of heat.
+@cave_blanket=The cave's entrance was covered with a thick blanket, cutting off a lot of heat.
+@cave_blanketb=The cave's entrance was covered with a thick blanket, cutting off a lot of heat.
+@cave_flag=The cave's entrance was covered with a big flag, cutting off a lot of heat.
+@cave_empty=The cave's entrance wasn't covered with anything.
+
+@hot_hatch_result1=With a large hole in the attic, the hatch was an important air-flow route. The blockade stopped
+@hot_hatch_result2=% of the initial heat wave.
+@hot_kitchen_oven=You turned on an oven in the kitchen. Its heat definitely didn't help.
+@hot_oven_result_1=The oven raised the temperature even more, adding about
+@hot_oven_result_2=% of the initial heat.
+@hot_kitchen_fan=You plugged in an electric fan in the kitchen.
+@hot_base_fan=You plugged in an electric fan in the main room.
+@hot_cave_fan=You plugged in an electric fan in the cave.
+@hot_fan_wrong_room=Too bad you were staying elsewhere, making the fan less effective...
+@hot_fan_result_1=The air circulation helped to lower the temperature, deducting
+@hot_fan_result_2=% of the initial heat surge.
+@hot_base_ac=A portable air conditioner was placed in the main room by the window.
+@hot_cave_ac=A portable air conditioner was placed in the cave, with its pipe stretching above the ground.
+@hot_ac_base_wrong=Too bad you were staying elsewhere, making the AC less effective...
+@hot_ac_result_1=The cool air from the air conditioner dispersed about
+@hot_ac_result_2=% of the initial heat wave.
+@hot_absorber_base_1=You placed a heat absorber in one of the rooms.
+@hot_absorber_base_2=You placed two heat absorbers around the house.
+@hot_absorber_base_3=You placed three heat absorbers around the house.
+@hot_absorber_cave_1=You placed a heat absorber on the cave's floor.
+@hot_absorber_cave_2=You placed two heat absorbers on the cave's floor.
+@hot_absorber_cave_3=You placed three heat absorbers on the cave's floor.
+@hot_wrong_absorber_1=One absorber wasn't in the room you were staying in, making it less effective.
+@hot_wrong_absorber_2=Two absorbers weren't in the room you were staying in, making them less effective.
+@hot_wrong_absorber_3=Three absorbers weren't in the room you were staying in, making them less effective.
+@hot_absorber_result_1a=The heat-absorbing power of that peculiar tile got rid of
+@hot_absorber_result_1b=The heat-absorbing power of those weird tiles got rid of
+@hot_absorber_result_2=% of the hot air.
+
+@cold_absorber_1=Activating a heat absorber and keeping it close while the temperature was so low might not have been the best idea...
+@cold_absorber_2=Activating heat absorbers and keeping them close while the temperature was so low might not have been the best idea...
+@cold_absorber_3=Activating heat absorbers and keeping them close while the temperature was so low might not have been the best idea...
+@cold_absorber_result_1=It cooled down the temperature, bringing
+@cold_absorber_result_2=% of the initial cold wave back.
+
+@hot_ac_off=The air conditioner was ready ... but the power wasn't on. It had no effect.
+@hot_fan_off=The electric fan was ready ... but the power wasn't on. It didn't do anything...
+
+@hot_fan_cave_no_fuel=The RV's engine wasn't running, so the battery powering the fan ran out pretty quickly, making it far less effective.
+@hot_ac_cave_no_fuel=The RV's engine wasn't running, so the battery powering the air conditioner ran out pretty quickly, making it far less effective.
+
+@hot_ginger_water=You gave Cate a bottle of water. Drinking enough fluids is really important when exposed to the tremendous heat. It surely helped her.
+@hot_cody_water=You gave Cody a bottle of water. Maybe this saved his life, providing him with much needed fluids.
+@hot_barry_water=You gave Barry a bottle of water. He was already sweating and losing a lot of water, so it was crucial to keep him hydrated. Who knows - maybe you saved his life?
+@hot_barry_dead_water=You gave Barry a bottle of water. He was severely dehydrated, and unfortunately the water didn't help. He died quietly after his body gave up...
+@hot_barry_dead_hot=Barry wasn't moving. He was dehydrated and losing too much water due to sweating. He was long gone before you noticed.
+
+@hot_water=You had a bottle of water. Warm and unpleasant, but wet. It helped you fight off dehydration caused by the intense heat.
+@hot_water_result_1=Drinking it worked as if the initial heat wave was reduced by
+@hot_water_result_2=%.
+
+@hot_no_house=Without a place to hide, you were burned to a crisp in a matter of minutes.
+
+@cold_sufix=%
+
+@cold_intro1=It was cold already during the day, but when the sun disappeared behind the horizon, the temperature dropped even lower.
+@cold_intro2=It got so cold that everything in the area that was alive and hadn't found a shelter was frozen almost instantly.
+@cold_house=You found shelter in a house, hoping it would save you from the wave of cold death...
+@cold_door1_open=The front door was left open, letting a lot of cold air in.
+@cold_door1_closed1T=The front door was closed and kept air-tight with a towel placed under the crack. This weakened the wave of cold by
+@cold_door1_closed2T=% of the initial freezing power.
+@cold_door1_closed1=The front door was closed. This weakened the wave of cold by
+@cold_door1_closed2=% of the initial freezing power.
+@cold_door2_open=The back door was left open, letting a lot of cold air in.
+@cold_door2_closed1T=The back door was closed and kept air-tight with a towel placed under the crack. This weakened the wave of cold by
+@cold_door2_closed2T=% of the initial freezing power.
+@cold_door2_closed1=The back door was closed. This weakened the wave of cold by
+@cold_door2_closed2=% of the initial freezing power.
+@cold_window_result1=As a result, that window blocked
+@cold_window_result2=% of the initial cold wave.
+@window1_blanketb=The window on the ground floor was covered with a thick blanket.
+@window2_blanketb=The window on the upper floor was covered with a thick blanket.
+@window3_blanketb=The window in the bathroom was covered with a thick blanket.
+@window1_blanket=The window on the ground floor was covered with a thick blanket.
+@window2_blanket=The window on the upper floor was covered with a thick blanket.
+@window3_blanket=The window in the bathroom was covered with a thick blanket.
+@window1_flag=The window on the ground floor was covered with a restaurant flag.
+@window2_flag=The window on the upper floor was covered with a restaurant flag.
+@window3_flag=The window in the bathroom was covered with a restaurant flag.
+@window1_therm=The window on the ground floor was covered with a silver thermal blanket.
+@window2_therm=The window on the upper floor was covered with a silver thermal blanket.
+@window3_therm=The window in the bathroom was covered with a silver thermal blanket.
+@therm_taped_nailed=It was nailed to the frame and taped with duct tape.
+@therm_taped=The thermal blanket was taped with duct tape.
+@therm_nailed=The thermal blanket was nailed to the window frame.
+@therm_none=The thermal blanket was just hanging there, swept away by the wind.
+@flag_taped_nailed=The flag was both nailed and taped with duct tape to the wall.
+@flag_taped=The flag was taped with duct tape.
+@flag_nailed=The flag was nailed to the window frame.
+@flag_none=The flag was just hanging there, swept away by the wind.
+@blanket_taped_nailed=The blanket was nailed to the frame and taped with duct tape.
+@blanket_taped=The blanket was taped to the wall with duct tape.
+@blanket_nailed=The blanket was nailed to the frame.
+@blanket_none=The blanket was just hanging there, swept away by wind.
+@blanketb_taped_nailed=The blanket was nailed to the frame and taped with duct tape.
+@blanketb_taped=The blanket was taped to the wall with duct tape.
+@blanketb_nailed=The blanket was nailed to the frame.
+@blanketb_none=The blanket was just hanging there, swept away by wind.
+@hatch_therm=You put a thermal blanket in the opening in the ceiling.
+@hatch_flag=You put a restaurant flag in the opening in the ceiling.
+@hatch_blanketb=You put a thick blanket in the opening in the ceiling.
+@hatch_blanket=You put a thick blanket in the opening in the ceiling.
+@hatch_empty=You didn't put anything in the roof ceiling.
+@cold_hatch_result1=With a large hole in the attic, the hatch was an important air-flow route. It stopped
+@cold_hatch_result2=% of the initial cold wave.
+@cold_fire_lit=The fire was burning in the fireplace.
+@cold_fire_lit_result_1=It was generating a lot of heat, countering
+@cold_fire_lit_result_2=% of the initial cold wave.
+@cold_fire_cold_wind=During the night a sudden strong gust of wind almost put the fire out...
+@cold_fire_extra_kindling2=You had a lot of spare kindling for such an occasion: to relight the fire or make the flame bigger. You didn't lose any heat.
+@cold_fire_extra_kindling1=You had some spare kindling to help relight the fire or to make the flame bigger.
+@cold_fire_no_extra_kindling=You had no spare kindling in the basket by the fireplace, so it was a stressful fight to keep the fire lit.
+@cold_fire_extra_kindling_result1=As a result, you lost some of the heat.
+@cold_fire_extra_kindling_result2=% of the initial cold wave, to be precise.
+@cold_fire_supplies_full=The basket by the fireplace was full of fuel to burn. It kept the fire going till dawn.
+@cold_fire_supplies_some=There was some additional fuel for the fireplace in the basket.
+@cold_fire_supplies_none=There was no additional fuel for the fireplace in the basket.
+@cold_fire_supplies_result_1=The fire went out somewhere around
+@cold_fire_supplies_result_2=hours before dawn. The air began to cool again, and
+@cold_fire_supplies_result_3=% of the initial cold wave returned in the form of a chilly wind from the outside.
+@fire_no_lit=The fireplace was not lit. That didn't help at all!
+@fire_not_lit_unclogged_1=What's even worse, after you unclogged it, cold air came streaming down through the chimney!
+@fire_not_lit_unclogged_2=% of the cold wave entered the room through it.
+@cold_kitchen_oven=You turned on an oven in the kitchen, hoping it would heat the air around it.
+@cold_oven_wrong_room=Too bad you were staying in the other room, making it less effective.
+@cold_oven_result_1=As a result, the oven raised the temperature a bit, dispersing about
+@cold_oven_result_2=% of the initial freezing wind power.
+@cold_kitchen_heater=You plugged in an electric heater in the kitchen.
+@cold_base_heater=You plugged in an electric heater in the main room.
+@cold_heater_wrong_room=Too bad you were staying elsewhere, making the heater less effective...
+@cold_heater_result_1=The hot air it blew raised the temperature around it, deducting
+@cold_heater_result_2=% of the initial cold wave.
+@cold_kitchen_oven_off=The oven was open, but the power wasn't on. It had no effect.
+@cold_heater_off=The electric heater was ready, but the power wasn't on. It didn't do anything...
+@cold_gasheater=A portable gas heater was placed in one of the rooms.
+@cold_gasheater_wrong_room=Too bad the gas heater was not placed in the room you were staying in, making it less effective...
+@cold_gasheater_result_1=The warmth from the gas heater dispersed about
+@cold_gasheater_result_2=% of the initial freezing air.
+@cold_ginger_coat=You gave Cate a warm coat. With its help she managed to overcome the cold weather unharmed.
+@cold_barry_coat=You gave Barry a warm coat. Perhaps it saved his life, providing some extra warmth that everyone needed.
+@cold_cody_coat=You gave Cody a coat - nice and warm. Maybe it saved his life, shielding him from the cold wind.
+@cold_cody_dead_coat=You gave Cody a coat - nice and warm. But it didn't help. The cold was too severe, his body too fragile. And you promised him safety...
+@cold_cody_dead_cold=The boy was sitting by the wall ... Calm and steady, he stopped moving. Before you noticed, he was gone ... His body was too fragile for those freezing winds.
+@cold_coat=You wore an old coat that you found in the wasteland. It was thick and warm.
+@cold_coat_result_1=Wearing this coat shielded you from
+@cold_coat_result_2=% of the initial cold wave.
+@cold_no_house=Without a solid hideout, it didn't take long for the cold wind to turn you into an ice cube...
+
+@bandits_sufix=raiders
+
+@r_d3_0_1a1=A group of raiders commanded by a man named Razor arrived by dusk. They weren't trying to hide, circling your hideout with their bikes, engines roaring, angry voices screaming.
+
+@r_d3_0_1a2="Your time for slaughter has come, piglets," Razor himself shouted through a megaphone. "And I will be your wolf!"
+@r_d3_0_1b1=You tried to escape, but Razor's men tracked you down. Your hiding place did not provide you with any defense. ^It was a slaughter.
+
+@r_d3_0_2=Some of his gang was missing...
+
+@r_d3_0_3a1=Two thugs found a fine bottle of whiskey in their supplies. How can you say no to an opportunity like that?
+@r_d3_0_3a2=They were too drunk to move out and were left to sober up. They missed the whole party.
+
+@r_d3_0_4a1=The dinner that day tasted weird. Some of the gang members complained about headaches and stomach troubles. One of them simply died, choking on his own vomit. Another two were unable to fight.
+@r_d3_0_4a2=The poison neutralized 3 people in total.
+
+@r_d3_0_5a1=When they found a guard shot in the head they had no idea who had done it.
+@r_d3_0_5a2=For you, it simply meant there was one fewer thug to worry about.
+
+@r_d3_0_5b1=The guard you shot with a sleeping dart woke up with no recollection of what had actually happened.
+@r_d3_0_5b2=All other gang members had left the camp by that time, leaving him behind.
+
+@r_d3_0_6a1=Sarge never returned from the gas station.
+@r_d3_0_6a2=He's probably still there, his brain splattered all over the pavement.
+
+@r_d3_0_6b1=Sarge was about to talk with his men about leaving Razor's group when the poisoning happened.
+@r_d3_0_6b2=One of the victims was his squad member. Sarge knew who put that poison there. The deal was off. It was time to seek revenge.
+
+@r_d3_0_6c1=When the bandits moved out from their base, a small group split from them and went in the opposite direction.
+@r_d3_0_6c2=Sarge wasn't brave enough to confront Razor, but he thought things through sufficiently. He and his four men never showed up to attack you.
+
+@r_d3_0_7=men, including Razor, closed in to attack.
+
+@r_d3_0_8a1=You placed a sonic mine near your hideout...
+@r_d3_0_8a2=As Razor's men advanced, it went off - a sound undetectable to the human ear sent 3 of them into a long, deep coma-like sleep...
+
+@r_d3_0_9a1=The attackers opened fire.
+@r_d3_0_9a2=Bullets swooshed through the air. Some flew far too close to your head, decorating the walls of the house with numerous small holes.
+
+@r_d3_0_10a1=Some of the guns didn't spit out any deadly projectiles. With a dry *click* they refused to work properly. Did someone meddle with their ammo supply?
+
+@r_d3_0_10a2=Three of the attackers found themselves unarmed and had to retreat before the attack had even truly started.
+
+@r_d3_0_11a1=Sitting in the upstairs window, armed with a dart-gun, you fired at the attackers. Despite the bandits shooting in your direction, you managed to hit two of them, sending them to a deep and sound compulsory sleep.
+
+
+@r_d3_0_11b1_a=Sitting in the upstairs window, armed with a rifle, you fired at the attackers.
+@r_d3_0_11b1_b=Sitting in the window, armed with a rifle, you fired at the attackers.
+@r_d3_0_11b1_c=Sitting in the attic by the hole, armed with a rifle, you fired at the attackers.
+@r_d3_0_11b1_d=Sitting on the roof, armed with a rifle, you fired at the attackers.
+
+@r_d3_0_11b2-4=Despite the bandits shooting in your direction, you managed to hit four of them, sending them to the dusty dirt. They didn't get up afterwards.
+@r_d3_0_11b2-3=Despite the bandits shooting in your direction, you managed to hit three of them, sending them to the dusty dirt. They didn't get up afterwards.
+@r_d3_0_11b2-2=Despite the bandits shooting in your direction, you managed to hit two of them, sending them to the dusty dirt.  
+@r_d3_0_11b2-1=Despite the bandits shooting in your direction, you managed to hit one of them, sending him to the dusty dirt.  You could have gotten more had you fully loaded the gun with ammo.
+@r_d3_0_11b2-0=You ran out of ammo. You didn't shoot anyone.
+
+
+@r_d3_0_11c1_a=Sitting in the upstairs window, armed with a sniper rifle, you fired at the attackers.
+@r_d3_0_11c1_b=Sitting in the window, armed with a sniper rifle, you fired at the attackers.
+@r_d3_0_11c1_c=Sitting in the attic by the hole, armed with a sniper rifle, you fired at the attackers.
+@r_d3_0_11c1_d=Sitting on the roof, armed with a sniper rifle, you fired at the attackers.
+
+@r_d3_0_11c2-6=With a view enhanced by a scope and in a perfect shooting position, you managed to hit six of them, sending them to the dusty dirt. They didn't get up afterwards.
+@r_d3_0_11c2-5=With a view enhanced by a scope, you managed to hit five of them, sending them to the dusty dirt. They didn't get up afterwards.
+@r_d3_0_11c2-4=With a view enhanced by a scope, you managed to hit four of them, sending them to the dusty dirt. They didn't get up afterwards.
+@r_d3_0_11c2-3=With a view enhanced by a scope, you managed to hit three of them, sending them to the dusty dirt. You could have gotten more had you fully loaded the gun with ammo.
+@r_d3_0_11c2-2=With a view enhanced by a scope, you managed to hit two of them, sending them to the dusty dirt. You could have gotten more had you fully loaded the gun with ammo.
+@r_d3_0_11c2-1=With a view enhanced by a scope, you managed to hit one of them, sending him to the dusty dirt. You could have gotten more had you fully loaded the gun with ammo.
+@r_d3_0_11c2-0=A view enhanced by a scope didn't help you much since you were out of ammo. You didn't shoot anyone.
+
+@r_d3_0_12a0=Keeping some extra ammo near was a good idea, even if it was accidental.
+@r_d3_0_12a1=With that extra ammo you managed to shoot one more thug as he was nearing the house.
+
+@r_d3_0_12a_last=The last remaining attacker - Razor - was left alone, as you loaded extra ammo that you wisely kept near. You took your aim.
+
+@r_d3_0_13a1=Before dusk you placed a trap near your house...
+
+@r_d3_0_13a2=Maybe one was not enough - nobody was caught.
+
+@r_d3_0_13b1=Before dusk you placed some traps around your house...
+
+@r_d3_0_13b2=Out of
+@r_d3_0_13b3=traps set,
+@r_d3_0_13b4a1=caught Razor's men. Hurt and unable to proceed, they retreated, happy to be alive.
+@r_d3_0_13b4b1=one caught Razor's man. Hurt and unable to proceed, he retreated, happy to be alive.
+@r_d3_0_13b4c1=Razor, alone and angry, stepped right into one of the traps.
+
+@r_d3_0_14a1=You closed and locked the front door.
+@r_d3_0_14b1=You closed the front door, however you forgot to lock it. Unfortunately for you, the raiders knew how to use door handles.
+@r_d3_0_14c1=You didn't close the front door...
+
+@r_d3_0_15a1=You closed and locked the back door.
+@r_d3_0_15b1=You closed the back door, however you forgot to lock it. The raiders were able to simply open it...
+@r_d3_0_15c1=You didn't close the back door...
+
+@r_d3_0_16a1=You put solid metal bars in the ground floor window.
+@r_d3_0_16b1=You tried blocking the ground floor window, but a simple knife stab was all it took to split your barricade open.
+@r_d3_0_16c1=You didn't block the ground floor window...
+
+@r_d3_0_17a1a1=With a clear way into your hideout,
+@r_d3_0_17a1a2=bandits payed you a visit.
+@r_d3_0_17a1a3=Cate managed to shoot one of them before she had to run upstairs.
+@r_d3_0_17a1a4=Cate didn't even have enough time to shoot once. She had to run upstairs.
+
+@r_d3_0_17a1b1=One remaining attacker - Razor himself - walked into your hideout.
+@r_d3_0_17a1b2=Cate was waiting for him with a gun ready to fire.
+
+@r_d3_0_17b1a1=While they were forcing their way in, Cate shot
+@r_d3_0_17b1a2=of them with cold blood.
+@r_d3_0_17b1a3=After that, she had to retreat upstairs as entry to the house was breached.
+
+@r_d3_0_17b1b1=One remaining attacker - Razor himself - was trying to force his way into your hideout.
+@r_d3_0_17b1b2=Cate simply opened the door and put her gun to his head.
+
+@r_d3_0_18a1=Cody was nervously looking at a revolver in his hand. The gun wasn't big but in his case it looked huge and it weighted a tone. He practiced with you a lot that day. But was that enought for a 10-year-old to defend himself?
+
+@r_d3_0_18a2=He aimed and pulled the trigger, trying not to look away as the recoil almost sent him to the ground.
+@r_d3_0_18a3a1=One of the approaching bandits has slowly fell on his back, stretching his arms wide. In his last moments he couldn't accept the fact that he was killed by a kid.
+
+@r_d3_0_18a3b1=Razor only looked down to check if the bullet had reached him and laughed when he found no wound. ^Cody missed. ^What Razor had not noticed, however, was your incoming punch.
+
+@r_d3_0_18b1=Cody ran after Cate, screaming with fear.
+
+@r_d3_0_19a1=Barry was holding his revolver near, waiting patiently for the bad guys. Then he just aimed and started firing.
+
+@r_d3_0_19a2a1=They were advancing, though he was in a much better, defensive position. After a short exchange of fire, he managed to kill two of the attackers.
+
+
+@r_d3_0_19a2b1=They were advancing, though he was in a much better, defensive position. After a short exchange of fire, he managed to kill one of the attackers. ^The other one, Razor himself, survived...
+
+@r_d3_0_19a2c1=Razor was the only one that faced him. He had nothing to lose. With his entire gang gone, he just started shooting, running towards Barry.
+
+@r_d3_0_19b1a1=Barry tried to stand in their way, using his fists.
+@r_d3_0_19b1a2=He tackled one of them and hit him really hard after splitting his hands into a powerful sledge-hammer.
+@r_d3_0_19b1b1=Barry, despite being unarmed, attacked Razor, jumping at him from behind.
+@r_d3_0_19b1b2=They both fell to the floor, and Razor's gun fired...
+
+@r_d3_0_20a1a1=With
+@r_d3_0_20a1a2=bandits remaining, the situation didn't look good for you.
+@r_d3_0_20a1a3=You were armed with
+@r_d3_0_20a1a4=...
+@r_d3_0_20a1a5=You took a few swings at them, managing to knock one of the raiders down.
+
+@r_d3_0_20a1b1=Razor was the only one remaining.
+@r_d3_0_20a1b2=You took a few swings at him, managing to knock him down before he could harm anyone.
+
+@r_d3_0_20b1a1=With
+@r_d3_0_20b1a2=bandits remaining, the situation didn't look good for you. You were holding a makeshift flamethrower, ready to fire.
+@r_d3_0_20b1a3=It might have been a good weapon against animals or insects, but it wasn't as effective with humans. You managed to neutralize only one of the attackers.
+
+@r_d3_0_20b1b1=Razor was the only one remaining. You were armed with a makeshift flamethrower, you were ready to face him.
+@r_d3_0_20b1b2=It might have been a good weapon against animals or insects, but it wasn't as effective with humans. It was more the surprise than anything else that allowed you to overcome him. He was burnt just a bit, but that was more than enough for Cate to jump from behind at him, intent on strangling him.
+
+@r_d3_0_20c1a1=With
+@r_d3_0_20c1a2=bandits remaining, the situation didn't look good for you. Armed with a revolver, you prepared yourself for a gunfight...
+@r_d3_0_20c1a3=Using all the rounds in the cylinder, you managed to hit
+@r_d3_0_20c1a4=of the bandits.
+
+@r_d3_0_20c1b1=Razor was the only one remaining. Armed with a revolver, you prepared yourself for a gunfight...
+@r_d3_0_20c1b2=You exchanged a few shots, the noise of the bangs indoors almost rendering you deaf.
+@r_d3_0_20c1b3=You both finally jumped from your covers at the same time, aiming at each other, each racing to be the first one to pull the trigger...
+
+@r_d3_0_21a1=You had some spare bullets for the revolver on you. A wise choice, even if it was accidental.
+@r_d3_0_21a2a1=With it you managed to shot one more thug, just as he thought you were out of ammo.
+
+@r_d3_0_21a2b1=Razor was the last attacker left. He didn't expect you to have any more ammo. Oh how surprised he was when you aimed at him one more time than he anticipated you would...
+
+@r_d3_0_22a1=The last
+@r_d3_0_22a2=attackers advanced and you ran out of options. Cornered, surrounded, you had to fight.
+@r_d3_0_22a3a1=Barry put up a valiant fight, but was shot after a short struggle with the attackers.
+@r_d3_0_22a3a2=It was a fight Cody had no chance of winning. He was shot after a short struggle with the attackers.
+@r_d3_0_22a3a3=You didn't manage to protect him. At least they were focused on him while you had time to act.
+@r_d3_0_22a3a4=Filled with rage and anger, you barely remember what followed. You grabbed a weapon from one of the fallen bandits and started shooting. All the humanity in you was gone. Only revenge left. Revenge and despair.
+@r_d3_0_22a3a5=Until they were all dead.
+@r_d3_0_22a3a6=All but Razor...
+@r_d3_0_22a3b1=There were too many of them. They were still armed.
+@r_d3_0_22a3b2=You managed to tackle one of them, but Razor ruthlessly shot both you and Cate.
+@r_d3_0_22a3c1=Razor was the last raider. His plan had failed. He knew his gang was over. This didn't make him less dangerous, though...
+@r_d3_0_22a3c2=On the contrary. He had nothing to lose now, as he jumped right at you, with a mad look in his eyes.
+@r_d3_0_22a3c3=In the final moment, Cate saved you by hitting him in the head with the back of her gun.
+@r_d3_0_22a3c4=It was over.
+
+
+
+@r_d3_1_1a1=As the day ended, black clouds pushed by winds from the east covered the sky, casting dark shadows on the ground below.
+@r_d3_1_1a2=Loud thunder was sounding all around, preceded by sudden and sharp flashes of light. With them, the first rain drops fell on the wastelands.
+@r_d3_1_1a3=It was not a life-giving water the dry land had been thirsty for. It was saturated with burning acid, as if Earth decided to clean its surface of life before the Moon did.
+@r_d3_1_1b1=You tried to escape, but it didn't work out well for you. Acid rain and lightning strikes got you, leaving you no way to escape.
+@r_d3_1_catcher_construction_1=You put a Storm Catcher on a crane at the construction site.
+@r_d3_1_catcher_construction_2=Its special magnetic field pushed some of the clouds (5%) away from the region.
+@r_d3_1_catcher_lodge_1=You put a Storm Catcher on a tall tree in a forest.
+@r_d3_1_catcher_lodge_2=Its special magnetic field pushed some of the clouds (5%) away from the region.
+@r_d3_1_catcher_restaurant_1=You put a Storm Catcher on a hamburger pylon by the restaurant.
+@r_d3_1_catcher_restaurant_2=Its special magnetic field pushed some of the clouds (5%) away from the region.
+
+@r_d3_1_catchers_0a=Not all Storm Catchers were in place and functional...
+@r_d3_1_catchers_0b=You didn't form a triangle around your base, so it didn't shield you from the storm.
+
+@r_d3_1_catchers_3a=All three Storm Catchers were in place and functional.
+@r_d3_1_catchers_3b=You formed a triangle around your base, shielding it from the storm and reducing its power by an additional 20%.
+
+@r_d3_1_ditch_1a=You dug ditches around the base.
+@r_d3_1_ditch_1b=Driving away some of the water protected you from being flooded and reduced the threat by 15%.
+
+@r_d3_1_ditch_2a=You didn't secure the area around the base in any way.
+@r_d3_1_ditch_2b=The water gathered and quickly rose, flooding the house.
+
+@r_d3_1_heli_1a=You secured the helicopter hole, covering it with a tarp and placing a lot of duct tape around it.
+@r_d3_1_heli_1b=Thanks to your efforts, you prevented some water (20%) from pouring into the house.
+
+@r_d3_1_heli_2a=You secured the helicopter hole, covering it with a tarp.
+@r_d3_1_heli_2b=This prevented some water from pouring into the house, however it wasn't a perfect fix, stopping 10% of the rain.
+
+@r_d3_1_heli_3a=You didn't secure the hole made in the roof by the helicopter.
+@r_d3_1_heli_3b=A lot of water poured into the house through the hole.
+
+@r_d3_1_rod_1a=You made an improvised lightning rod on the roof.
+@r_d3_1_rod_1b=That was a good call. Lightning struck the house, hitting it directly. If it wasn't for the rod, the roof would have taken a serious hit. This lowered the threat by 20%.
+@r_d3_1_rod_2a=You didn't do anything to save the house from being struck by lightning.
+@r_d3_1_rod_2b=It was bound to happen. A loud rumble almost blew your eardrums, and a large part of the roof was gone. Water poured in...
+
+@r_d3_hatch_1a=You closed the roof hatch.
+@r_d3_hatch_1b=That was a good idea. It stopped
+@r_d3_hatch_1c=% of the water from pouring in.
+@r_d3_hatch_2a=You left the roof hatch open.
+@r_d3_hatch_2b=Not good. A lot of water poured in through the opening.
+
+@r_d3_1_door1_1a=You closed the front door, putting a towel in the crack.
+@r_d3_1_door1_1b=It stopped some water from getting in.
+
+@r_d3_1_door1_2a=You closed the front door.
+@r_d3_1_door1_2b=It stopped some water from getting in.
+
+@r_d3_1_door1_3a=You didn't close the front door...
+@r_d3_1_door1_3b=Bad mistake ... a lot of water poured inside.
+
+@r_d3_1_door2_1a=You closed the back door, putting a towel in the crack.
+@r_d3_1_door2_1b=It stopped some water from getting in.
+
+@r_d3_1_door2_2a=You closed the back door.
+@r_d3_1_door2_2b=It stopped some water from getting in.
+
+@r_d3_1_door2_3a=You didn't close the back door...
+@r_d3_1_door2_3b=Bad mistake ... a lot of water poured inside.
+
+@r_d3_1_window_result1=It stopped
+@r_d3_1_window_result2=% of the overall amount of rainfall.
+
+@r_d3_1_hatch_result1=As a result, the hatch stopped
+@r_d3_1_hatch_result2=% of the overall amount of rainfall.
+
+@r_d3_1_cody_1a=It was too much water for poor Cody. You didn't even notice when a big wave washed him down the stairs.
+@r_d3_1_cody_1b=The kid drowned in the acid...
+
+@r_d3_1_barry_1a=Barry decided to shield you from the rain with his body, standing over you.
+@r_d3_1_barry_1b=He sacrificed himself for you and did not survive.
+
+@r_d3_1_bad_1a=It did not look good. The ground floor flooded, and the water poured in from the upper floor, the leaking roof and the windows.
+@r_d3_1_bad_1b=The acid burned your skin while you struggled to stand against the water current.
+
+@rain_sufix=% rain
+
+@air_sufix=% missing air
+@fuel_sufix=% missing fuel
+
+@r_d4_0=The world was ending. The Moon, cracked into pieces, was moving rapidly towards the planet, both celestial bodies pulling each other apart.
+@r_d4_no_launch=You didn't make it. You weren't able to launch the ship in time to escape before the Moon destroyed everything...
+@r_d4_launched=All systems green? Well ... some systems were green. You didn't have time to check every last nut or seal, like people did before launching rockets in the old days.
+@r_d4_cate=Cate looked at you with her headset on. "Engine is ready. Initiating launch procedure. Overriding safety protocols. Manual controls engaged."
+@r_d4_hatch1=The hatch was open, leaving you a clear way towards the sky.
+@r_d4_hatch2=Five...
+@r_d4_hatch3=Four...
+@r_d4_hatch4=Three...
+@r_d4_hatch5=Two...
+@r_d4_cate2=Buckle up, it's going to be one hell of a ride!
+@r_d4_cate3=One...!
+@r_d4_cate4=Zero!
+@r_d4_1=The acceleration force pushed you hard into your seat, squeezing all the air from your lungs. The rocket began its ascent.
+@r_d4_cody_barry=You looked back to see Cody and Barry in their seats. It was truly a miracle to have them both here, a faint memory from another life echoed in your head.
+@r_d4_cody=You looked back to see Cody in his seat. The kid had been through a lot, yet he was lucky enough to end up with you on this ride.
+@r_d4_barry=You looked back to see Barry in his seat. Witnessing death and misery had caused his face to age decades since when you first met him.
+@r_d4_cody_dead=The seat next to him was empty. You didn't manage to keep the kid safe...
+@r_d4_barry_dead=The seat next to him was empty. At least you've kept the kid safe like the big old man wanted.
+@r_d4_nobody=You looked back to nothing but empty seats. Was it possible to bring anyone with you for that wild ride?
+
+@r_d4_air_mixture1=The ship climbed through the sky fast and without much trouble.
+@r_d4_air_mixture2=While the vessel was smoothly gaining altitude, you grew worried about life support.
+@r_d4_air_mixture3=Because the default setting had been corrupted, you were forced to create the air composition yourself.
+@r_d4_air_mixture_0=Frankly speaking, you did a terrible job. The air reserves were barely breathable.
+@r_d4_air_mixture_1=The composition was bad, but not terrible. You managed to breath with what was there, but it wasn't easy.
+@r_d4_air_mixture_2=The composition was somewhat okay, but it could have been better. Breathing was hard, especially later on.
+@r_d4_air_mixture_3=The composition was really good, providing you with enough air to breathe comfortably for most of the journey.
+@r_d4_air_mixture_4=The composition was perfect. The air reserves sustained you for a long time.
+
+@r_d4_fuel_mixture1=The ship climbed through the sky while Cate struggled with the engine's power...
+@r_d4_fuel_mixture2=The vessel was gaining altitude. At least life support seemed to work fine.
+@r_d4_fuel_mixture3=Because the default setting had been corrupted, you were forced to create the fuel mixture yourself.
+@r_d4_fuel_mixture_0=Frankly speaking, you did a terrible job. The fuel was barely giving any thrust.
+@r_d4_fuel_mixture_1=The composition was bad, but not terrible. The burning of fuel was giving some thrust, but it was far from efficient.
+@r_d4_fuel_mixture_2=The composition was somewhat okay, but it could have been better. The fuel was giving you barely enough thrust.
+@r_d4_fuel_mixture_3=The composition was really good, providing you with enough thrust.
+@r_d4_fuel_mixture_4=The composition was perfect. Maximum efficiency meant a lot of thrust and a smooth ascent.
+
+@r_d4_razor1=Razor traveled alone, bruised and hurt. Hearing a loud roar in the sky, he turned around and gazed up.
+@r_d4_razor2=He silently watched you soar, clenching his jaw as hard as he was clenching his fists.
+@r_d4_razor3=Looking around the wasteland he decided this place was as good as any other. He sat down and waited, looking at your ship going up and the Moon going down.
+
+@r_d4_sarge1=Sarge and his men were standing on top of a hill. He traveled far west since you had last seen him. The whole squad raised their heads and gazed into the sky, tracing the bright light of your rocket.
+@r_d4_sarge2="Would you look at that?" smirked Sarge, slowly shaking his head. "That kid actually did it."
+@r_d4_sarge3="Good luck with whatever you find there," he added, before he turned away. The whole squad decided to open their last bottle of whiskey and drink it as the world around them started falling apart.
+
+@r_d4_nav_inserted=You installed a navigation chip in the ship's systems.
+@r_d4_nav_inserted2=With its help Cate was guided with a set of numbers, angles and coordinates, which is always better than just guessing.
+@r_d4_nav_missing=Without a navigation chip Cate was piloting almost blind.
+@r_d4_nav_missing2=Maintaining the right approach angle and altitude/speed without instructions proved to be harder than it looked.
+
+@r_d4_lioh_filters_inserted=You inserted a fresh lithium-hydroxide filter into the ship's ventilation.
+@r_d4_lioh_filters_inserted2=It absorbed the carbon dioxide in the air, making it more breathable.
+@r_d4_lioh_filters_missing=The ship didn't have any kind of filter to get rid of carbon dioxide.
+@r_d4_lioh_filters_missing2=As a result the air quickly became heavy and stuffy.
+
+@r_d4_air_tanks_inserted=You installed reserve air tanks in the shuttle.
+@r_d4_air_tanks_inserted2=When the regular air ran low, the reserves kicked in, providing you with more life-saving oxygen.
+@r_d4_air_tanks_missing=There were no reserve tanks on board.
+@r_d4_air_tanks_missing2=As the regular air began to run low, you really wished that wasn't the case...
+
+@r_d4_calibrator_inserted=You installed a calibrator system on board.
+@r_d4_calibrator_inserted2=It precisely calibrated all the engines, making them really well coordinated.
+@r_d4_calibrator_missing=The engines were never properly calibrated.
+@r_d4_calibrator_missing2=Cate did what she could, but it was a tough fight when one engine kept responding to her inputs differently than the other.
+
+@r_d4_catalyst_inserted=You prepared a special catalyst for the fuel.
+@r_d4_catalyst_inserted2=It caused the main rocket to burn fuel quicker, but it also made the reaction much more powerful.
+@r_d4_catalyst_missing=There was no fuel catalyst in the tank.
+@r_d4_catalyst_missing2=The regular fuel burning would have to do...
+
+@r_d4_hull_inside_fixed=Good thing you noticed and fixed that crack in the ship's hull...
+@r_d4_hull_inside_fixed2=Your repairs saved a lot of air from leaking out.
+@r_d4_hull_inside_broken=A crack in the ship's hull is never a good sign.
+@r_d4_hull_inside_broken2=After noticing how much air was escaping the cockpit, you managed to block it with something. But the damage had already been done...
+
+@r_d4_hull_outside_fixed=Good thing you noticed and fixed that crack on the ship's fin.
+@r_d4_hull_outside_fixed2=With your repairs, it proved to add almost no air resistance. Cate managed to compensate for the slight aerodynamic changes with her piloting skills.
+@r_d4_hull_outside_broken=There was a crack on the ship's fin, a flaw ready to attack.
+@r_d4_hull_outside_broken2=Cate was trying to overcome violent tremblings caused by the crack, struggling with the controls.
+
+@r_d4_pills=You prepared some pills to temporarily enhance lung efficiency.
+@r_d4_pills_you=You took one, and it reduced the amount of air you used during the flight.
+@r_d4_no_pills_you=Too bad you didn't swallow one. Pills don't work when they just sit in your pocket...
+@r_d4_pills_cate=Cate took one pill and, as a result, she used less air during the flight.
+@r_d4_no_pills_cate=Cate didn't take any pills - her lung efficiency remained average.
+@r_d4_pills_barry=Barry took a pill, and his lungs became more efficient during the flight, so he used less air.
+@r_d4_no_pills_barry=Barry didn't take any pills, so he used a normal amount of air for a man of his size.
+@r_d4_pills_cody=Cody took a pill, and it reduced the amount of air he used during the flight.
+@r_d4_no_pills_cody=Cody didn't take any pills, so his lungs didn't work any better than they usually did.
+
+@r_d4_no_air1="That's it ... we're not gonna make it. At this rate we will run out of air before we land."
+@r_d4_no_air2=You remembered that there are space suits in the back. "It's time to use them."
+@r_d4_no_air3="That won't be enough," said Cate. "They are for emergency use and only have air for a couple of minutes."
+@r_d4_no_air4="It is an emergency," you argued.
+@r_d4_no_air5="We have to move faster if we want to make it," decided Cate.
+@r_d4_no_air6="I'll use some of the reserve fuel to speed us up, but we won't have enough of it left to slow down before landing."
+@r_d4_no_air7="So hang on to something."
+
+@r_d4_no_air_dead1=Seeing the air was running out way faster than it should, Cate pushed the throttle to the max, ignoring any safety warnings that filled the screens around her.
+@r_d4_no_air_dead2=You also put on the emergency space suits, but they only had air for a couple of minutes.
+@r_d4_no_air_dead3=The Moon was so close, yet so far.
+
+@r_d4_no_fuel_dead1=Seeing the fuel was running out way faster than expected, Cate pushed the throttle to the max, ignoring any safety warnings that filled the screens around her.
+@r_d4_no_fuel_dead2=It was your only chance to reach the Moon.
+@r_d4_no_fuel_dead3=Too bad the ship wasn't prepared for such a rough ride. Shaken by the vibrations and heated by a not so ideal angle, it started to break apart...
+@r_d4_no_fuel_bad=An explosion lit up the sky, only to quickly disappear. Soon there were much bigger explosions all around the globe.
+@r_d4_no_air_bad=There just wasn't enough air on board...
+
+@r_d4_no_fuel1="Damn. It's not looking good," said Cate.
+@r_d4_no_fuel2="We're almost out of fuel, and we still have to maneuver to land."
+@r_d4_no_fuel3="What's this reserve?" you asked, pointing at one of the gauges.
+@r_d4_no_fuel4="It's for slowing down before the descent," she explained.
+@r_d4_no_fuel5="But I don't think we have another option. We'll be going in too fast."
+@r_d4_no_fuel6="So hang on to something."
+
+@day4_normal=You made it to orbit and, from there, it was surprisingly a short way to the Moon. ^Cate flew the ship towards the lunar base...
+@day4_penalty=You made it to orbit and, from there, it was surprisingly a short way to the Moon. ^However, Cate had to fly the ship much faster than expected. ^You were coming in too fast...
+@day4_death=At least the death was swift. ^Maybe there was something that could have been done to prevent it...?
+
+@results_end=Click to view the summary...

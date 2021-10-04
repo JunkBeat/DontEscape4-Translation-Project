@@ -1,0 +1,400 @@
+@crossroad_sign=1.5 MILES
+@barn_console_stnd_by=STAND BY
+@barn_console_ground=GROUND WATERING
+@barn_console_air=OVERNIGHT MIST SPRAY IRRIGATION
+@barn_console_active_sprinklers=ACTIVE SPRINKLERS
+@barn_console_efficency=EFFICIENCY
+@gasstation_newspaper1=Mon, March 12, 1996 ^^LUNAR EXPLOSION ^^The world is still in shock after yesterday's explosion that has left our Moon with huge cracks, visible to the naked eye from Earth. Scientists say that while it may look dangerous, there is no need for concern; the cracks are surface-level only, and the explosion will have no serious consequences.
+@gasstation_newspaper2=The cause of the event is still unknown. Many point to one of the world's largest tech corporations, Sidereal Plexus, that was rumored to launch a mining operation on the Moon earlier this year. A spokesman from the company has denied those claims. "Yes, we were preparing to dig for Helium-3 this autumn, but I assure you we haven't even started."
+@gasstation_newspaper3="Now, of course, the whole operation is going to be halted until further notice", he adds. ^Other experts believe the explosion was caused by an undetected meteor that crashed into the Moon. Whatever the case might be, the governments of the world urge people to remain calm.
+@gasstation_newspaper4=
+@gasstation_newspaper5=
+@gasstation_newspaper6=
+@gasstation_newspaper7=
+@gasstation_newspaper8=
+@gasstation_newspaper9=
+@gasstation_newspaper10=
+@crashsite_body2_bugs_note=ATTENTION TEAM. ^ ^As of this week, we've been hired by the locals to help deal with a new kind of locust terrorizing the area. Perhaps we will finally use our Sonic Repellent Device. It fends off different kinds of insects - you just have to install it in the ground. But before you can start counting on it, you have to know exactly what type of insects you are dealing with and set the right frequency with the remote controller. I know this job sounds exhausting, and a bit dangerous, but at this point we need the food and fuel the locals are paying with.
+@crashsite_body2_spiders_note=ATTENTION TEAM ^ ^As of this week, we've been hired by the locals to help deal with an outbreak of some variety of mutated spiders ... supposedly a result of space radiation or something. I know it sounds strange but it's real. Don't hope to get any super powers when they bite you, other than the power to lay paralyzed as they eat you alive. ^Anyway, we have some scent-repellents left in stock. James has identified which subspecies of those creatures will be discouraged by which scent. He probably wrote it down somewhere; just ask him.
+@crashsite_body2_gas_note=ATTENTION CITIZENS! ^ ^As of today (1996-11-11) Civil Defense as an organisation is being disbanded. Evacuate the area or protect yourself on your own from now on. ^This region has been affected by highly toxic gas clouds. If you are unable or unwilling to evacuate, take cover indoors. Hide on the upper floor if the contaminated gas density is higher than normal air density. Otherwise, hide on the ground floor.^ Air density is around 1.61 kg/m3. ^God have mercy on us all.
+@gas_note=Jeff,^You're new on the team, but I think you'll do just fine, despite what our boss says. Always remember to check the pH value of the toxin you're trying to neutralize. Mix two of our emergency response components and dissolve the resulting solution in a large amount of water.
+@spider_note=Guys, if you manage to catch one of them check out their teeth. We have to make sure we use the correct repellent or otherwise it won't do anything.
+@drone_1=06:11> INTERCEPTING WEATHER ANOMALY ^07:13> ANALYZING... ^ MM=97.03g/mol, ^ PH=
+@drone_2=^ DENS.=
+@drone_3=kg/m3 ^08:19> LOW POWER, EMERGENCY TOUCHDOWN
+
+@barry_locket_1=There is a button on the front of the locket.
+@barry_locket_2=There's a note inside.
+@barry_locket_3=Barry ^I'm sorry. If you are reading this, it probably means I didn't make it. Please don't let it be your demise; remember me and live a good life. ^^And when the time comes, I know you'll make the right decision. ^Yours, Maggie.
+@postnote1=^ ^ ^  BUY MILK!  ^ ^ ^
+
+@generator_off=OFF
+@generator_sprinklers=WATER PUMP
+@generator_house=HOUSE
+
+@heater_inspect_1=What exactly IS that thing anyway? Looks like a thick ceramic tile... ^There is something on the back.
+@heater_inspect_2=From Our Spaceships to Your Kitchen (TM), Sidereal Plexus brings you Heat Absorber Tile (TM). ^Exciting new technology allows this tile to absorb huge amounts of heat, cooling the temperature around it. Warm beer? Broken refrigerator? Never again!
+@heater_inspect_3=Just apply pressure to the tile - by hitting it with something blunt, like a hammer - to activate it. The tile will start absorbing heat for up to 16 hours*! ^^*Effect may vary depending on the room temperature.
+
+@sidereal_electric_note_1=Emergency power supply
+@sidereal_electric_note_2=PIN A = 50
+@sidereal_electric_note_3=PIN B = 10
+
+@sidereal_pc_email_express=E-mail Express
+@sidereal_pc_email_express_icon=E-mail
+@sidereal_pc_email_1_a=Leaves
+@sidereal_pc_email_2_a=Visit...
+@sidereal_pc_email_3_a=Hunt...
+@sidereal_pc_email_4_a=re:Din...
+@sidereal_pc_email_5_a=Comp...
+@sidereal_pc_email_6_a=PINS
+@sidereal_pc_email_7_a=IMPOR...
+@sidereal_pc_email_8_a=re:IMP...
+@sidereal_pc_email_9_a=ESCAPE
+@sidereal_pc_email_10_a=Basta...
+
+@sidereal_pc_email_1_b_1=Leaves ^From: Natalie Stanford ^To: Douglas Courney ^CC: Jessica Moswell ^Date: 1996-03-01 ^- - - - - - - - - ^Jessica is on leave, so human resources is your responsibility for now. List of people on leave this month:
+@sidereal_pc_email_1_b_2=Stephen Cervin ^19th - 21st ^(vacation leave) ^^Sonia Darahova ^4th - 24th ^(vacation leave) ^^Jessica Moswell ^1st - ? ^(maternity leave)
+@sidereal_pc_email_1_b_3=Martha Cambell ^4th - 18th ^(sick leave) ^^Thanks, ^Natalie Stanford
+@sidereal_pc_email_1_b_4=
+@sidereal_pc_email_1_b_5=
+@sidereal_pc_email_1_b_6=
+@sidereal_pc_email_1_b_7=
+@sidereal_pc_email_1_b_8=
+@sidereal_pc_email_1_b_9=
+@sidereal_pc_email_1_b_10=
+@sidereal_pc_email_1_b_attachment=
+@sidereal_pc_email_1_b_examine=
+
+@sidereal_pc_email_2_b_1=Visitors ^From: Natalie Stanford ^To: Douglas Courney ^CC: Jessica Moswell ^Date: 1996-03-05 ^- - - - - - - - - ^Here is the list of people visiting from world SP-4: ^Sandra Vandera - deputy director at SP-4 outpost
+@sidereal_pc_email_2_b_2=Jonathan Sampling - geology, cosmology and crystallographist ^Samuel Garad - security ^^Please take care of accommodations for our guests and prepare all necessary luggage. Find someone who will assist
+@sidereal_pc_email_2_b_3=Mrs. Vandera, when it comes to Mr. Sampling, he will be accompanied by Catherine Mayweather. She is our new pilot. Please keep her on a need-to-know basis only and do not disclose any confidential information. There is not much time left until they arrive. 
+@sidereal_pc_email_2_b_4=Treat this task as a priority. ^^Natalie Stanford
+@sidereal_pc_email_2_b_5=
+@sidereal_pc_email_2_b_6=
+@sidereal_pc_email_2_b_7=
+@sidereal_pc_email_2_b_8=
+@sidereal_pc_email_2_b_9=
+@sidereal_pc_email_2_b_10=
+@sidereal_pc_email_2_b_attachment=
+@sidereal_pc_email_2_b_examine=
+
+@sidereal_pc_email_3_b_1=   YOU FLAGGED THIS E-MAIL FOR: ^Breach of company e-mail policy; ^Hunt is on! ^From: Jacob Salmann ^To: Douglas Courney ^Date: 1996-03-06 ^- - - - - - - - - ^Hey, so as we talked during lunch, we should totally go
+@sidereal_pc_email_3_b_2=   YOU FLAGGED THIS E-MAIL FOR: ^Breach of company e-mail policy; ^hunting this weekend. I've got a lodge a few miles outside of town where I keep hunting guns and some bear traps. Yeah, yeah, I know traps are not perfectly legal but who
+@sidereal_pc_email_3_b_3=   YOU FLAGGED THIS E-MAIL FOR: ^Breach of company e-mail policy; ^cares, right? It's a nice forest with lots of game to chase. Check out the attached map if you want to know how to get there.^ ^ Jacob
+@sidereal_pc_email_3_b_4=
+@sidereal_pc_email_3_b_5=
+@sidereal_pc_email_3_b_6=
+@sidereal_pc_email_3_b_7=
+@sidereal_pc_email_3_b_8=
+@sidereal_pc_email_3_b_9=
+@sidereal_pc_email_3_b_10=
+@sidereal_pc_email_3_b_attachment=lodgemap.bmp
+@sidereal_pc_email_3_b_examine=The attachment is corrupted and cannot be opened.^^^OK
+
+@sidereal_pc_email_4_b_1=re:Dinner ^From: C. Mayweather ^To: Douglas Courney ^Date: 1996-03-07 ^- - - - - - - - - - ^No, Mr Douglas, I will not go out to dinner with you. I could say I'm sorry, but while I don't know you, I assume you'd value me as a truthful person.
+@sidereal_pc_email_4_b_2=As such, I have to tell you - I'm not really sorry. ^^Cate
+@sidereal_pc_email_4_b_3=
+@sidereal_pc_email_4_b_4=
+@sidereal_pc_email_4_b_5=
+@sidereal_pc_email_4_b_6=
+@sidereal_pc_email_4_b_7=
+@sidereal_pc_email_4_b_8=
+@sidereal_pc_email_4_b_9=
+@sidereal_pc_email_4_b_10=
+@sidereal_pc_email_4_b_attachment=
+@sidereal_pc_email_4_b_examine=
+
+@sidereal_pc_email_5_b_1=Compliance report ^From: OFFICE ^To: ALL#OFFICE ^Date: 1996-03-07 ^- - - - - - - - - - ^ REMINDER, all employees are required to submit a corporate compliance report by the end of this week. Find the attached report and fill it in.
+@sidereal_pc_email_5_b_2=After that, please access www.siderealplexus.com and log into your account to proceed.
+@sidereal_pc_email_5_b_3=
+@sidereal_pc_email_5_b_4=
+@sidereal_pc_email_5_b_5=
+@sidereal_pc_email_5_b_6=
+@sidereal_pc_email_5_b_7=
+@sidereal_pc_email_5_b_8=
+@sidereal_pc_email_5_b_9=
+@sidereal_pc_email_5_b_10=
+@sidereal_pc_email_5_b_attachment=report.doc
+@sidereal_pc_email_5_b_examine=Error ^The attachment ^file is corrupted. ^^^OK
+
+@sidereal_pc_email_6_b_1=PINS ^From: Jacob Salmann ^To: Douglas Courney ^Date: 1996-03-08 ^- - - - - - - - - - ^So yeah, I've been working on configuring the power output of the backup battery on our floor. As you know it's all a bit makeshift now.
+@sidereal_pc_email_6_b_2=There is no backup battery for the guys below us, but it's possible to rewire our battery if needed. Just make sure to feed pin A with 15V and pin B with 40V. You'd better print it out or write it down, because once you start rewiring, this floor will be cut off from emergency power.
+@sidereal_pc_email_6_b_3=Not that it's likely to happen, though. Our grid is secure and will last till the end of the world. ^ ^And hey, how about that hunting weekend?
+@sidereal_pc_email_6_b_4=
+@sidereal_pc_email_6_b_5=
+@sidereal_pc_email_6_b_6=
+@sidereal_pc_email_6_b_7=
+@sidereal_pc_email_6_b_8=
+@sidereal_pc_email_6_b_9=
+@sidereal_pc_email_6_b_10=
+@sidereal_pc_email_6_b_attachment=
+@sidereal_pc_email_6_b_examine=
+
+@sidereal_pc_email_7_b_1=IMPORTANT ^From: OFFICE ^To: ALL#OFFICE ^Date: 1996-03-11 ^- - - - - - - - - - ^As you may be aware, an unforeseen incident took place on the surface of the Moon. Despite the incident, today is still a normal working day. Please do not
+@sidereal_pc_email_7_b_2=panic. Additionally, we would like to remind you that you are legally obliged by the company agreement to DENY any connections between the company and the recent incident.
+@sidereal_pc_email_7_b_3=
+@sidereal_pc_email_7_b_4=
+@sidereal_pc_email_7_b_5=
+@sidereal_pc_email_7_b_6=
+@sidereal_pc_email_7_b_7=
+@sidereal_pc_email_7_b_8=
+@sidereal_pc_email_7_b_9=
+@sidereal_pc_email_7_b_10=
+@sidereal_pc_email_7_b_attachment=
+@sidereal_pc_email_7_b_examine=
+
+@sidereal_pc_email_8_b_1=RE:RE:IMPORTANT^From: OFFICE ^To: ALL#OFFICE ^Date: 1996-03-11 ^- - - - - - - - - - ^ >> Are we in danger? ^No. Remain calm and proceed with your duties. The explosion on the Moon poses no direct or indirect threat to Earth and/or
+@sidereal_pc_email_8_b_2=to the company. ^ ^RE:IMPORTANT ^From: Jacob Salmann ^To: OFFICE ^Date: 1996-03-11 ^- - - - - - - - - - ^ Are we in danger? ^ People say the Moon is going to hit us. Is it our fault or not? I have my
+@sidereal_pc_email_8_b_3=doubts. Can you give us any more detail? ^ ^IMPORTANT ^From: OFFICE ^To: ALL#OFFICE ^Date: 1996-03-11 ^- - - - - - - - - - ^As you may be aware, an unforeseen incident took place on the surface of the
+@sidereal_pc_email_8_b_4=Moon. Despite the incident, today is still a normal working day. Please do not panic. ^Additionally, we would like to remind you that you are legally obliged by the company agreement to DENY any connections between the company and the recent incident.
+@sidereal_pc_email_8_b_5=
+@sidereal_pc_email_8_b_6=
+@sidereal_pc_email_8_b_7=
+@sidereal_pc_email_8_b_8=
+@sidereal_pc_email_8_b_9=
+@sidereal_pc_email_8_b_10=
+@sidereal_pc_email_8_b_attachment=
+@sidereal_pc_email_8_b_examine=
+
+@sidereal_pc_email_9_b_1=ESCAPE ^From: OFFICE ^To: VIP#OFFICE ^Date: 1996-03-12 ^ - - - - - - - - - - ^ All VIP personnel and researchers must evacuate immediately. Please find attached map with the launchpad location. It might be useful in case our
+@sidereal_pc_email_9_b_2=transportation fails. ^^Mr Sampling, if you are reading this - one of our employees was causing trouble by spreading unsettling emails. As requested, he has been disposed of.
+@sidereal_pc_email_9_b_3=
+@sidereal_pc_email_9_b_4=
+@sidereal_pc_email_9_b_5=
+@sidereal_pc_email_9_b_6=
+@sidereal_pc_email_9_b_7=
+@sidereal_pc_email_9_b_8=
+@sidereal_pc_email_9_b_9=
+@sidereal_pc_email_9_b_10=
+@sidereal_pc_email_9_b_attachment=esc-map.jpg
+@sidereal_pc_email_9_b_examine=
+
+@sidereal_pc_email_10_b_1=Bastards ^From: Joshua Simmar ^To: Douglas Courney ^Date: 1996-03-14 ^- - - - - - - - - - ^You bastards. You did it. You thought nobody would find out? You've destroyed the entire world, you maniacs!!!^I'll make DAMN sure every
+@sidereal_pc_email_10_b_2=police department, every military organization, EVERYONE will forcefully detain each and every one of your workers ON SIGHT. You are no scientists. You're all CHARLATANS. There will be no place on Earth for you to hide.^ Joshua Simmar,^ Sunrise Telegram
+@sidereal_pc_email_10_b_3=
+@sidereal_pc_email_10_b_4=
+@sidereal_pc_email_10_b_5=
+@sidereal_pc_email_10_b_6=
+@sidereal_pc_email_10_b_7=
+@sidereal_pc_email_10_b_8=
+@sidereal_pc_email_10_b_9=
+@sidereal_pc_email_10_b_10=
+@sidereal_pc_email_10_b_attachment=
+@sidereal_pc_email_10_b_examine=
+
+@sidereal_pc_internet_icon_caption=Internet
+@sidereal_pc_internet_caption=Internet
+@sidereal_pc_internet_txt=This page cannot be displayed. Please check your Internet connection.
+@sidereal_id_1=Unlucky guy...
+@sidereal_id_2=Hmm, there is something on the other side.
+@sidereal_id_3=A key ... I'll take it.
+@sidereal_docs_1=CONFIDENTIAL ^We evacuate to our designated launchpad - I've emailed you the map. Please find an e-mail titled "ESCAPE" and open the attachment. ^In front of the building three buses will be waiting for everyone. Buses A and B are being prepared for less important employees. Please ask for seats in the coach marked with the letter C. Departure at 9:00.
+@sidereal_docs_2=REMEMBER:^"C" IS THE ONLY BUS THAT GOES TO THE LAUNCHPAD. ^ HAVE YOUR ID CARDS WITH YOU. THIS IS SUPER IMPORTANT! ^ The crucial thing is to keep calm and to follow orders. ^The trip to the mountains will take less than an hour, and the departure is scheduled for 12:00. From there, you know what happens next.
+@sidereal_docs_3=The sleep process will take place right after landing at the target location. Remind yourself of any training instructions you will need. There is a strict and complete ban on talking with people from outside of the company. Do not share information with colleagues, friends, or family. This will help us avoid panic.  ^REMEMBER: SHARING ANY INFORMATION IS FORBIDDEN
+@sidereal_docs_4=AND EXCLUDES YOU FROM THE ESCAPE LIST!!! ^There are only a few days left in this world. Let's just keep it quiet. We do not want any hindrance at the end. ^Other instructions will be available onsite, including group assignments and locations to which you will be sent. ^Each of you will briefed about what happened so you can share
+@sidereal_docs_5=this information at the destination. It is very important - crucial - that we do not repeat the same mistakes anywhere else. ^Just remember ^The only way to escape is to stop running.
+@sidereal_docs_6=
+@sidereal_docs_7=
+@sidereal_docs_8=
+@sidereal_docs_9=
+@sidereal_docs_10=
+
+@sidereal_xero_1=Patient: Nathan Harvez^ The patient has recently joined the Travelers team. With the first training finished, he was admitted to the practical part. Promising results. Sleep control at a level sufficient enough to visit other facilities in the near future.^ He is in good health, and all indicators are normal.^ His mental state is currently ... questionable.^ The patient feels strong anxiety after waking up, since the past few days he has been experiencing
+
+@sidereal_xero_2=a feeling of someone's presence. This is probably due to a Seeing incident during the last controlled dreaming. ^Patient's testimony:^ ''It was there. Almost for sure. It stood in the shadow. It was looking at me. I did not see it at first ... but I felt it ... I could not move. I wanted, I tried ... but I was paralyzed. I was not even sure if I was still asleep or awake. Then it moved. No trained solutions helped. I lost control. So that's probably reality, right?
+
+@sidereal_xero_3=If I could not do anything, it must have been reality. If so ... why was he there? I woke up, after all!''^ ^Recommendations: Conduct psychiatric tests again. Move the patient away from dreamers for an indefinite period. Prescribe sedatives. ^^The patient has also made a sketch of an encountered creature.
+@sidereal_xero_4=
+
+@sidereal_secrets_1=From: Jonathan Sampling ^To: Stephen Cervin ^ ^All the necessary preparations have been completed. We are ready to start the procedure. According to calculations, chances of success are at about 89%. As I mentioned in our last conversation, with current conditions I will not be able to get better results, and I think this is a risk we must take. At the moment we do not have much information about the Crystals and we're in
+
+@sidereal_secrets_2=possession of a very small amount. We need more if we want our expeditions to continue, even if an attempt to synthesize more could end up a disaster ... This is more important than the existence of one world. Even in the event of failure, we will gain a huge amount of information that will allow us to increase the safety of the procedure in the future. SP-12119 is ... expendable. The level of development leaves much to be desired.
+
+@sidereal_secrets_3=It is also one of the least profitable facilities. According to the instructions from the director of the SP-4, you should immediately evacuate. Mrs Stanford has a list of employees who should be informed about the evacuation if it is an actual necessity.
+@sidereal_secrets_4=
+@sidereal_secrets_5=
+@sidereal_secrets_6=
+@sidereal_secrets_7=
+@sidereal_secrets_8=
+@sidereal_secrets_9=
+@sidereal_secrets_10=
+
+@generic_reset=RESET
+@generic_reset_small=Reset
+
+@cs_ammobox=PROPERTY OF US GOVERNMENT ^^AMMUNITION .30 / 7.62 / 9mm ^^^KEEP AWAY FROM FIRE / KEEP DRY
+
+@fuse_note_1=Doormat
+@fuse_note_2=Elevator
+
+@mixer_catalyst=Fuel burning catalyst formula. This experimental liquid greatly increases fuel's power output.
+@mixer_pills=Experimental medicine that increases lung efficiency. Side effects include itching and occasional rashes.
+@remote_1=Nothing unusual about it; just a standard slide projector remote.
+@remote_2=It has batteries inside. Good thing they are secured with a screw. Otherwise, someone could just take them.
+
+@key3_inspect=The label says "Lab 13"...
+
+@bars_puzzle_caption_1a=Adjustment of fuel mixture might be required.
+@bars_puzzle_caption_2a=Current fuel mixture quality:
+@bars_puzzle_caption_1b=Adjustment of air composition might be required.
+@bars_puzzle_caption_2b=Current air composition quality:
+
+@bars_puzzle_q0=Terrible
+@bars_puzzle_q1=Bad
+@bars_puzzle_q2=Poor
+@bars_puzzle_q3=Mediocre
+@bars_puzzle_q4=Fair
+@bars_puzzle_q5=Good
+@bars_puzzle_q6=Great
+@bars_puzzle_q7=Superb
+
+@quests_header=Launch system diagnostics:
+@quests_underline= -----------------------
+@quests_hull_integrity_NO=! Hull integrity check FAILED
+@quests_hull_integrity_YES=> Hull integrity check COMPLETE
+
+@quests_hatch_NO=! Silo hatch is CLOSED
+@quests_hatch_YES=> Silo hatch is OPEN
+
+@quests_air_mixture_NO=! Air composition MISSING
+@quests_air_mixture_YES=> Air composition SELECTED
+
+@quests_fuel_mixture_NO=! Fuel mixture MISSING
+@quests_fuel_mixture_YES=> Fuel mixture SELECTED
+
+@quests_engines_calibrated_NO=! Engines NOT calibrated
+@quests_engines_calibrated_YES=> Engine calibration: OK
+
+@quests_air_supply_NO=! Reserve air supply MISSING
+@quests_air_supply_YES=> Reserve air supply PRESENT
+
+@quests_navigation_chip_NO=! Navigation chip MISSING
+@quests_navigation_chip_YES=> Navigation chip PRESENT
+
+@quests_LiOH_filters_NO=! LiOH filters MISSING
+@quests_LiOH_filters_YES=> LiOH filters PRESENT
+
+@quests_catalyst_NO=! Fuel catalyst MISSING
+@quests_catalyst_YES=> Fuel catalyst PRESENT
+
+@quests_missing=WARNING - Diagnostic system is damaged. Please perform a manual on-board inspection to complete the diagnostics.
+
+@quests_air_remember_NO=! Air supply lowered. Consider using air-saving pills.
+@quests_air_remember_YES=> Air supply OK
+
+@manifest_start=- Flight 127703 cargo manifest -^ ^Crate No. / Content
+@airplane_cargo_1=Navigation chips
+@airplane_cargo_2=Air tanks
+@airplane_cargo_3=Voltmeters
+@airplane_cargo_4=Instant noodles
+@airplane_cargo_5=Gaskets, various sizes
+@airplane_cargo_6=Nuts and bolts, sizes 10 through 15
+@airplane_cargo_7=Wires, assorted.
+@manifest_end=ALL ABOVE IS PROPERTY OF SIDEREAL PLEXUS, INC.
+
+@airlock_puzzle_caption=AIRLOCK ^MANUAL ^OVERRIDE
+
+@pod_caption_stats_a=System memory: ^128 MB allocated, 38 MB free
+@pod_caption_fd1_a=Floppy drive A: [NO DISK]
+@pod_caption_fd1_b=Floppy drive A: [MEMORY BOOSTER] ^(This program will NOT prevent memory loss, but it will let you carry over more memories in case of emergency merge.)
+@pod_caption_fd2_a=Floppy drive B: [NO DISK]
+@pod_caption_fd2_b=Floppy drive B: [PHASE CONTROLLER LITE] ^(This program will NOT replace Phase Controller, however it will increase your memory transfer rate in emergency mode.)
+
+@pod_caption_3a=Control system LOCKED.
+@pod_caption_3c=Control system ACTIVE.
+
+@pod_caption_0=Running diagnostics...
+@pod_caption_1=Sleeper pods ACTIVE.
+@pod_caption_2a=Occupied pods:
+@pod_caption_2b=/64
+@pod_caption_4=WARNING! PHASE CONTROLLER CORRUPTED
+@pod_caption_5=UNABLE TO SELECT DESTINATION, ENABLING EMERGENCY MODE...
+@pod_caption_6=Emergency merge mode enabled.
+@pod_caption_7=Sidereal Plexus takes no responsibility for memory loss and/or personality merge.
+
+@pod_caption_A=MEMORY BOOSTER ACTIVE
+@pod_caption_B=PHASE CONTROLLER LITE ACTIVE
+
+@moon_restore_console_unlock=The console lets you gain access to the Sleeper Pods.^ Once you have it you will be able to open and use any of the unoccupied pods.
+
+@moon_restore_c_yes=Do it.
+@moon_restore_c_no=Cancel.
+
+@moon_restore_power=You take a look at the screen and realize that while Sleeper Pods have their independent power reserves, you won't be able to initiate another Pod unless the main power is back.^ There are some unnecessary systems powered, such as communication array. This is a standard procedure so the crew is able to call for help.^ But there is no one that can help you now.^ You could try to reroute that power to the station systems...
+
+@moon_restore_p_yes=Do it.
+@moon_restore_p_no=Close and pray.
+
+@book_lucid_1=Recurring nightmares are often considered to be something more than "just a dream". There are more than several documented cases of nightmares actually coming true, which suggests they can be treated as sort of "warnings". A prophetic dream doesn't have to perfectly come to fruition. More often than not the dream is a metaphor,
+@book_lucid_2=a projection of the unconscious mind that has come in contact with information about events that are yet to happen. How is it possible, one may ask? This question remains unanswered - we live in a world ruled by science and dominated by technology, yet there are some mystical things lying underneath the veil of reality
+@book_lucid_3=that control our lives to a degree much higher than you, dear reader, could ever imagine. Whatever the case may be, remember that dreams are more than they seem. Just like not understanding physics doesn't make it less real, the fact we don't fully comprehend dreams doesn't render them irrelevant.
+@book_lucid_4=
+@book_lucid_5=
+@book_lucid_6=
+@book_lucid_7=
+@book_lucid_8=
+@book_lucid_9=
+@book_lucid_10=
+
+
+
+@leaflet_1=^ SIDEREAL PLEXUS^ SLEEPER CLINIC ^ ---------------------- ^Do you have a relative that has fallen into coma? ^Do you feel lost, confused, overwhelmed? ^Come to us. We will help. ^^
+@leaflet_2=SIDEREAL PLEXUS SLEEPER CLINIC is our latest attempt to reach out to people in need. We provide professional 24/7 care. Our specialized personnel are looking after our patients day and night. Bring your relative, register them at our clinic and we will handle the rest. We don't want your money. We want you to be happy.
+@leaflet_3=SIDEREAL PLEXUS SLEEPER CLINIC is a safe haven for your sleeping family member. We have also recorded the highest wake-up rate of all similar clinics during recent months. Don't hesitate. Don't wait. We will look after your loved one during their long and calm deep sleep.
+@leaflet_4=
+@leaflet_5=
+@leaflet_6=
+@leaflet_7=
+@leaflet_8=
+@leaflet_9=
+@leaflet_10=
+
+@conspiracy1_1=This issue's special report: SIDEREAL PLEXUS's Coma Clinic. Is it a real, legit clinic for people in a prolonged, comatose state? Or, perhaps, it's something much more sinister than that. We at Weekly Conspiracy believe there is something more to it than meets the public eye. So let's take a closer look at the mega-corporation's newest investment. Read more inside this issue!
+@conspiracy1_2=SIDEREAL PLEXUS doesn't have to be introduced to anyone. Electronics, computers, automotive industry, space exploration - you name it. Their newly-opened facility doesn't look like another cash-grab by the corporation. A clinic for people in comas: if your loved one had the misfortune of falling into a coma, you might want some professional care for them.
+@conspiracy1_3=Usually this kind of deal is super expensive. Sidereal Plexus's Sleeper Clinic, however, is dirt cheap. Why would a corporation focused solely on its own profits do something like this? People point out that this is just a PR stunt, an attempt to improve its image. While this is entirely probable, we don't believe it to be the truth.
+@conspiracy1_4=As we all know, the truth is always hidden much deeper. Some families that decided to use the clinic - and who wish to remain anonymous to Weekly Conspiracy readers - report seeing their loved ones in public, walking around as if nothing had happened. Approached, they don't even recognize their family members, displaying totally different, alien behavior.
+@conspiracy1_5=While the wake-up rate of people in comas is low in general, the reports of coma patients behaving like completely different people is unheard of. Could it mean Sidereal is using them for scientific experimentation? Brainwashing is one option, but we at Weekly Conspiracy have another possible and chilling solution: Sidereal Plexus is working on some sort of mind-transfer technology.
+@conspiracy1_6=They are using people in comas as vessels for other consciousnesses, not interested in the well-being of the owner of the original body. They are just using them as "sleeves" of sorts. While this is totally speculative and we lack the necessary proof, we have been contacted by a supposed former clinic worker who confirmed our theory.
+@conspiracy1_7=Unfortunately, all contact with that person has since been lost. We don't know who they were and whether or not they were being truthful. We will continue this topic in future issues of Weekly Conspiracy, so stay tuned and remember: THEY WANT YOU TO THINK WE ARE THE CRAZY ONES.
+@conspiracy1_8=
+@conspiracy1_9=
+@conspiracy1_10=
+
+@conspiracy2_1=Last issue we investigated Sidereal Plexus Sleeper Clinic. While the problem still exists, and people out there are still being controlled by mind-transferring technology, we at Weekly Conspiracy began to wonder: Why does Sidereal Plexus have this technology in the first place, together with all their other advancements in space exploration, energy, and computers?
+@conspiracy2_2=These days Sidereal Plexus seems to be first to come up with anything. To us, this seems just a bit too suspicious! They might have the best engineers in the world, but that can't explain how they are producing countless advancements, introducing many of them into our everyday lives. One can only wonder what fraction of their technology we are actually seeing.
+@conspiracy2_3=Moore's Law states that processing power of computers doubles every 18 months, however since Sidereal opened their computer research branch two years ago, this increase has TRIPLED. This defies any logic and leads to an obvious conclusion: ALIENS. We at Weekly Conspiracy believe Sidereal Plexus has been in contact with extraterrestrial beings since its founding.
+@conspiracy2_4=When you think about it, it's been in right in front of us this entire time - SIDEREAL, as in "stellar" or "astral"! It's pretty solid proof that their technology wasn't created on this planet. Whether by allowing alien spaceships to land in their secret facilities or by opening portals to other universes, they are importing this technology from an otherworldly place.
+@conspiracy2_5=The real question is - what is the price they are paying? Let's hope we will never find out, because we at Weekly Conspiracy fear this price might hurt us all.
+@conspiracy2_6=
+@conspiracy2_7=
+@conspiracy2_8=
+@conspiracy2_9=
+@conspiracy2_10=
+
+@outpost_faq_1=In case they have doubts, here's a FAQ: ^^Q: Why is it on the Moon? ^A: Even weak signals could corrupt our devices. The Moon's body shields our facility from Earth's intense radio interference. ^^Q: Is this a one-way trip? ^A: Yes. ^^Q: Where will we end up and in what state? ^A: A safe world will be selected. You are likely to survive intact.
+@outpost_faq_2=Q: Who was selected for this rescue? Why is X not here? ^A: We had limited time and resources, and we could only bring as many people as we gathered since the incident. If you believe someone crucial to the operation is missing, please report it to your supervisor. ^^Q: Why are we only taking one ship? ^A: The other ship is a reserve/spare vehicle. Don't worry. We have directed our workers to multiple launchpad outposts - nobody will be left behind, as long as they present value to the company.
+@outpost_faq_3=
+@outpost_faq_4=
+@outpost_faq_5=
+@outpost_faq_6=
+@outpost_faq_7=
+@outpost_faq_8=
+@outpost_faq_9=
+@outpost_faq_10=
+
+@cate_last_words_1=I write this in case something happens to me. David, you have to carry on - it's really important that you do what I say here. ^First of all, sorry for not telling you everything earlier. You must understand this whole thing is difficult to believe in, and I didn't want to overwhelm you with all this stuff. Secondly, don't panic, but there is no magical portal to the safe place.
+@cate_last_words_2=All you'll find in the Moon base are Sleeper Pods. I have never been there, but they keep them all in a large room. It's probably hard to miss, even for a muff like you. The pods contain sleeping bodies, and yes, they will all be destroyed when the Moon falls. That won't matter, though, because the consciousness of each of those people has been transferred to a different place - a different universe, a different version of this world.
+@cate_last_words_3=Probably a safe one where Sidereal didn't blow up the Moon. I know this is hard to swallow. I wish I could explain everything in more detail, but since I'm probably dead at this point, it won't be possible. Find the Sleeper Pods and send your consciousness elsewhere - this is the only way out. And I really hope all their systems are operational, because if they're not, you may end up in a world that is only an inch away from ours.
+@cate_last_words_4=I think that's already happened in a parallel universe. That's why we were having all those dreams. We have memories from other versions of us. I'm not sure how it works, but I guess that's what happens when their system can't match you with an unoccupied body. Just my theory, though. Anyway, I'm writing this as you fix the ship, hoping that you will never have to read this. However, if you do...
+@cate_last_words_5=I just want you to know I appreciate everything you did for me. I hope you make it. If you happen to find me in another universe, come say hi. ^Just kidding. It would probably freak me out. ^Don't stalk me, OKAY? ^Take care, David.^^Cate
+@cate_last_words_6=
+@cate_last_words_7=
+@cate_last_words_8=
+@cate_last_words_9=
+@cate_last_words_10=
+
+@sideral_warning_note=I've made the calculations again. The instability ratio is too high. It can't work. We have to STOP the operation. ^We have to STOP IT OR CONSEQUENCES WILL BE CATASTROPHIC.
+
+@ending_1=LUNAR ^DRILLING ^CANCELLED
+@ending_2=ADOPTION ^PERMIT
