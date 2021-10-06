@@ -1,5 +1,5 @@
 @map_base_short=Дом на холме
-@map_base_long=Заброшенный дом на холме. Похоже, хорошее место для отдыха.
+@map_base_long=Заброшенный дом на холме. Похоже, подходящее место для ночёвки.
 @map_base_prefix=
 
 @map_gasstation_short=Автозаправочная станция
@@ -7,7 +7,7 @@
 @map_gasstation_prefix=
 
 @map_bridge_short=Разрушенный мост
-@map_bridge_long=Мост, который обрушился через сухой овраг.
+@map_bridge_long=Обрушившийся над сухим оврагом мост.
 @map_bridge_prefix=
 
 @map_cars_short=Перекрытая дорога
