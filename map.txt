@@ -3,7 +3,7 @@
 @map_base_prefix=
 
 @map_gasstation_short=Автозаправочная станция
-@map_gasstation_long=Заброшенная автозаправка. В одном из баков осталось топливо.
+@map_gasstation_long=Заброшенная автозаправка. В одном из баков даже осталось топливо.
 @map_gasstation_prefix=
 
 @map_bridge_short=Разрушенный мост
@@ -11,7 +11,7 @@
 @map_bridge_prefix=
 
 @map_cars_short=Перекрытая дорога
-@map_cars_long=Дорогу перекрывают сломанные автомобили.
+@map_cars_long=Дорога, перекрытая сломанными автомобилями.
 @map_cars_prefix=
 
 @map_houseb_short=Разрушенный дом
@@ -23,7 +23,7 @@
 @map_restaurant_prefix=
 
 @map_rv_short=Фургон
-@map_rv_long=Машина для кемпинга, припаркованная в пустыне.
+@map_rv_long=Машина для кемпинга, припаркованная посреди пустыни.
 @map_rv_prefix=
 
 @map_sidereal_short=Город — офис Сайдириал Плексус
@@ -38,7 +38,7 @@
 @map_hunters_long=Небольшая хижина посреди леса.
 @map_hunters_prefix=
 
-@map_outpost_short=Космический форпост
+@map_outpost_short=Форпост
 @map_outpost_long=Форпост Сайдириал Плексус со стартовой площадкой для космического корабля...
 @map_outpost_prefix=
 
