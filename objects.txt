@@ -3177,10 +3177,10 @@
 @outpost_big_computer_long=Громадная коробка с мерцающими лампочками.
 
 @outpost_big_computer_part_prefix=
-@outpost_big_computer_part_short=Кармашек с электроникой
+@outpost_big_computer_part_short=Внутреннее устройство ЭВМ
 @outpost_big_computer_part_short_for_ext_cord_place=
-@outpost_big_computer_part_short_dative=кармашку с электроникой
-@outpost_big_computer_part_long=Открытый кармашек с какой-то электроникой.
+@outpost_big_computer_part_short_dative=внутреннему устройству ЭВМ
+@outpost_big_computer_part_long=Открытая панель, обнажающая внутренние детали ЭВМ.
 
 @outpost_injector_prefix=
 @outpost_injector_short=Консоль топливного катализатора
