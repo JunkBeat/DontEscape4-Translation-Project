@@ -7,7 +7,7 @@
 @map_gasstation_prefix=
 
 @map_bridge_short=Разрушенный мост
-@map_bridge_long=Обрушившийся над сухим оврагом мост.
+@map_bridge_long=Раньше над оврагом был мост, но он обрушился.
 @map_bridge_prefix=
 
 @map_cars_short=Перекрытая дорога

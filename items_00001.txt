@@ -30,21 +30,21 @@
 @sonic_short_instrumental=
 @sonic_short_accusative=Ультразвуковой отпугиватель насекомых (ТМ)
 @sonic_short_dative=Ультразвуковому отпугивателю насекомых (ТМ)
-@sonic_long=Надпись гласит: «Ультразвуковой отпугиватель насекомых». Скорее всего оно предназначено для борьбы с жуками и насекомыми.
+@sonic_long=Надпись гласит: «Ультразвуковой отпугиватель насекомых». Скорее всего, оно предназначено для борьбы с жуками и насекомыми.
 @sonic_prefix=
 
 @sonic2_short=Ультразвуковой отпугиватель насекомых (ТМ)
 @sonic2_short_instrumental=
 @sonic2_short_accusative=Ультразвуковой отпугиватель насекомых (ТМ)
 @sonic2_short_dative=Ультразвуковому отпугивателю насекомых (ТМ)
-@sonic2_long=Похоже, устройство не работает — лампочка перестала мерцать. Что ж... в любом случае оно мне больше не понадобится.
+@sonic2_long=Похоже, устройство не работает — лампочки перестали мерцать. Что ж... в любом случае оно мне больше не понадобится.
 @sonic2_prefix=
 
 @sonic_remote_short=Пульт дистанционного управления
 @sonic_remote_short_instrumental=
 @sonic_remote_short_accusative=пульт дистанционного управления
 @sonic_remote_short_dative=пульту дистанционного управления
-@sonic_remote_long=Надпись гласит: «Пульт для управления ультразвуковым поражающим устройством»
+@sonic_remote_long=Надпись гласит: «Пульт для ультразвукового отпугивателя насекомых»
 @sonic_remote_prefix=
 
 @pest_note_short=Стикер из грузовика
@@ -72,7 +72,7 @@
 @generic_note_short_instrumental=
 @generic_note_short_accusative=стикер
 @generic_note_short_dative=стикеру
-@generic_note_long=Стикер
+@generic_note_long=Стикер.
 @generic_note_prefix=
 
 @paperclip_short=Скрепка
@@ -100,14 +100,14 @@
 @pest1_short_instrumental=
 @pest1_short_accusative=банку пестицида
 @pest1_short_dative=банке пестицида
-@pest1_long=На этикетке написано, что это мощный пестицид, который вреден для жуков и насекомых. И, похоже, для всего живого в целом. Думаю, мне нужно смешать его с водой.
+@pest1_long=На этикетке написано, что это сильнодействующий пестицид, который опасен для жуков и насекомых. И, похоже, для всего живого в целом. Думаю, мне нужно смешать его с водой.
 @pest1_prefix=
 
 @pest2_short=Банка пестицида
 @pest2_short_instrumental=
 @pest2_short_accusative=банку пестицида
 @pest2_short_dative=банке пестицида
-@pest2_long=На этикетке написано, что это мощный пестицид, который вреден для жуков и насекомых. И, похоже, для всего живого в целом. Думаю, мне нужно смешать его с водой.
+@pest2_long=На этикетке написано, что это сильнодействующий пестицид, который опасен для жуков и насекомых. И, похоже, для всего живого в целом. Думаю, мне нужно смешать его с водой.
 @pest2_prefix=
 
 @straw_short=Соломинка
@@ -149,7 +149,7 @@
 @deadbird_short_instrumental=
 @deadbird_short_accusative=мёртвую птицу
 @deadbird_short_dative=мёртвой птице
-@deadbird_long=Мумифицированная туша птицы. Не вижу смысла брать её с собой...
+@deadbird_long=Мёртвая птица. Не вижу смысла носить её с собой...
 @deadbird_prefix=
 
 @hammer_short=Молоток
@@ -198,7 +198,7 @@
 @chemsuit_rep_dmg_short_instrumental=
 @chemsuit_rep_dmg_short_accusative=защитный костюм
 @chemsuit_rep_dmg_short_dative=защитному костюму
-@chemsuit_rep_dmg_long=После внимательного осмотра выяснилось, что фильтр противогаза сломан. Ну, по крайней мере, я заклеил скотчем дыру в костюме.
+@chemsuit_rep_dmg_long=После внимательного осмотра выяснилось, что фильтр противогаза сломан. Ну, по крайней мере, я заделал скотчем дыру в костюме.
 @chemsuit_rep_dmg_prefix=
 
 @chemsuit_dmg_rep_short=Защитный костюм
@@ -310,35 +310,35 @@
 @planks1_short_instrumental=
 @planks1_short_accusative=сломанные доски
 @planks1_short_dative=сломанным доскам
-@planks1_long=Куча сломанных досок. Они сухие и гнилые, не годятся в качестве строительного материала.
+@planks1_long=Куча сломанных досок. Они сухие и гнилые, не пригодны для использования в качестве строительного материала.
 @planks1_prefix=
 
 @planks2_short=Сломанные доски
 @planks2_short_instrumental=
 @planks2_short_accusative=сломанные доски
 @planks2_short_dative=сломанным доскам
-@planks2_long=Куча сломанных досок. Они сухие и гнилые, не годятся в качестве строительного материала.
+@planks2_long=Куча сломанных досок. Они сухие и гнилые, не пригодны для использования в качестве строительного материала.
 @planks2_prefix=
 
 @planks3_short=Сломанные доски
 @planks3_short_instrumental=
 @planks3_short_accusative=сломанные доски
 @planks3_short_dative=сломанным доскам
-@planks3_long=Куча сломанных досок. Они сухие и гнилые, не годятся в качестве строительного материала.
+@planks3_long=Куча сломанных досок. Они сухие и гнилые, не пригодны для использования в качестве строительного материала.
 @planks3_prefix=
 
 @planks4_short=Сломанные доски
 @planks4_short_instrumental=
 @planks4_short_accusative=сломанные доски
 @planks4_short_dative=сломанным доскам
-@planks4_long=Куча сломанных досок. Они сухие и гнилые, не годятся в качестве строительного материала.
+@planks4_long=Куча сломанных досок. Они сухие и гнилые, не пригодны для использования в качестве строительного материала.
 @planks4_prefix=
 
 @planks5_short=Сломанные доски
 @planks5_short_instrumental=
 @planks5_short_accusative=сломанные доски
 @planks5_short_dative=сломанным доскам
-@planks5_long=Куча сломанных досок. Они сухие и гнилые, не годятся в качестве строительного материала.
+@planks5_long=Куча сломанных досок. Они сухие и гнилые, не пригодны для использования в качестве строительного материала.
 @planks5_prefix=
 
 @window_bars1_prefix=
@@ -346,19 +346,19 @@
 @window_bars1_short_instrumental=
 @window_bars1_short_accusative=металлическую решётку
 @window_bars1_short_dative=металлической решётке
-@window_bars1_long=Сверхпрочная металлическая решётка с довольно большими зазорами.
+@window_bars1_long=Прочная металлическая решётка с довольно большими зазорами.
 @window_bars2_prefix=
 @window_bars2_short=Металлическая решётка
 @window_bars2_short_instrumental=
 @window_bars2_short_accusative=металлическую решётку
 @window_bars2_short_dative=металлической решётке
-@window_bars2_long=Сверхпрочная металлическая решётка с довольно большими зазорами.
+@window_bars2_long=Прочная металлическая решётка с довольно большими зазорами.
 @window_bars3_prefix=
 @window_bars3_short=Металлическая решётка
 @window_bars3_short_instrumental=
 @window_bars3_short_accusative=металлическую решётку
 @window_bars3_short_dative=металлической решётке
-@window_bars3_long=Сверхпрочная металлическая решётка с довольно большими зазорами.
+@window_bars3_long=Прочная металлическая решётка с довольно большими зазорами.
 
 @window_net1_prefix=
 @window_net1_short=Сетка для окна
@@ -411,7 +411,7 @@
 @chem_glass_short_instrumental=
 @chem_glass_short_accusative=пустую химическую колбу
 @chem_glass_short_dative=пустой химической колбе
-@chem_glass_long=Предназначена для кратковременного хранения химических веществ.
+@chem_glass_long=Колба, предназначенная для кратковременного хранения химических реактивов.
 
 @chem_glass_1_prefix=
 @chem_glass_1_short=Колба, наполовину заполненная жидкостью «А»
@@ -435,25 +435,25 @@
 @chem_glass_3_long=Наполовину полная или наполовину пустая? Хм...
 
 @chem_glass_12_prefix=
-@chem_glass_12_short=Колба, наполненная жидкостями «A» и «B»
+@chem_glass_12_short=Колба, заполненная жидкостями «A» и «B»
 @chem_glass_12_short_instrumental=
-@chem_glass_12_short_accusative=колбу, наполовину заполненную жидкостями «A» и «B»
-@chem_glass_12_short_dative=колбе, наполовину заполненной жидкостями «A» и «B»
-@chem_glass_12_long=У жидкости странный цвет и неприятный запах.
+@chem_glass_12_short_accusative=колбу, заполненную жидкостями «A» и «B»
+@chem_glass_12_short_dative=колбе, заполненной жидкостями «A» и «B»
+@chem_glass_12_long=У смеси странный цвет и неприятный запах.
 
 @chem_glass_23_prefix=
-@chem_glass_23_short=Колба, наполненная жидкостями «B» и «C»
+@chem_glass_23_short=Колба, заполненная жидкостями «B» и «C»
 @chem_glass_23_short_instrumental=
-@chem_glass_23_short_accusative=колбу, наполовину заполненную жидкостями «B» и «C»
-@chem_glass_23_short_dative=колбе, наполовину заполненной жидкостями «B» и «C»
-@chem_glass_23_long=У жидкости странный цвет и неприятный запах.
+@chem_glass_23_short_accusative=колбу, заполненную жидкостями «B» и «C»
+@chem_glass_23_short_dative=колбе, заполненной жидкостями «B» и «C»
+@chem_glass_23_long=У смеси странный цвет и неприятный запах.
 
 @chem_glass_13_prefix=
-@chem_glass_13_short=Колба, наполненная жидкостями «A» и «C»
+@chem_glass_13_short=Колба, заполненная жидкостями «A» и «C»
 @chem_glass_13_short_instrumental=
-@chem_glass_13_short_accusative=колбу, наполовину заполненную жидкостями «A» и «C»
-@chem_glass_13_short_dative=колбе, наполовину заполненной жидкостями «A» и «C»
-@chem_glass_13_long=У жидкости странный цвет и неприятный запах.
+@chem_glass_13_short_accusative=колбу, заполненную жидкостями «A» и «C»
+@chem_glass_13_short_dative=колбе, заполненной жидкостями «A» и «C»
+@chem_glass_13_long=У смеси странный цвет и неприятный запах.
 
 @wrench_prefix=
 @wrench_short=Разводной ключ
@@ -467,21 +467,21 @@
 @watersprayer_short_instrumental=
 @watersprayer_short_accusative=распылитель
 @watersprayer_short_dative=распылителю
-@watersprayer_long=Мог бы пригодиться, если бы я хотел побрызгать растения водой, но есть дела поважнее, да и растений у меня нет.
+@watersprayer_long=Он мог бы пригодиться, если бы я хотел побрызгать растения водой, но есть дела поважнее, да и растений у меня нет.
 
 @pestsprayer_prefix=
 @pestsprayer_short=Распылитель пестицидов
 @pestsprayer_short_instrumental=
 @pestsprayer_short_accusative=распылитель пестицидов
 @pestsprayer_short_dative=распылителю пестицидов
-@pestsprayer_long=Пестицидный спрей может быть полезен в качестве оружия против насекомых. Лучше держать это при себе.
+@pestsprayer_long=Пестицидный спрей можно использовать в качестве оружия против насекомых. Лучше держать это при себе.
 
 @fuelsprayer_prefix=
 @fuelsprayer_short=Распылитель, наполненный топливом
 @fuelsprayer_short_instrumental=
 @fuelsprayer_short_accusative=распылитель, наполненный топливом
 @fuelsprayer_short_dative=распылителю, наполненному топливом
-@fuelsprayer_long=Можно использовать для распыления топлива... Теоретически.
+@fuelsprayer_long=Теоретически, его можно использовать для распыления топлива...
 
 @flamethrower_empty_prefix=
 @flamethrower_empty_short=Пустой огнемёт
@@ -511,14 +511,14 @@
 @broken_hammer_short_instrumental=
 @broken_hammer_short_accusative=молоток со сломанной рукояткой
 @broken_hammer_short_dative=молотку со сломанной рукояткой
-@broken_hammer_long=Бесполезен, пока я его не починю. Как видите, мир полон сломанных молотков.
+@broken_hammer_long=От него не будет никакой пользы, пока я его не починю. Как видите, мир полон сломанных молотков.
 
 @hammer_handle_prefix=
-@hammer_handle_short=Деревянная ручка
+@hammer_handle_short=Деревянный черенок
 @hammer_handle_short_instrumental=
-@hammer_handle_short_accusative=деревянную ручку
-@hammer_handle_short_dative=деревянной ручке
-@hammer_handle_long=Маленькая деревянная ручка.
+@hammer_handle_short_accusative=деревянный черенок
+@hammer_handle_short_dative=деревянному черенку
+@hammer_handle_long=Маленький деревянный черенок.
 
 @rock_prefix=
 @rock_short=Маленький камень
@@ -567,14 +567,14 @@
 @bear_trap_1_short_instrumental=
 @bear_trap_1_short_accusative=медвежий капкан
 @bear_trap_1_short_dative=медвежьему капкану
-@bear_trap_1_long=Выглядит устрашающе.
+@bear_trap_1_long=Выглядит опасно.
 
 @bear_trap_2_prefix=
 @bear_trap_2_short=Медвежий капкан
 @bear_trap_2_short_instrumental=
 @bear_trap_2_short_accusative=медвежий капкан
 @bear_trap_2_short_dative=медвежьему капкану
-@bear_trap_2_long=Выглядит устрашающе.
+@bear_trap_2_long=Выглядит опасно.
 
 @bear_trap_1b_prefix=
 @bear_trap_1b_short=Капкан с мёртвым пауком
@@ -602,21 +602,21 @@
 @bear_trap_3_short_instrumental=
 @bear_trap_3_short_accusative=медвежий капкан
 @bear_trap_3_short_dative=медвежьему капкану
-@bear_trap_3_long=Выглядит устрашающе.
+@bear_trap_3_long=Выглядит опасно.
 
 @bear_trap_4_prefix=
 @bear_trap_4_short=Медвежий капкан
 @bear_trap_4_short_instrumental=
 @bear_trap_4_short_accusative=медвежий капкан
 @bear_trap_4_short_dative=медвежьему капкану
-@bear_trap_4_long=Выглядит устрашающе.
+@bear_trap_4_long=Выглядит опасно.
 
 @rifle_6_prefix=
 @rifle_6_short=Винтовка
 @rifle_6_short_instrumental=винтовкой
 @rifle_6_short_accusative=винтовку
 @rifle_6_short_dative=винтовке
-@rifle_6_long=Охотничья винтовка. В ней осталось 6 патронов.
+@rifle_6_long=Охотничья винтовка. Она полностью заряжена.
 
 @rifle_5_prefix=
 @rifle_5_short=Винтовка
@@ -693,7 +693,7 @@
 @coat4_short_instrumental=
 @coat4_short_accusative=тёплую куртку
 @coat4_short_dative=тёплой куртке
-@coat4_long=Она странно пахнет, зато плотная и тёплая.
+@coat4_long=Она странно пахнет, зато она плотная и тёплая.
 
 @shovel_prefix=
 @shovel_short=Лопата
@@ -714,7 +714,7 @@
 @hose_short_instrumental=
 @hose_short_accusative=короткий шланг
 @hose_short_dative=короткому шлангу
-@hose_long=Короткий резиновый шланг с болтовыми клапанами. Подойдёт для транспортировки газа или жидкостей.
+@hose_long=Короткий резиновый шланг с резьбовыми клапанами. Подойдёт для транспортировки газа или жидкостей.
 
 @locket_prefix=
 @locket_short=Золотой медальон
@@ -723,17 +723,17 @@
 @locket_short_dative=золотому медальону
 @locket_long=Золотой медальон, который я снял с жены Барри.
 
-@foodcan_short=Консервированное мясо
+@foodcan_short=Банка мясных консервов
 @foodcan_short_instrumental=
-@foodcan_short_accusative=консервированное мясо
-@foodcan_short_dative=консервированному мясу
+@foodcan_short_accusative=банку мясных консервов
+@foodcan_short_dative=банке мясных консервов
 @foodcan_long=На этикетке написано, что в этой банке вкусное мясо, срок годности которого истекает через две недели. К счастью, мы этого не застанем.
 @foodcan_prefix=
 
-@foodcanopen_short=Открытая банка консервированного мяса
+@foodcanopen_short=Открытая банка мясных консервов
 @foodcanopen_short_instrumental=
-@foodcanopen_short_accusative=открытую банку консервированного мяса
-@foodcanopen_short_dative=открытой банке консервированного мяса
+@foodcanopen_short_accusative=открытую банку мясных консервов
+@foodcanopen_short_dative=открытой банке мясных консервов
 @foodcanopen_long=Уф. На вид и запах как будто собачий корм.
 @foodcanopen_prefix=
 
@@ -755,7 +755,7 @@
 @hook_short_instrumental=
 @hook_short_accusative=крюк
 @hook_short_dative=крюку
-@hook_long=Буксирный крюк, некогда прикреплённый к фургону.
+@hook_long=Большой буксировочный крюк.
 @hook_prefix=
 
 @blanket_short=Зелёное одеяло
@@ -776,13 +776,13 @@
 @thermalb_short_instrumental=
 @thermalb_short_accusative=термоодеяло
 @thermalb_short_dative=термоодеялу
-@thermalb_long=Лёгкое одеяло из тонкого металлического материала, отражающего тепло.
+@thermalb_long=Лёгкое светоотражающее одеяло из плёнки, покрытой тонким слоём металлической фольги.
 @thermalb_prefix=
 
-@generator_short=Пустой портативный генератор
+@generator_short=Не заправленный портативный генератор
 @generator_short_instrumental=
-@generator_short_accusative=пустой портативный генератор
-@generator_short_dative=пустому портативному генератору
+@generator_short_accusative=не заправленный портативный генератор
+@generator_short_dative=не заправленному портативному генератору
 @generator_long=Ну, он портативный, но всё равно очень тяжёлый. И в баке нет топлива.
 @generator_prefix=
 
@@ -797,21 +797,21 @@
 @gasheater_short_instrumental=
 @gasheater_short_accusative=газовый обогреватель
 @gasheater_short_dative=газовому обогревателю
-@gasheater_long=При вставленном баллоне с пропаном он может выделять много тепла.
+@gasheater_long=Благодаря пропановому баллону он может выделять много тепла.
 @gasheater_prefix=
 
 @gasheater_empty_short=Пустой газовый обогреватель
 @gasheater_empty_short_instrumental=
 @gasheater_empty_short_accusative=пустой газовый обогреватель
 @gasheater_empty_short_dative=пустому газовому обогревателю
-@gasheater_empty_long=Работает на пропане. Он тяжёлый, но всё же портативный. Однако без газового баллона он не очень полезен.
+@gasheater_empty_long=Обогреватель, работающий за счёт пропана. Он тяжёлый, но всё же портативный. Однако, без пропанового баллона он не очень полезен.
 @gasheater_empty_prefix=
 
 @wheel_short=Автомобильное колесо
 @wheel_short_instrumental=
 @wheel_short_accusative=автомобильное колесо
 @wheel_short_dative=автомобильному колесу
-@wheel_long=Автомобильное колесо, которое я открутил от разбившегося пикапа.
+@wheel_long=Автомобильное колесо, которое я снял с разбившегося пикапа.
 @wheel_prefix=
 
 @ext_cord_short=Удлинитель
@@ -839,7 +839,7 @@
 @heater_short_instrumental=
 @heater_short_accusative=электрический обогреватель
 @heater_short_dative=электрическому обогревателю
-@heater_long=Устройство, которое выдувает горячий воздух при подключении к сети.
+@heater_long=Устройство, которое выдувает горячий воздух после подключения к сети.
 @heater_prefix=
 
 @fan_broken_short=Сломанный вентилятор
@@ -853,14 +853,14 @@
 @heater_broken_short_instrumental=
 @heater_broken_short_accusative=сломанный электрический обогреватель
 @heater_broken_short_dative=сломанному электрическому обогревателю
-@heater_broken_long=Устройство, которое выдувает горячий воздух при подключении к сети. Что-то гремит внутри. Возможно, устройство сломано.
+@heater_broken_long=Устройство, которое выдувает горячий воздух после подключения к сети. Что-то гремит внутри. Возможно, устройство сломано.
 @heater_broken_prefix=
 
 @ext_cord_place_short=Розеточный блок удлинителя
 @ext_cord_place_short_instrumental=
 @ext_cord_place_short_accusative=розеточный блок удлинителя
 @ext_cord_place_short_dative=розетке удлинителя
-@ext_cord_place_long=Это розетка на конце удлинителя. Я могу подключить к ней какое-то электрическое устройство.
+@ext_cord_place_long=Это розетки на конце удлинителя. Я могу подключить к ним электрические устройства.
 @ext_cord_place_prefix=
 
 @ac_cord_short=Шнур питания кондиционера
@@ -979,7 +979,7 @@
 @sidereal_secrets_short_instrumental=
 @sidereal_secrets_short_accusative=конфиденциальный документ
 @sidereal_secrets_short_dative=конфиденциальному документу
-@sidereal_secrets_long=Бумаги, найденные в комнате за перекрытой дверью в офисе Сайдириал.
+@sidereal_secrets_long=Бумаги, найденные в комнате за перекрытой дверью в офисе Сайдириал Плексус.
 @sidereal_secrets_prefix=
 
 @sidereal_id_short=ID-карта
@@ -1056,7 +1056,7 @@
 @gun_ammo_short_instrumental=
 @gun_ammo_short_accusative=ящик револьверных патронов
 @gun_ammo_short_dative=ящику револьверных патронов
-@gun_ammo_long=Ящик, полный револьверных патронов.
+@gun_ammo_long=Ящик, полный патронов для револьвера.
 @gun_ammo_prefix=
 
 @rifle_ammo_short=Ящик винтовочных патронов
@@ -1070,7 +1070,7 @@
 @scope_short_instrumental=
 @scope_short_accusative=прицел для винтовки
 @scope_short_dative=прицелу для винтовки
-@scope_long=Можно повысить точность стрельбы, если установить прицел на винтовку.
+@scope_long=Установив прицел на винтовку, можно повысить точность стрельбы.
 @scope_prefix=
 
 @rifle_so_6_prefix=
@@ -1078,7 +1078,7 @@
 @rifle_so_6_short_instrumental=снайперской винтовкой с глушителем
 @rifle_so_6_short_accusative=снайперскую винтовку с глушителем
 @rifle_so_6_short_dative=снайперской винтовке с глушителем
-@rifle_so_6_long=Снайперская винтовка с глушителем. В ней осталось 6 патронов.
+@rifle_so_6_long=Снайперская винтовка с глушителем. Она полностью заряжена.
 
 @rifle_so_5_prefix=
 @rifle_so_5_short=Снайперская винтовка с глушителем
@@ -1127,7 +1127,7 @@
 @rifle_s_6_short_instrumental=винтовкой с глушителем
 @rifle_s_6_short_accusative=винтовку с глушителем
 @rifle_s_6_short_dative=винтовке с глушителем
-@rifle_s_6_long=Винтовка с глушителем. В ней осталось 6 патронов.
+@rifle_s_6_long=Винтовка с глушителем. Она полностью заряжена.
 
 @rifle_s_5_prefix=
 @rifle_s_5_short=Винтовка с глушителем
@@ -1176,7 +1176,7 @@
 @rifle_o_6_short_instrumental=снайперской винтовкой
 @rifle_o_6_short_accusative=снайперскую винтовку
 @rifle_o_6_short_dative=снайперской винтовке
-@rifle_o_6_long=Снайперская винтовка. В ней осталось 6 патронов.
+@rifle_o_6_long=Снайперская винтовка. Она полностью заряжена.
 
 @rifle_o_5_prefix=
 @rifle_o_5_short=Снайперская винтовка
@@ -1225,28 +1225,28 @@
 @poison_short_instrumental=
 @poison_short_accusative=крысиный яд
 @poison_short_dative=крысиному яду
-@poison_long=Предупреждающая этикетка гласит, что яд может вызвать тошноту, внутреннее кровотечение, печеночную недостаточность или даже смерть. Господи, они точно уверены, что этот яд предназначен для крыс, а не для слонов?
+@poison_long=Предупреждающая этикетка гласит, что яд может вызвать тошноту, внутреннее кровотечение, печёночную недостаточность или даже смерть. Господи, они точно уверены, что этот яд предназначен для крыс, а не для слонов?
 
 @food_bag_prefix=
-@food_bag_short=Мешок еды
+@food_bag_short=Мешочек еды
 @food_bag_short_instrumental=
-@food_bag_short_accusative=мешок еды
-@food_bag_short_dative=мешку еды
-@food_bag_long=Я позаимствовал еду у бандитов на стройке. Тут всего лишь немного пшеницы, но блин, это лучше, чем ничего.
+@food_bag_short_accusative=мешочек еды
+@food_bag_short_dative=мешочку еды
+@food_bag_long=Я нашёл этот мешочек в лагере головорезов на стройплощадке. Тут всего лишь немного пшеницы, но, блин, это лучше, чем ничего.
 
 @oil_prefix=
 @oil_short=Бутылка растительного масла
 @oil_short_instrumental=
 @oil_short_accusative=бутылку растительного масла
 @oil_short_dative=бутылке растительного масла
-@oil_long=Сомневаюсь, что буду жарить картошку фри, но кто знает. Лучше быть осторожнее с маслом — это не вода, которая может высохнуть за пару минут, не оставив следа.
+@oil_long=Сомневаюсь, что буду жарить картошку фри, но кто знает. Между прочим, желательно не проливать масло — это не вода, которая может высохнуть за пару минут.
 
 @maggot_prefix=
 @maggot_short=Личинка
 @maggot_short_instrumental=
 @maggot_short_accusative=личинку
 @maggot_short_dative=личинке
-@maggot_long=Мерзкая личинка.
+@maggot_long=Отвратительная личинка.
 
 @rock2_prefix=
 @rock2_short=Маленький камень
@@ -1267,7 +1267,7 @@
 @welder_short_instrumental=
 @welder_short_accusative=сварочный комплект
 @welder_short_dative=сварочному комплекту
-@welder_long=Сварочное оборудование и сварочная маска.
+@welder_long=Комплект, состоящий из сварочного оборудования и сварочной маски.
 
 @mixer_glass_prefix=
 @mixer_glass_short=Химическая колба
@@ -1309,7 +1309,7 @@
 @gluegun_short_instrumental=
 @gluegun_short_accusative=клеевой пистолет без батареек
 @gluegun_short_dative=клеевому пистолету без батареек
-@gluegun_long=Клеевой пистолет работает от батареек. Внутри него уже есть клеевой стержень, но, чтобы нагреть его и расплавить, необходима энергия.
+@gluegun_long=Клеевой пистолет, работающий от батареек. Внутри него уже есть клеевой стержень, но, чтобы нагреть его и расплавить, необходима энергия.
 
 @gluegun_powered_prefix=
 @gluegun_powered_short=Клеевой пистолет
@@ -1323,7 +1323,7 @@
 @fingerprint_short_instrumental=
 @fingerprint_short_accusative=отпечаток пальца
 @fingerprint_short_dative=отпечатку пальца
-@fingerprint_long=Отпечаток пальца одного из сотрудников Сайдириал Плексус, сформированный на куске засохшего клея.
+@fingerprint_long=Отпечаток пальца, сформированный на куске засохшего клея, и принадлежащий одному из сотрудников Сайдириал Плексус.
 
 @key3_prefix=
 @key3_short=Ключ с ярлыком
@@ -1358,28 +1358,28 @@
 @duplexer_short_instrumental=
 @duplexer_short_accusative=дуплексер
 @duplexer_short_dative=дуплексеру
-@duplexer_long=Электронное устройство, часто встречающееся в радиоприемниках, радарах и системах связи.
+@duplexer_long=Электронное устройство, обычно используемое в системах радио- и радиолокационной связи.
 
 @transmission_belt_prefix=
 @transmission_belt_short=Приводной ремень
 @transmission_belt_short_instrumental=
 @transmission_belt_short_accusative=приводной ремень
 @transmission_belt_short_dative=приводному ремню
-@transmission_belt_long=Резиновый ремень, используемый для соединения двух вращающихся частей двигателя.
+@transmission_belt_long=Резиновый ремень, который использовался для соединения двух вращающихся частей двигателя.
 
 @air_tanks_prefix=
 @air_tanks_short=Баллоны с воздухом
 @air_tanks_short_instrumental=
 @air_tanks_short_accusative=баллоны с воздухом
 @air_tanks_short_dative=баллонам с воздухом
-@air_tanks_long=Они такие тяжёлые только из-за наполненности воздухом.
+@air_tanks_long=Они довольно тяжёлые, пусть и наполнены одним воздухом.
 
 @nav_chip_prefix=
 @nav_chip_short=Электронный чип
 @nav_chip_short_instrumental=
 @nav_chip_short_accusative=электронный чип
 @nav_chip_short_dative=электронному чипу
-@nav_chip_long=На нём написано «Навигационный чип».
+@nav_chip_long=На нём написано «Нав. чип».
 
 @lioh_filter_prefix=
 @lioh_filter_short=LiOH фильтр
@@ -1393,7 +1393,7 @@
 @engine_calibrator_short_instrumental=
 @engine_calibrator_short_accusative=калибратор
 @engine_calibrator_short_dative=калибратору
-@engine_calibrator_long=Устройство, используемое для калибровки двигателей и обеспечивающее стабильную тягу при запуске.
+@engine_calibrator_long=Устройство, используемое для калибровки двигателей, чтобы они давали стабильную тягу при запуске.
 
 @manifest_prefix=
 @manifest_short=Опись груза
@@ -1456,14 +1456,14 @@
 @pills_short_instrumental=
 @pills_short_accusative=таблетки для снижения потребления кислорода
 @pills_short_dative=таблеткам для снижения потребления кислорода
-@pills_long=Куча таблеток для снижения потребления кислорода. С их помощью воздуха в лёгких хватит на более длительное время. Надеюсь, это безопасно.
+@pills_long=Таблетки, с помощью которых воздуха в лёгких якобы хватит на более длительное время. Надеюсь, это безопасно.
 
 @catalyst_prefix=
 @catalyst_short=Катализатор для топлива
 @catalyst_short_instrumental=
 @catalyst_short_accusative=катализатор для топлива
 @catalyst_short_dative=катализатору для топлива
-@catalyst_long=Химическая смесь, увеличивающая эффективность сгорания топлива.
+@catalyst_long=Химическая смесь, повышающая эффективность сгорания топлива.
 
 @moon_card_prefix=
 @moon_card_short=Карта доступа
@@ -1511,7 +1511,7 @@
 @finger_short_instrumental=
 @finger_short_accusative=человеческий палец
 @finger_short_dative=человеческому пальцу
-@finger_long=Мумифицированный указательный палец. Зачем я вообще ношу его с собой?
+@finger_long=Отрезанный указательный палец. Зачем я вообще ношу его с собой?
 @finger_prefix=
 
 @disc1_prefix=
@@ -1526,7 +1526,7 @@
 @disc2_short_instrumental=
 @disc2_short_accusative=дискету с надписью «МАЛЫЙ ФАЗОВЫЙ КОНТРОЛЛЕР»
 @disc2_short_dative=дискете с надписью «МАЛЫЙ ФАЗОВЫЙ КОНТРОЛЛЕР»
-@disc2_long=Не знаю почему, но меня не покидает чувство, что я уже видел эту дискету раньше. И похоже, она является чем-то очень важным. Я обязан носить её с собой несмотря ни на что.
+@disc2_long=Не знаю почему, но мне кажется, что я уже видел эту дискету раньше. И похоже, она является чем-то очень важным. Я обязан носить её с собой несмотря ни на что.
 
 @cate_note_prefix=
 @cate_note_short=Записка от Кейт
@@ -1561,25 +1561,25 @@
 @stormcatcher1_short_instrumental=
 @stormcatcher1_short_accusative=Ловец гроз (ТМ)
 @stormcatcher1_short_dative=Ловцу гроз (ТМ)
-@stormcatcher1_long=Это устройство якобы отгоняет грозовые облака, но самый эффективный вариант — если три из них установлены на расстоянии нескольких километров друг от друга, образуя треугольник вокруг защищаемой территории.
+@stormcatcher1_long=Это устройство якобы отгоняет грозовые облака. Но чтобы добиться максимального эффекта, нужно установить три таких устройства в нескольких километрах от защищаемой территории, образуя вокруг неё треугольник.
 
 @stormcatcher2_prefix=
 @stormcatcher2_short=Ловец гроз (ТМ)
 @stormcatcher2_short_instrumental=
 @stormcatcher2_short_accusative=Ловец гроз (ТМ)
 @stormcatcher2_short_dative=Ловцу гроз (ТМ)
-@stormcatcher2_long=Это устройство якобы отгоняет грозовые облака, но самый эффективный вариант — если три из них установлены на расстоянии нескольких километров друг от друга, образуя треугольник вокруг защищаемой территории.
+@stormcatcher2_long=Это устройство якобы отгоняет грозовые облака. Но чтобы добиться максимального эффекта, нужно установить три таких устройства в нескольких километрах от защищаемой территории, образуя вокруг неё треугольник.
 
 @stormcatcher3_prefix=
 @stormcatcher3_short=Ловец гроз (ТМ)
 @stormcatcher3_short_instrumental=
 @stormcatcher3_short_accusative=Ловец гроз (ТМ)
 @stormcatcher3_short_dative=Ловцу гроз (ТМ)
-@stormcatcher3_long=Это устройство якобы отгоняет грозовые облака, но самый эффективный вариант — если три из них установлены на расстоянии нескольких километров друг от друга, образуя треугольник вокруг защищаемой территории.
+@stormcatcher3_long=Это устройство якобы отгоняет грозовые облака. Но чтобы добиться максимального эффекта, нужно установить три таких устройства в нескольких километрах от защищаемой территории, образуя вокруг неё треугольник.
 
 @tarpaulin_prefix=
 @tarpaulin_short=Сложенный брезент
 @tarpaulin_short_instrumental=
 @tarpaulin_short_accusative=сложенный брезент
 @tarpaulin_short_dative=сложенному брезенту
-@tarpaulin_long=Большой сложенный брезент. Он намного тяжелее, чем вы думаете.
+@tarpaulin_long=Большой сложенный брезент. Он тяжелее, чем кажется.
