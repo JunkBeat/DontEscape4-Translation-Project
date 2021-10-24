@@ -44,7 +44,7 @@
 @sonic_remote_short_instrumental=
 @sonic_remote_short_accusative=пульт дистанционного управления
 @sonic_remote_short_dative=пульту дистанционного управления
-@sonic_remote_long=Надпись гласит: «Пульт для ультразвукового отпугивателя насекомых»
+@sonic_remote_long=Надпись гласит: «Пульт для Ультразвукового отпугивателя насекомых»
 @sonic_remote_prefix=
 
 @pest_note_short=Стикер из грузовика
