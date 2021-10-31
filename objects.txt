@@ -691,14 +691,14 @@
 @base_chimney_basket_empty_short_for_ext_cord_place=
 @base_chimney_basket_empty_short_accusative=корзину для дров
 @base_chimney_basket_empty_short_dative=корзине для дров
-@base_chimney_basket_empty_long=Деревянная корзина для угля и дров. Она пустая.
+@base_chimney_basket_empty_long=Корзина для угля и дров. Она пустая.
 @base_chimney_basket_empty_prefix=
 
 @base_chimney_basket_filled_short=Корзина для дров
 @base_chimney_basket_filled_short_for_ext_cord_place=
 @base_chimney_basket_filled_short_accusative=корзину для дров
 @base_chimney_basket_filled_short_dative=корзине для дров
-@base_chimney_basket_filled_long=Деревянная корзина для угля и дров. Мне нужно рассмотреть корзину поближе, чтобы понять, чем она заполнена.
+@base_chimney_basket_filled_long=Корзина для угля и дров. Мне нужно рассмотреть корзину поближе, чтобы понять, чем она заполнена.
 @base_chimney_basket_filled_prefix=
 
 @bathroom_bath_short=Ванна

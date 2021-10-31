@@ -116,7 +116,7 @@
 @text_speed=Скорость текста
 @close=Закрыть
 @intro_1=ARMOR GAMES STUDIOS^представляет
-@intro_2=игра авторства^MATEUSZ «SCRIPTWELDER» SOKALSZCZUK
+@intro_2=создатель игры^MATEUSZ «SCRIPTWELDER» SOKALSZCZUK
 @intro_4=музыка^CHRIS CARLONE
 @intro_3=дополнительный сценарий^и оформление^GRZEGORZ GRABSKI
 @drop_long=Вы можете выложить любой предмет из инвентаря, переместив его сюда.
