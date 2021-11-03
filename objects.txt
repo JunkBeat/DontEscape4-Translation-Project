@@ -1904,7 +1904,7 @@
 @barn_generator_starting_cord_long=Если потянуть за эту ручку, должен заработать двигатель генератора.
 @barn_generator_starting_cord_prefix=
 
-@ext_cord_placed_short=Розетки удлинителя
+@ext_cord_placed_short=Розеточный блок удлинителя
 @ext_cord_placed_short_for_ext_cord_place=
 @ext_cord_placed_short_dative=розетке удлинителя
 @ext_cord_placed_long=Несколько электрических розеток на конце удлинителя.
