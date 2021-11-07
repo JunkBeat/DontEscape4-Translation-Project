@@ -206,10 +206,10 @@
 
 @custom_game_label=Кастомная игра
 @custom_game_world=Мир
-@custom_game_disc_cody=Применить дискету, полученную Коди
-@custom_game_disc_barry=Применить дискету, полученную Барри
-@custom_game_disc_both=Применить обе дискеты
-@custom_game_disc_none=Не применять ни одну из дискет
+@custom_game_disc_cody=Применить дискету, раздобытую благодаря Коди^
+@custom_game_disc_barry=Применить дискету, раздобытую благодаря Барри^
+@custom_game_disc_both=Применить обе дискеты^
+@custom_game_disc_none=Не применять ни одну из дискет^
 @custom_game_disc_desc=Дискеты:
 @custom_game_d1=День 1:
 @custom_game_d2=День 2:
@@ -219,7 +219,7 @@
 @custom_game_gas=Ядовитый газ
 @custom_game_spiders=Пауки
 @custom_game_hot=Жара
-@custom_game_cold=Мороз
+@custom_game_cold=Холод
 @custom_game_bandits=Банда Кастета
 @custom_game_storm=Гроза
 @custom_game_fuel=Недостаток топлива

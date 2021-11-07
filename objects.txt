@@ -246,7 +246,7 @@
 @kitchen_door1_prefix=
 
 @kitchen_door2_short=Проход в гостиную
-@kitchen_door2_short_for_ext_cord_place=в гостинную
+@kitchen_door2_short_for_ext_cord_place=в гостиную
 @kitchen_door2_short_dative=проходу в гостиную
 @kitchen_door2_long=Проход, который ведёт в гостиную.
 @kitchen_door2_prefix=
@@ -1137,7 +1137,7 @@
 @bridge_drone_short_for_ext_cord_place=
 @bridge_drone_short_dative=метеорологическому дрону
 @bridge_drone_prefix=
-@bridge_drone_long=Автоматизированный дрон, который используется для измерения погодных условий. Похоже, он серьёзно повредился во время последнего приземления.
+@bridge_drone_long=Автоматизированный дрон, используемый для измерения погодных условий. Похоже, он серьёзно повредился во время последнего приземления.
 
 @bridge_spade_prefix=
 @bridge_spade_short=Небольшая лопата
@@ -1743,7 +1743,7 @@
 @house_b_heater_short=Электрический обогреватель
 @house_b_heater_short_for_ext_cord_place=
 @house_b_heater_short_dative=электрическому обогревателю
-@house_b_heater_long=Устройство, которое выдувает горячий воздух после подключения к сети.
+@house_b_heater_long=Устройство, которое выдувает горячий воздух после подключения к электросети.
 @house_b_heater_prefix=
 
 @house_b_fan_short=Вентилятор
@@ -2207,10 +2207,10 @@
 @sidereal_f2c_door_long=Эта дверь выглядит прочной. И ещё в ней есть маленькая замочноя скважина.
 @sidereal_f2c_door_prefix=
 
-@sidereal_elevator_closed_short=Дверь лифта
+@sidereal_elevator_closed_short=Двери лифта
 @sidereal_elevator_closed_short_for_ext_cord_place=
 @sidereal_elevator_closed_short_dative=двери лифта
-@sidereal_elevator_closed_long=Возможно, у меня получится открыть эту дверь силой.
+@sidereal_elevator_closed_long=Возможно, у меня получится открыть эти двери силой.
 @sidereal_elevator_closed_prefix=
 
 @sidereal_internet_app_short=Интернет-браузер
@@ -2413,10 +2413,10 @@
 @sidereal_corridor_prefix=
 @sidereal_photocopier_prefix=
 
-@sidereal_doorway_short=Дверь
+@sidereal_doorway_short=Двери
 @sidereal_doorway_short_for_ext_cord_place=
-@sidereal_doorway_short_dative=двери
-@sidereal_doorway_long=Эта дверь выглядит прочной.
+@sidereal_doorway_short_dative=дверям
+@sidereal_doorway_long=Эти двери выглядят прочными.
 @sidereal_doorway_prefix=
 
 @sidereal_doorway_lab_short=Вход в лабораторию
@@ -2676,7 +2676,7 @@
 @cs_scaffolding_short=Ржавые строительные леса
 @cs_scaffolding_short_for_ext_cord_place=
 @cs_scaffolding_short_dative=ржавым строительным лесам
-@cs_scaffolding_long=Они выглядят не очень: все в ржавчине и с острыми краями.
+@cs_scaffolding_long=Они выглядят не очень: все в ржавчине и с острыми выступами.
 
 @cs_buckle_prefix=
 @cs_buckle_short=Карабин
@@ -2868,13 +2868,13 @@
 @outpost_elevator_short=Лифт
 @outpost_elevator_short_for_ext_cord_place=
 @outpost_elevator_short_dative=лифту
-@outpost_elevator_long=Запертая дверь лифта с кнопкой вызова на стене.
+@outpost_elevator_long=Запертые двери лифта с кнопкой вызова на стене.
 
 @outpost_elevator_open_prefix=
 @outpost_elevator_open_short=Лифт
 @outpost_elevator_open_short_for_ext_cord_place=
 @outpost_elevator_open_short_dative=лифту
-@outpost_elevator_open_long=Открытая дверь лифта, с помощью которого можно спуститься под землю и вернуться обратно.
+@outpost_elevator_open_long=Открытые двери лифта, с помощью которого можно спуститься под землю и вернуться обратно.
 
 @outpost_switch_prefix=
 @outpost_switch_short=Выключатель
