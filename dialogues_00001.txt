@@ -1024,7 +1024,7 @@
 @sidereal_entry_closed_5_b=На это нет времени.
 @sidereal_entry_closed_6_b=Давай поищем другой вход.
 
-@sidereal_streetlamp_1_a=Ещё несколько месяцев, и эта лампа совсем исчезнет под песком.
+@sidereal_streetlamp_1_a=Ещё несколько месяцев, и этот фонарь совсем исчезнет под песком.
 @sidereal_streetlamp_2_b=В этом мире столько времени уже не успеет пройти.
 
 @sidereal_watchout_1_b=БЕРЕГИСЬ!!!

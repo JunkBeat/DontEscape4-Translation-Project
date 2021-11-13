@@ -48,7 +48,8 @@
 @minute2=минуты
 @minutes=минут
 
-@day=День
+@day_p=-й
+@day=день
 @am=-
 @pm=-
 @time_now=Сейчас
@@ -145,7 +146,7 @@
 @slot_name=Сохранение
 @autosave_name=Автосохр.
 @autosave_chapter_name1=Конец
-@autosave_chapter_name2= дня
+@autosave_chapter_name2=-го дня
 @loadGame=Загрузить игру
 @load_select=Загрузить игру:
 @save_overwrite_warning=Вы действительно хотите перезаписать предыдущее сохранение?

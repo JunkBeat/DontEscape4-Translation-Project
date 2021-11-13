@@ -3609,9 +3609,9 @@
 @moon_card_long=Похоже на карту доступа.
 
 @moon_card_reader_prefix=
-@moon_card_reader_short=Картридер
+@moon_card_reader_short=Считыватель магнитных карт
 @moon_card_reader_short_for_ext_cord_place=
-@moon_card_reader_short_dative=картридеру
+@moon_card_reader_short_dative=считывателю магнитных карт
 @moon_card_reader_long=Слот для карт доступа.
 
 @moon_computer_prefix=

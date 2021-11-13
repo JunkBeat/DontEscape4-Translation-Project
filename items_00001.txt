@@ -177,14 +177,14 @@
 @towel_1_short_instrumental=
 @towel_1_short_accusative=полотенце
 @towel_1_short_dative=полотенцу
-@towel_1_long=Старое кухонное полотенце. Такая вещь никогда не будет лишней.
+@towel_1_long=Старое кухонное полотенце. Лишним оно точно не будет.
 @towel_1_prefix=
 
 @towel_2_short=Полотенце 
 @towel_2_short_instrumental=
 @towel_2_short_accusative=полотенце
 @towel_2_short_dative=полотенцу
-@towel_2_long=Старое полотенце для ванной комнаты. Такая вещь никогда не будет лишней.
+@towel_2_long=Старое полотенце для ванной комнаты. Лишним оно точно не будет.
 @towel_2_prefix=
 
 @chemsuit_dmg_dmg_short=Защитный костюм
