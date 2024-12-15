@@ -9,4 +9,4 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2653002210
 Авторы перевода:
 * Я (Artie Bow/JunkBeat)
 * CallMeMike
-* CallMeEntity
+* Humanoid Entity
